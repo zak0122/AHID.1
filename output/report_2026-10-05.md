@@ -288,4 +288,41 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Association of fragmented QRS complex with mortality and clinical outcomes in patients with pulmonary embolism: an updated meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760070/
 - **Acceptability of capillary point-of-care testing: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42744378/
 
-No new RCT-type articles found today.
+
+1 new RCT-type article(s) found.
+
+## Herpes Zoster as a Trigger of Cardiovascular Events: A Systematic Review of Epidemiological Evidence and Pathophysiological Mechanisms.
+**Journal:** American Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42830142/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with Herpes Zoster (HZ) or Herpes Zoster Ophthalmicus (HZO)
+- Intervention: Herpes Zoster infection (acute phase)
+- Comparator: No Herpes Zoster infection or baseline pre-infection period (in self-controlled studies)
+- Outcome: Stroke, myocardial infarction, and peripheral arterial disease
+- Study design: Systematic review of observational studies (cohort, case-control, self-controlled case-series, and case-crossover)
+- Notes: The abstract explicitly states that evidence for stroke is consistent, whereas evidence for myocardial infarction and peripheral arterial disease is only 'suggestive' and 'less robust'.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with Varicella-Zoster Virus reactivation
+- Intervention: Herpes Zoster (any clinical manifestation)
+- Outcome: Acute cardiovascular and cerebrovascular events (Major Adverse Cardiovascular Events)
+- Why widened: Specific vascular outcomes (stroke, MI, PAD) were broadened to the general category of acute vascular events/MACE to capture the full spectrum of cardiovascular risk associated with the viral trigger, which is common in meta-analyses of infectious triggers.
+
+**Signal:** WORTH A CLOSER LOOK: ~189 on the narrow PICO, ~1027 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~189
+- Broadened PICO pool: ~1027
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+Herpes+Zoster+%28HZ%29+or+Herpes+Zoster+Ophthalmicus+%28HZO%29+Herpes+Zoster+infection+%28acute+phase%29+Stroke%2C+myocardial+infarction%2C+and+peripheral+arterial+disease
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+Herpes+Zoster+%28HZ%29+or+Herpes+Zoster+Ophthalmicus+%28HZO%29+Herpes+Zoster+infection+%28acute+phase%29+Stroke%2C+myocardial+infarction%2C+and+peripheral+arterial+disease+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Herpes+Zoster%22%5BMeSH%5D+OR+%22Herpes+Zoster+Ophthalmicus%22%5BMeSH%5D%29+AND+%28%22Stroke%22%5BMeSH%5D+OR+%22Myocardial+Infarction%22%5BMeSH%5D+OR+%22Peripheral+Arterial+Disease%22%5BMeSH%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Herpes+Zoster%22%5BMeSH%5D+OR+%22Herpesvirus+3%2C+Human%22%5BMeSH%5D%29+AND+%28%22Cardiovascular+Diseases%22%5BMeSH%5D+OR+%22Cerebrovascular+Disorders%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
