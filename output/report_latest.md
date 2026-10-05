@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-10-04
+# Journal Watch Report -- 2026-10-05
 
 ## 🕐 194 ahead-of-print item(s) (not yet in PubMed)
 
@@ -200,7 +200,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Colon and Rectal Injuries From Blunt and Penetrating Trauma** -- JAMA Surgery, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854517
 
 
-## ⚠ 89 new systematic review/meta-analysis published in your journals
+## ⚠ 83 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -275,11 +275,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Artificial intelligence in personalized computed tomography dose optimization: a systematic review of techniques and clinical outcomes.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755520/
 - **Effects of Wuqinxi on blood pressure and lipids in hypertensive middle-aged and elderly adults: a meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42745893/
 - **Assessment tools for patients with stroke-related sarcopenia: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42741000/
-- **Comparative efficacy of digital health interventions and traditional mind-body exercises for pulmonary rehabilitation in chronic obstructive pulmonary disease: a systematic review and network meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42730238/
-- **Comparative efficacy of different durations and dosages of vonoprazan and amoxicillin dual therapy: a network meta-analysis of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42729761/
-- **Communication and medical errors: a bibliometric analysis of research trends and knowledge structures.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42729275/
-- **Evidence integration and bridging methodologies for high-risk and innovative medical devices and ** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42729205/
-- **The application of artificial intelligence in systemic lupus erythematosus: a bibliometric analysis of current trends and future directions.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42729127/
 - **Insights into the relationship between menopausal timing and risk of cardiovascular disease: a systematic review and meta-analysis of Mendelian randomization analyses.** -- Systematic Reviews, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42736567/
 - **Association between personal birth companion and maternal mental health in low- and middle-income countries: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42816075/
 - **Sarcopenia in Indian adults with type 2 diabetes: a systematic review and meta-analysis of prevalence and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42810793/
@@ -292,6 +287,5 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Effectiveness and safety of electroacupuncture combined with conventional therapy for peripheral facial palsy: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760088/
 - **Association of fragmented QRS complex with mortality and clinical outcomes in patients with pulmonary embolism: an updated meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760070/
 - **Acceptability of capillary point-of-care testing: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42744378/
-- **Low-carbohydrate diet score subtypes and all-cause mortality in general and chronic disease populations: a systematic review and meta-analysis of prospective cohort studies.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42731843/
 
 No new RCT-type articles found today.
