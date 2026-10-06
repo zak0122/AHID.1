@@ -210,7 +210,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Colon and Rectal Injuries From Blunt and Penetrating Trauma** -- JAMA Surgery, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854517
 
 
-## ⚠ 88 new systematic review/meta-analysis published in your journals
+## ⚠ 89 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -253,6 +253,7 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Parenthood and care in academia: Publication counts, self-assessed productivity, and gendered differences.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748093/
 - **Comprehensive application of artificial intelligence in preserved ratio impaired spirometry: A systematic literature review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748063/
 - **The effect of antiretroviral therapy adherence on viral load suppression rate among people living with HIV in Ethiopia: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42743184/
+- **Prognostic value of the prognostic nutritional index in sepsis, pneumonia, and tuberculosis: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42834912/
 - **Application of type 2 inflammation-related biomarkers in risk prediction models for acute exacerbations in adult asthma: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42827866/
 - **Sacituzumab govitecan in metastatic breast cancer: a systematic review and meta-analysis of its clinical benefit and safety.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42827466/
 - **Predictive biomarkers of biologic therapy response in chronic rhinosinusitis with nasal polyps: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42825053/
@@ -304,157 +305,94 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Acceptability of capillary point-of-care testing: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42744378/
 
 
-14 new RCT-type article(s) found.
+7 new RCT-type article(s) found.
 
-## Notice of Retraction and Republication: The Effect of Fluvoxamine and Metformin for Fatigue in Patients With Long COVID: An Adaptive Randomized Trial.
-**Journal:** Annals of Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42832813/  
+## Opportunistic Diagnosis of Osteoporosis through CT Pulmonary Angiography for Suspected Pulmonary Embolism.
+**Journal:** QJM: An International Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834456/  
 **Published:** Oct 2026
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Effect of Fluvoxamine and Metformin for Fatigue in Patients With Long COVID : An Adaptive Randomized Trial.
-**Journal:** Annals of Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42832803/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini request failed: ReadTimeout_
-
----
-
-## Pharmacologic Treatments for Female Menopausal Vasomotor Symptoms: A Systematic Review and Meta-analysis for the American College of Physicians.
-**Journal:** Annals of Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42832800/  
+## Enhanced occupational noise exposure and reduced telomere length with enhanced risk of heart disease: evidence from two populations.
+**Journal:** QJM: An International Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834444/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Perimenopausal and postmenopausal females with vasomotor symptoms (VMS)
-- Intervention: Pharmacologic treatments (including estrogens with or without progestogens, conjugated estrogen with bazedoxifene, neurokinin receptor antagonists, SNRIs, SSRIs, gabapentin, and oxybutynin)
-- Comparator: Placebo
-- Outcome: VMS frequency, VMS severity, menopause-related quality of life (QoL), sleep quality, endometrial hyperplasia or cancer, and serious adverse events (SAEs)
-- Study design: Randomized trials of at least 8 weeks' duration
-- Notes: The abstract is a summary of a systematic review covering multiple drug classes; specific comparisons between active agents are noted as limited.
+- Population: Chinese workers and UK Biobank participants
+- Intervention: Occupational noise exposure (measured as cumulative noise exposure)
+- Comparator: Lower levels of occupational noise exposure
+- Outcome: Atherogenic index of plasma (AIP), non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio (NHHR), and leukocyte telomere length (LTL)
+- Study design: Cross-sectional study
+- Notes: The comparator is not explicitly defined as a specific control group but is treated as a continuous or categorical variable in regression models.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Females experiencing menopausal symptoms
-- Intervention: Pharmacotherapy for menopause
-- Outcome: Clinical efficacy (symptom relief and quality of life) and safety
-- Why widened: Broadened the population from specific vasomotor symptoms to general menopausal symptoms; grouped specific drug classes into general pharmacotherapy; and aggregated specific symptom/safety metrics into broad efficacy and safety categories to capture a wider range of menopausal management studies.
+- Population: Adult workers
+- Intervention: Occupational noise exposure
+- Outcome: Lipid-based cardiovascular risk markers and biological aging markers (telomere length)
+- Why widened: Broadened specific lipid ratios (AIP, NHHR) to general cardiovascular lipid markers and generalized the specific study cohorts to the broader category of adult workers to allow for meta-analysis across different industries and regions.
 
-**Signal:** CHECK OVERLAP: 112 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~300 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~118
-- Broadened PICO pool: ~2089
-- Existing reviews found: 112
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~300
+- Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Perimenopausal+and+postmenopausal+females+with+vasomotor+symptoms+%28VMS%29+Pharmacologic+treatments+%28including+estrogens+with+or+without+progestogens%2C+conjugated+estrogen+with+bazedoxifene%2C+neurokinin+receptor+antagonists%2C+SNRIs%2C+SSRIs%2C+gabapentin%2C+and+oxybutynin%29+VMS+frequency%2C+VMS+severity%2C+menopause-related+quality+of+life+%28QoL%29%2C+sleep+quality%2C+endometrial+hyperplasia+or+cancer%2C+and+serious+adverse+events+%28SAEs%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Perimenopausal+and+postmenopausal+females+with+vasomotor+symptoms+%28VMS%29+Pharmacologic+treatments+%28including+estrogens+with+or+without+progestogens%2C+conjugated+estrogen+with+bazedoxifene%2C+neurokinin+receptor+antagonists%2C+SNRIs%2C+SSRIs%2C+gabapentin%2C+and+oxybutynin%29+VMS+frequency%2C+VMS+severity%2C+menopause-related+quality+of+life+%28QoL%29%2C+sleep+quality%2C+endometrial+hyperplasia+or+cancer%2C+and+serious+adverse+events+%28SAEs%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Vasomotor+Symptoms%22%5BMeSH%5D+OR+%22Hot+Flashes%22%5BMeSH%5D%29+AND+%28%22Estrogens%22%5BMeSH%5D+OR+%22Serotonin+Uptake+Inhibitors%22%5BMeSH%5D+OR+%22Neurokinin+NK1+Receptor+Antagonists%22%5BMeSH%5D+OR+%22Gabapentin%22%5BMeSH%5D+OR+%22Oxybutynin%22%5BMeSH%5D%29+AND+%22Randomized+Controlled+Trial%22%5BPT%5D
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Menopause%22%5BMeSH%5D+OR+%22Postmenopause%22%5BMeSH%5D%29+AND+%22Drug+Therapy%22%5BMeSH%5D+AND+%22Treatment+Outcome%22%5BMeSH%5D
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Chinese+workers+and+UK+Biobank+participants+Occupational+noise+exposure+%28measured+as+cumulative+noise+exposure%29+Atherogenic+index+of+plasma+%28AIP%29%2C+non-high-density+lipoprotein+cholesterol+to+high-density+lipoprotein+cholesterol+ratio+%28NHHR%29%2C+and+leukocyte+telomere+length+%28LTL%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Chinese+workers+and+UK+Biobank+participants+Occupational+noise+exposure+%28measured+as+cumulative+noise+exposure%29+Atherogenic+index+of+plasma+%28AIP%29%2C+non-high-density+lipoprotein+cholesterol+to+high-density+lipoprotein+cholesterol+ratio+%28NHHR%29%2C+and+leukocyte+telomere+length+%28LTL%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22occupational+noise%22%29+AND+%28%22atherogenic+index+of+plasma%22+OR+%22NHHR%22+OR+%22leukocyte+telomere+length%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Noise%2C+Occupational%22%5BMeSH%5D%29+AND+%28%22Lipids%22%5BMeSH%5D+OR+%22Telomere+Shortening%22%5BMeSH%5D+OR+%22Cardiovascular+Diseases%22%5BMeSH%5D%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Trends in risk of subsequent fracture and post-fracture treatment among post-menopausal US women.
-**Journal:** American Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833434/  
+## Social Needs Screening and Subsequent Acute Care Utilization in a Large Safety-Net Health System: A Retrospective Cohort Study.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834285/  
 **Published:** Oct 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Cardiac Deceleration Capacity Refines Sudden Cardiac Death Risk Stratification in Patients with Hypertrophic Cardiomyopathy for Primary Prevention.
-**Journal:** American Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833433/  
+## Videographic Analysis of an Intervention to Improve Patient-Centered Care for People Living with Type 2 Diabetes: The QBSAFE Randomized Trial.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834283/  
 **Published:** Oct 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Follow-up colonoscopy after abnormal stool-based colorectal cancer screening: a systematic review of completion, timeliness and implementation strategies.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833723/  
+## Mental Health Care Use Among Resident Physicians Compared with the General Population.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834282/  
 **Published:** Oct 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Music-STAR trial: study protocol for a randomised controlled trial to assess the impact of live and recorded music-based interventions on preoperative stress, mood, pain and biomarkers in neurosurgical patients.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833720/  
-**Published:** Oct 2026
+## Depression and medication adherence among chronic hepatitis B patients receiving resilience-based care versus standard care during antiviral therapy: a retrospective cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834913/  
+**Published:** 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Epidemiology, exposure patterns and survival of malignant mesothelioma in Apulia, Italy (1993-2025): a population-based retrospective registry study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833719/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## PHOENIX: a study protocol for a pilot randomised controlled trial of pre-emptive pharmacogenomic panel testing in acute care settings with health economic evaluations.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833716/  
+## Biventricular vs conduction system pacing after atrioventricular node ablation for heart failure with atrial fibrillation: the CONDUCT-AF trial.
+**Journal:** European Heart Journal  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834810/  
 **Published:** Oct 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Efficacy and safety of erythrocytapheresis in chronic mountain sickness: a randomised controlled trial protocol (ESCAPE-CMS).
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833714/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Association between cortisol levels and psychosis in at-risk and diagnosed individuals: protocol for a systematic review.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833712/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Home-based neuro-cardiac rehabilitation in congenital heart disease: the QUALINEURO-REHAB trial study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833711/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Diagnostic concordance of CXCR4-PET/CT and adrenal vein sampling in subtyping primary aldosteronism and its guiding value for percutaneous adrenal artery embolisation: a prospective diagnostic test accuracy study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833710/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Cost-effectiveness of differentiated HIV service delivery in North Wollo, Ethiopia: a retrospective study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42833707/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
