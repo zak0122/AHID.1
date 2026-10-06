@@ -70,26 +70,26 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Fasting Duration and Laboratory Test Results** -- JAMA Internal Medicine, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854601
 - **Policy and Design Considerations for Most-Favored-Nation Drug Pricing** -- JAMA Internal Medicine, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854600
 - **Women, Medicine, and AI** -- JAMA Internal Medicine, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854599
+- **Metastasis-directed radiotherapy (MDRT) for men with de novo, oligometastatic prostate cancer treated with long-term androgen deprivation therapy in the STAMPEDE trial (METANOVA): protocol for a multicentre, phase II randomised controlled trial in the USA** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e116331?rss=1
+- **Satisfaction regarding shared decision-making for operative and non-operative hip fracture treatment in frail older adults from a proxy-perspective: a mixed methods study** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e117789?rss=1
+- **Trends in health workforce and spending growth in four countries, 2000-2023: a longitudinal analysis** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118147?rss=1
+- **Patients experiences of and adherence to supervised high-intensity physical training integrated into specialised treatment for substance use disorders: study protocol for a qualitative collaborative health services study of facilitators and barriers** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119072?rss=1
+- **Healthcare professionals experiences of providing care for patients with Graves disease: a qualitative interview study in Swedish secondary care** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119495?rss=1
+- **Paediatric fracture complications following traditional bone setting in low- and middle-income countries: a systematic review and meta-analysis protocol** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120252?rss=1
+- **Digital health literacy, proactive health behaviours, the digital healthcare environment and health-related quality of life among older adults with type 2 diabetes in Chinese primary care: a cross-sectional study** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120615?rss=1
+- **Effects of ultra-processed food reduction intervention on postprandial glucose and glycaemic variability in Korean young adults: study protocol for the ULTRA-CGM randomised controlled trial** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120830?rss=1
+- **'Its everybodys business: a multi-method study to co-develop and evaluate a web-based interprofessional Sexual Function Intimacy Concerns after Cancer educational programme (SexFICC) to upskill cancer healthcare providers** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121117?rss=1
+- **Prevalence, risk factors and renoprotective treatment of chronic kidney disease among internal medicine outpatients at a Central European tertiary care centre: a cross-sectional study** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121190?rss=1
+- **#aware.hiv Europe study: protocol for a stepped-wedge cluster randomised trial of a multimodal hospital-based implementation strategy targeting HIV indicator-condition-guided testing in European hospitals** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121377?rss=1
+- **Stressful and potentially traumatic life events and satisfaction with life among Norwegian adults: cross-sectional results from the seventh survey of the Tromso study** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121585?rss=1
+- **Integration of community health workers (CHWs) and lay/peer workers in universal healthcare systems: a scoping review of high-income countries using the Levesque conceptual framework of access to healthcare** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122444?rss=1
+- **Does omission of a loose seton before sphincter-preserving surgery achieve non-inferior fistula closure compared with routine loose seton placement in adults with single-tract cryptoglandular anal fistula in the Netherlands? Study protocol for the SETON multicentre randomised controlled non-inferiority trial and cost-utility analysis** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122832?rss=1
+- **Virtual reality-based balance training for motor function recovery after anterior talofibular ligament repair: a randomised controlled trial protocol** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123547?rss=1
+- **Investigating the effects of intrathecal baclofen and ventral-dorsal rhizotomy on dystonia in children with cerebral palsy (PREDICT-Dystonia): protocol for a prospective observational clinical trial** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123926?rss=1
+- **Real-world data-enabled, 2-randomisation, adaptive trial to determine the clinical efficacy and safety of widely used enteral feeds in preterm babies: the COLLABORATE trial - protocol** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e125163?rss=1
+- **Prevalence and associated factors of chronic kidney disease among hypertensive patients attending cardiac clinic at a tertiary hospital in Tanzania: a hospital-based cross-sectional study** -- BMJ Open, 2026-10-06T04:59:03-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e125419?rss=1
 - **Clinician stakeholder priorities for improving the management of non-traumatic wrist disorders in the UK: a nominal group technique study** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118301?rss=1
 - **Latent profile analysis of health-related quality of life among patients with chronic kidney disease in Bangladesh: a cross-sectional study** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120036?rss=1
-- **Epidemiology, exposure patterns and survival of malignant mesothelioma in Apulia, Italy (1993-2025): a population-based retrospective registry study** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120874?rss=1
-- **Association between cortisol levels and psychosis in at-risk and diagnosed individuals: protocol for a systematic review** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120909?rss=1
-- **Cost-effectiveness of differentiated HIV service delivery in North Wollo, Ethiopia: a retrospective study** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120948?rss=1
-- **Home-based neuro-cardiac rehabilitation in congenital heart disease: the QUALINEURO-REHAB trial study protocol** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120953?rss=1
-- **Efficacy and safety of erythrocytapheresis in chronic mountain sickness: a randomised controlled trial protocol (ESCAPE-CMS)** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121061?rss=1
-- **"Its not necessarily science based": understanding organ utilisation decision-making in cardiothoracic transplantation in the UK through qualitative interviews** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121139?rss=1
-- **PHOENIX: a study protocol for a pilot randomised controlled trial of pre-emptive pharmacogenomic panel testing in acute care settings with health economic evaluations** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121606?rss=1
-- **Carbon footprint of clinical research: a systematic review and quantitative synthesis of estimates, sources of variation and emission hotspots** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122205?rss=1
-- **Optimising summary infographics for clinical practice guidelines on child health: qualitative user testing study with healthcare workers in Malawi, Nigeria and South Africa** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122446?rss=1
-- **Perceived factors shaping preoperative self-preparation among older patients undergoing total knee arthroplasty: a qualitative study** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122819?rss=1
-- **Methodologies used in the development of the international classification of functioning, disability and health core sets: a systematic scoping review** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123955?rss=1
-- **Psychosocial interventions for military personnel with PTSD: protocol of a systematic review and network meta-analysis** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e124637?rss=1
-- **Diagnostic concordance of CXCR4-PET/CT and adrenal vein sampling in subtyping primary aldosteronism and its guiding value for percutaneous adrenal artery embolisation: a prospective diagnostic test accuracy study protocol** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e124662?rss=1
-- **Womens experiences of physiotherapy for pregnancy-related pelvic girdle pain in primary care: a qualitative study at four months postpartum** -- BMJ Open, 2026-10-05T05:12:56-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e125092?rss=1
-- **Introducing the Moyo device for intrapartum fetal heart rate monitoring among women with high-risk pregnancies in a low-resource setting: a quasi-experimental study** -- BMJ Open, 2026-10-05T05:12:55-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e099069?rss=1
-- **Determinants and impact of joint decision-making on contraceptive use among women in union in Nairobis urban informal settlements: a repeated cross-sectional analysis and agent-based microsimulation using the Nairobi Urban Health and Demographic Surveillance System** -- BMJ Open, 2026-10-05T05:12:55-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e110099?rss=1
-- **Prevalence, risk factors and comorbidities of overweight and obesity among adults in Qatar: a cross-sectional analysis of the 2023 Stepwise Survey** -- BMJ Open, 2026-10-05T05:12:55-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e110307?rss=1
-- **Music-STAR trial: study protocol for a randomised controlled trial to assess the impact of live and recorded music-based interventions on preoperative stress, mood, pain and biomarkers in neurosurgical patients** -- BMJ Open, 2026-10-05T05:12:55-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e110925?rss=1
 - **A Polypill Strategy to Close the Heart Failure Treatment Gap** -- JAMA Cardiology, Wed, 30 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854829
 - **A Recipe for Estimating the Global Burden of Heart Failure** -- JAMA Cardiology, Wed, 30 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854828
 - **Right Atrial Ectopic Hepatic Tissue at the Caval Inflow** -- JAMA Cardiology, Wed, 30 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854827
@@ -210,7 +210,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Colon and Rectal Injuries From Blunt and Penetrating Trauma** -- JAMA Surgery, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854517
 
 
-## ⚠ 89 new systematic review/meta-analysis published in your journals
+## ⚠ 92 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -253,6 +253,9 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Parenthood and care in academia: Publication counts, self-assessed productivity, and gendered differences.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748093/
 - **Comprehensive application of artificial intelligence in preserved ratio impaired spirometry: A systematic literature review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748063/
 - **The effect of antiretroviral therapy adherence on viral load suppression rate among people living with HIV in Ethiopia: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42743184/
+- **Ketamine use in the refractory and super refractory status epilepticus: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42835272/
+- **Efficacy and safety of early mobilization in patients with ARDS: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42835185/
+- **Comparison of propofol fentanyl versus propofol ketamine for painless gastrointestinal endoscopy: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42835036/
 - **Prognostic value of the prognostic nutritional index in sepsis, pneumonia, and tuberculosis: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42834912/
 - **Application of type 2 inflammation-related biomarkers in risk prediction models for acute exacerbations in adult asthma: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42827866/
 - **Sacituzumab govitecan in metastatic breast cancer: a systematic review and meta-analysis of its clinical benefit and safety.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42827466/
@@ -305,94 +308,148 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Acceptability of capillary point-of-care testing: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42744378/
 
 
-7 new RCT-type article(s) found.
+16 new RCT-type article(s) found.
 
-## Opportunistic Diagnosis of Osteoporosis through CT Pulmonary Angiography for Suspected Pulmonary Embolism.
-**Journal:** QJM: An International Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834456/  
+## National Football League Hand Injuries: Return to Sport and Performance.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836229/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Higher Loading Dose of Colistin for the Treatment of Ventilator-Associated Pneumonia in Critically Ill Children: A Retrospective Comparative Study at Queen Rania Abdullah Hospital for Children.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836204/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## HbA1C Variability as an Independent Predictor of Diabetic Retinopathy: A 10-Year Retrospective Nested Case-Control Study in a Middle Eastern Population.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836186/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Real-World Effectiveness, Safety, and Tolerability of Adjuvant CDK4/6 Inhibitor Therapy.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836156/  
 **Published:** Oct 2026
 
 _PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Enhanced occupational noise exposure and reduced telomere length with enhanced risk of heart disease: evidence from two populations.
-**Journal:** QJM: An International Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834444/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Chinese workers and UK Biobank participants
-- Intervention: Occupational noise exposure (measured as cumulative noise exposure)
-- Comparator: Lower levels of occupational noise exposure
-- Outcome: Atherogenic index of plasma (AIP), non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio (NHHR), and leukocyte telomere length (LTL)
-- Study design: Cross-sectional study
-- Notes: The comparator is not explicitly defined as a specific control group but is treated as a continuous or categorical variable in regression models.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adult workers
-- Intervention: Occupational noise exposure
-- Outcome: Lipid-based cardiovascular risk markers and biological aging markers (telomere length)
-- Why widened: Broadened specific lipid ratios (AIP, NHHR) to general cardiovascular lipid markers and generalized the specific study cohorts to the broader category of adult workers to allow for meta-analysis across different industries and regions.
-
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~300 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~300
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Chinese+workers+and+UK+Biobank+participants+Occupational+noise+exposure+%28measured+as+cumulative+noise+exposure%29+Atherogenic+index+of+plasma+%28AIP%29%2C+non-high-density+lipoprotein+cholesterol+to+high-density+lipoprotein+cholesterol+ratio+%28NHHR%29%2C+and+leukocyte+telomere+length+%28LTL%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Chinese+workers+and+UK+Biobank+participants+Occupational+noise+exposure+%28measured+as+cumulative+noise+exposure%29+Atherogenic+index+of+plasma+%28AIP%29%2C+non-high-density+lipoprotein+cholesterol+to+high-density+lipoprotein+cholesterol+ratio+%28NHHR%29%2C+and+leukocyte+telomere+length+%28LTL%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22occupational+noise%22%29+AND+%28%22atherogenic+index+of+plasma%22+OR+%22NHHR%22+OR+%22leukocyte+telomere+length%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Noise%2C+Occupational%22%5BMeSH%5D%29+AND+%28%22Lipids%22%5BMeSH%5D+OR+%22Telomere+Shortening%22%5BMeSH%5D+OR+%22Cardiovascular+Diseases%22%5BMeSH%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Social Needs Screening and Subsequent Acute Care Utilization in a Large Safety-Net Health System: A Retrospective Cohort Study.
-**Journal:** Journal of General Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834285/  
-**Published:** Oct 2026
+## Reintubation in the ICU: A Prospective Observational Study of Its Impact on Recovery Outcomes and Mortality.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836021/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Videographic Analysis of an Intervention to Improve Patient-Centered Care for People Living with Type 2 Diabetes: The QBSAFE Randomized Trial.
-**Journal:** Journal of General Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834283/  
-**Published:** Oct 2026
+## Factors Associated With 30-Day Functional Outcome and Mortality Following Spontaneous Intracerebral Hemorrhage in Bangladesh: A Prospective Two-Center Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835817/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Mental Health Care Use Among Resident Physicians Compared with the General Population.
-**Journal:** Journal of General Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834282/  
-**Published:** Oct 2026
+## From Fecal Microbial Potential to Circulating Trimethylamine N-oxide and Cardiovascular Events: A Narrative Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835796/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Depression and medication adherence among chronic hepatitis B patients receiving resilience-based care versus standard care during antiviral therapy: a retrospective cohort study.
+## Association of Age and Spherical Equivalent With Differences in Cycloplegic Refractive Effects Between Cyclopentolate and Atropine.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835265/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Efficacy and exploratory treatment-response modeling of acupuncture for acute migraine based on DIA proteomics: a study protocol for a randomized controlled trial.
 **Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834913/  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835681/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Early systemic heparin exposure is associated with lower mortality, reduced disseminated intravascular coagulation, and fewer thrombotic complications in septic shock.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835425/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Efficacy and safety of early mobilization in patients with ARDS: a systematic review and meta-analysis.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835185/  
 **Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Biventricular vs conduction system pacing after atrioventricular node ablation for heart failure with atrial fibrillation: the CONDUCT-AF trial.
-**Journal:** European Heart Journal  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834810/  
+## A modified minimally invasive technique for pelvic organ prolapse: transvaginal extraperitoneal single-port lateral suspension.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835175/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Clinical outcomes of individualized surgical pathways in elderly patients with spinal tuberculosis: a retrospective cohort study in eastern China.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835170/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Factors associated with 
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834969/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Lipid Burden and Efficacy of Preventive PCI of Vulnerable Atherosclerotic Coronary Plaques: Post Hoc Analysis From the PREVENT Trial.
+**Journal:** Circulation  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836296/  
 **Published:** Oct 2026
 
 _PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Incidence, Process of Care, and Outcomes of In-Hospital Cardiac Arrest in China: A Multicenter Prospective Registry Study.
+**Journal:** Circulation  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836281/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
