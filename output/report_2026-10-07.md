@@ -306,199 +306,226 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 
 13 new RCT-type article(s) found.
 
-## Empirical transition probability modeling of continuous glucose monitoring data.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837410/  
-**Published:** 2026
+## External validation of the SHARPEN score for predicting in-hospital mortality in infective endocarditis.
+**Journal:** European Journal of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838762/  
+**Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: 244 participants (adults and children) enrolled in the Insulin-Only Bionic Pancreas (IOBP2) randomized clinical trial
-- Intervention: Insulin-Only Bionic Pancreas (IOBP2)
-- Comparator: Control group
-- Outcome: Glucose dynamics characterized by empirical transition probability matrices (specifically moves from hyperglycemia to in-range states) compared to standard CGM metrics (mean glucose, TIR, GRI, etc.)
-- Study design: Secondary analysis of a randomized clinical trial
-- Notes: The abstract describes a methodological application to trial data; while the trial is IOBP2, the specific diabetes type (Type 1) is not explicitly stated in the text, though it is the standard population for bionic pancreas trials.
+- Population: Adults with definite infective endocarditis hospitalized at a tertiary center
+- Intervention: SHARPEN score
+- Comparator: Sequential Organ Failure Assessment (SOFA) score
+- Outcome: All-cause in-hospital mortality
+- Study design: Retrospective cohort study (external validation)
+- Notes: The comparison with the SOFA score was exploratory and limited to a subset of the total cohort (n=75).
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with diabetes using continuous glucose monitoring (CGM)
-- Intervention: Automated insulin delivery systems or bionic pancreas devices
-- Outcome: Dynamic glucose modeling or transition state analysis of CGM data
-- Why widened: Population widened from a specific trial cohort to the general clinical population using CGM. Intervention widened from a specific device to the broader class of automated insulin delivery. Outcome widened from specific 5x5 matrices to general transition-based glucose modeling.
+- Population: Adults with infective endocarditis
+- Intervention: Clinical risk prediction scores for infective endocarditis
+- Outcome: Short-term mortality (in-hospital or 30-day)
+- Why widened: Broadened the intervention from a single specific score (SHARPEN) to the class of clinical risk prediction tools to allow for comparative meta-analysis. Broadened the outcome from in-hospital to short-term mortality to capture studies using 30-day mortality as a proxy for acute outcomes.
 
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~144 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~144
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=244+participants+%28adults+and+children%29+enrolled+in+the+Insulin-Only+Bionic+Pancreas+%28IOBP2%29+randomized+clinical+trial+Insulin-Only+Bionic+Pancreas+%28IOBP2%29+Glucose+dynamics+characterized+by+empirical+transition+probability+matrices+%28specifically+moves+from+hyperglycemia+to+in-range+states%29+compared+to+standard+CGM+metrics+%28mean+glucose%2C+TIR%2C+GRI%2C+etc.%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=244+participants+%28adults+and+children%29+enrolled+in+the+Insulin-Only+Bionic+Pancreas+%28IOBP2%29+randomized+clinical+trial+Insulin-Only+Bionic+Pancreas+%28IOBP2%29+Glucose+dynamics+characterized+by+empirical+transition+probability+matrices+%28specifically+moves+from+hyperglycemia+to+in-range+states%29+compared+to+standard+CGM+metrics+%28mean+glucose%2C+TIR%2C+GRI%2C+etc.%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22IOBP2%22+OR+%22Insulin-Only+Bionic+Pancreas%22%29+AND+%22transition+probability%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Blood+Glucose+Self-Monitoring%22%5BMeSH%5D+OR+%22Continuous+Glucose+Monitoring%22%29+AND+%28%22transition+probability%22+OR+%22Markov+chain%22+OR+%22glucose+dynamics%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Dynamic gait phase alterations and spatiotemporal stance characteristics in bilateral pes cavus: A case-control study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837392/  
-**Published:** 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Individuals with bilateral pes cavus
-- Intervention: Bilateral pes cavus (exposure)
-- Comparator: Healthy individuals with normal bilateral foot posture
-- Outcome: Spatiotemporal gait variables during stance phase, specifically duration and percentage of Initial Contact Phase (ICP), Flatfoot Phase (FFP), and Forefoot Contact Phase (FFCP)
-- Study design: Observational case-control study
-- Notes: The 'intervention' is a structural foot deformity (exposure) rather than a clinical treatment. The study specifically focuses on bilateral cases.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Individuals with pes cavus (high-arched feet)
-- Intervention: Pes cavus deformity
-- Outcome: Gait analysis and biomechanical foot parameters
-- Why widened: Broadened 'bilateral pes cavus' to 'pes cavus' generally to include unilateral presentations. Broadened specific stance phase sub-components to general gait analysis and biomechanics to allow for pooling with studies using different kinetic or kinematic measurement systems.
-
-**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~34 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~211 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
 - Narrow PICO pool: ~0
-- Broadened PICO pool: ~34
+- Broadened PICO pool: ~211
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Individuals+with+bilateral+pes+cavus+Bilateral+pes+cavus+%28exposure%29+Spatiotemporal+gait+variables+during+stance+phase%2C+specifically+duration+and+percentage+of+Initial+Contact+Phase+%28ICP%29%2C+Flatfoot+Phase+%28FFP%29%2C+and+Forefoot+Contact+Phase+%28FFCP%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Individuals+with+bilateral+pes+cavus+Bilateral+pes+cavus+%28exposure%29+Spatiotemporal+gait+variables+during+stance+phase%2C+specifically+duration+and+percentage+of+Initial+Contact+Phase+%28ICP%29%2C+Flatfoot+Phase+%28FFP%29%2C+and+Forefoot+Contact+Phase+%28FFCP%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22pes+cavus%22%5BMeSH+Terms%5D+OR+%22pes+cavus%22%5BAll+Fields%5D%29+AND+%22baropodometry%22%5BAll+Fields%5D+AND+%22gait+analysis%22%5BMeSH+Terms%5D
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22pes+cavus%22%5BMeSH+Terms%5D+OR+%22pes+cavus%22%5BAll+Fields%5D%29+AND+%28%22gait%22%5BMeSH+Terms%5D+OR+%22biomechanics%22%5BMeSH+Terms%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+definite+infective+endocarditis+hospitalized+at+a+tertiary+center+SHARPEN+score+All-cause+in-hospital+mortality
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+definite+infective+endocarditis+hospitalized+at+a+tertiary+center+SHARPEN+score+All-cause+in-hospital+mortality+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22SHARPEN+score%22%29+AND+%22Endocarditis%2C+Bacterial%22%5BMesh%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Risk+Assessment%22%5BMesh%5D+OR+%22Prognosis%22%5BMesh%5D%29+AND+%22Endocarditis%2C+Bacterial%22%5BMesh%5D+AND+%22Hospital+Mortality%22%5BMesh%5D
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Integrated multi-omic analysis characterizes an IFNγ-responsive-to-myeloid-suppressive immune continuum in immune-active hepatocellular carcinoma.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837372/  
-**Published:** 2026
+## Microplastics and Nanoplastics as a Novel Cardiovascular Risk Factor: A Narrative Review.
+**Journal:** American Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838186/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with cardiovascular conditions, specifically those with atherosclerotic plaques, myocardial infarction, stroke, or deep vein thrombosis.
+- Intervention: Presence of microplastics and nanoplastics (MNPs) in cardiovascular tissues (e.g., carotid plaques, thrombi) or peripheral blood.
+- Comparator: Absence of detectable microplastics and nanoplastics (MNPs) in cardiovascular tissues.
+- Outcome: Major adverse cardiovascular events (MACE), myocardial infarction, stroke, deep vein thrombosis, and cardiovascular mortality.
+- Study design: Narrative review (synthesizing prospective cohort and experimental evidence).
+- Notes: The abstract is a narrative review rather than a primary study; quantitative risk data is cited from a specific 2024 prospective cohort (Marfella et al.).
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: General human population or individuals with any form of cardiovascular or thromboembolic disease.
+- Intervention: Environmental exposure to or internal accumulation of microplastics and nanoplastics (MNPs).
+- Outcome: Total cardiovascular morbidity and mortality, including subclinical markers of vascular inflammation and fibrosis.
+- Why widened: Broadened specific clinical events (MACE, MI, stroke) to include general cardiovascular morbidity and subclinical markers (like fibrosis and inflammation) to capture the full toxicological scope described in the review.
+
+**Signal:** WORTH A CLOSER LOOK: ~21 on the narrow PICO, ~4988 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~21
+- Broadened PICO pool: ~4988
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+cardiovascular+conditions%2C+specifically+those+with+atherosclerotic+plaques%2C+myocardial+infarction%2C+stroke%2C+or+deep+vein+thrombosis.+Presence+of+microplastics+and+nanoplastics+%28MNPs%29+in+cardiovascular+tissues+%28e.g.%2C+carotid+plaques%2C+thrombi%29+or+peripheral+blood.+Major+adverse+cardiovascular+events+%28MACE%29%2C+myocardial+infarction%2C+stroke%2C+deep+vein+thrombosis%2C+and+cardiovascular+mortality.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+cardiovascular+conditions%2C+specifically+those+with+atherosclerotic+plaques%2C+myocardial+infarction%2C+stroke%2C+or+deep+vein+thrombosis.+Presence+of+microplastics+and+nanoplastics+%28MNPs%29+in+cardiovascular+tissues+%28e.g.%2C+carotid+plaques%2C+thrombi%29+or+peripheral+blood.+Major+adverse+cardiovascular+events+%28MACE%29%2C+myocardial+infarction%2C+stroke%2C+deep+vein+thrombosis%2C+and+cardiovascular+mortality.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Microplastics%22%5BMesh%5D+OR+%22Nanoplastics%22%29+AND+%28%22Cardiovascular+Diseases%22%5BMesh%5D%29+AND+%28%22Risk+Factors%22%5BMesh%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Plastics%22%5BMesh%5D+OR+%22Microplastics%22+OR+%22Nanoplastics%22%29+AND+%28%22Cardiovascular+Diseases%22%5BMesh%5D+OR+%22Heart+Diseases%22%5BMesh%5D+OR+%22Vascular+Diseases%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Effects of ultra-processed food reduction intervention on postprandial glucose and glycaemic variability in Korean young adults: study protocol for the ULTRA-CGM randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838587/  
+**Published:** Oct 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Predictors of the need for airway adjuncts during mask ventilation in Thai adult patients undergoing general anesthesia: A prospective observational study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837367/  
-**Published:** 2026
+## Prevalence, risk factors and renoprotective treatment of chronic kidney disease among internal medicine outpatients at a Central European tertiary care centre: a cross-sectional study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838586/  
+**Published:** Oct 2026
+
+_PICO draft failed: Could not parse Gemini output as JSON (output may be cut off)._
+
+---
+
+## Investigating the effects of intrathecal baclofen and ventral-dorsal rhizotomy on dystonia in children with cerebral palsy (PREDICT-Dystonia): protocol for a prospective observational clinical trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838585/  
+**Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Thai adults undergoing elective general anesthesia
-- Intervention: Preoperative airway assessment (specifically snoring/OSA, absence of ≥2 upper incisors, neck circumference ≥35 cm, and Mallampati class III-IV)
-- Comparator: unclear
-- Outcome: Need for airway adjuncts or optimization during mask ventilation (defined as Han grade ≥2)
-- Study design: Single-center prospective observational study
-- Notes: The study is a derivation study for a clinical prediction model; the 'intervention' here refers to the predictors being evaluated rather than a therapeutic action.
+- Population: Children with cerebral palsy and moderate-to-severe dystonia (Barry Albright Dystonia Scale score > 14)
+- Intervention: Intrathecal baclofen (ITB) or ventral-dorsal rhizotomy (VDR)
+- Comparator: Baseline (pre-intervention) status
+- Outcome: Change in Barry Albright Dystonia Scale (BADS) scores at 3, 6, and 12 months; secondary outcomes include spasticity, motor function, and quality of life
+- Study design: Prospective observational clinical trial
+- Notes: The abstract describes a protocol for an observational study where patients are assigned to interventions based on clinical need rather than randomization; the comparator is primarily the patient's own baseline.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults undergoing general anesthesia
-- Intervention: Preoperative airway assessment for difficult mask ventilation
-- Outcome: Difficult mask ventilation or need for airway adjuncts
-- Why widened: Broadened population from Thai/elective to all adults undergoing general anesthesia to capture generalizability. Broadened specific predictors and the specific Han grade cutoff to the general clinical problem of 'difficult mask ventilation' (DMV) to allow for pooling with other predictive model studies.
+- Population: Children and adolescents with cerebral palsy and dystonia
+- Intervention: Neurosurgical interventions for dystonia (including intrathecal pumps and rhizotomy)
+- Outcome: Clinical and functional outcomes of dystonia management (including motor function and quality of life)
+- Why widened: Widened the population to include all children/adolescents with CP-related dystonia regardless of the specific BADS score threshold. Grouped ITB and VDR under 'neurosurgical interventions' to capture similar invasive tone-management procedures. Generalized outcomes from the specific BADS scale to broader clinical and functional metrics to allow for pooling with studies using different assessment tools.
 
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~42 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~8 on the narrow PICO, ~51 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~8
+- Broadened PICO pool: ~51
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Children+with+cerebral+palsy+and+moderate-to-severe+dystonia+%28Barry+Albright+Dystonia+Scale+score+%3E+14%29+Intrathecal+baclofen+%28ITB%29+or+ventral-dorsal+rhizotomy+%28VDR%29+Change+in+Barry+Albright+Dystonia+Scale+%28BADS%29+scores+at+3%2C+6%2C+and+12+months%3B+secondary+outcomes+include+spasticity%2C+motor+function%2C+and+quality+of+life
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Children+with+cerebral+palsy+and+moderate-to-severe+dystonia+%28Barry+Albright+Dystonia+Scale+score+%3E+14%29+Intrathecal+baclofen+%28ITB%29+or+ventral-dorsal+rhizotomy+%28VDR%29+Change+in+Barry+Albright+Dystonia+Scale+%28BADS%29+scores+at+3%2C+6%2C+and+12+months%3B+secondary+outcomes+include+spasticity%2C+motor+function%2C+and+quality+of+life+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Cerebral+Palsy%22%5BMeSH%5D%29+AND+%22Dystonia%22+AND+%28%22Baclofen%22%5BMeSH%5D+OR+%22Rhizotomy%22%5BMeSH%5D%29+AND+%22Barry+Albright+Dystonia+Scale%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Cerebral+Palsy%22%5BMeSH%5D%29+AND+%22Dystonia%22%5BMeSH%5D+AND+%28%22Baclofen%22%5BMeSH%5D+OR+%22Rhizotomy%22%5BMeSH%5D+OR+%22Neurosurgical+Procedures%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Does omission of a loose seton before sphincter-preserving surgery achieve non-inferior fistula closure compared with routine loose seton placement in adults with single-tract cryptoglandular anal fistula in the Netherlands? 
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838583/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults with a single-tract non-purulent mid-high or high cryptoglandular anal fistula
+- Intervention: Direct sphincter-preserving surgery without prior loose seton placement
+- Comparator: Loose seton placement for 8 weeks followed by definitive sphincter-preserving surgery
+- Outcome: Fistula closure 26 weeks after final surgery
+- Study design: Multicentre, randomised, unblinded non-inferiority trial
+- Notes: The abstract is highly detailed; however, the specific types of sphincter-preserving surgeries (e.g., LIFT, mucosal advancement flap) are not specified, suggesting any such procedure is eligible.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with cryptoglandular anal fistula
+- Intervention: Sphincter-preserving surgery without preoperative seton
+- Outcome: Fistula healing and recurrence
+- Why widened: The population was broadened from specific single-tract/high-fistula criteria to all cryptoglandular fistulas to capture relevant surgical evidence across varying complexities. The outcome was broadened from a specific 26-week timepoint to general healing and recurrence to allow for meta-analysis of studies with different follow-up durations.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~357 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
 - Narrow PICO pool: ~1
-- Broadened PICO pool: ~42
+- Broadened PICO pool: ~357
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Thai+adults+undergoing+elective+general+anesthesia+Preoperative+airway+assessment+%28specifically+snoring%2FOSA%2C+absence+of+%E2%89%A52+upper+incisors%2C+neck+circumference+%E2%89%A535+cm%2C+and+Mallampati+class+III-IV%29+Need+for+airway+adjuncts+or+optimization+during+mask+ventilation+%28defined+as+Han+grade+%E2%89%A52%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Thai+adults+undergoing+elective+general+anesthesia+Preoperative+airway+assessment+%28specifically+snoring%2FOSA%2C+absence+of+%E2%89%A52+upper+incisors%2C+neck+circumference+%E2%89%A535+cm%2C+and+Mallampati+class+III-IV%29+Need+for+airway+adjuncts+or+optimization+during+mask+ventilation+%28defined+as+Han+grade+%E2%89%A52%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Thai%22%29+AND+%28%22mask+ventilation%22%29+AND+%28%22airway+adjuncts%22+OR+%22Han+grade%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22difficult+mask+ventilation%22%5BMeSH+Terms%5D+OR+%22difficult+mask+ventilation%22%29+AND+%28%22risk+factors%22%5BMeSH+Terms%5D+OR+%22predictive+value+of+tests%22%5BMeSH+Terms%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+a+single-tract+non-purulent+mid-high+or+high+cryptoglandular+anal+fistula+Direct+sphincter-preserving+surgery+without+prior+loose+seton+placement+Fistula+closure+26+weeks+after+final+surgery
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+a+single-tract+non-purulent+mid-high+or+high+cryptoglandular+anal+fistula+Direct+sphincter-preserving+surgery+without+prior+loose+seton+placement+Fistula+closure+26+weeks+after+final+surgery+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Rectal+Fistula%22%5BMeSH%5D+OR+%22fistula-in-ano%22%29+AND+%22seton%22+AND+%22sphincter-preserving%22+AND+%22randomized+controlled+trial%22%5BPT%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Rectal+Fistula%22%5BMeSH%5D+OR+%22fistula-in-ano%22%29+AND+%22seton%22+AND+%28%22surgery%22%5BMeSH%5D+OR+%22surgical%22%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Associations of sociodemographic, health, and work-related factors with early long-term economic inactivity in older workers: Findings from the Health and Employment After Fifty study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837365/  
-**Published:** 2026
+## Metastasis-directed radiotherapy (MDRT) for men with de novo, oligometastatic prostate cancer treated with long-term androgen deprivation therapy in the STAMPEDE trial (METANOVA): protocol for a multicentre, phase II randomised controlled trial in the USA.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838582/  
+**Published:** Oct 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Spatial organization of HPV-associated immune programs across tissue compartments in oropharyngeal cancer.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837361/  
-**Published:** 2026
+## Real-world data-enabled, 2-randomisation, adaptive trial to determine the clinical efficacy and safety of widely used enteral feeds in preterm babies: the COLLABORATE trial - protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838577/  
+**Published:** Oct 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Efficacy and safety of MEK inhibitors for NF1-associated symptomatic, inoperable plexiform neurofibromas: A systematic review and meta-analysis.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837360/  
-**Published:** 2026
+## Satisfaction regarding shared decision-making for operative and non-operative hip fracture treatment in frail older adults from a proxy-perspective: a mixed methods study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838576/  
+**Published:** Oct 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Exposure to residential greenness and subsequent risk of common mental disorders among individuals with COVID-19 in South Korea: A nationwide cohort study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837343/  
-**Published:** 2026
+## Virtual reality-based balance training for motor function recovery after anterior talofibular ligament repair: a randomised controlled trial protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838575/  
+**Published:** Oct 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Association between pre-stroke social participation and current physical resilience across frailty levels among middle-aged and older stroke survivors: A cross-sectional study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837339/  
-**Published:** 2026
+## #aware.hiv Europe study: protocol for a stepped-wedge cluster randomised trial of a multimodal hospital-based implementation strategy targeting HIV indicator-condition-guided testing in European hospitals.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838574/  
+**Published:** Oct 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Behavioural correlates of higher 12-month myopia progression in a high-risk vietnamese schoolchild cohort and the limits of cross-school prediction.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837338/  
-**Published:** 2026
+## Trends in health workforce and spending growth in four countries, 2000-2023: a longitudinal analysis.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838573/  
+**Published:** Oct 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Microbiological surveillance after automated reprocessing of gastrointestinal endoscopes in routine clinical practice: A prospective randomized microbiological surveillance study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837331/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Pneumonia incidence, hospitalizations and mortality before and during the COVID-19 pandemic in Peru: An observational study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837330/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Novel peritoneal catheters with silver particles lower rates of peritonitis in patients with cirrhosis and refractory ascites.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837327/  
-**Published:** 2026
+## Short-term risk prediction model for pancreatic cancer in type 2 diabetes: development and validation across two independent Chinese cohorts.
+**Journal:** Gut  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42838738/  
+**Published:** Oct 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
