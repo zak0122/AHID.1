@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-10-06
+# Journal Watch Report -- 2026-10-07
 
 ## 🕐 204 ahead-of-print item(s) (not yet in PubMed)
 
@@ -42,6 +42,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Addressing Cognitive Decline Among Aging Physicians** -- JAMA, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854951
 - **When Children Turn to AI Chatbots** -- JAMA, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854950
 - **Can a Ketogenic Diet Improve Liver Health?** -- JAMA, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854949
+- **ACP announces new MACPs and national award winners for 2026-2027** -- Annals of Internal Medicine, Tue, 06 Oct 2026 15:15:00 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20261006-acp-announces-new-macps-and-national-award
 - **ACP recommends hormonal therapy as a first-line treatment for menopausal vasomotor symptoms** -- Annals of Internal Medicine, Mon, 05 Oct 2026 17:00:00 -0400 -- https://www.acponline.org/acp-newsroom/acp-recommends-hormonal-therapy-as-a-first-line-treatment-for-menopausal-vasomotor-symptoms
 - **ACP testifies at House Committee hearing on medicare payment reform** -- Annals of Internal Medicine, Fri, 02 Oct 2026 12:15:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-testifies-at-house-committee-hearing-on-medicare-payment-reform
 - **Statement from leading physician organizations on the role of augmented intelligence in healthcare** -- Annals of Internal Medicine, Thu, 01 Oct 2026 09:15:49 -0400 -- https://www.acponline.org/acp-newsroom/statement-from-leading-physician-organizations-on-the-role-of-augmented-intelligence-in-healthcare
@@ -51,7 +52,6 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **ACP: New appointees to U.S. Preventive Services Task Force must operate in an evidence-based manner free from political interference** -- Annals of Internal Medicine, Fri, 18 Sep 2026 15:06:59 -0400 -- https://www.acponline.org/acp-newsroom/acp-new-appointees-to-us-preventive-services-task-force-must-operate-in-an-evidence-based-manner
 - **Proposed OMB changes to federal research grant process delayed** -- Annals of Internal Medicine, Fri, 18 Sep 2026 11:32:45 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/september-18-2026/proposed-omb-changes-to-federal-research-grant-process-delayed
 - **Vaccine resources available for the 2026-2027 respiratory season** -- Annals of Internal Medicine, Thu, 17 Sep 2026 14:00:00 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20260915-vaccine-resources-available-for-the-2026-2027
-- **National Physician Suicide Awareness Day is September 17** -- Annals of Internal Medicine, Tue, 15 Sep 2026 14:34:22 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20260915-national-physician-suicide-awareness-day-is
 - **From Positive FIT Result to Colonoscopy—Closing a Gap in Care** -- JAMA Internal Medicine, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854548
 - **Not All Immunosuppressive Agents Need to Be Interrupted During COVID-19 Vaccination** -- JAMA Internal Medicine, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854547
 - **Expiration of Pandemic Food Assistance and Food Insufficiency in Adults With Disabilities** -- JAMA Internal Medicine, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854546
@@ -177,13 +177,13 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Testosterone Inhibition and Risk of Laryngeal and Hypopharyngeal Squamous Cell Carcinoma in Men** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854686
 - **Ergonomics in Endoscopic Sinus and Skull Base Surgery** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854685
 - **Treating Hearing Loss and Improved Mild Cognitive Impairment** -- JAMA Otolaryngology-Head & Neck Surgery, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854441
+- **Device-Measured Cardiometabolic Risk Markers in Youth** -- JAMA Pediatrics, Tue, 06 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2854941
 - **Trump Accounts and the Risk of Widening Wealth Gaps From Birth** -- JAMA Pediatrics, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2854871
 - **Metabolic and Bariatric Surgery and GLP-1 Receptor Agonist Use Among Adolescents** -- JAMA Pediatrics, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2854870
 - **Indications for Sweat Testing in Cystic Fibrosis Newborn Screening** -- JAMA Pediatrics, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2854869
 - **Indications for Sweat Testing in Cystic Fibrosis Newborn Screening—Reply** -- JAMA Pediatrics, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2854868
 - **Pediatric Sepsis Early Detection in the Emergency Department** -- JAMA Pediatrics, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2854867
 - **E-Scooters, E-Bikes, Micromobility Devices, and the Injury Hazards to Youth** -- JAMA Pediatrics, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2854866
-- **Missed Child Communication Cues During Parent Technology Use and Child Language Development** -- JAMA Pediatrics, Sun, 04 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2854872
 - **Prior Evidence on Auditory Hallucinations Overlooked** -- JAMA Psychiatry, Wed, 30 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2854491
 - **Prior Evidence on Auditory Hallucinations Overlooked—Reply** -- JAMA Psychiatry, Wed, 30 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2854490
 - **Updating Treatment Goals for Schizophrenia** -- JAMA Psychiatry, Wed, 30 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2854489
@@ -210,7 +210,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Colon and Rectal Injuries From Blunt and Penetrating Trauma** -- JAMA Surgery, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854517
 
 
-## ⚠ 92 new systematic review/meta-analysis published in your journals
+## ⚠ 88 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -231,11 +231,11 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **A network meta-analysis of intensive nursing interventions for delirium in ICU patients.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798043/
 - **The NF-κB pathway in inflammatory responses in preeclampsia: A systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760699/
 - **Meta-analysis of PAX1/JAM3 methylation performance in high-risk HPV-positive women.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760652/
-- **Correlation between MMP-3-1171 5A/6A polymorphism and the risk of Alzheimer's disease: A meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42742624/
-- **Incidence and risk factors for lower-extremity deep vein thrombosis in postoperative patients with spontaneous intracerebral hemorrhage: A systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42736741/
 - **Factors influencing access to green health prescribing in primary care for older adults - a qualitative systematic review.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823709/
 - **Effectiveness of green health prescribing and nature-based interventions in primary care and community settings for older adults: a systematic review of health, wellbeing and social outcomes.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823701/
 - **The effectiveness of digital therapeutics in improving sleep quality: a systematic review and network meta-analysis.** -- BMC Medicine, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42806363/
+- **Efficacy and safety of MEK inhibitors for NF1-associated symptomatic, inoperable plexiform neurofibromas: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42837360/
+- **EEG correlates of auditory rise time processing: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42837359/
 - **Serum ferritin in children with Attention Deficit Hyperactivity Disorder (ADHD): A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42832553/
 - **Educational and behavioural interventions for reducing fear of hypoglycaemia in adults with type 2 diabetes: A systematic review and meta-analysis of randomised controlled trials.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42832512/
 - **Efficacy of nebulized salbutamol in transient tachypnea of the newborn: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42821532/
@@ -252,7 +252,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Mathematical skills in deaf and hard-of-hearing children: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748195/
 - **Parenthood and care in academia: Publication counts, self-assessed productivity, and gendered differences.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748093/
 - **Comprehensive application of artificial intelligence in preserved ratio impaired spirometry: A systematic literature review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748063/
-- **The effect of antiretroviral therapy adherence on viral load suppression rate among people living with HIV in Ethiopia: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42743184/
 - **Ketamine use in the refractory and super refractory status epilepticus: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42835272/
 - **Efficacy and safety of early mobilization in patients with ARDS: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42835185/
 - **Comparison of propofol fentanyl versus propofol ketamine for painless gastrointestinal endoscopy: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42835036/
@@ -291,8 +290,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Global trends and thematic clusters in healthcare professional education, medical errors, and patient safety: a bibliometric analysis, 2000-2026.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755527/
 - **Artificial intelligence in personalized computed tomography dose optimization: a systematic review of techniques and clinical outcomes.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755520/
 - **Effects of Wuqinxi on blood pressure and lipids in hypertensive middle-aged and elderly adults: a meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42745893/
-- **Assessment tools for patients with stroke-related sarcopenia: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42741000/
-- **Insights into the relationship between menopausal timing and risk of cardiovascular disease: a systematic review and meta-analysis of Mendelian randomization analyses.** -- Systematic Reviews, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42736567/
 - **Carbon footprint of clinical research: a systematic review and quantitative synthesis of estimates, sources of variation and emission hotspots.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833727/
 - **Follow-up colonoscopy after abnormal stool-based colorectal cancer screening: a systematic review of completion, timeliness and implementation strategies.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833723/
 - **Association between personal birth companion and maternal mental health in low- and middle-income countries: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42816075/
@@ -305,150 +302,203 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Systematic review of cost-effectiveness analyses of weight loss interventions for knee osteoarthritis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42772870/
 - **Effectiveness and safety of electroacupuncture combined with conventional therapy for peripheral facial palsy: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760088/
 - **Association of fragmented QRS complex with mortality and clinical outcomes in patients with pulmonary embolism: an updated meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760070/
-- **Acceptability of capillary point-of-care testing: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42744378/
 
 
-16 new RCT-type article(s) found.
+13 new RCT-type article(s) found.
 
-## National Football League Hand Injuries: Return to Sport and Performance.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836229/  
-**Published:** Sep 2026
+## Empirical transition probability modeling of continuous glucose monitoring data.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837410/  
+**Published:** 2026
 
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: 244 participants (adults and children) enrolled in the Insulin-Only Bionic Pancreas (IOBP2) randomized clinical trial
+- Intervention: Insulin-Only Bionic Pancreas (IOBP2)
+- Comparator: Control group
+- Outcome: Glucose dynamics characterized by empirical transition probability matrices (specifically moves from hyperglycemia to in-range states) compared to standard CGM metrics (mean glucose, TIR, GRI, etc.)
+- Study design: Secondary analysis of a randomized clinical trial
+- Notes: The abstract describes a methodological application to trial data; while the trial is IOBP2, the specific diabetes type (Type 1) is not explicitly stated in the text, though it is the standard population for bionic pancreas trials.
 
----
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with diabetes using continuous glucose monitoring (CGM)
+- Intervention: Automated insulin delivery systems or bionic pancreas devices
+- Outcome: Dynamic glucose modeling or transition state analysis of CGM data
+- Why widened: Population widened from a specific trial cohort to the general clinical population using CGM. Intervention widened from a specific device to the broader class of automated insulin delivery. Outcome widened from specific 5x5 matrices to general transition-based glucose modeling.
 
-## Higher Loading Dose of Colistin for the Treatment of Ventilator-Associated Pneumonia in Critically Ill Children: A Retrospective Comparative Study at Queen Rania Abdullah Hospital for Children.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836204/  
-**Published:** Sep 2026
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~144 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~144
+- Existing reviews found: 0
 
----
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=244+participants+%28adults+and+children%29+enrolled+in+the+Insulin-Only+Bionic+Pancreas+%28IOBP2%29+randomized+clinical+trial+Insulin-Only+Bionic+Pancreas+%28IOBP2%29+Glucose+dynamics+characterized+by+empirical+transition+probability+matrices+%28specifically+moves+from+hyperglycemia+to+in-range+states%29+compared+to+standard+CGM+metrics+%28mean+glucose%2C+TIR%2C+GRI%2C+etc.%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=244+participants+%28adults+and+children%29+enrolled+in+the+Insulin-Only+Bionic+Pancreas+%28IOBP2%29+randomized+clinical+trial+Insulin-Only+Bionic+Pancreas+%28IOBP2%29+Glucose+dynamics+characterized+by+empirical+transition+probability+matrices+%28specifically+moves+from+hyperglycemia+to+in-range+states%29+compared+to+standard+CGM+metrics+%28mean+glucose%2C+TIR%2C+GRI%2C+etc.%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22IOBP2%22+OR+%22Insulin-Only+Bionic+Pancreas%22%29+AND+%22transition+probability%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Blood+Glucose+Self-Monitoring%22%5BMeSH%5D+OR+%22Continuous+Glucose+Monitoring%22%29+AND+%28%22transition+probability%22+OR+%22Markov+chain%22+OR+%22glucose+dynamics%22%29
 
-## HbA1C Variability as an Independent Predictor of Diabetic Retinopathy: A 10-Year Retrospective Nested Case-Control Study in a Middle Eastern Population.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836186/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
-
----
-
-## Real-World Effectiveness, Safety, and Tolerability of Adjuvant CDK4/6 Inhibitor Therapy.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836156/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
-
----
-
-## Reintubation in the ICU: A Prospective Observational Study of Its Impact on Recovery Outcomes and Mortality.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836021/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Factors Associated With 30-Day Functional Outcome and Mortality Following Spontaneous Intracerebral Hemorrhage in Bangladesh: A Prospective Two-Center Cohort Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835817/  
-**Published:** Sep 2026
+## Dynamic gait phase alterations and spatiotemporal stance characteristics in bilateral pes cavus: A case-control study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837392/  
+**Published:** 2026
 
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Individuals with bilateral pes cavus
+- Intervention: Bilateral pes cavus (exposure)
+- Comparator: Healthy individuals with normal bilateral foot posture
+- Outcome: Spatiotemporal gait variables during stance phase, specifically duration and percentage of Initial Contact Phase (ICP), Flatfoot Phase (FFP), and Forefoot Contact Phase (FFCP)
+- Study design: Observational case-control study
+- Notes: The 'intervention' is a structural foot deformity (exposure) rather than a clinical treatment. The study specifically focuses on bilateral cases.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Individuals with pes cavus (high-arched feet)
+- Intervention: Pes cavus deformity
+- Outcome: Gait analysis and biomechanical foot parameters
+- Why widened: Broadened 'bilateral pes cavus' to 'pes cavus' generally to include unilateral presentations. Broadened specific stance phase sub-components to general gait analysis and biomechanics to allow for pooling with studies using different kinetic or kinematic measurement systems.
+
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~34 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~34
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Individuals+with+bilateral+pes+cavus+Bilateral+pes+cavus+%28exposure%29+Spatiotemporal+gait+variables+during+stance+phase%2C+specifically+duration+and+percentage+of+Initial+Contact+Phase+%28ICP%29%2C+Flatfoot+Phase+%28FFP%29%2C+and+Forefoot+Contact+Phase+%28FFCP%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Individuals+with+bilateral+pes+cavus+Bilateral+pes+cavus+%28exposure%29+Spatiotemporal+gait+variables+during+stance+phase%2C+specifically+duration+and+percentage+of+Initial+Contact+Phase+%28ICP%29%2C+Flatfoot+Phase+%28FFP%29%2C+and+Forefoot+Contact+Phase+%28FFCP%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22pes+cavus%22%5BMeSH+Terms%5D+OR+%22pes+cavus%22%5BAll+Fields%5D%29+AND+%22baropodometry%22%5BAll+Fields%5D+AND+%22gait+analysis%22%5BMeSH+Terms%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22pes+cavus%22%5BMeSH+Terms%5D+OR+%22pes+cavus%22%5BAll+Fields%5D%29+AND+%28%22gait%22%5BMeSH+Terms%5D+OR+%22biomechanics%22%5BMeSH+Terms%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## From Fecal Microbial Potential to Circulating Trimethylamine N-oxide and Cardiovascular Events: A Narrative Review.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835796/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
-
----
-
-## Association of Age and Spherical Equivalent With Differences in Cycloplegic Refractive Effects Between Cyclopentolate and Atropine.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835265/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
-
----
-
-## Efficacy and exploratory treatment-response modeling of acupuncture for acute migraine based on DIA proteomics: a study protocol for a randomized controlled trial.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835681/  
+## Integrated multi-omic analysis characterizes an IFNγ-responsive-to-myeloid-suppressive immune continuum in immune-active hepatocellular carcinoma.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837372/  
 **Published:** 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Early systemic heparin exposure is associated with lower mortality, reduced disseminated intravascular coagulation, and fewer thrombotic complications in septic shock.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835425/  
+## Predictors of the need for airway adjuncts during mask ventilation in Thai adult patients undergoing general anesthesia: A prospective observational study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837367/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Thai adults undergoing elective general anesthesia
+- Intervention: Preoperative airway assessment (specifically snoring/OSA, absence of ≥2 upper incisors, neck circumference ≥35 cm, and Mallampati class III-IV)
+- Comparator: unclear
+- Outcome: Need for airway adjuncts or optimization during mask ventilation (defined as Han grade ≥2)
+- Study design: Single-center prospective observational study
+- Notes: The study is a derivation study for a clinical prediction model; the 'intervention' here refers to the predictors being evaluated rather than a therapeutic action.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults undergoing general anesthesia
+- Intervention: Preoperative airway assessment for difficult mask ventilation
+- Outcome: Difficult mask ventilation or need for airway adjuncts
+- Why widened: Broadened population from Thai/elective to all adults undergoing general anesthesia to capture generalizability. Broadened specific predictors and the specific Han grade cutoff to the general clinical problem of 'difficult mask ventilation' (DMV) to allow for pooling with other predictive model studies.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~42 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~42
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Thai+adults+undergoing+elective+general+anesthesia+Preoperative+airway+assessment+%28specifically+snoring%2FOSA%2C+absence+of+%E2%89%A52+upper+incisors%2C+neck+circumference+%E2%89%A535+cm%2C+and+Mallampati+class+III-IV%29+Need+for+airway+adjuncts+or+optimization+during+mask+ventilation+%28defined+as+Han+grade+%E2%89%A52%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Thai+adults+undergoing+elective+general+anesthesia+Preoperative+airway+assessment+%28specifically+snoring%2FOSA%2C+absence+of+%E2%89%A52+upper+incisors%2C+neck+circumference+%E2%89%A535+cm%2C+and+Mallampati+class+III-IV%29+Need+for+airway+adjuncts+or+optimization+during+mask+ventilation+%28defined+as+Han+grade+%E2%89%A52%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Thai%22%29+AND+%28%22mask+ventilation%22%29+AND+%28%22airway+adjuncts%22+OR+%22Han+grade%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22difficult+mask+ventilation%22%5BMeSH+Terms%5D+OR+%22difficult+mask+ventilation%22%29+AND+%28%22risk+factors%22%5BMeSH+Terms%5D+OR+%22predictive+value+of+tests%22%5BMeSH+Terms%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Associations of sociodemographic, health, and work-related factors with early long-term economic inactivity in older workers: Findings from the Health and Employment After Fifty study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837365/  
 **Published:** 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Efficacy and safety of early mobilization in patients with ARDS: a systematic review and meta-analysis.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835185/  
+## Spatial organization of HPV-associated immune programs across tissue compartments in oropharyngeal cancer.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837361/  
 **Published:** 2026
 
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## A modified minimally invasive technique for pelvic organ prolapse: transvaginal extraperitoneal single-port lateral suspension.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835175/  
+## Efficacy and safety of MEK inhibitors for NF1-associated symptomatic, inoperable plexiform neurofibromas: A systematic review and meta-analysis.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837360/  
 **Published:** 2026
 
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Clinical outcomes of individualized surgical pathways in elderly patients with spinal tuberculosis: a retrospective cohort study in eastern China.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42835170/  
+## Exposure to residential greenness and subsequent risk of common mental disorders among individuals with COVID-19 in South Korea: A nationwide cohort study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837343/  
 **Published:** 2026
 
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Factors associated with 
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42834969/  
+## Association between pre-stroke social participation and current physical resilience across frailty levels among middle-aged and older stroke survivors: A cross-sectional study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837339/  
 **Published:** 2026
 
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Lipid Burden and Efficacy of Preventive PCI of Vulnerable Atherosclerotic Coronary Plaques: Post Hoc Analysis From the PREVENT Trial.
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836296/  
-**Published:** Oct 2026
+## Behavioural correlates of higher 12-month myopia progression in a high-risk vietnamese schoolchild cohort and the limits of cross-school prediction.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837338/  
+**Published:** 2026
 
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Incidence, Process of Care, and Outcomes of In-Hospital Cardiac Arrest in China: A Multicenter Prospective Registry Study.
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42836281/  
-**Published:** Oct 2026
+## Microbiological surveillance after automated reprocessing of gastrointestinal endoscopes in routine clinical practice: A prospective randomized microbiological surveillance study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837331/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Pneumonia incidence, hospitalizations and mortality before and during the COVID-19 pandemic in Peru: An observational study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837330/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Novel peritoneal catheters with silver particles lower rates of peritonitis in patients with cirrhosis and refractory ascites.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42837327/  
+**Published:** 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
