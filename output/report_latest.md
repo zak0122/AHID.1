@@ -4,26 +4,26 @@
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
-- **Giredestrant plus Everolimus in Advanced Breast Cancer** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2602457?af=R&rss=currentIssue
-- **Obexelimab for the Treatment of IgG4-Related Disease** -- New England Journal of Medicine, 2026-06-02T11:01:46Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2601337?af=R&rss=currentIssue
-- **Atorvastatin, Cardiovascular Events, and Disability-free Survival in Older Adults** -- New England Journal of Medicine, 2026-08-29T06:15:12Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2607314?af=R&rss=currentIssue
-- **Phase 3 Trial of Weekly Oral Islatravir–Lenacapavir for HIV-1 Treatment** -- New England Journal of Medicine, 2026-07-29T06:35:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2607973?af=R&rss=currentIssue
-- **Andes Virus — A Clinical Review** -- New England Journal of Medicine, 2026-07-15T09:00:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMra2606651?af=R&rss=currentIssue
-- **Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2609920?af=R&rss=currentIssue
-- **Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2610062?af=R&rss=currentIssue
-- **More on NETs in Lupus** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2610539?af=R&rss=currentIssue
-- **Bilateral Pacing Neuromuscular Prosthesis for Laryngeal Paralysis** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2603650?af=R&rss=currentIssue
-- **PML Resolution after Treatment with Virus-Specific T Cells Followed by HCT** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2609576?af=R&rss=currentIssue
-- **Durability of CRISPR-Cas9 Gene Editing Targeting ANGPTL3 with CTX310** -- New England Journal of Medicine, 2026-08-28T02:30:10Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2609825?af=R&rss=currentIssue
-- **Gold Standard Science and Biomedical Research — Principles, Governance, and Scientific Independence** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMms2607021?af=R&rss=currentIssue
-- **Statins in Older Adults — Evidence at Last** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2611127?af=R&rss=currentIssue
-- **Obexelimab and the Promise of Nondepleting B-Cell Therapy in IgG4-Related Disease** -- New England Journal of Medicine, 2026-06-02T11:01:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2605617?af=R&rss=currentIssue
-- **An Echo Unheard** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMcps2600385?af=R&rss=currentIssue
-- **Serotonin Syndrome** -- New England Journal of Medicine, 2026-09-26T11:32:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2607537?af=R&rss=currentIssue
-- **Thyroglossal Duct Cyst** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2607953?af=R&rss=currentIssue
-- **Billing for Messaging on the Patient Portal** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMclde2518646?af=R&rss=currentIssue
-- **Tobacco-Cessation Treatment for Global Impact** -- New England Journal of Medicine, 2026-09-30T09:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2414537?af=R&rss=currentIssue
-- **The Mayor** -- New England Journal of Medicine, 2026-09-26T11:33:05Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2603393?af=R&rss=currentIssue
+- **Optogenetic Therapy for Restoring Aspects of Visual Function** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2602215?af=R&rss=currentIssue
+- **Effect of Screening with Multicancer Early-Detection Test on Late-Stage Cancer Diagnosis** -- New England Journal of Medicine, 2026-09-22T09:01:03Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2505723?af=R&rss=currentIssue
+- **Vasopressors or Fluids in Early Septic Shock** -- New England Journal of Medicine, 2026-06-11T08:15:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2516225?af=R&rss=currentIssue
+- **Tricuspid-Valve Intervention in Heart Failure** -- New England Journal of Medicine, 2026-08-30T09:40:17Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2606934?af=R&rss=currentIssue
+- **Advances in Systemic Treatment of Breast Cancer** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMra2500695?af=R&rss=currentIssue
+- **A Multicomponent Intervention to Improve Maternal Infection Outcomes** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2607457?af=R&rss=currentIssue
+- **Interleukin-10 Autoantibodies in Inflammatory Bowel Disease** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2609242?af=R&rss=currentIssue
+- **Inhaled Treprostinil for Idiopathic Pulmonary Fibrosis** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2610744?af=R&rss=currentIssue
+- **Pediatric Heart Transplantation with Donation after Circulatory Death** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2607437?af=R&rss=currentIssue
+- **Optogenetics in Sight** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2610388?af=R&rss=currentIssue
+- **Reproducibility in Biomedical Science — From Repetition to Corroboration** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMms2607020?af=R&rss=currentIssue
+- **More Than One Way to Save a Life in Septic Shock** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2609170?af=R&rss=currentIssue
+- **A Step in the Search for the Elusive Holy Grail of Early Detection of Cancer** -- New England Journal of Medicine, 2026-09-22T09:00:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2611312?af=R&rss=currentIssue
+- **Transcatheter Tricuspid-Valve Intervention for Severe Tricuspid Regurgitation** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2611648?af=R&rss=currentIssue
+- **Syphilitic Chancre on the Nipple** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2605910?af=R&rss=currentIssue
+- **Menkes Disease** -- New England Journal of Medicine, 2026-10-03T11:30:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2607595?af=R&rss=currentIssue
+- **Case 28-2026: A 19-Year-Old Woman with Fever, Cervical Lymphadenopathy, and Leukopenia** -- New England Journal of Medicine, 2026-10-07T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMcpc2603182?af=R&rss=currentIssue
+- **Hantavirus — Lessons Learned about Security and Solidarity** -- New England Journal of Medicine, 2026-10-03T11:30:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2611801?af=R&rss=currentIssue
+- **A Guide for the Perplexed Physician** -- New England Journal of Medicine, 2026-10-03T11:30:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2603758?af=R&rss=currentIssue
+- **Grief as a Vector for Disease — Tradition and Public Health in Ebola Outbreaks** -- New England Journal of Medicine, 2026-10-03T11:30:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2608136?af=R&rss=currentIssue
 - **Hypertension Control in Low- and Middle-Income Settings** -- JAMA, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855205
 - **Multiple Violaceous-to-Brownish Patches and Plaques on the Trunk** -- JAMA, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854966
 - **Beyond the Trial—What Do Extension Studies Add to Randomized Clinical Trials?** -- JAMA, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854965
@@ -72,26 +72,26 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Fasting Duration and Laboratory Test Results** -- JAMA Internal Medicine, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854601
 - **Policy and Design Considerations for Most-Favored-Nation Drug Pricing** -- JAMA Internal Medicine, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854600
 - **Women, Medicine, and AI** -- JAMA Internal Medicine, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854599
-- **HIV care cascade of adolescents and young adults in sub-Saharan Africa: a systematic review and meta-analysis** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e107159?rss=1
-- **Early life exposures of enteric pathogens and nutritional outcomes in Timor-Leste: a longitudinal birth cohort study protocol** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e110180?rss=1
-- **Causes of mortality in humanitarian crises requiring coordinated response: a scoping review protocol** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e110528?rss=1
-- **Understanding research practices and methodological choices when applying the Person-Based Approach to health intervention development: A qualitative interview study** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e112780?rss=1
-- **How ready are health managers to use effective coverage indicators to monitor and evaluate maternal and child health programmes? A qualitative study in rural Ghana** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e114746?rss=1
-- **Preoperative pathways in adults with multiple long-term conditions undergoing major surgery: a systematic review** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118211?rss=1
-- **Does nicotinamide riboside supplementation increase milk production in postpartum women with infants admitted to a neonatal intensive care unit? Protocol for the MOONRISE randomised, double-blind, placebo-controlled pilot feasibility trial** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118516?rss=1
-- **Career regret, academic-related factors and health-related quality of life among Syrian medical students: a multicentre cross-sectional study** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118578?rss=1
-- **Developing a youth sustainability healthy active living intervention for chronic disease prevention and environmental sustainability through community engagement and codesign: protocol for a multimethod community-based participatory research study in Canada and Jamaica** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119261?rss=1
-- **Imaging-guided shortened interpregnancy interval following myomectomy in China: protocol for a multicentre prospective randomised controlled trial** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119605?rss=1
-- **Magnitude, trajectory and determinants of antenatal depressive symptoms in Adama Town and East Shewa Zone, Ethiopia: evidence from a prospective longitudinal eCohort survey** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120181?rss=1
-- **Implementation determinants and outcomes of artificial intelligence in surgical healthcare: a systematic review protocol** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120245?rss=1
-- **Real-time prospective (shadow mode) validation of an AI-based clinical decision support system for predicting 3-month functional outcome in acute stroke: the VALIDATE study protocol** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120511?rss=1
-- **Public health surveillance systems involving Indigenous Peoples: a scoping review protocol to inform circumpolar mental health and wellness surveillance** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120742?rss=1
-- **Determination of central pain modulation biomarkers to characterise patients with cancer and refractory pain: protocol for a cross-sectional study** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121471?rss=1
-- **Exploring perspectives on implementing cervical length screening to prevent preterm birth in nulliparous women: protocol for the PRE-EMPT qualitative work packages** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121899?rss=1
-- **Sexual and reproductive health impacts of modern slavery and human trafficking: a scoping review protocol** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122246?rss=1
-- **Telemedicine implementation in Austrian correctional facilities: a qualitative interview study with prison staff** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122521?rss=1
-- **Factors associated with persistent high use of emergency departments: a nationwide retrospective cohort study** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123062?rss=1
-- **My care, my choice: a qualitative phenomenological exploration of womens rights to choose maternal healthcare providers and services in Ari Zone, Southern Ethiopia** -- BMJ Open, 2026-10-07T04:48:05-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123419?rss=1
+- **Effect of obesity on multi-morbidity among adults in Yili, Xinjiang: a retrospective cohort study** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e102146?rss=1
+- **Causes of and risk factors for asphyxia neonatorum in sub-Saharan Africa: a study protocol for systematic review and meta-analysis** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e109964?rss=1
+- **Decision-tree analysis of characteristics associated with 6-month smoking abstinence in Taiwan** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e112023?rss=1
+- **How do social norms influence sexual and gender-based violence and access to care and support services among youth? A qualitative study in Busia and Mbale districts, Eastern Uganda** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e115108?rss=1
+- **Effectiveness and safety of treatments for new-onset, refractory and relapsed vitreoretinal lymphoma: protocol for a systematic review and network meta-analysis** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e115420?rss=1
+- **Supporting physical activity through co-production in people with severe mental illness (SPACES): study protocol for a pragmatic, parallel-group randomised controlled trial** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e115528?rss=1
+- **Focused ethnography protocol for exploring burn pain management practices in clinical settings: methodological considerations and implementation framework** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e116527?rss=1
+- **Effect of local versus global risk and normative information on voluntary quarantine adoption: protocol for a 2x2 randomised controlled trial leveraging app-based epigames across diverse congregate settings (The Epi-Q Study)** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e116726?rss=1
+- **Anxiety and depressive symptoms in women with disabilities during pregnancy and childbirth: an analysis of Nepal demographic and health survey 2022 data** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118938?rss=1
+- **Common elements-based nurturing care intervention to improve mother-infant responsive interaction and maternal psychological wellbeing in rural Pakistan: findings of a single-blinded individual randomised controlled trial** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119908?rss=1
+- **Machine-learning model for distinguishing cytomegalovirus infection status in hospitalised patients with systemic lupus erythematosus: a retrospective cohort study with temporal validation** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121354?rss=1
+- **Effectiveness and safety of electroacupuncture as an adjunct to guideline-based usual care for acute lumbar disc herniation: a multicentre, randomised, sham-controlled trial protocol** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121882?rss=1
+- **Knowledge of gestational diabetes mellitus and its sociodemographic determinants among pregnant women in Bangladesh: a nationwide facility-based cross-sectional study** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122080?rss=1
+- **Impact of prehospital olanzapine for methamphetamine intoxication on patient and system-level outcomes: a population-based retrospective cohort study** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122263?rss=1
+- **Cross-cultural adaptation and psychometric evaluation of the Chinese version of the Digital and Technological Self-Efficacy Scale among nursing students: a three-phase validation study** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122274?rss=1
+- **Electroacupuncture with different pulse patterns for the post-acute phase of Bells palsy: a study protocol for a randomised controlled trial with surface electromyography evaluation** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122378?rss=1
+- **Use, physiological effects and safety of pulmonary vasodilator therapy in thoracic surgical patients: a scoping review protocol** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123437?rss=1
+- **Effect of auricular acupressure as an adjunct to standard postoperative care on physical and psychological outcomes following coronary artery bypass graft surgery: protocol for a randomised, single-blind, sham-controlled trial** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e126650?rss=1
+- **Association between invasive mechanical ventilation and acute kidney injury in critically ill patients: a protocol for a systematic review and meta-analysis of randomised controlled trials** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e127044?rss=1
+- **Attention and Word Learning (@WL) study: protocol for a longitudinal study examining early predictors of coordinated visual attention and word learning in preterm and full-term infants** -- BMJ Open, 2026-10-08T04:20:35-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e127270?rss=1
 - **Cement Embolism After Vertebroplasty** -- JAMA Cardiology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854803
 - **Long-Term Perspective on Recognized and Unrecognized Myocardial Infarction** -- JAMA Cardiology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854802
 - **Prevalence of Unrecognized and Recognized Myocardial Infarction** -- JAMA Cardiology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854801
@@ -303,310 +303,13 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Association of fragmented QRS complex with mortality and clinical outcomes in patients with pulmonary embolism: an updated meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760070/
 
 
-16 new RCT-type article(s) found.
+1 new RCT-type article(s) found.
 
-## Divergent Cardiac and Renal Outcomes by Systolic Blood Pressure in HFrEF.
-**Journal:** American Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843696/  
+## Where Women Veterans Seek Emergency Care: Patterns and Predictors of VA and Community Emergency Department Use.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42844547/  
 **Published:** Oct 2026
 
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with heart failure with reduced ejection fraction (HFrEF), hypertension, and no baseline kidney failure
-- Intervention: Systolic blood pressure (SBP) ≥130 mmHg
-- Comparator: Systolic blood pressure (SBP) <130 mmHg
-- Outcome: Two-year all-cause mortality and incident kidney failure
-- Study design: Propensity score-matched cohort study
-- Notes: The 'intervention' is an observational exposure (baseline SBP) rather than a randomized treatment. The abstract does not specify the exact definition of 'incident kidney failure' (e.g., dialysis vs. eGFR threshold).
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with heart failure (any ejection fraction) and hypertension
-- Intervention: Elevated systolic blood pressure (various thresholds)
-- Outcome: All-cause mortality and adverse renal outcomes (e.g., CKD progression, ESRD, or kidney failure)
-- Why widened: Population widened from HFrEF to all Heart Failure to capture the broader 'obesity/hypertension paradox' literature. Intervention widened from a specific 130 mmHg cutoff to any elevated SBP to allow for varying clinical guidelines. Outcome widened from kidney failure to general renal outcomes to include studies reporting eGFR decline or stage progression.
-
-**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~26 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~0
-- Broadened PICO pool: ~26
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+heart+failure+with+reduced+ejection+fraction+%28HFrEF%29%2C+hypertension%2C+and+no+baseline+kidney+failure+Systolic+blood+pressure+%28SBP%29+%E2%89%A5130+mmHg+Two-year+all-cause+mortality+and+incident+kidney+failure
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+heart+failure+with+reduced+ejection+fraction+%28HFrEF%29%2C+hypertension%2C+and+no+baseline+kidney+failure+Systolic+blood+pressure+%28SBP%29+%E2%89%A5130+mmHg+Two-year+all-cause+mortality+and+incident+kidney+failure+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Heart+Failure%2C+Reduced+Ejection+Fraction%22%5BMeSH%5D%29+AND+%28%22Systolic+Blood+Pressure%22%5BMeSH%5D%29+AND+%28%22Renal+Insufficiency%22%5BMeSH%5D%29+AND+%28%22Mortality%22%5BMeSH%5D%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Heart+Failure%22%5BMeSH%5D%29+AND+%28%22Blood+Pressure%22%5BMeSH%5D%29+AND+%28%22Kidney+Diseases%22%5BMeSH%5D%29+AND+%28%22Mortality%22%5BMeSH%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Real-time prospective (shadow mode) validation of an AI-based clinical decision support system for predicting 3-month functional outcome in acute stroke: the VALIDATE study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843886/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Consecutive patients with acute ischaemic stroke at tertiary stroke centres
-- Intervention: AI-based clinical decision support system (VALIDATE-CDSS) operated in shadow mode (real-time data entry via mobile app)
-- Comparator: Standard clinical practice (physician discretion) and actual 3-month functional outcomes
-- Outcome: Primary: Real-world feasibility and usability of the CDSS; Secondary: Predictive performance (mRS at 3 months), agreement with actual treatments, and incremental value of data
-- Study design: Prospective, multicentre observational study (shadow mode validation)
-- Notes: The abstract describes a study protocol for a validation study where the intervention (CDSS) does not influence clinical care (shadow mode).
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with acute ischaemic stroke
-- Intervention: AI-based clinical decision support systems (CDSS) for stroke prognosis
-- Outcome: Feasibility, usability, and predictive accuracy of functional outcomes
-- Why widened: Widened the specific VALIDATE-CDSS tool to the general class of AI-based prognostic CDSS for stroke. Broadened the specific 3-month mRS outcome to general functional outcome prediction and system feasibility to allow for pooling with other AI validation studies in stroke care.
-
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~178 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~178
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Consecutive+patients+with+acute+ischaemic+stroke+at+tertiary+stroke+centres+AI-based+clinical+decision+support+system+%28VALIDATE-CDSS%29+operated+in+shadow+mode+%28real-time+data+entry+via+mobile+app%29+Primary%3A+Real-world+feasibility+and+usability+of+the+CDSS%3B+Secondary%3A+Predictive+performance+%28mRS+at+3+months%29%2C+agreement+with+actual+treatments%2C+and+incremental+value+of+data
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Consecutive+patients+with+acute+ischaemic+stroke+at+tertiary+stroke+centres+AI-based+clinical+decision+support+system+%28VALIDATE-CDSS%29+operated+in+shadow+mode+%28real-time+data+entry+via+mobile+app%29+Primary%3A+Real-world+feasibility+and+usability+of+the+CDSS%3B+Secondary%3A+Predictive+performance+%28mRS+at+3+months%29%2C+agreement+with+actual+treatments%2C+and+incremental+value+of+data+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22VALIDATE-CDSS%22+OR+%22VALIDATE+study%22%29+AND+%22acute+ischaemic+stroke%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Artificial+Intelligence%22%5BMeSH%5D+OR+%22Decision+Support+Systems%2C+Clinical%22%5BMeSH%5D%29+AND+%22Ischemic+Stroke%22%5BMeSH%5D+AND+%28%22Prognosis%22%5BMeSH%5D+OR+%22Outcome+Assessment%2C+Health+Care%22%5BMeSH%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Short-term prophylactic biliary stenting after complete common bile duct stone removal to prevent post-ERCP cholangitis in Japan (STEP-ERCP study): study protocol for a confirmatory multicentre randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843885/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adult patients undergoing ERCP for common bile duct stones without evidence of acute cholangitis at the time of ERCP and achieving complete stone clearance
-- Intervention: Short-term prophylactic biliary stenting using a spontaneous dislodgement biliary stent
-- Comparator: No biliary stenting
-- Outcome: Incidence of post-ERCP cholangitis within 7 days
-- Study design: Multicentre, prospective, open-label, randomised controlled superiority trial
-- Notes: The abstract is highly detailed regarding inclusion criteria and the specific intervention type.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients undergoing ERCP for common bile duct stones with complete stone clearance
-- Intervention: Prophylactic biliary stenting (any stent type)
-- Outcome: Post-ERCP cholangitis or biliary infectious complications
-- Why widened: Widened the population by removing the 'no pre-existing cholangitis' restriction to capture a broader stone-clearance cohort. Generalized the intervention from a specific 'spontaneous dislodgement' stent to any prophylactic biliary stent. Broadened the outcome from a 7-day window to general post-procedural biliary infection to allow for meta-analysis of similar clinical events.
-
-**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~76 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~3
-- Broadened PICO pool: ~76
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+undergoing+ERCP+for+common+bile+duct+stones+without+evidence+of+acute+cholangitis+at+the+time+of+ERCP+and+achieving+complete+stone+clearance+Short-term+prophylactic+biliary+stenting+using+a+spontaneous+dislodgement+biliary+stent+Incidence+of+post-ERCP+cholangitis+within+7+days
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+undergoing+ERCP+for+common+bile+duct+stones+without+evidence+of+acute+cholangitis+at+the+time+of+ERCP+and+achieving+complete+stone+clearance+Short-term+prophylactic+biliary+stenting+using+a+spontaneous+dislodgement+biliary+stent+Incidence+of+post-ERCP+cholangitis+within+7+days+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22common+bile+duct+stones%22+OR+%22choledocholithiasis%22%29+AND+%22ERCP%22+AND+%22prophylactic+biliary+stenting%22+AND+%22cholangitis%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Choledocholithiasis%22%5BMeSH%5D+OR+%22Bile+Duct+Stones%22%29+AND+%22Cholangiopancreatography%2C+Endoscopic+Retrograde%22%5BMeSH%5D+AND+%22Stents%22%5BMeSH%5D+AND+%22Cholangitis%22
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Persistence of cardiovascular risk factor changes after the great recession: fixed effects analysis of prospective cohort data from the multi-ethnic study of atherosclerosis.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843884/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: MESA participants (multi-ethnic US adults from 6 communities) who participated in at least two pre-Great Recession waves and both post-Great Recession waves (n=3101).
-- Intervention: Exposure to the 2008 Great Recession.
-- Comparator: Individual-specific pre-Great Recession linear ageing trends (within-person control).
-- Outcome: Systolic blood pressure (SBP), pulse pressure (PP), fasting blood glucose, serum C-reactive protein (CRP), LDL cholesterol, and BMI.
-- Study design: Individual fixed effects analysis of prospective cohort data.
-- Notes: The study uses a specific statistical model (IFE) to compare observed vs predicted trends rather than a traditional control group.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults in high-income countries.
-- Intervention: Economic recession or major financial crisis.
-- Outcome: Cardiovascular risk factors (hemodynamic, metabolic, and inflammatory markers).
-- Why widened: Broadened the population from the specific MESA cohort to general adults; broadened the 2008 Great Recession to general economic crises; grouped specific biomarkers into the broader category of cardiovascular risk factors to allow for meta-analysis of similar economic exposures.
-
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~22 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~22
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=MESA+participants+%28multi-ethnic+US+adults+from+6+communities%29+who+participated+in+at+least+two+pre-Great+Recession+waves+and+both+post-Great+Recession+waves+%28n%3D3101%29.+Exposure+to+the+2008+Great+Recession.+Systolic+blood+pressure+%28SBP%29%2C+pulse+pressure+%28PP%29%2C+fasting+blood+glucose%2C+serum+C-reactive+protein+%28CRP%29%2C+LDL+cholesterol%2C+and+BMI.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=MESA+participants+%28multi-ethnic+US+adults+from+6+communities%29+who+participated+in+at+least+two+pre-Great+Recession+waves+and+both+post-Great+Recession+waves+%28n%3D3101%29.+Exposure+to+the+2008+Great+Recession.+Systolic+blood+pressure+%28SBP%29%2C+pulse+pressure+%28PP%29%2C+fasting+blood+glucose%2C+serum+C-reactive+protein+%28CRP%29%2C+LDL+cholesterol%2C+and+BMI.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Great+Recession%22+OR+%222008+financial+crisis%22%29+AND+%22Multi-Ethnic+Study+of+Atherosclerosis%22+AND+%22cardiovascular+risk%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Economic+Recession%22%5BMeSH%5D+OR+%22Financial+Crisis%22%29+AND+%22Cardiovascular+Diseases%22%5BMeSH%5D+AND+%22Risk+Factors%22%5BMeSH%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Factors associated with persistent high use of emergency departments: a nationwide retrospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843883/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adult patients (aged >18) in England who are high users of emergency departments, defined as having five or more attendances within a 12-month period.
-- Intervention: Patient and attendance characteristics including use of hypnotics, anxiolytics, antipsychotics, or analgesics (opioid and non-opioid); 'burst' attendance patterns; social deprivation; and specific discharge behaviors (refusing treatment or leaving before treatment).
-- Comparator: High-using ED patients without these specific characteristics or behaviors (implied reference groups in the Cox model).
-- Outcome: The duration of time an individual remains in 'high user' status (likelihood of transitioning out of high-user status).
-- Study design: Nationwide retrospective cohort study.
-- Notes: The study is prognostic/observational rather than interventional; 'intervention' here refers to exposures or predictors. The definition of 'high user' is specific to this study's threshold (5+ visits).
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adult frequent users of emergency department services.
-- Intervention: Clinical, behavioral, and socioeconomic predictors of healthcare utilization.
-- Outcome: Persistence, duration, or recurrence of frequent emergency department utilization.
-- Why widened: The population was widened by removing the specific geographic (England) and numerical (5+ visits) constraints. Specific medications and behaviors were generalized to broader clinical and socioeconomic categories to allow for pooling with other prognostic studies on healthcare 'frequent flyers'.
-
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~9 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~9
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+%28aged+%3E18%29+in+England+who+are+high+users+of+emergency+departments%2C+defined+as+having+five+or+more+attendances+within+a+12-month+period.+Patient+and+attendance+characteristics+including+use+of+hypnotics%2C+anxiolytics%2C+antipsychotics%2C+or+analgesics+%28opioid+and+non-opioid%29%3B+%27burst%27+attendance+patterns%3B+social+deprivation%3B+and+specific+discharge+behaviors+%28refusing+treatment+or+leaving+before+treatment%29.+The+duration+of+time+an+individual+remains+in+%27high+user%27+status+%28likelihood+of+transitioning+out+of+high-user+status%29.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+%28aged+%3E18%29+in+England+who+are+high+users+of+emergency+departments%2C+defined+as+having+five+or+more+attendances+within+a+12-month+period.+Patient+and+attendance+characteristics+including+use+of+hypnotics%2C+anxiolytics%2C+antipsychotics%2C+or+analgesics+%28opioid+and+non-opioid%29%3B+%27burst%27+attendance+patterns%3B+social+deprivation%3B+and+specific+discharge+behaviors+%28refusing+treatment+or+leaving+before+treatment%29.+The+duration+of+time+an+individual+remains+in+%27high+user%27+status+%28likelihood+of+transitioning+out+of+high-user+status%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Emergency+Service%2C+Hospital%22%5BMeSH%5D%29+AND+%28%22frequent+attenders%22+OR+%22high+users%22%29+AND+England+AND+%22retrospective+cohort%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Emergency+Service%2C+Hospital%22%5BMeSH%5D%29+AND+%28%22frequent+attenders%22+OR+%22high+users%22%29+AND+%28%22prognosis%22+OR+%22risk+factors%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Implementation determinants and outcomes of artificial intelligence in surgical healthcare: a systematic review protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843882/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Does nicotinamide riboside supplementation increase milk production in postpartum women with infants admitted to a neonatal intensive care unit? Protocol for the MOONRISE randomised, double-blind, placebo-controlled pilot feasibility trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843881/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Career regret, academic-related factors and health-related quality of life among Syrian medical students: a multicentre cross-sectional study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843880/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Early life exposures of enteric pathogens and nutritional outcomes in Timor-Leste: a longitudinal birth cohort study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843875/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Trajectory changes in psychosocial adaptation levels of patients after implantation of cardiac implantable electronic devices and development of the intervention programme: a mixed-methods research protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843870/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Imaging-guided shortened interpregnancy interval following myomectomy in China: protocol for a multicentre prospective randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843867/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Women of reproductive age with FIGO type I-VI uterine fibroids post-myomectomy with imaging-confirmed scar healing at 6 months
-- Intervention: Shortened interpregnancy interval of 6 months
-- Comparator: Conventional interpregnancy interval of 12 months
-- Outcome: Incidence of adverse pregnancy outcomes associated with myomectomy
-- Study design: Multicentre prospective randomised controlled trial
-- Notes: The abstract is a study protocol; specific imaging modalities and criteria for 'satisfactory scar healing' are not detailed.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Women of reproductive age who have undergone myomectomy for uterine fibroids
-- Intervention: Shortened interpregnancy interval (less than 12 months)
-- Outcome: Obstetric and neonatal outcomes, including uterine rupture and live birth rates
-- Why widened: The population was widened to include all post-myomectomy patients regardless of specific FIGO fibroid types or the specific 6-month imaging safety check. The intervention was widened from a fixed 6-month point to any interval shorter than the conventional standard (usually 12-24 months). Outcomes were broadened to include both safety (complications) and efficacy (live birth).
-
-**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~0
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Women+of+reproductive+age+with+FIGO+type+I-VI+uterine+fibroids+post-myomectomy+with+imaging-confirmed+scar+healing+at+6+months+Shortened+interpregnancy+interval+of+6+months+Incidence+of+adverse+pregnancy+outcomes+associated+with+myomectomy
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Women+of+reproductive+age+with+FIGO+type+I-VI+uterine+fibroids+post-myomectomy+with+imaging-confirmed+scar+healing+at+6+months+Shortened+interpregnancy+interval+of+6+months+Incidence+of+adverse+pregnancy+outcomes+associated+with+myomectomy+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22myomectomy%22%5BMeSH+Terms%5D+OR+%22myomectomy%22%29+AND+%22interpregnancy+interval%22+AND+%226+months%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22myomectomy%22%5BMeSH+Terms%5D+OR+%22myomectomy%22%29+AND+%28%22interpregnancy+interval%22+OR+%22pregnancy+timing%22%29+AND+%28%22pregnancy+outcome%22%5BMeSH+Terms%5D+OR+%22uterine+rupture%22%5BMeSH+Terms%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Magnitude, trajectory and determinants of antenatal depressive symptoms in Adama Town and East Shewa Zone, Ethiopia: evidence from a prospective longitudinal eCohort survey.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843865/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Determination of central pain modulation biomarkers to characterise patients with cancer and refractory pain: protocol for a cross-sectional study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843863/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Evaluating the effect of spectacle correction for refractive errors and presbyopia on cognitive function in rural older adults in China: protocol for a randomised, parallel-group, superiority trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843862/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Effects of remimazolam versus propofol on cerebral oxygenation in elderly patients undergoing prone spine surgery: study protocol for a randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843860/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Relationship between fat-free mass and metabolic syndrome is shaped by ectopic fat in a UK Biobank cohort.
-**Journal:** Journal of Clinical Endocrinology & Metabolism  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42843972/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
