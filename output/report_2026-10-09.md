@@ -309,229 +309,148 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Association of fragmented QRS complex with mortality and clinical outcomes in patients with pulmonary embolism: an updated meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760070/
 
 
-16 new RCT-type article(s) found.
+4 new RCT-type article(s) found.
 
-## Oral deucrictibant for on-demand treatment of hereditary angioedema attacks: a phase 3, multicentre, randomised, double-blind, placebo-controlled crossover trial.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849489/  
+## GLP-1 receptor agonists and serious adverse events: Evidence, uncertainty and clinical implications.
+**Journal:** Journal of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42851139/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adolescents (aged 12 to <18 years) and adults (aged 18 to 75 years) with hereditary angioedema (including normal C1 inhibitor with genetic variant) having at least two attacks in the last 3 months.
-- Intervention: 20 mg oral deucrictibant immediate-release capsule
-- Comparator: Placebo
-- Outcome: Time to onset of symptom relief (Patient Global Impression of Change rating of at least 'a little better')
-- Study design: Phase 3, multicentre, randomised, double-blind, 2x2 crossover trial
-- Notes: The abstract is highly detailed; population and primary endpoint are explicitly stated.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients of all ages with hereditary angioedema
-- Intervention: Oral bradykinin B2 receptor antagonists
-- Outcome: Time to symptom relief or resolution of acute attacks
-- Why widened: Population was widened to include all HAE patients regardless of specific age cutoffs or prior attack frequency. Intervention was widened from a specific drug (deucrictibant) to its pharmacological class (bradykinin B2 receptor antagonists). Outcome was widened from a specific scale (PGI-C) to the general clinical goal of symptom relief/resolution.
-
-**Signal:** WORTH A CLOSER LOOK: ~11 on the narrow PICO, ~51 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~11
-- Broadened PICO pool: ~51
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adolescents+%28aged+12+to+%3C18+years%29+and+adults+%28aged+18+to+75+years%29+with+hereditary+angioedema+%28including+normal+C1+inhibitor+with+genetic+variant%29+having+at+least+two+attacks+in+the+last+3+months.+20+mg+oral+deucrictibant+immediate-release+capsule+Time+to+onset+of+symptom+relief+%28Patient+Global+Impression+of+Change+rating+of+at+least+%27a+little+better%27%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adolescents+%28aged+12+to+%3C18+years%29+and+adults+%28aged+18+to+75+years%29+with+hereditary+angioedema+%28including+normal+C1+inhibitor+with+genetic+variant%29+having+at+least+two+attacks+in+the+last+3+months.+20+mg+oral+deucrictibant+immediate-release+capsule+Time+to+onset+of+symptom+relief+%28Patient+Global+Impression+of+Change+rating+of+at+least+%27a+little+better%27%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=deucrictibant+AND+%22hereditary+angioedema%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22bradykinin+B2+receptor+antagonist%22+OR+deucrictibant%29+AND+%22hereditary+angioedema%22+AND+%28acute+OR+on-demand%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Associations of Pre-Diagnostic Cardiorespiratory Fitness and Handgrip Strength With All-Cause Mortality and 15-Year Survival After Cancer Diagnosis.
-**Journal:** Mayo Clinic Proceedings  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849790/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Cancer-free adults at baseline who were subsequently diagnosed with cancer (UK Biobank cohort, mean age 60.0 years).
-- Intervention: Pre-diagnostic estimated cardiorespiratory fitness (CRF) via submaximal cycle ergometry and handgrip strength via dynamometry.
-- Comparator: Lower levels of CRF and handgrip strength (dose-response analysis).
-- Outcome: All-cause mortality and 15-year survival probability.
-- Study design: Prospective cohort study.
-- Notes: The abstract clearly defines the population and exposures; the comparator is internal (dose-response) rather than a distinct control group.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults diagnosed with cancer.
-- Intervention: Pre-diagnostic physical fitness (including aerobic capacity and muscular strength).
-- Outcome: All-cause mortality and long-term survival.
-- Why widened: The population was broadened from the specific UK Biobank cohort to all cancer patients. The intervention was broadened from specific tests (cycle ergometry/handgrip) to general physical fitness to include studies using treadmill tests or other strength measures. The outcome was generalized to long-term survival to include various follow-up durations.
-
-**Signal:** PROBABLY TOO THIN: only ~3 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~18
-- Broadened PICO pool: ~3
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Cancer-free+adults+at+baseline+who+were+subsequently+diagnosed+with+cancer+%28UK+Biobank+cohort%2C+mean+age+60.0+years%29.+Pre-diagnostic+estimated+cardiorespiratory+fitness+%28CRF%29+via+submaximal+cycle+ergometry+and+handgrip+strength+via+dynamometry.+All-cause+mortality+and+15-year+survival+probability.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Cancer-free+adults+at+baseline+who+were+subsequently+diagnosed+with+cancer+%28UK+Biobank+cohort%2C+mean+age+60.0+years%29.+Pre-diagnostic+estimated+cardiorespiratory+fitness+%28CRF%29+via+submaximal+cycle+ergometry+and+handgrip+strength+via+dynamometry.+All-cause+mortality+and+15-year+survival+probability.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22UK+Biobank%22%29+AND+%28%22cardiorespiratory+fitness%22+OR+%22handgrip+strength%22%29+AND+%28%22cancer%22%29+AND+%28%22mortality%22+OR+%22survival%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Physical+Fitness%22%5BMeSH%5D+OR+%22Cardiorespiratory+Fitness%22+OR+%22Hand+Strength%22%5BMeSH%5D%29+AND+%28%22Neoplasms%22%5BMeSH%5D%29+AND+%28%22Mortality%22%5BMeSH%5D+OR+%22Survival%22%29+AND+%28%22pre-diagnostic%22+OR+%22pre-diagnosis%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Seroprevalence and trends of transfusion-transmissible infections among blood donors in the Volta Region, Ghana: A four-year retrospective study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42848799/  
-**Published:** 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Blood donors at Ho Teaching Hospital and Hohoe Regional Hospital in the Volta Region, Ghana, between January 2020 and December 2023.
-- Intervention: Screening for transfusion-transmissible infections (HIV, HBV, HCV, and syphilis).
+- Population: Patients with Type 2 diabetes, obesity, or cardiovascular and renal conditions.
+- Intervention: GLP-1 receptor agonists (GLP-1 RAs).
 - Comparator: unclear
-- Outcome: Seroprevalence and temporal trends of transfusion-transmissible infections (TTIs).
-- Study design: Retrospective cross-sectional study.
-- Notes: As an observational prevalence study, there is no experimental intervention or control group; the 'intervention' refers to the screening process being evaluated.
+- Outcome: Serious adverse events including thyroid cancer, non-arteritic anterior ischaemic optic neuropathy (NAION), suicidal behaviours and self-harm, diabetic retinopathy complications, acute pancreatitis, gallbladder and biliary disease, and intestinal obstruction.
+- Study design: Narrative review of mechanistic studies, spontaneous reports, randomized trials, and cohort studies.
+- Notes: The abstract is a narrative review summarizing various study types; it does not specify a single control group or a single population baseline, as it covers multiple indications (diabetes, obesity, CV risk).
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Blood donors in Ghana.
-- Intervention: Screening for transfusion-transmissible infections (TTIs).
-- Outcome: Prevalence and trends of transfusion-transmissible infections.
-- Why widened: The population was broadened from a specific region (Volta) to the national level (Ghana) to allow for meta-analysis of regional studies within the same country. The specific list of infections was generalized to the standard clinical category of TTIs.
+- Population: Adults with metabolic disorders (Type 2 diabetes, obesity, or metabolic-associated comorbidities).
+- Intervention: Incretin-based therapies (including GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists).
+- Outcome: Serious adverse events and long-term safety outcomes.
+- Why widened: The population was broadened to the general clinical indications for this drug class. The intervention was widened from GLP-1 RAs to the broader class of incretin-based therapies to include newer dual-agonists. Specific adverse events were grouped into a general 'serious adverse events' category to facilitate broader safety surveillance and meta-analysis of rare events.
 
-**Signal:** WORTH A CLOSER LOOK: ~43 on the narrow PICO, ~25 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~43
-- Broadened PICO pool: ~25
+- Narrow PICO pool: ~157
+- Broadened PICO pool: ~0
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Blood+donors+at+Ho+Teaching+Hospital+and+Hohoe+Regional+Hospital+in+the+Volta+Region%2C+Ghana%2C+between+January+2020+and+December+2023.+Screening+for+transfusion-transmissible+infections+%28HIV%2C+HBV%2C+HCV%2C+and+syphilis%29.+Seroprevalence+and+temporal+trends+of+transfusion-transmissible+infections+%28TTIs%29.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Blood+donors+at+Ho+Teaching+Hospital+and+Hohoe+Regional+Hospital+in+the+Volta+Region%2C+Ghana%2C+between+January+2020+and+December+2023.+Screening+for+transfusion-transmissible+infections+%28HIV%2C+HBV%2C+HCV%2C+and+syphilis%29.+Seroprevalence+and+temporal+trends+of+transfusion-transmissible+infections+%28TTIs%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22blood+donors%22%5BMeSH+Terms%5D%29+AND+%28%22Volta+Region%22%5BAll+Fields%5D+OR+%22Ghana%22%5BMeSH+Terms%5D%29+AND+%28%22HIV%22%5BMeSH+Terms%5D+OR+%22Hepatitis+B%22%5BMeSH+Terms%5D+OR+%22Hepatitis+C%22%5BMeSH+Terms%5D+OR+%22Syphilis%22%5BMeSH+Terms%5D%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22blood+donors%22%5BMeSH+Terms%5D%29+AND+%28%22Ghana%22%5BMeSH+Terms%5D%29+AND+%28%22transfusion-transmissible+infections%22%5BAll+Fields%5D+OR+%22seroprevalence%22%5BAll+Fields%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+Type+2+diabetes%2C+obesity%2C+or+cardiovascular+and+renal+conditions.+GLP-1+receptor+agonists+%28GLP-1+RAs%29.+Serious+adverse+events+including+thyroid+cancer%2C+non-arteritic+anterior+ischaemic+optic+neuropathy+%28NAION%29%2C+suicidal+behaviours+and+self-harm%2C+diabetic+retinopathy+complications%2C+acute+pancreatitis%2C+gallbladder+and+biliary+disease%2C+and+intestinal+obstruction.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+Type+2+diabetes%2C+obesity%2C+or+cardiovascular+and+renal+conditions.+GLP-1+receptor+agonists+%28GLP-1+RAs%29.+Serious+adverse+events+including+thyroid+cancer%2C+non-arteritic+anterior+ischaemic+optic+neuropathy+%28NAION%29%2C+suicidal+behaviours+and+self-harm%2C+diabetic+retinopathy+complications%2C+acute+pancreatitis%2C+gallbladder+and+biliary+disease%2C+and+intestinal+obstruction.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Glucagon-Like+Peptide-1+Receptor+Agonists%22%5BMesh%5D%29+AND+%28%22Thyroid+Neoplasms%22%5BMesh%5D+OR+%22Optic+Neuropathy%2C+Ischemic%22%5BMesh%5D+OR+%22Pancreatitis%22%5BMesh%5D+OR+%22Gallbladder+Diseases%22%5BMesh%5D+OR+%22Suicide%22%5BMesh%5D+OR+%22Intestinal+Obstruction%22%5BMesh%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Incretin+Mimetics%22%5BMesh%5D%29+AND+%28%22Drug-Related+Side+Effects+and+Adverse+Reactions%22%5BMesh%5D+OR+%22Safety%22%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Burnout and its' associated factors among health workers: A hospital-based cross-sectional study from Pokhara, Nepal.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42848795/  
+## Impact of antithrombotic therapy on management and prognosis of patients hospitalized for upper gastrointestinal bleeding: a multicenter retrospective cohort study.
+**Journal:** Internal and Emergency Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42850445/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adult patients hospitalized for upper gastrointestinal bleeding (UGIB)
+- Intervention: Pre-existing antithrombotic therapy (antiplatelet therapy alone, anticoagulant therapy alone, or combined therapy)
+- Comparator: No pre-existing antithrombotic therapy
+- Outcome: Primary: 30-day mortality. Secondary: endoscopy, endoscopic hemostasis, blood transfusion within 7 days, and intensive care unit admission.
+- Study design: Multicenter retrospective cohort study
+- Notes: The abstract is explicit regarding the population, exposure groups, and outcomes. Specific drug names and dosages are not provided.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with upper gastrointestinal bleeding
+- Intervention: Any antithrombotic therapy (anticoagulants and/or antiplatelet agents)
+- Outcome: Short-term mortality (in-hospital or 30-day) and clinical management interventions
+- Why widened: Broadened the population to all UGIB patients regardless of hospitalization status to capture a wider clinical spectrum. Grouped specific antithrombotic combinations into the general class of antithrombotics. Generalized 30-day mortality to short-term mortality to allow for pooling with studies reporting in-hospital mortality.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~7
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+hospitalized+for+upper+gastrointestinal+bleeding+%28UGIB%29+Pre-existing+antithrombotic+therapy+%28antiplatelet+therapy+alone%2C+anticoagulant+therapy+alone%2C+or+combined+therapy%29+Primary%3A+30-day+mortality.+Secondary%3A+endoscopy%2C+endoscopic+hemostasis%2C+blood+transfusion+within+7+days%2C+and+intensive+care+unit+admission.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+hospitalized+for+upper+gastrointestinal+bleeding+%28UGIB%29+Pre-existing+antithrombotic+therapy+%28antiplatelet+therapy+alone%2C+anticoagulant+therapy+alone%2C+or+combined+therapy%29+Primary%3A+30-day+mortality.+Secondary%3A+endoscopy%2C+endoscopic+hemostasis%2C+blood+transfusion+within+7+days%2C+and+intensive+care+unit+admission.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Upper+Gastrointestinal+Bleeding%22%29+AND+%28%22Antithrombotic+Agents%22%5BMeSH%5D+OR+%22Anticoagulants%22%5BMeSH%5D+OR+%22Platelet+Aggregation+Inhibitors%22%5BMeSH%5D%29+AND+%2230-day+mortality%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Gastrointestinal+Hemorrhage%22%5BMeSH%5D%29+AND+%28%22Antithrombotic+Agents%22%5BMeSH%5D%29+AND+%28%22Mortality%22%5BMeSH%5D+OR+%22Prognosis%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Impact of hysteroscopy on pregnancy outcomes in women with endometriosis-associated infertility undergoing their first frozen-thawed embryo transfer: a retrospective cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42851396/  
 **Published:** 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Infertile women with endometriosis undergoing their first frozen-thawed embryo transfer (FET)
+- Intervention: Hysteroscopic surgery before the first FET
+- Comparator: No hysteroscopy before the first FET
+- Outcome: Clinical pregnancy rate
+- Study design: Retrospective cohort study
+- Notes: The abstract lists a study end date of May 31, 2025, which is likely a typo or indicates a planned study period. The abstract mentions Propensity Score Matching (PSM) was used to adjust for confounders.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Infertile women with endometriosis undergoing frozen-thawed embryo transfer (FET)
+- Intervention: Hysteroscopy (diagnostic or operative)
+- Outcome: Reproductive outcomes (clinical pregnancy, live birth, or miscarriage rates)
+- Why widened: Removed the restriction to the 'first' FET cycle to include all FET attempts in this population. Broadened 'hysteroscopic surgery' to 'hysteroscopy' to include diagnostic-only procedures. Expanded 'clinical pregnancy rate' to the broader family of reproductive outcomes to capture live birth and other relevant metrics.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Infertile+women+with+endometriosis+undergoing+their+first+frozen-thawed+embryo+transfer+%28FET%29+Hysteroscopic+surgery+before+the+first+FET+Clinical+pregnancy+rate
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Infertile+women+with+endometriosis+undergoing+their+first+frozen-thawed+embryo+transfer+%28FET%29+Hysteroscopic+surgery+before+the+first+FET+Clinical+pregnancy+rate+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Endometriosis%22%5BMeSH%5D%29+AND+%22Hysteroscopy%22%5BMeSH%5D+AND+%22Frozen+Embryo+Transfer%22+AND+%22first%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Endometriosis%22%5BMeSH%5D%29+AND+%22Hysteroscopy%22%5BMeSH%5D+AND+%22Embryo+Transfer%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## The NBGENS project protocol: Pilot study for genetic newborn screening in Galicia.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42848763/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Investigation of arterial blood flow changes according to compression level in a practical blood flow restriction training method: A cross-sectional experimental study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42848749/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Association between invasive mechanical ventilation and acute kidney injury in critically ill patients: a protocol for a systematic review and meta-analysis of randomised controlled trials.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849961/  
+## Comparative Effectiveness of Denosumab Versus Bisphosphonates for Hypercalcemia of Malignancy: A Real-World Cohort Study.
+**Journal:** Journal of Clinical Endocrinology & Metabolism  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42850763/  
 **Published:** Oct 2026
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults (≥18 years) hospitalized with hypercalcemia of malignancy (serum calcium >10.5 mg/dL) and active or prior malignancy, excluding those with eGFR <15 mL/min/1.73 m2 or recent antiresorptive exposure.
+- Intervention: Denosumab
+- Comparator: Intravenous bisphosphonates (specifically zoledronic acid or pamidronate)
+- Outcome: Time to serum calcium normalization (≤10.5 mg/dL), hypocalcemia, hypercalcemia recurrence, and 90-day all-cause mortality.
+- Study design: Observational cohort study
+- Notes: The abstract is highly detailed regarding inclusion/exclusion criteria and specific outcomes. Note: The date range 'January 2026' in the abstract is likely a typo for 2023 or 2024.
 
----
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with hypercalcemia of malignancy
+- Intervention: Denosumab
+- Outcome: Calcium control (normalization and recurrence) and safety (hypocalcemia and mortality)
+- Why widened: Removed specific eGFR and prior exposure exclusions to cover the general clinical population with HCM. Grouped specific calcium metrics into broader clinical categories of control and safety.
 
-## Common elements-based nurturing care intervention to improve mother-infant responsive interaction and maternal psychological wellbeing in rural Pakistan: findings of a single-blinded individual randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849960/  
-**Published:** Oct 2026
+**Signal:** WORTH A CLOSER LOOK: ~10 on the narrow PICO, ~745 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~10
+- Broadened PICO pool: ~745
+- Existing reviews found: 0
 
----
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%28%E2%89%A518+years%29+hospitalized+with+hypercalcemia+of+malignancy+%28serum+calcium+%3E10.5+mg%2FdL%29+and+active+or+prior+malignancy%2C+excluding+those+with+eGFR+%3C15+mL%2Fmin%2F1.73+m2+or+recent+antiresorptive+exposure.+Denosumab+Time+to+serum+calcium+normalization+%28%E2%89%A410.5+mg%2FdL%29%2C+hypocalcemia%2C+hypercalcemia+recurrence%2C+and+90-day+all-cause+mortality.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%28%E2%89%A518+years%29+hospitalized+with+hypercalcemia+of+malignancy+%28serum+calcium+%3E10.5+mg%2FdL%29+and+active+or+prior+malignancy%2C+excluding+those+with+eGFR+%3C15+mL%2Fmin%2F1.73+m2+or+recent+antiresorptive+exposure.+Denosumab+Time+to+serum+calcium+normalization+%28%E2%89%A410.5+mg%2FdL%29%2C+hypocalcemia%2C+hypercalcemia+recurrence%2C+and+90-day+all-cause+mortality.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hypercalcemia%22%5BMesh%5D+AND+%22Neoplasms%22%5BMesh%5D%29+AND+%22Denosumab%22%5BMesh%5D+AND+%28%22Zoledronic+Acid%22%5BMesh%5D+OR+%22Pamidronate%22%5BMesh%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hypercalcemia%22%5BMesh%5D+AND+%22Neoplasms%22%5BMesh%5D%29+AND+%28%22Denosumab%22%5BMesh%5D+OR+%22Diphosphonates%22%5BMesh%5D%29
 
-## Effect of local versus global risk and normative information on voluntary quarantine adoption: protocol for a 2×2 randomised controlled trial leveraging app-based epigames across diverse congregate settings (The Epi-Q Study).
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849959/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Effectiveness and safety of electroacupuncture as an adjunct to guideline-based usual care for acute lumbar disc herniation: a multicentre, randomised, sham-controlled trial protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849958/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Impact of prehospital olanzapine for methamphetamine intoxication on patient and system-level outcomes: a population-based retrospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849953/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Electroacupuncture with different pulse patterns for the post-acute phase of Bell's palsy: a study protocol for a randomised controlled trial with surface electromyography evaluation.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849949/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Effect of auricular acupressure as an adjunct to standard postoperative care on physical and psychological outcomes following coronary artery bypass graft surgery: protocol for a randomised, single-blind, sham-controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849948/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Supporting physical activity through co-production in people with severe mental illness (SPACES): study protocol for a pragmatic, parallel-group randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849947/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Effect of obesity on multi-morbidity among adults in Yili, Xinjiang: a retrospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849945/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Machine-learning model for distinguishing cytomegalovirus infection status in hospitalised patients with systemic lupus erythematosus: a retrospective cohort study with temporal validation.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849944/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
