@@ -312,58 +312,40 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Systematic review of cost-effectiveness analyses of weight loss interventions for knee osteoarthritis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42772870/
 
 
-6 new RCT-type article(s) found.
+1 new RCT-type article(s) found.
 
-## Effectiveness of an Artificial Intelligence Health Education Accurately Linking System (AI-HEALS) for the intervention of chronic kidney disease: a randomised controlled trial protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42855255/  
+## Palmitic acid promotes hypertrophic memory in cardiomyocytes via KDM5A/H3K4me3.
+**Journal:** European Heart Journal  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42855844/  
 **Published:** Oct 2026
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: UK Biobank participants (human cohort) and mice (including cardiac-specific Kdm5A-knockout models)
+- Intervention: Palmitic acid (PA)-enriched diet (followed by a washout period and transverse aortic constriction) or KDM5A agonist D18
+- Comparator: Olive oil-enriched diet or standard control diet
+- Outcome: Heart failure risk, cardiac hypertrophy, KDM5A degradation, H3K4me3 up-regulation, and MCT4-induced metabolic imbalance
+- Study design: Prospective cohort study and randomized experimental animal/in vitro study
+- Notes: The abstract combines human epidemiological data with mechanistic mouse models. The 'hypertrophic memory' aspect implies a temporal element where the intervention precedes the stressor (TAC).
 
----
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults at risk for heart failure and mammalian models of cardiac pressure overload
+- Intervention: High saturated fatty acid (SFA) intake or histone demethylase modulation
+- Outcome: Heart failure and adverse cardiac remodeling
+- Why widened: Broadened Palmitic Acid to the class of Saturated Fatty Acids (SFA) as it is the primary SFA studied. Broadened specific molecular targets (KDM5A/H3K4me3) to the broader category of histone/epigenetic modulation. Broadened specific hypertrophy markers to general cardiac remodeling and heart failure.
 
-## Case-mix-adjusted benchmarking of musculoskeletal outcomes and opioid prescribing in English primary care: a prospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42855254/  
-**Published:** Oct 2026
+**Signal:** PROBABLY TOO THIN: only ~4 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~4
+- Existing reviews found: 0
 
----
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=UK+Biobank+participants+%28human+cohort%29+and+mice+%28including+cardiac-specific+Kdm5A-knockout+models%29+Palmitic+acid+%28PA%29-enriched+diet+%28followed+by+a+washout+period+and+transverse+aortic+constriction%29+or+KDM5A+agonist+D18+Heart+failure+risk%2C+cardiac+hypertrophy%2C+KDM5A+degradation%2C+H3K4me3+up-regulation%2C+and+MCT4-induced+metabolic+imbalance
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=UK+Biobank+participants+%28human+cohort%29+and+mice+%28including+cardiac-specific+Kdm5A-knockout+models%29+Palmitic+acid+%28PA%29-enriched+diet+%28followed+by+a+washout+period+and+transverse+aortic+constriction%29+or+KDM5A+agonist+D18+Heart+failure+risk%2C+cardiac+hypertrophy%2C+KDM5A+degradation%2C+H3K4me3+up-regulation%2C+and+MCT4-induced+metabolic+imbalance+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Palmitic+Acid%22%5BMesh%5D+OR+%22Palmitic+Acid%22%29+AND+%28%22KDM5A%22+OR+%22H3K4me3%22%29+AND+%28%22Heart+Failure%22%5BMesh%5D+OR+%22Cardiomegaly%22%5BMesh%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Fatty+Acids%22%5BMesh%5D+OR+%22Saturated+Fatty+Acids%22%29+AND+%28%22Heart+Failure%22%5BMesh%5D+OR+%22Cardiomegaly%22%5BMesh%5D%29+AND+%28%22Epigenomics%22%5BMesh%5D+OR+%22Histones%22%5BMesh%5D%29
 
-## Comparative health outcomes of buprenorphine versus methadone treatment for opioid use disorder: a retrospective propensity score-matched cohort study in the global federated electronic health record network.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42855248/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Evaluation of methodology, reporting and transparency of 50 highly cited randomised trials in neurology: a cross-sectional analysis.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42855245/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Association of life course type 2 diabetes duration with adverse cardiac structure independent of current glycaemia in the British MRC National Survey of Health and Development Birth Cohort.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42855242/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## How representative are responders to the english cancer patient experience survey of english breast cancer patients? A cohort study using linked national cancer patient experience survey and cancer registry data.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42855234/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
