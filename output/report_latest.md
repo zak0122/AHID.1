@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-10-10
+# Journal Watch Report -- 2026-10-11
 
 ## 🕐 211 ahead-of-print item(s) (not yet in PubMed)
 
@@ -217,13 +217,12 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Racial Disparities in Prehospital Interventions Among Injured Patients** -- JAMA Surgery, Wed, 30 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854534
 
 
-## ⚠ 89 new systematic review/meta-analysis published in your journals
+## ⚠ 84 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
 - **QTc changes and early major adverse cardiovascular events associated with antidepressant treatment for major depressive disorder in adults: individual participant data network meta-regression of double blind randomised trials.** -- BMJ, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42778211/
 - **Does Intensive Therapy Targeting Modifiable Risk Factors Prevent Diabetic Neuropathy in Adults with Type 2 Diabetes? A Systematic Review and Meta-analysis of Randomized Clinical Trials.** -- Journal of General Internal Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42831957/
-- **The Association Between Visual Impairment and Delirium: A Systematic Review and Meta-Analysis.** -- Journal of General Internal Medicine, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760461/
 - **Rehabilitative efficacy of cognitive behavioral therapy-based intervention for chronic fatigue syndrome: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42854071/
 - **Chronic postsurgical pain following thyroidectomy: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42854063/
 - **Dexamethasone versus triamcinolone acetonide for the management of postoperative inflammation following cataract surgery: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42854047/
@@ -242,8 +241,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Network meta-analysis of intrathyroidal injection of combined dexamethasone with lidocaine for subacute thyroiditis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798061/
 - **Comparison of bivalirudin versus heparin in percutaneous coronary intervention for patients with acute coronary syndrome: A meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798052/
 - **A network meta-analysis of intensive nursing interventions for delirium in ICU patients.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798043/
-- **The NF-κB pathway in inflammatory responses in preeclampsia: A systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760699/
-- **Meta-analysis of PAX1/JAM3 methylation performance in high-risk HPV-positive women.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760652/
 - **Factors influencing access to green health prescribing in primary care for older adults - a qualitative systematic review.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823709/
 - **Effectiveness of green health prescribing and nature-based interventions in primary care and community settings for older adults: a systematic review of health, wellbeing and social outcomes.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823701/
 - **The effectiveness of digital therapeutics in improving sleep quality: a systematic review and network meta-analysis.** -- BMC Medicine, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42806363/
@@ -296,8 +293,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Association between sleep-disordered breathing and liver outcomes in steatotic liver disease: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42774085/
 - **Obstructive sleep apnoea and glucose dysregulation in type 2 diabetes: a systematic review of the literature.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42769672/
 - **Interventions for stress, burnout, and resilience in dental and oral health students: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42769077/
-- **Adjunctive traditional Chinese medicine for ischemic stroke: a systematic review with structured narrative synthesis and GRADE assessment of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42761006/
-- **Out-of-pocket expenditure on medicine for chronic patients and its economic impact on Indian households: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760948/
 - **Preoperative pathways in adults with multiple long-term conditions undergoing major surgery: a systematic review.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843878/
 - **HIV care cascade of adolescents and young adults in sub-Saharan Africa: a systematic review and meta-analysis.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843861/
 - **Carbon footprint of clinical research: a systematic review and quantitative synthesis of estimates, sources of variation and emission hotspots.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833727/
