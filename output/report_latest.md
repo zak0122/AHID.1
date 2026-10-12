@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-10-11
+# Journal Watch Report -- 2026-10-12
 
 ## 🕐 211 ahead-of-print item(s) (not yet in PubMed)
 
@@ -310,4 +310,41 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Where do delays occur? A systematic review of the barriers to early breast cancer diagnosis across South Africa's health system.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42772875/
 - **Systematic review of cost-effectiveness analyses of weight loss interventions for knee osteoarthritis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42772870/
 
-No new RCT-type articles found today.
+
+1 new RCT-type article(s) found.
+
+## Prominent V Waves Augment Right Ventricular Afterload Independent of the Lung Vessels in Heart Failure: Implications for Clinical Assessment of Pulmonary Vascular Disease.
+**Journal:** Circulation  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42860037/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with heart failure with preserved ejection fraction (HFpEF) and less than moderate mitral regurgitation at rest
+- Intervention: Prominent V waves (defined as pulmonary artery wedge pressure [PAWP] V wave exceeding mean PAWP by ≥10 mm Hg during invasive hemodynamic exercise testing)
+- Comparator: Patients without prominent V waves (PAWP V wave <10 mm Hg above mean PAWP)
+- Outcome: Right ventricular afterload, transpulmonary pressure gradients, right heart failure, and unspecified clinical outcome data
+- Study design: Retrospective cohort study
+- Notes: The abstract mentions 'outcome data' were compared but does not explicitly list specific clinical endpoints like mortality or hospitalization rates.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with Heart Failure with Preserved Ejection Fraction (HFpEF)
+- Intervention: Left atrial stiffening or prominent pulmonary artery wedge pressure (PAWP) V waves
+- Outcome: Right heart function and pulmonary hemodynamics
+- Why widened: Removed the specific exclusion criteria regarding mitral regurgitation to cover the general HFpEF population. Broadened the specific V-wave threshold to the underlying pathophysiology of left atrial stiffening. Generalized specific hemodynamic metrics to broader right heart and pulmonary vascular outcomes.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~10 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~10
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+heart+failure+with+preserved+ejection+fraction+%28HFpEF%29+and+less+than+moderate+mitral+regurgitation+at+rest+Prominent+V+waves+%28defined+as+pulmonary+artery+wedge+pressure+%5BPAWP%5D+V+wave+exceeding+mean+PAWP+by+%E2%89%A510+mm+Hg+during+invasive+hemodynamic+exercise+testing%29+Right+ventricular+afterload%2C+transpulmonary+pressure+gradients%2C+right+heart+failure%2C+and+unspecified+clinical+outcome+data
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+heart+failure+with+preserved+ejection+fraction+%28HFpEF%29+and+less+than+moderate+mitral+regurgitation+at+rest+Prominent+V+waves+%28defined+as+pulmonary+artery+wedge+pressure+%5BPAWP%5D+V+wave+exceeding+mean+PAWP+by+%E2%89%A510+mm+Hg+during+invasive+hemodynamic+exercise+testing%29+Right+ventricular+afterload%2C+transpulmonary+pressure+gradients%2C+right+heart+failure%2C+and+unspecified+clinical+outcome+data+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Heart+Failure%2C+Diastolic%22%5BMeSH%5D+OR+%22HFpEF%22%29+AND+%22V+wave%22+AND+%22pulmonary+artery+wedge+pressure%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Heart+Failure%2C+Diastolic%22%5BMeSH%5D+OR+%22HFpEF%22%29+AND+%28%22Atrial+Function%2C+Left%22%5BMeSH%5D+OR+%22V+wave%22%29+AND+%28%22Ventricular+Function%2C+Right%22%5BMeSH%5D+OR+%22Hypertension%2C+Pulmonary%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
