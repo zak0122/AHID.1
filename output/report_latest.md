@@ -310,4 +310,185 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Where do delays occur? A systematic review of the barriers to early breast cancer diagnosis across South Africa's health system.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42772875/
 - **Systematic review of cost-effectiveness analyses of weight loss interventions for knee osteoarthritis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42772870/
 
-No new RCT-type articles found today.
+
+5 new RCT-type article(s) found.
+
+## Systematic Review and Meta-Analysis on Central and/or Peripheral Nervous System Demyelination in Patients Treated With Tumor Necrosis Factor Alpha (TNF-α) Inhibitors.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42861379/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with autoimmune diseases
+- Intervention: Tumor necrosis factor alpha (TNF-alpha) inhibitors
+- Comparator: Patients not exposed to TNF-alpha inhibitors (unclear if healthy controls or disease-matched controls)
+- Outcome: Central nervous system (CNS) and peripheral nervous system (PNS) demyelination
+- Study design: Observational cohort and case-control studies
+- Notes: The abstract does not specify which autoimmune diseases were included (e.g., Rheumatoid Arthritis vs. Crohn's Disease). The specific comparator group (e.g., placebo, conventional DMARDs, or general population) is not explicitly defined beyond the implication of non-exposure.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with chronic inflammatory or autoimmune diseases
+- Intervention: TNF-alpha inhibitors (class-wide)
+- Outcome: Demyelinating disorders of the nervous system
+- Why widened: The population was generalized to include all chronic inflammatory conditions where these biologics are indicated. The outcome was generalized to the broader family of demyelinating diseases to ensure capture of specific diagnoses like Multiple Sclerosis, CIDP, or Guillain-Barre Syndrome which may be reported separately in individual studies.
+
+**Signal:** WORTH A CLOSER LOOK: ~8 on the narrow PICO, ~16 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~8
+- Broadened PICO pool: ~16
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+autoimmune+diseases+Tumor+necrosis+factor+alpha+%28TNF-alpha%29+inhibitors+Central+nervous+system+%28CNS%29+and+peripheral+nervous+system+%28PNS%29+demyelination
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+autoimmune+diseases+Tumor+necrosis+factor+alpha+%28TNF-alpha%29+inhibitors+Central+nervous+system+%28CNS%29+and+peripheral+nervous+system+%28PNS%29+demyelination+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22TNF-alpha+inhibitors%22+OR+%22TNFi%22%29+AND+%28%22CNS+demyelination%22+OR+%22PNS+demyelination%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Tumor+Necrosis+Factor-alpha%2Fadverse+effects%22%5BMesh%5D%29+AND+%28%22Demyelinating+Diseases%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Surgical Approaches to Perineal Reconstruction: A Narrative Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42861171/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients requiring perineal reconstruction following oncologic resection (abdominoperineal resection, pelvic exenteration, radical vulvectomy) or soft tissue destruction from Fournier gangrene.
+- Intervention: Flap-based reconstruction (including VRAM, gluteal, thigh-based, and fasciocutaneous perforator flaps) or biologic mesh.
+- Comparator: Primary closure or comparison between different reconstructive techniques.
+- Outcome: Functional outcomes, sexual outcomes, quality of life, and surgical complications.
+- Study design: Narrative review (summarizing RCTs, systematic reviews, and meta-analyses).
+- Notes: As a narrative review, the abstract covers a broad range of interventions and indications rather than a single head-to-head comparison. Specific primary outcomes are not prioritized.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with complex perineal or pelvic floor defects.
+- Intervention: Surgical reconstruction (any flap-based or mesh-assisted repair).
+- Outcome: Postoperative complications and patient-reported quality of life.
+- Why widened: Broadened specific etiologies (cancer types, Fournier gangrene) to 'complex perineal defects' and specific flap types to 'surgical reconstruction' to allow for a meta-analysis of reconstructive success regardless of the specific flap used.
+
+**Signal:** WORTH A CLOSER LOOK: ~32 on the narrow PICO, ~657 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~32
+- Broadened PICO pool: ~657
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+requiring+perineal+reconstruction+following+oncologic+resection+%28abdominoperineal+resection%2C+pelvic+exenteration%2C+radical+vulvectomy%29+or+soft+tissue+destruction+from+Fournier+gangrene.+Flap-based+reconstruction+%28including+VRAM%2C+gluteal%2C+thigh-based%2C+and+fasciocutaneous+perforator+flaps%29+or+biologic+mesh.+Functional+outcomes%2C+sexual+outcomes%2C+quality+of+life%2C+and+surgical+complications.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+requiring+perineal+reconstruction+following+oncologic+resection+%28abdominoperineal+resection%2C+pelvic+exenteration%2C+radical+vulvectomy%29+or+soft+tissue+destruction+from+Fournier+gangrene.+Flap-based+reconstruction+%28including+VRAM%2C+gluteal%2C+thigh-based%2C+and+fasciocutaneous+perforator+flaps%29+or+biologic+mesh.+Functional+outcomes%2C+sexual+outcomes%2C+quality+of+life%2C+and+surgical+complications.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Perineal+reconstruction%22%5BTitle%2FAbstract%5D%29+AND+%28%22VRAM%22+OR+%22perforator+flap%22+OR+%22biologic+mesh%22%29+AND+%28%22abdominoperineal+resection%22+OR+%22Fournier+gangrene%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Perineum%2Fsurgery%22%5BMeSH+Terms%5D+OR+%22Perineal+reconstruction%22%29+AND+%28%22Surgical+Flaps%22%5BMeSH+Terms%5D+OR+%22Reconstructive+Surgical+Procedures%22%5BMeSH+Terms%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Variability of Nutritional Status During Hematopoietic Stem Cell Transplantation and Its Association With Clinical Outcomes: An Ambispective Observational Study From India.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42861153/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Hematopoietic stem cell transplant (HSCT) recipients (allogeneic and autologous) at an Indian tertiary care center, including both pediatric and adult patients (age 2-64).
+- Intervention: Serial nutritional assessment and variability (weight change, BMI/pediatric anthropometry, and calorie intake) during the peri-transplant period.
+- Comparator: unclear
+- Outcome: Mucositis, acute graft-versus-host disease, infections (bacterial, viral, fungal), quality of life, length of hospital stay, non-relapse mortality, and overall survival.
+- Study design: Ambispective observational cohort study
+- Notes: The study is observational and assesses nutritional status as an exposure/variable rather than a therapeutic intervention; there is no formal control group.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients undergoing hematopoietic stem cell transplantation (HSCT).
+- Intervention: Nutritional status monitoring or nutritional decline (weight loss, reduced caloric intake).
+- Outcome: Clinical transplant outcomes including infectious morbidity, healthcare utilization, and survival.
+- Why widened: Removed the geographic restriction (India) and specific age range to include all HSCT patients. Grouped specific nutritional metrics into 'nutritional status/decline' and specific outcomes into 'clinical transplant outcomes' to allow for pooling with studies using different but related measures.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~16 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~16
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Hematopoietic+stem+cell+transplant+%28HSCT%29+recipients+%28allogeneic+and+autologous%29+at+an+Indian+tertiary+care+center%2C+including+both+pediatric+and+adult+patients+%28age+2-64%29.+Serial+nutritional+assessment+and+variability+%28weight+change%2C+BMI%2Fpediatric+anthropometry%2C+and+calorie+intake%29+during+the+peri-transplant+period.+Mucositis%2C+acute+graft-versus-host+disease%2C+infections+%28bacterial%2C+viral%2C+fungal%29%2C+quality+of+life%2C+length+of+hospital+stay%2C+non-relapse+mortality%2C+and+overall+survival.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Hematopoietic+stem+cell+transplant+%28HSCT%29+recipients+%28allogeneic+and+autologous%29+at+an+Indian+tertiary+care+center%2C+including+both+pediatric+and+adult+patients+%28age+2-64%29.+Serial+nutritional+assessment+and+variability+%28weight+change%2C+BMI%2Fpediatric+anthropometry%2C+and+calorie+intake%29+during+the+peri-transplant+period.+Mucositis%2C+acute+graft-versus-host+disease%2C+infections+%28bacterial%2C+viral%2C+fungal%29%2C+quality+of+life%2C+length+of+hospital+stay%2C+non-relapse+mortality%2C+and+overall+survival.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hematopoietic+Stem+Cell+Transplantation%22%5BMesh%5D%29+AND+%28%22Nutritional+Status%22%5BMesh%5D+OR+%22Weight+Loss%22%5BMesh%5D%29+AND+India
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hematopoietic+Stem+Cell+Transplantation%22%5BMesh%5D%29+AND+%28%22Nutritional+Status%22%5BMesh%5D+OR+%22Weight+Loss%22%5BMesh%5D+OR+%22Energy+Intake%22%5BMesh%5D%29+AND+%28%22Infections%22%5BMesh%5D+OR+%22Survival%22%5BMesh%5D+OR+%22Length+of+Stay%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Safety and Recovery Profile of Propofol-Based Intravenous Sedation for Endoscopic Retrograde Cholangiopancreatography in Adults: A Prospective Single-Center Observational Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42861062/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults (ASA physical status I or II) undergoing elective ERCP for common bile duct stones
+- Intervention: Propofol-based intravenous sedation (midazolam 2 mg, fentanyl 1 µg/kg, propofol infusion 30-50 µg/kg/min plus boluses) with nasal waveform capnography
+- Comparator: unclear
+- Outcome: Respiratory and hemodynamic events (desaturation, intubation, airway maneuvers), recovery time, recovery-room stay, and patient/endoscopist satisfaction
+- Study design: Prospective single-center observational study
+- Notes: The study is observational and lacks a comparator group. The population is restricted to low-risk patients (ASA I-II) and a specific indication (CBD stones).
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults undergoing Endoscopic Retrograde Cholangiopancreatography (ERCP)
+- Intervention: Propofol-based sedation
+- Outcome: Safety (adverse events) and recovery outcomes
+- Why widened: The population was widened from ASA I-II/CBD stones to all ERCP patients to reflect the broader clinical utility. The intervention was generalized from a specific triple-drug regimen to any propofol-based sedation to allow for variations in co-administered analgesics or benzodiazepines.
+
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~26 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~26
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%28ASA+physical+status+I+or+II%29+undergoing+elective+ERCP+for+common+bile+duct+stones+Propofol-based+intravenous+sedation+%28midazolam+2+mg%2C+fentanyl+1+%C2%B5g%2Fkg%2C+propofol+infusion+30-50+%C2%B5g%2Fkg%2Fmin+plus+boluses%29+with+nasal+waveform+capnography+Respiratory+and+hemodynamic+events+%28desaturation%2C+intubation%2C+airway+maneuvers%29%2C+recovery+time%2C+recovery-room+stay%2C+and+patient%2Fendoscopist+satisfaction
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%28ASA+physical+status+I+or+II%29+undergoing+elective+ERCP+for+common+bile+duct+stones+Propofol-based+intravenous+sedation+%28midazolam+2+mg%2C+fentanyl+1+%C2%B5g%2Fkg%2C+propofol+infusion+30-50+%C2%B5g%2Fkg%2Fmin+plus+boluses%29+with+nasal+waveform+capnography+Respiratory+and+hemodynamic+events+%28desaturation%2C+intubation%2C+airway+maneuvers%29%2C+recovery+time%2C+recovery-room+stay%2C+and+patient%2Fendoscopist+satisfaction+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Propofol%22%5BMesh%5D%29+AND+%22ERCP%22+AND+%22capnography%22+AND+%22Saudi+Arabia%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Propofol%22%5BMesh%5D%29+AND+%28%22Cholangiopancreatography%2C+Endoscopic+Retrograde%22%5BMesh%5D%29+AND+%28%22Deep+Sedation%22%5BMesh%5D+OR+%22Conscious+Sedation%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## A Structured, Auditable Taxonomy for Pharmacist-Identifiable Medication-Related Risk Signals in Routine Admission Data: A Retrospective Medication Safety Audit in a High-Risk Inpatient Cohort.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42860979/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients who developed in-hospital ischemic stroke (n=17)
+- Intervention: Application of a structured, auditable taxonomy of 12 pharmacist-identifiable medication-related risk signals to routine admission data
+- Comparator: unclear
+- Outcome: Feasibility of classification and descriptive counts of medication-related risk signals (e.g., adherence, discrepancies, suboptimal physiological control)
+- Study design: Retrospective medication safety audit (feasibility study)
+- Notes: The study explicitly states no comparator was used. Sample size is very small (n=17). Reliability, validity, and workload were not measured.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: High-risk hospitalized patients
+- Intervention: Structured pharmacist-led medication-related risk assessment frameworks or taxonomies
+- Outcome: Identification, classification, and prevalence of medication-related problems or risk signals
+- Why widened: Population widened from stroke patients to high-risk inpatients as the taxonomy is intended for general admission data. Intervention widened to include similar structured assessment frameworks to allow for meta-analysis of pharmacist-led risk identification methods.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~9 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~9
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+who+developed+in-hospital+ischemic+stroke+%28n%3D17%29+Application+of+a+structured%2C+auditable+taxonomy+of+12+pharmacist-identifiable+medication-related+risk+signals+to+routine+admission+data+Feasibility+of+classification+and+descriptive+counts+of+medication-related+risk+signals+%28e.g.%2C+adherence%2C+discrepancies%2C+suboptimal+physiological+control%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+who+developed+in-hospital+ischemic+stroke+%28n%3D17%29+Application+of+a+structured%2C+auditable+taxonomy+of+12+pharmacist-identifiable+medication-related+risk+signals+to+routine+admission+data+Feasibility+of+classification+and+descriptive+counts+of+medication-related+risk+signals+%28e.g.%2C+adherence%2C+discrepancies%2C+suboptimal+physiological+control%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22ischemic+stroke%22%29+AND+%22pharmacist%22+AND+%22taxonomy%22+AND+%22medication-related+risk%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Pharmacists%22%5BMeSH%5D%29+AND+%28%22Medication+Errors%2Fprevention+and+control%22%5BMeSH%5D+OR+%22Drug-Related+Side+Effects+and+Adverse+Reactions%2Fprevention+and+control%22%5BMeSH%5D%29+AND+%28%22Risk+Assessment%2Fmethods%22%5BMeSH%5D+OR+%22Classification%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
