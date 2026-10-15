@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-10-14
+# Journal Watch Report -- 2026-10-15
 
 ## 🕐 190 ahead-of-print item(s) (not yet in PubMed)
 
@@ -196,12 +196,11 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Surgical Access and Required Transportation Escorts** -- JAMA Surgery, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854883
 
 
-## ⚠ 98 new systematic review/meta-analysis published in your journals
+## ⚠ 94 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
 - **Reporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review.** -- BMJ, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42869550/
-- **QTc changes and early major adverse cardiovascular events associated with antidepressant treatment for major depressive disorder in adults: individual participant data network meta-regression of double blind randomised trials.** -- BMJ, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42778211/
 - **Virtual Wards for Acute Care Patients: A Scoping Review.** -- Journal of General Internal Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42870180/
 - **Does Intensive Therapy Targeting Modifiable Risk Factors Prevent Diabetic Neuropathy in Adults with Type 2 Diabetes? A Systematic Review and Meta-analysis of Randomized Clinical Trials.** -- Journal of General Internal Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42831957/
 - **Rehabilitative efficacy of cognitive behavioral therapy-based intervention for chronic fatigue syndrome: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42854071/
@@ -225,6 +224,8 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Factors influencing access to green health prescribing in primary care for older adults - a qualitative systematic review.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823709/
 - **Effectiveness of green health prescribing and nature-based interventions in primary care and community settings for older adults: a systematic review of health, wellbeing and social outcomes.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823701/
 - **The effectiveness of digital therapeutics in improving sleep quality: a systematic review and network meta-analysis.** -- BMC Medicine, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42806363/
+- **Dietary and lifestyle quality and endometrial cancer: Incidence and survivorship outcomes-An umbrella review of systematic reviews and meta-analyses.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42873780/
+- **The effects of olfactory stimulation on postural control in adults: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42873769/
 - **Prevalence and genotype distribution of norovirus and rotavirus among children under five with diarrheal infection in lower-middle-income countries after Rotavirus vaccine introduction: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42868165/
 - **The dual burden of disease: Depression among patients with multidrug resistance tuberculosis in low-income and lower- middle-income countries: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42868138/
 - **Predictors of immunological non-response despite virological suppression in people living with HIV on antiretroviral therapy: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42862878/
@@ -286,9 +287,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Gut microbiota composition in responders vs. non-responders with hepatocellular carcinoma under ICI therapy: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42780431/
 - **Summary of best evidence for non-pharmacological management of sleep disturbances in patients with mild cognitive impairment or early dementia: an integrative review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42780409/
 - **Systematic review and meta-analysis of the effectiveness of rehabilitation interventions on upper limb function in patients with systemic sclerosis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42780375/
-- **The effect of virtual reality on anxiety and pain in patients undergoing totally implantable venous access port: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42774356/
-- **Prediction models for post-induction hypotension in patients undergoing general anesthesia: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42774354/
-- **Association between sleep-disordered breathing and liver outcomes in steatotic liver disease: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42774085/
 - **Preoperative pathways in adults with multiple long-term conditions undergoing major surgery: a systematic review.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843878/
 - **HIV care cascade of adolescents and young adults in sub-Saharan Africa: a systematic review and meta-analysis.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843861/
 - **Carbon footprint of clinical research: a systematic review and quantitative synthesis of estimates, sources of variation and emission hotspots.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833727/
@@ -296,7 +294,492 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Association between personal birth companion and maternal mental health in low- and middle-income countries: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42816075/
 - **Sarcopenia in Indian adults with type 2 diabetes: a systematic review and meta-analysis of prevalence and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42810793/
 - **Bright light therapy and circadian rhythm regulation for delirium prevention in hospitalised adults: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42805655/
-- **Alzheimer's disease and related dementias in South and Southeast Asia: a systematic review and meta-analysis of epidemiology and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42778253/
-- **Patient experiences with digital health interventions in self-management of rheumatic and musculoskeletal diseases: a systematic review and qualitative meta-synthesis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42778233/
 
-No new RCT-type articles found today.
+
+36 new RCT-type article(s) found.
+
+## Long-Acting HIV Therapy in African Adults with Adherence Challenges.
+**Journal:** New England Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42874104/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults in eastern and southern Africa with HIV-1, virally suppressed (viral load <200 copies/mL) but with suboptimal adherence or care engagement.
+- Intervention: Long-acting injectable cabotegravir (600 mg) plus rilpivirine (900 mg) administered intramuscularly every 8 weeks (following two initial doses 4 weeks apart).
+- Comparator: Daily oral dolutegravir-based therapy.
+- Outcome: Viral load < 50 copies/mL at week 48 (primary); confirmed virologic failure and serious adverse events (secondary).
+- Study design: Phase 3b, open-label, randomized trial.
+- Notes: The specific components of the 'dolutegravir-based therapy' (e.g., backbone NRTIs) are not specified. The criteria for 'suboptimal adherence' are not quantitatively defined in the abstract.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with HIV-1 experiencing adherence or care engagement barriers.
+- Intervention: Long-acting injectable antiretroviral therapy (LA-ART).
+- Outcome: Virologic suppression and virologic failure.
+- Why widened: Broadened population from African adults to all adults with adherence barriers to increase generalizability. Broadened intervention from specific CAB/RPV dosing to the class of long-acting injectables. Broadened outcome from a specific 48-week threshold to general virologic suppression/failure to allow pooling across different follow-up periods.
+
+**Signal:** WORTH A CLOSER LOOK: ~9 on the narrow PICO, ~16 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~9
+- Broadened PICO pool: ~16
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+in+eastern+and+southern+Africa+with+HIV-1%2C+virally+suppressed+%28viral+load+%3C200+copies%2FmL%29+but+with+suboptimal+adherence+or+care+engagement.+Long-acting+injectable+cabotegravir+%28600+mg%29+plus+rilpivirine+%28900+mg%29+administered+intramuscularly+every+8+weeks+%28following+two+initial+doses+4+weeks+apart%29.+Viral+load+%3C+50+copies%2FmL+at+week+48+%28primary%29%3B+confirmed+virologic+failure+and+serious+adverse+events+%28secondary%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+in+eastern+and+southern+Africa+with+HIV-1%2C+virally+suppressed+%28viral+load+%3C200+copies%2FmL%29+but+with+suboptimal+adherence+or+care+engagement.+Long-acting+injectable+cabotegravir+%28600+mg%29+plus+rilpivirine+%28900+mg%29+administered+intramuscularly+every+8+weeks+%28following+two+initial+doses+4+weeks+apart%29.+Viral+load+%3C+50+copies%2FmL+at+week+48+%28primary%29%3B+confirmed+virologic+failure+and+serious+adverse+events+%28secondary%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22cabotegravir%22+AND+%22rilpivirine%22%29+AND+%22dolutegravir%22+AND+%22adherence%22+AND+%22Africa%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22HIV-1%22%5BMeSH%5D%29+AND+%28%22Delayed-Action+Preparations%22%5BMeSH%5D+OR+%22injectable%22%29+AND+%28%22Anti-Retroviral+Agents%22%5BMeSH%5D%29+AND+%28%22Medication+Adherence%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Phase 2 Trial of Icotrokinra for Patients with Ulcerative Colitis.
+**Journal:** New England Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42874103/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults with moderately to severely active ulcerative colitis
+- Intervention: Oral icotrokinra (100 mg, 200 mg, or 400 mg once daily)
+- Comparator: Placebo
+- Outcome: Clinical response at week 12
+- Study design: Phase 2b, double-blind, randomized controlled trial
+- Notes: The abstract provides clear details on population, dosing, and primary endpoints.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with moderately to severely active ulcerative colitis
+- Intervention: Oral interleukin-23 (IL-23) receptor antagonists
+- Outcome: Clinical response or remission
+- Why widened: The intervention was broadened from a specific drug (icotrokinra) to the pharmacological class (oral IL-23 receptor antagonists) to include similar emerging therapies. The outcome was broadened from a specific 12-week timepoint to general clinical response/remission to accommodate variations in trial design across the class.
+
+**Signal:** PROBABLY TOO THIN: only ~1 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~1
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+moderately+to+severely+active+ulcerative+colitis+Oral+icotrokinra+%28100+mg%2C+200+mg%2C+or+400+mg+once+daily%29+Clinical+response+at+week+12
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+moderately+to+severely+active+ulcerative+colitis+Oral+icotrokinra+%28100+mg%2C+200+mg%2C+or+400+mg+once+daily%29+Clinical+response+at+week+12+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=icotrokinra+AND+%22ulcerative+colitis%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22interleukin-23+receptor+antagonist%22+OR+%22IL-23+receptor+blocker%22%29+AND+%22ulcerative+colitis%22+AND+oral
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Ponatinib-Blinatumomab or Imatinib-Chemotherapy for Adult Ph-Positive ALL.
+**Journal:** New England Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42874102/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury.
+**Journal:** New England Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873070/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Critically ill adults with acute kidney injury (AKI) who had indications for renal-replacement therapy (RRT)
+- Intervention: Intermittent hemodialysis (IHD) as the initial treatment approach
+- Comparator: Continuous renal-replacement therapy (CRRT) as the initial treatment approach
+- Outcome: Major adverse kidney event (MAKE) by day 90, defined as a composite of death, dependence on renal-replacement therapy, or a serum creatinine concentration more than 25% above the baseline value
+- Study design: Multicenter, open-label, noninferiority randomized controlled trial
+- Notes: The abstract is highly detailed; population, intervention, comparator, and primary outcome components are explicitly stated.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Critically ill patients with acute kidney injury requiring renal replacement therapy
+- Intervention: Intermittent renal replacement therapy (IRRT)
+- Outcome: Major adverse kidney events (MAKE) or all-cause mortality
+- Why widened: Broadened 'adults' to 'patients' to encompass all age groups; widened 'intermittent hemodialysis' to 'intermittent renal replacement therapy' to include hybrid modalities like SLED/PIRRT; generalized the specific 90-day MAKE definition to include all-cause mortality or kidney-specific composites to allow for variation in meta-analysis follow-up times.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~907 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~907
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Critically+ill+adults+with+acute+kidney+injury+%28AKI%29+who+had+indications+for+renal-replacement+therapy+%28RRT%29+Intermittent+hemodialysis+%28IHD%29+as+the+initial+treatment+approach+Major+adverse+kidney+event+%28MAKE%29+by+day+90%2C+defined+as+a+composite+of+death%2C+dependence+on+renal-replacement+therapy%2C+or+a+serum+creatinine+concentration+more+than+25%25+above+the+baseline+value
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Critically+ill+adults+with+acute+kidney+injury+%28AKI%29+who+had+indications+for+renal-replacement+therapy+%28RRT%29+Intermittent+hemodialysis+%28IHD%29+as+the+initial+treatment+approach+Major+adverse+kidney+event+%28MAKE%29+by+day+90%2C+defined+as+a+composite+of+death%2C+dependence+on+renal-replacement+therapy%2C+or+a+serum+creatinine+concentration+more+than+25%25+above+the+baseline+value+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22intermittent+hemodialysis%22%29+AND+%28%22continuous+renal+replacement+therapy%22%29+AND+%28%22acute+kidney+injury%22%29+AND+%28%22major+adverse+kidney+event%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Renal+Replacement+Therapy%22%5BMeSH%5D%29+AND+%28%22Acute+Kidney+Injury%22%5BMeSH%5D%29+AND+%28%22Critical+Illness%22%5BMeSH%5D%29+AND+%28intermittent+OR+continuous%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42872958/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults (≥18 years) receiving mechanical ventilation for acute hypoxemic respiratory failure (AHRF) from non-COVID or COVID-19 causes, sedated for less than 72 hours.
+- Intervention: Inhaled sedation strategy using isoflurane (with intravenous adjuncts as clinically needed).
+- Comparator: Usual care intravenous sedation strategy.
+- Outcome: All-cause hospital mortality.
+- Study design: Pragmatic, open-label, superiority, randomized clinical trial.
+- Notes: The abstract provides clear definitions for all PICO elements.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Mechanically ventilated adults in the intensive care unit.
+- Intervention: Inhaled volatile anesthetic sedation (e.g., isoflurane, sevoflurane).
+- Outcome: Short-term mortality (ICU, hospital, or 28/30-day).
+- Why widened: Broadened 'isoflurane' to the class of 'volatile anesthetics' and 'AHRF' to general 'mechanically ventilated ICU patients' to capture similar sedation trials. Broadened 'hospital mortality' to 'short-term mortality' to include common ICU endpoints like 28-day or ICU-specific mortality.
+
+**Signal:** WORTH A CLOSER LOOK: ~11 on the narrow PICO, ~34 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~11
+- Broadened PICO pool: ~34
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%28%E2%89%A518+years%29+receiving+mechanical+ventilation+for+acute+hypoxemic+respiratory+failure+%28AHRF%29+from+non-COVID+or+COVID-19+causes%2C+sedated+for+less+than+72+hours.+Inhaled+sedation+strategy+using+isoflurane+%28with+intravenous+adjuncts+as+clinically+needed%29.+All-cause+hospital+mortality.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%28%E2%89%A518+years%29+receiving+mechanical+ventilation+for+acute+hypoxemic+respiratory+failure+%28AHRF%29+from+non-COVID+or+COVID-19+causes%2C+sedated+for+less+than+72+hours.+Inhaled+sedation+strategy+using+isoflurane+%28with+intravenous+adjuncts+as+clinically+needed%29.+All-cause+hospital+mortality.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28isoflurane%29+AND+%28acute+hypoxemic+respiratory+failure+OR+AHRF+OR+ARDS%29+AND+%28mechanical+ventilation%29+AND+%28mortality%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28volatile+anesthetics+OR+isoflurane+OR+sevoflurane%29+AND+%28respiration%2C+artificial+OR+mechanical+ventilation%29+AND+%28sedation%29+AND+%28mortality%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42872917/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adult patients receiving vasopressors for septic shock
+- Intervention: Hospital-level strategy recommending fixed-dose vasopressin initiation at a lower threshold (0.1 µg/kg/min of norepinephrine or equivalent)
+- Comparator: Hospital-level strategy recommending fixed-dose vasopressin initiation at a higher threshold (0.4 µg/kg/min of norepinephrine or equivalent)
+- Outcome: 28-day mortality
+- Study design: Cluster-randomized, cluster-crossover, pragmatic clinical strategy trial
+- Notes: The abstract is highly detailed regarding the specific thresholds and trial design; no significant ambiguities were identified.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with septic shock requiring vasopressor support
+- Intervention: Early or low-threshold initiation of second-line vasopressors (e.g., vasopressin)
+- Outcome: Short-term mortality (28-day, 30-day, or in-hospital) and organ dysfunction-free days
+- Why widened: Broadened the specific norepinephrine equivalent thresholds (0.1 vs 0.4 µg/kg/min) to general 'early vs late' or 'low vs high' thresholds to capture other studies using different protocolized cutoffs. Broadened 28-day mortality to short-term mortality to include clinically similar endpoints like 30-day or in-hospital mortality.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+receiving+vasopressors+for+septic+shock+Hospital-level+strategy+recommending+fixed-dose+vasopressin+initiation+at+a+lower+threshold+%280.1+%C2%B5g%2Fkg%2Fmin+of+norepinephrine+or+equivalent%29+28-day+mortality
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+receiving+vasopressors+for+septic+shock+Hospital-level+strategy+recommending+fixed-dose+vasopressin+initiation+at+a+lower+threshold+%280.1+%C2%B5g%2Fkg%2Fmin+of+norepinephrine+or+equivalent%29+28-day+mortality+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22septic+shock%22%5BMeSH+Terms%5D%29+AND+%22vasopressin%22+AND+%28%220.1%22+OR+%220.4%22%29+AND+%22norepinephrine%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22septic+shock%22%5BMeSH+Terms%5D%29+AND+%22vasopressin%22+AND+%28threshold+OR+timing+OR+early+OR+late%29+AND+%28mortality+OR+%22survival+rate%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42872914/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42872606/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Virtual Reality for Pain, Anxiety, and Patient Experience in Awake Urological Procedures: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42871900/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Integrated Clinical, Biological, and Echocardiographic Factors Independently Associated With In-Hospital Mortality in Infective Endocarditis: A Single-Centre Cohort Study From Morocco.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42871861/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Negative Appendicectomy Rate and Surgery Despite Negative Triple-Screen Inflammatory Markers in Children: A Single-Centre Retrospective Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42871823/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Transfascial Paraspinal Versus Conventional Open Posterior Pedicle Screw Fixation for Thoracolumbar Fractures: A Randomized Controlled Trial.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42871773/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients aged 18-60 years with a single-level AO Spine Type A thoracolumbar fracture
+- Intervention: Transfascial paraspinal (Wiltse) approach for pedicle screw fixation
+- Comparator: Conventional open posterior approach for pedicle screw fixation
+- Outcome: Operative time, blood loss, postoperative drain output, mobilization time, hospital stay, Visual Analog Scale (VAS) pain scores, fluoroscopy time, sagittal Cobb angle correction, and surgical site infection
+- Study design: Randomized Controlled Trial
+- Notes: The abstract is highly specific regarding the fracture classification (AO Type A) and the surgical technique (Wiltse approach).
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with thoracolumbar fractures requiring posterior surgical stabilization
+- Intervention: Paraspinal (Wiltse) approach for posterior spinal fixation
+- Outcome: Perioperative recovery metrics, postoperative pain, and radiological alignment
+- Why widened: The population was broadened from AO Type A to all thoracolumbar fractures and from a specific age range to all adults to capture a wider clinical context. The intervention was generalized to the paraspinal approach for any posterior fixation. Outcomes were grouped into clinical domains (perioperative, pain, radiological) to facilitate meta-analysis across studies using varied specific metrics.
+
+**Signal:** PROBABLY TOO THIN: only ~1 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~1
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+aged+18-60+years+with+a+single-level+AO+Spine+Type+A+thoracolumbar+fracture+Transfascial+paraspinal+%28Wiltse%29+approach+for+pedicle+screw+fixation+Operative+time%2C+blood+loss%2C+postoperative+drain+output%2C+mobilization+time%2C+hospital+stay%2C+Visual+Analog+Scale+%28VAS%29+pain+scores%2C+fluoroscopy+time%2C+sagittal+Cobb+angle+correction%2C+and+surgical+site+infection
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+aged+18-60+years+with+a+single-level+AO+Spine+Type+A+thoracolumbar+fracture+Transfascial+paraspinal+%28Wiltse%29+approach+for+pedicle+screw+fixation+Operative+time%2C+blood+loss%2C+postoperative+drain+output%2C+mobilization+time%2C+hospital+stay%2C+Visual+Analog+Scale+%28VAS%29+pain+scores%2C+fluoroscopy+time%2C+sagittal+Cobb+angle+correction%2C+and+surgical+site+infection+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22thoracolumbar+fractures%22+AND+%22AO+Spine+Type+A%22%29+AND+%28%22transfascial%22+OR+%22Wiltse%22%29+AND+%22pedicle+screws%22+AND+%22randomized+controlled+trial%22%5BPT%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Thoracic+Vertebrae%2Finjuries%22%5BMeSH%5D+OR+%22Lumbar+Vertebrae%2Finjuries%22%5BMeSH%5D%29+AND+%28%22paraspinal+approach%22+OR+%22Wiltse+approach%22%29+AND+%22randomized+controlled+trial%22%5BPT%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## An operational key performance indicator framework and reference data from a multi-room pencil beam scanning proton therapy center.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873797/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Survival and disease burden of breast cancer (Monastir, Tunisia): A population-based cohort study (2002-2022).
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873796/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Short-term subjective and EEG responses following cervical rotatory manipulation are not reproduced by simulated cracking sound: A randomized controlled study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873793/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Stroboscopic light stimulation safety within and beyond laboratory settings: Observational evidence and practical guidance.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873782/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Pulse pressure variation demonstrates dose-dependent response to volume resuscitation in pediatric craniosynostosis repair.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873776/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Maternal deaths on arrival: A 5-year retrospective study in a health district in South Africa.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873773/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Feasibility, acceptability and usability of InControl web-platform intervention for older adults with chronic musculoskeletal pain: A mixed-methods pilot study protocol.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873771/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## A comparative study of pseudo-dipole arrays and standard arrays based on the high-density DC resistivity method.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873770/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## The effects of olfactory stimulation on postural control in adults: A systematic review.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873769/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Investigating the transfer of physical stimuli to the dreamed body: A comparative study of muscular, vestibular, and haptic stimulation on dream incorporation.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873764/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Personalized genomic landscape of prostate cancer in African American men reveals novel drivers and therapeutic opportunities.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873762/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Age-related differences in the clinical and microbiological profile of pediatric microbial keratitis in Eastern India.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873754/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Quality of recovery (QoR-15) after patient-controlled sedation during venous port implantation: A prespecified substudy of the PACSPI-2 randomised clinical trial.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873753/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Methodological drivers, reporting completeness, and transferability in HPV vaccination economic evaluations: A scoping review.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873751/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Associations of childhood body composition trajectories and adolescent body dissatisfaction: Longitudinal evidence from the UK Millennium Cohort Study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873729/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## GAN-enhanced digital twins for biomarker-guided cancer immunotherapy and adoptive cell therapy: a mini review.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42871728/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Early Discharge Strategy Including Subcutaneous Furosemide in Hospitalized Heart Failure.
+**Journal:** Journal of the American College of Cardiology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42872757/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Erratum. Sodium-Glucose Cotransporter 2 Inhibitor Use and Risk of Liver-Related Events in Patients With Type 2 Diabetes: A Meta-analysis of Observational Cohort Studies. Diabetes Care 2025;48:1042-1052.
+**Journal:** Diabetes Care  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873906/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Contemporary Sex-Specific Mortality Risk in Type 1 Diabetes During the Era of Advanced Therapeutic Care.
+**Journal:** Diabetes Care  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873598/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Cancer Risk in Patients With Overall and Site-Specific Lichen Planus.
+**Journal:** JAMA Dermatology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873519/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Device-Free Auricular Acupressure for Rosacea: A Randomized Clinical Trial.
+**Journal:** JAMA Dermatology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873508/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Caring Letters and Suicide Mortality Among US Veterans Who Contacted the Veterans Crisis Line: A Prespecified Secondary Analysis.
+**Journal:** JAMA Psychiatry  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873518/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Bariatric Surgery and Risk of Obesity-Related Cancer by Age and Sex.
+**Journal:** JAMA Surgery  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873495/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Safety and Efficacy of Acute Normovolemic Hemodilution in Female Patients: A Secondary Analysis of the ANH Trial.
+**Journal:** JAMA Surgery  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42873487/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
