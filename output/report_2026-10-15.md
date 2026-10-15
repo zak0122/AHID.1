@@ -205,7 +205,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Surgical Access and Required Transportation Escorts** -- JAMA Surgery, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854883
 
 
-## ⚠ 95 new systematic review/meta-analysis published in your journals
+## ⚠ 99 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -253,6 +253,10 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **From preclinical promise to regulatory reality: translation of small rodent acute injury therapies to human approval and safety outcomes: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42804443/
 - **Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42789586/
 - **Effects of exercise interventions on gait, motor function, and balance in patients with Parkinson's disease: A meta-analysis with clinical implications.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42789569/
+- **Efficacy and safety of acupuncture therapy for chronic spontaneous urticaria: a network meta-analysis based on randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42876828/
+- **Efficacy of acupuncture, Chinese herbal medicine, combined acupuncture-herbal therapy, and western medication for adult chronic insomnia: a network meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42876817/
+- **Comparative effectiveness of exercise and self-management interventions delivered through different modes of digital support on pain and patient-reported physical function in people with knee osteoarthritis: a systematic review and network meta-analysis of randomised controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42876545/
+- **Sarcopenia and outcomes after revascularization for peripheral arterial disease: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42876520/
 - **Artificial intelligence-based tongue image analysis for non-invasive screening of gastric cancer, precancerous lesions, and related gastrointestinal disorders: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42871270/
 - **Safety, efficacy, and opioid-sparing effects of ketamine for analgesia in traumatic chest injury and rib fractures: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42871262/
 - **Prevalence and factors associated with pulmonary hypertension in patients undergoing maintenance hemodialysis: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42871207/
@@ -306,121 +310,283 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Bright light therapy and circadian rhythm regulation for delirium prevention in hospitalised adults: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42805655/
 
 
-7 new RCT-type article(s) found.
+13 new RCT-type article(s) found.
 
-## Racial Differences in Respiratory Tract Infection Diagnosis and Antibiotic Prescriptions.
-**Journal:** Journal of General Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42875615/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
-
----
-
-## Longitudinal associations between loneliness and outcomes of Common Mental Disorders (CMDs): A systematic review and meta-analysis.
-**Journal:** BMC Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42875771/  
-**Published:** Oct 2026
+## Clinical, Functional, and Radiological Profile of Patients With Spondyloarthritis: A Cross-Sectional Study From a Tertiary Care Center in Central India.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876945/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Effectiveness and safety of coenzyme Q10 in people with heart failure with preserved ejection fraction (HFpEF): a systematic review and meta-analysis.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42869600/  
-**Published:** Oct 2026
+## Renal Dysfunction and Cardiorenal Syndrome in Acute Heart Failure: A Systematic Review of Residual Congestion and Decongestion Response.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876818/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## The red blood cell distribution width-to-albumin ratio and 28-day mortality in patients with severe cardiogenic shock: a retrospective cohort study based on MIMIC-IV with single-center external validation.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876909/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Health literacy, health status and health behavior among students and trainees in nursing: a longitudinal cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876879/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Efficacy and safety of acupuncture therapy for chronic spontaneous urticaria: a network meta-analysis based on randomized controlled trials.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876828/  
+**Published:** 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults (≥18 years) with heart failure with preserved ejection fraction (HFpEF), defined as an ejection fraction of ≥50%
-- Intervention: Coenzyme Q10 (CoQ10) supplementation (any regimen)
-- Comparator: Placebo or standard care
-- Outcome: Mortality, cardiovascular death, hospitalization due to heart failure, and quality of life (e.g., Kansas City Cardiomyopathy Questionnaire)
+- Population: Patients with chronic spontaneous urticaria (CSU)
+- Intervention: Acupuncture therapies (including acupuncture, moxibustion, autohemotherapy, bloodletting puncture, cupping, and combinations)
+- Comparator: Antihistamines or other acupuncture modalities
+- Outcome: Clinical efficacy, Dermatology Life Quality Index (DLQI), wheal count, pruritus severity, IgE levels, IL-4, IFN-γ, adverse reactions, and relapse rate
 - Study design: Randomized controlled trials (RCTs)
-- Notes: The abstract notes that evidence for all outcomes was considered very uncertain or of very low certainty due to small sample sizes and mixed results.
+- Notes: The abstract summarizes a network meta-analysis of 93 RCTs; while antihistamines are mentioned as a comparator, the specific control for every individual trial is not explicitly listed.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with heart failure and preserved or mildly reduced ejection fraction (LVEF >40%)
-- Intervention: Coenzyme Q10 (including ubiquinone and ubiquinol formulations)
-- Outcome: Clinical cardiovascular outcomes (mortality, hospitalization) and health-related quality of life
-- Why widened: The population was broadened to include mildly reduced ejection fraction (HFmrEF) as these patients are often grouped with HFpEF in clinical trials and guidelines. The intervention was clarified to include all chemical forms of CoQ10. Outcomes were grouped into broader clinical families to allow for more inclusive pooling.
+- Population: Patients with chronic urticaria
+- Intervention: Acupuncture-related therapies
+- Outcome: Clinical improvement, quality of life, symptom severity, immunological biomarkers, and safety
+- Why widened: Broadened 'Chronic Spontaneous Urticaria' to 'Chronic Urticaria' to include studies that may not specify the spontaneous subtype. Grouped specific techniques (moxibustion, cupping, bloodletting) under 'Acupuncture-related therapies'. Grouped specific clinical scores and laboratory markers into broader outcome families.
 
-**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~202 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** CHECK OVERLAP: 1 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~16
+- Broadened PICO pool: ~0
+- Existing reviews found: 1
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+chronic+spontaneous+urticaria+%28CSU%29+Acupuncture+therapies+%28including+acupuncture%2C+moxibustion%2C+autohemotherapy%2C+bloodletting+puncture%2C+cupping%2C+and+combinations%29+Clinical+efficacy%2C+Dermatology+Life+Quality+Index+%28DLQI%29%2C+wheal+count%2C+pruritus+severity%2C+IgE+levels%2C+IL-4%2C+IFN-%CE%B3%2C+adverse+reactions%2C+and+relapse+rate
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+chronic+spontaneous+urticaria+%28CSU%29+Acupuncture+therapies+%28including+acupuncture%2C+moxibustion%2C+autohemotherapy%2C+bloodletting+puncture%2C+cupping%2C+and+combinations%29+Clinical+efficacy%2C+Dermatology+Life+Quality+Index+%28DLQI%29%2C+wheal+count%2C+pruritus+severity%2C+IgE+levels%2C+IL-4%2C+IFN-%CE%B3%2C+adverse+reactions%2C+and+relapse+rate+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Urticaria%22%5BMesh%5D+OR+%22chronic+spontaneous+urticaria%22%29+AND+%28%22Acupuncture+Therapy%22%5BMesh%5D+OR+%22Moxibustion%22%5BMesh%5D+OR+%22Cupping+Therapy%22%5BMesh%5D%29+AND+%28randomized+controlled+trial%5Bpt%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Urticaria%22%5BMesh%5D%29+AND+%28%22Acupuncture%22%5BMesh%5D+OR+%22Medicine%2C+Chinese+Traditional%22%5BMesh%5D%29+AND+%28randomized+controlled+trial%5Bpt%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Efficacy of acupuncture, Chinese herbal medicine, combined acupuncture-herbal therapy, and western medication for adult chronic insomnia: a network meta-analysis.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876817/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Vascular norepinephrine responsiveness index for early risk stratification in emergency department septic shock: a real-world cohort study from a Latin American sepsis code registry.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876784/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults with septic shock treated with norepinephrine in the emergency department
+- Intervention: Vascular norepinephrine responsiveness index (VNERi), calculated as diastolic arterial pressure / (norepinephrine dose * heart rate)
+- Comparator: Mean arterial pressure-to-norepinephrine dose ratio (MAP/NE)
+- Outcome: 28-day in-hospital mortality
+- Study design: Single-center retrospective cohort study
+- Notes: The abstract clearly defines the population, the specific formula for the intervention, and the primary outcome. The comparator is used specifically for discrimination (AUROC) comparison.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with septic shock requiring vasopressor support
+- Intervention: Hemodynamic indices or markers of vasopressor responsiveness
+- Outcome: Short-term mortality (in-hospital or 28-30 day mortality)
+- Why widened: The population was broadened from the emergency department to any clinical setting (e.g., ICU) where septic shock is managed. The intervention was widened from a specific formula (VNERi) to the general class of vasopressor responsiveness indices to allow for meta-analysis of similar hemodynamic markers. The outcome was generalized to short-term mortality.
+
+**Signal:** WORTH A CLOSER LOOK: ~34 on the narrow PICO, ~7 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~34
+- Broadened PICO pool: ~7
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+septic+shock+treated+with+norepinephrine+in+the+emergency+department+Vascular+norepinephrine+responsiveness+index+%28VNERi%29%2C+calculated+as+diastolic+arterial+pressure+%2F+%28norepinephrine+dose+%2A+heart+rate%29+28-day+in-hospital+mortality
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+septic+shock+treated+with+norepinephrine+in+the+emergency+department+Vascular+norepinephrine+responsiveness+index+%28VNERi%29%2C+calculated+as+diastolic+arterial+pressure+%2F+%28norepinephrine+dose+%2A+heart+rate%29+28-day+in-hospital+mortality+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Vascular+norepinephrine+responsiveness+index%22+OR+%22VNERi%22%29+AND+%22septic+shock%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22vasopressor+responsiveness%22+OR+%22norepinephrine+responsiveness%22%29+AND+%22septic+shock%22+AND+%22mortality%22
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Season-adjusted longitudinal changes in serum 25-hydroxyvitamin D during pegylated interferon add-on to ongoing tenofovir alafenamide therapy in chronic hepatitis B: a real-world cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876729/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with chronic hepatitis B receiving ongoing tenofovir alafenamide (TAF) therapy
+- Intervention: Pegylated interferon alfa-2b (Peg-IFN) add-on therapy
+- Comparator: unclear (no concurrent comparator group mentioned)
+- Outcome: Serum 25-hydroxyvitamin D [25(OH)D] levels and trajectories over 48 weeks
+- Study design: Retrospective cohort study
+- Notes: The abstract explicitly states there was no concurrent comparator, meaning the change in Vitamin D cannot be definitively attributed to the intervention versus the baseline therapy or other factors.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with chronic hepatitis B receiving nucleos(t)ide analogue (NA) therapy
+- Intervention: Pegylated interferon add-on therapy
+- Outcome: Vitamin D status or markers of bone mineral metabolism
+- Why widened: Broadened the specific drug (TAF) to the drug class (nucleos(t)ide analogues) and the specific interferon type (alfa-2b) to the general class (pegylated interferon) as these are often used interchangeably in clinical guidelines. Broadened the outcome to include general vitamin D status and bone markers to capture related metabolic effects of antiviral therapy.
+
+**Signal:** PROBABLY TOO THIN: only ~3 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~3
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+chronic+hepatitis+B+receiving+ongoing+tenofovir+alafenamide+%28TAF%29+therapy+Pegylated+interferon+alfa-2b+%28Peg-IFN%29+add-on+therapy+Serum+25-hydroxyvitamin+D+%5B25%28OH%29D%5D+levels+and+trajectories+over+48+weeks
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+chronic+hepatitis+B+receiving+ongoing+tenofovir+alafenamide+%28TAF%29+therapy+Pegylated+interferon+alfa-2b+%28Peg-IFN%29+add-on+therapy+Serum+25-hydroxyvitamin+D+%5B25%28OH%29D%5D+levels+and+trajectories+over+48+weeks+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hepatitis+B%2C+Chronic%22%5BMesh%5D%29+AND+%22tenofovir+alafenamide%22+AND+%22Interferon-alpha%22%5BMesh%5D+AND+%22Vitamin+D%22%5BMesh%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hepatitis+B%2C+Chronic%22%5BMesh%5D%29+AND+%22Antiviral+Agents%22%5BMesh%5D+AND+%22Interferon-alpha%22%5BMesh%5D+AND+%22Vitamin+D%22%5BMesh%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Dynamic machine-learning model for early prediction of intraoperative hypotension using 5-minute perioperative time-series data: a multicenter retrospective study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876673/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Impact of low bone mass and osteoporosis on lower limb alignment and knee function in high tibial osteotomy for varus knee osteoarthritis.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876614/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with varus knee osteoarthritis undergoing medial open-wedge high tibial osteotomy (HTO)
+- Intervention: Low bone mass (osteopenia or osteoporosis, defined as T-score < -1.0)
+- Comparator: Normal bone mass (T-score >= -1.0)
+- Outcome: Clinical outcomes (VAS, WOMAC, Lysholm score) and radiographic outcomes (MPTA, FTA, HKA, WBLR, PTS) at 24 months
+- Study design: Retrospective cohort study
+- Notes: The abstract explicitly states that no primary endpoint was defined and the study was not powered to exclude clinically meaningful differences.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with knee osteoarthritis undergoing high tibial osteotomy (HTO)
+- Intervention: Low bone mineral density or osteoporosis
+- Outcome: Postoperative clinical and radiographic outcomes
+- Why widened: Broadened population from 'varus knee osteoarthritis' and 'medial open-wedge HTO' to general knee osteoarthritis and HTO to include other techniques (e.g., closed-wedge). Broadened intervention from specific T-score thresholds to general low bone density. Broadened outcomes to general clinical and radiographic success to capture various scoring systems and alignment measures.
+
+**Signal:** PROBABLY TOO THIN: only ~4 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
 
 **Pool counts (keyword-based, not verified):**
 - Narrow PICO pool: ~3
-- Broadened PICO pool: ~202
+- Broadened PICO pool: ~4
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%28%E2%89%A518+years%29+with+heart+failure+with+preserved+ejection+fraction+%28HFpEF%29%2C+defined+as+an+ejection+fraction+of+%E2%89%A550%25+Coenzyme+Q10+%28CoQ10%29+supplementation+%28any+regimen%29+Mortality%2C+cardiovascular+death%2C+hospitalization+due+to+heart+failure%2C+and+quality+of+life+%28e.g.%2C+Kansas+City+Cardiomyopathy+Questionnaire%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%28%E2%89%A518+years%29+with+heart+failure+with+preserved+ejection+fraction+%28HFpEF%29%2C+defined+as+an+ejection+fraction+of+%E2%89%A550%25+Coenzyme+Q10+%28CoQ10%29+supplementation+%28any+regimen%29+Mortality%2C+cardiovascular+death%2C+hospitalization+due+to+heart+failure%2C+and+quality+of+life+%28e.g.%2C+Kansas+City+Cardiomyopathy+Questionnaire%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Heart+Failure%2C+Diastolic%22%5BMeSH%5D+OR+%22HFpEF%22%29+AND+%28%22Ubiquinone%22%5BMeSH%5D+OR+%22Coenzyme+Q10%22%29+AND+%28randomized+controlled+trial%5BFilter%5D%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Heart+Failure%22%5BMeSH%5D%29+AND+%28%22Ubiquinone%22%5BMeSH%5D+OR+%22Coenzyme+Q10%22%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+varus+knee+osteoarthritis+undergoing+medial+open-wedge+high+tibial+osteotomy+%28HTO%29+Low+bone+mass+%28osteopenia+or+osteoporosis%2C+defined+as+T-score+%3C+-1.0%29+Clinical+outcomes+%28VAS%2C+WOMAC%2C+Lysholm+score%29+and+radiographic+outcomes+%28MPTA%2C+FTA%2C+HKA%2C+WBLR%2C+PTS%29+at+24+months
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+varus+knee+osteoarthritis+undergoing+medial+open-wedge+high+tibial+osteotomy+%28HTO%29+Low+bone+mass+%28osteopenia+or+osteoporosis%2C+defined+as+T-score+%3C+-1.0%29+Clinical+outcomes+%28VAS%2C+WOMAC%2C+Lysholm+score%29+and+radiographic+outcomes+%28MPTA%2C+FTA%2C+HKA%2C+WBLR%2C+PTS%29+at+24+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Osteoarthritis%2C+Knee%22%5BMesh%5D%29+AND+%22Osteotomy%22%5BMesh%5D+AND+%28%22Osteoporosis%22%5BMesh%5D+OR+%22Bone+Diseases%2C+Metabolic%22%5BMesh%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Osteotomy%22%5BMesh%5D+AND+%22Knee%22%5BMesh%5D%29+AND+%28%22Bone+Density%22%5BMesh%5D+OR+%22Osteoporosis%22%5BMesh%5D%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Antithrombotic therapy regimens after transcatheter valve-in-valve and valve-in-ring procedures: a scoping review.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42869591/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
-
----
-
-## Association between physical activity and quality of life among breast cancer survivors in China: a cross-sectional mediation analysis.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42869584/  
-**Published:** Oct 2026
+## Explainability-informed patient-disjoint evaluation of deep learning for plus disease in retinopathy of prematurity with an ophthalmologist reader study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876591/  
+**Published:** 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Breast cancer survivors (1-5 years post-primary treatment) in Hunan, China
-- Intervention: Physical activity (measured via IPAQ-SF)
-- Comparator: Lower levels of physical activity
-- Outcome: Quality of Life (FACT-B) and unmet healthcare-seeking/health behavior needs (CSP-BC)
-- Study design: Cross-sectional mediation analysis
-- Notes: The study is cross-sectional, meaning the 'intervention' is an observed exposure rather than a randomized treatment. The comparator is the internal variation of activity levels within the cohort.
+- Population: Infants with retinopathy of prematurity (ROP) represented by Phoenix ICON fundus images.
+- Intervention: Deep learning-based classification for plus disease using five pretrained convolutional neural networks (including DenseNet121).
+- Comparator: Ophthalmologist grading (inter-observer and intra-observer) and examination-derived reference labels.
+- Outcome: Image-level ROC-AUC, sensitivity, specificity, inter-observer agreement, and intra-observer repeatability.
+- Study design: Diagnostic accuracy study using a patient-disjoint development/hold-out design and a reader study.
+- Notes: The abstract notes that within-infant analyses were descriptive because examination identifiers were unavailable, meaning infant-level diagnostic performance was not fully established.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Breast cancer survivors
-- Intervention: Physical activity or exercise
-- Outcome: Quality of Life and survivorship needs
-- Why widened: Removed geographic restriction (China) and the specific post-treatment timeframe (1-5 years) to encompass the broader survivor population. Generalized physical activity and QoL measures beyond specific scales (IPAQ-SF/FACT-B) to include any validated assessment of these constructs.
+- Population: Infants/Neonates undergoing screening for retinopathy of prematurity.
+- Intervention: Artificial intelligence or deep learning systems for the automated detection of plus disease.
+- Outcome: Diagnostic accuracy metrics (sensitivity, specificity, AUC) and reliability/agreement with clinical experts.
+- Why widened: Widened specific CNN architectures to the broader category of 'Artificial Intelligence' and 'Deep Learning'. Generalized image-level metrics to 'diagnostic accuracy' to include infant-level or examination-level performance which is the ultimate clinical goal.
 
-**Signal:** WORTH A CLOSER LOOK: ~63 on the narrow PICO, ~1074 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~10 on the narrow PICO, ~120 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~63
-- Broadened PICO pool: ~1074
+- Narrow PICO pool: ~10
+- Broadened PICO pool: ~120
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Breast+cancer+survivors+%281-5+years+post-primary+treatment%29+in+Hunan%2C+China+Physical+activity+%28measured+via+IPAQ-SF%29+Quality+of+Life+%28FACT-B%29+and+unmet+healthcare-seeking%2Fhealth+behavior+needs+%28CSP-BC%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Breast+cancer+survivors+%281-5+years+post-primary+treatment%29+in+Hunan%2C+China+Physical+activity+%28measured+via+IPAQ-SF%29+Quality+of+Life+%28FACT-B%29+and+unmet+healthcare-seeking%2Fhealth+behavior+needs+%28CSP-BC%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Breast+Neoplasms%22%5BMesh%5D%29+AND+%28%22Exercise%22%5BMesh%5D+OR+%22Physical+Activity%22%29+AND+%28%22Quality+of+Life%22%5BMesh%5D%29+AND+%22China%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Breast+Neoplasms%22%5BMesh%5D%29+AND+%28%22Exercise%22%5BMesh%5D+OR+%22Physical+Activity%22%29+AND+%28%22Quality+of+Life%22%5BMesh%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Infants+with+retinopathy+of+prematurity+%28ROP%29+represented+by+Phoenix+ICON+fundus+images.+Deep+learning-based+classification+for+plus+disease+using+five+pretrained+convolutional+neural+networks+%28including+DenseNet121%29.+Image-level+ROC-AUC%2C+sensitivity%2C+specificity%2C+inter-observer+agreement%2C+and+intra-observer+repeatability.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Infants+with+retinopathy+of+prematurity+%28ROP%29+represented+by+Phoenix+ICON+fundus+images.+Deep+learning-based+classification+for+plus+disease+using+five+pretrained+convolutional+neural+networks+%28including+DenseNet121%29.+Image-level+ROC-AUC%2C+sensitivity%2C+specificity%2C+inter-observer+agreement%2C+and+intra-observer+repeatability.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Retinopathy+of+Prematurity%22%5BMesh%5D%29+AND+%28%22Deep+Learning%22%5BMesh%5D%29+AND+%22plus+disease%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Retinopathy+of+Prematurity%22%5BMesh%5D%29+AND+%28%22Artificial+Intelligence%22%5BMesh%5D+OR+%22Deep+Learning%22%5BMesh%5D%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Acupuncture-related therapies as an adjunct to opioid agonist therapy during active dose reduction in adults with opioid use disorder: protocol for a scoping review.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42864141/  
-**Published:** Oct 2026
+## Comparative effectiveness of exercise and self-management interventions delivered through different modes of digital support on pain and patient-reported physical function in people with knee osteoarthritis: a systematic review and network meta-analysis of randomised controlled trials.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876545/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
 
-## Waist circumference outperforms cardiometabolic indices for identifying hypogonadism in Klinefelter Syndrome.
-**Journal:** Journal of Clinical Endocrinology & Metabolism  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42875728/  
-**Published:** Oct 2026
+## Risk factors for recurrent variceal bleeding after TIPS in cirrhotic patients with esophagogastric variceal hemorrhage: a single-center retrospective study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42876481/  
+**Published:** 2026
 
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Cirrhotic patients with esophagogastric variceal hemorrhage (EGVB)
+- Intervention: Transjugular intrahepatic portosystemic shunt (TIPS)
+- Comparator: unclear
+- Outcome: Recurrent variceal bleeding (1-year rate)
+- Study design: Single-center retrospective cohort study
+- Notes: The study is a prognostic risk factor analysis rather than a comparative trial, so there is no formal intervention comparator group; the abstract is truncated before listing all risk factors.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Cirrhotic patients with portal hypertension-related gastrointestinal bleeding
+- Intervention: Transjugular intrahepatic portosystemic shunt (TIPS)
+- Outcome: Post-procedural rebleeding
+- Why widened: Broadened the specific 'esophagogastric variceal hemorrhage' to the clinical category of portal hypertension-related bleeding to include other variceal sites; generalized the outcome timeframe from 1-year to any post-procedural rebleeding to facilitate pooling of prognostic studies.
+
+**Signal:** WORTH A CLOSER LOOK: ~4 on the narrow PICO, ~80 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~4
+- Broadened PICO pool: ~80
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Cirrhotic+patients+with+esophagogastric+variceal+hemorrhage+%28EGVB%29+Transjugular+intrahepatic+portosystemic+shunt+%28TIPS%29+Recurrent+variceal+bleeding+%281-year+rate%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Cirrhotic+patients+with+esophagogastric+variceal+hemorrhage+%28EGVB%29+Transjugular+intrahepatic+portosystemic+shunt+%28TIPS%29+Recurrent+variceal+bleeding+%281-year+rate%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22TIPS%22+OR+%22Transjugular+intrahepatic+portosystemic+shunt%22%29+AND+%22esophagogastric+variceal+hemorrhage%22+AND+%22rebleeding%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Portasystemic+Shunt%2C+Transjugular+Intrahepatic%22%5BMeSH%5D%29+AND+%28%22Esophageal+and+Gastric+Varices%2Fcomplications%22%5BMeSH%5D%29+AND+%28%22Recurrence%22%5BMeSH%5D+OR+%22Risk+Factors%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
