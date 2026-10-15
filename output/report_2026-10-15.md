@@ -1,6 +1,6 @@
 # Journal Watch Report -- 2026-10-15
 
-## 🕐 190 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 199 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
@@ -24,13 +24,26 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Health-Related Social Needs among Older Adults — Addressing Mismeasurement** -- New England Journal of Medicine, 2026-10-10T11:30:07Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2608580?af=R&rss=currentIssue
 - **Not Available in Your Country** -- New England Journal of Medicine, 2026-10-10T11:30:07Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2609409?af=R&rss=currentIssue
 - **Adult Attention Deficit–Hyperactivity Disorder** -- New England Journal of Medicine, 2026-10-14T09:00:07Z -- https://www.nejm.org/doi/full/10.1056/NEJMcp2516040?af=R&rss=currentIssue
-- **Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855458
-- **Error in Author Name** -- JAMA, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855204
-- **Gastric Residual Volume Assessment in Critically Ill Children** -- JAMA, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855203
-- **Gastric Residual Volume Assessment in Critically Ill Children—Reply** -- JAMA, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855202
-- **Development and Validation of an Adult Medical Urgency Score for US Donor Heart Allocation** -- JAMA, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855201
-- **Heart Transplant for Advanced Heart Failure: A Review** -- JAMA, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855200
-- **As Organ Supply Expands, Equity Must Be Reimagined** -- JAMA, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855199
+- **Announcing New Journal  JAMA AI** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855493
+- **Engaging With Medical Evidence in the Age of AI** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855492
+- **Clinician Use of an Artificial Intelligence–Enabled Clinical Information Platform** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855491
+- **Word Origins** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855386
+- **Testosterone Screening Thresholds in Active-Duty US Male Service Members** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855385
+- **Treatment Discontinuation of Blood Pressure–Lowering Drugs** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855384
+- **Lifestyle and Metformin Interventions and Risk of Multimorbidity in Individuals With Prediabetes** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855383
+- **Treatment Discontinuation of Blood Pressure–Lowering Drugs—Reply** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855382
+- **Lifestyle and Metformin Interventions and Risk of Multimorbidity in Individuals With Prediabetes—In Reply** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855381
+- **See One** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855380
+- **FDA’s Testosterone Label Changes: Implications and Unresolved Issues** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855379
+- **Over-the-Counter Hearing Aids 4 Years Later** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855378
+- **Inhaled Sedation in Acute Respiratory Failure** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855467
+- **Vasopressin in Septic Shock** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855466
+- **Inhaled Sedation Strategy for Acute Hypoxemic Respiratory Failure** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855465
+- **Isoflurane in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855464
+- **Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative AKI in Septic Shock** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855463
+- **Vasopressin Initiation Threshold in Septic Shock** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855462
+- **Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure Research Summary** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855461
+- **Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock   Research Summary** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855460
 - **ACP joins national and state medical organizations in objecting to proposed changes to Modifier -25 in Medicare Physician Fee Schedule** -- Annals of Internal Medicine, Mon, 12 Oct 2026 12:18:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-joins-national-and-state-medical-organizations-in-objecting-to-proposed-changes-to-modifier-25
 - **ACP joins Utah Medical Licensing Board in calling for reevaluation of the state's AI prescription pilot program** -- Annals of Internal Medicine, Fri, 09 Oct 2026 12:17:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-joins-utah-medical-licensing-board-in-calling-for-reevaluation-of-the-states-ai-prescription
 - **Applications now open for internship in ACP's Washington, D.C., office** -- Annals of Internal Medicine, Thu, 08 Oct 2026 15:17:00 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20261006-applications-now-open-for-internship-in-acps
@@ -57,26 +70,26 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Evaluation of Intervention Strategies to Improve Follow-Up Colonoscopy After Abnormal FIT/FOBT Result** -- JAMA Internal Medicine, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854543
 - **Cessation of DMARD Therapy and COVID-19 Supplemental Dose Vaccine Immunogenicity in Inflammatory Arthritis** -- JAMA Internal Medicine, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854542
 - **The UK Delivers a Tobacco-Free Generation—But Is the Real Prize Global?** -- JAMA Internal Medicine, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854541
+- **Prevalence and correlates of sexual harassment among female nursing students in Tanzanian higher educational institutions: a cross-sectional survey** -- BMJ Open, 2026-10-15T04:19:58-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e125302?rss=1
+- **Protecting mothers and their infants through screening and comprehensive management of sexually transmitted infections in antenatal care in Zimbabwe (PROMISE): study protocol for an open label individually randomised controlled trial** -- BMJ Open, 2026-10-15T04:19:58-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e126249?rss=1
+- **Protocol for the development of a paediatric core outcome set for arthrogryposis multiplex congenita: an international multi-interest-holder consensus study** -- BMJ Open, 2026-10-15T04:19:58-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e126300?rss=1
+- **Trends in diversity of scientific authorship by ethnicity, sex and age of authors in a National Institute for Health and Care Research Biomedical Research Centre in England: a retrospective longitudinal bibliometric study** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e115677?rss=1
+- **Mixed-methods evaluation of a rights-based intervention to reduce long-term segregation in mental health services: the HOPE(S) National Programme in England** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e115706?rss=1
+- **Evaluation and performance of the {beta}-hCG discriminatory zone and targeted ultrasound findings for early pregnancy diagnosis in a high-risk population: a retrospective cohort study at a US safety-net hospital** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e116039?rss=1
+- **Experiences during medical internship in Bangladesh: a multicentre cross-sectional study** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e116419?rss=1
+- **Return to work and work abandonment in female breast cancer survivors: systematic review and meta-analysis protocol** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e117563?rss=1
+- **Randomised, double-blind, placebo-controlled trial of faecal microbiota transplantation in patients with decompensated cirrhosis: the Livergut protocol** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118486?rss=1
+- **Incidence of diabetes remission and association with microvascular and macrovascular complications in patients with newly diagnosed type 2 diabetes mellitus: a retrospective cohort study using real-world data in Thailand** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119475?rss=1
+- **Local food system-related predictors of food security among lactating women in rural central Oromia, Ethiopia: a cross-sectional study** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119597?rss=1
+- **Multiplex molecular respiratory diagnostic panels and antimicrobial use in paediatric respiratory infections: a systematic review and meta-analysis protocol** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120190?rss=1
+- **Photobiomodulation therapy combined with a static magnetic field in critically ill patients receiving invasive mechanical ventilation: protocol for a multicentre randomised triple-blind placebo-controlled trial** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121660?rss=1
+- **Web-based resources supporting a public health approach to preventing and responding to problematic and harmful sexual behaviour in children and young people: protocol for a grey literature scoping review** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122907?rss=1
+- **Gateway to belonging? A mixed-methods study exploring the experiences of widening participation students in a UK medical school** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123003?rss=1
+- **Accessibility of essential medicines and vaccines among fisherfolk, artisanal miners and pastoralists in Mainland Tanzania: a qualitative study of barriers and strategies from the perspectives of healthcare professionals and community leaders** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123559?rss=1
+- **Beyond non-adherence: qualitative insights into how patients strategically navigate pluralistic chronic care in West Africa** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123607?rss=1
+- **Components of service delivery for the detection, care and management of children with cerebral visual impairment: a scoping review** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123975?rss=1
+- **Role and values of Swedish community hospitals through the eyes of general hospital doctors: a qualitative interview study** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e124543?rss=1
 - **Comparative risk of injury among users of benzodiazepines and related drugs concomitantly with clarithromycin versus azithromycin: a retrospective cohort study of US Medicaid enrollees** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e109127?rss=1
-- **What is the value of value dialogues? An interview study exploring a collaborative approach with patients and professionals supporting values-driven healthcare in a tertiary care hospital** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e110901?rss=1
-- **Developing a shared decision-making intervention to support choices about prophylactic cranial irradiation treatment for small-cell lung cancer: a study protocol** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e114379?rss=1
-- **Prevalence of amyloidosis among older cardiac patients with left ventricular hypertrophy: a cross-sectional single-centre study in Moscow, Russia** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e116279?rss=1
-- **Adherence to vaccination schedules in patients under active oncological treatment and follow-up: protocol for a systematic review and meta-analysis** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e117576?rss=1
-- **Investigating the Efficacy of the Proactive Automatised Lifestyle intervention among general hospital patients (ePAL): study protocol of a randomised controlled trial** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119026?rss=1
-- **Clinical profile, risk factors and in-hospital outcomes of ST-segment elevation myocardial infarction in young versus older adults: a 5-year retrospective cohort study at a tertiary care centre in Riyadh, Saudi Arabia** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119702?rss=1
-- **Characteristics and outcomes of haemorrhage, traumatic brain injury and combined injuries from a South African Trauma Cohort Study** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120519?rss=1
-- **Preferences for treatment for latent tuberculosis infection in primary care among people in the USA at increased risk of tuberculosis: a pilot survey** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121108?rss=1
-- **Hyperuricaemia risk and its association with kidney failure and mortality in newly diagnosed type 2 diabetes with preserved renal function: a multicentre machine learning study** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121518?rss=1
-- **Videolaryngoscopy versus direct laryngoscopy for tracheal intubation in paediatric surgery: the VIDEOKIDS pragmatic international multicentre randomised trial study protocol** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121942?rss=1
-- **ITACARE-P cardiorehab registry: real-world data on quality and outcomes in heart failure and ischaemic heart disease - a prospective observational study protocol of the Italian early post-acute cardiac rehabilitation network** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123303?rss=1
-- **Secondary mental healthcare utilisation and costs before and after diagnosis of mild cognitive impairment or dementia: a retrospective observational cohort study from a South London mental health service** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123592?rss=1
-- **Cost-utility analysis and budget impact of policy options for kidney replacement therapy coverage for end-stage kidney disease in Kenya** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123693?rss=1
-- **Perspectives on implementing nerve and tendon transfer surgery in spinal cord injury rehabilitation in the USA and Canada: a qualitative study** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e125795?rss=1
-- **A randomised, placebo-controlled study to assess whether antibiotic-mediated disruption of the gut microbiota impairs BCG-induced specific and non-specific immunity in young, healthy adults: protocol for the Antibiotics and Vaccine Immune Responses Study (AVIRS)** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e126924?rss=1
-- **Clinical, psychosocial and cognitive outcomes following VBAC: a protocol for a sub-national cohort study in Saudi Arabia (2019-2024)** -- BMJ Open, 2026-10-13T02:42:55-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e114754?rss=1
-- **Effectiveness and safety of coenzyme Q10 in people with heart failure with preserved ejection fraction (HFpEF): a systematic review and meta-analysis** -- BMJ Open, 2026-10-13T02:42:55-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e116033?rss=1
-- **Development and description of a logic model for a guided, low-intensity cognitive behavioural therapy intervention for parents of persons treated for cancer during childhood: the EJDeR intervention** -- BMJ Open, 2026-10-13T02:42:55-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e116503?rss=1
-- **Association between physical activity and quality of life among breast cancer survivors in China: a cross-sectional mediation analysis** -- BMJ Open, 2026-10-13T02:42:55-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118828?rss=1
 - **Periorbital Purpura and Fatigue in a Man Aged 57 Years** -- JAMA Cardiology, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2855128
 - **A Proactive Digital Valve Care Pathway for Management of Severe Aortic Stenosis** -- JAMA Cardiology, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2855127
 - **Cement Embolism After Vertebroplasty** -- JAMA Cardiology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854803
@@ -119,6 +132,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Inflation-Adjusted Medicare Reimbursement for Common Dermatologic Procedures** -- JAMA Dermatology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2854944
 - **CLIPI and Risk Stratification in Advanced Mycosis Fungoides and Sézary Syndrome** -- JAMA Dermatology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2854943
 - **Melanoma Prevention Among Children of Melanoma Survivors** -- JAMA Dermatology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2854942
+- **The Challenges of Linking SNAP State Cost Sharing to Payment Error Rates** -- JAMA Health Forum, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855585
 - **Site-Neutral Rate-Setting Methods for Medicare Spending** -- JAMA Health Forum, Fri, 09 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854819
 - **Drug Spending on Accelerated Approval Indications Subsequently Withdrawn From the Market** -- JAMA Health Forum, Fri, 09 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854818
 - **Pharmacy Benefit Manager Involvement in the US Opioid Crisis** -- JAMA Health Forum, Fri, 09 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854817
@@ -144,26 +158,21 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Rapid Whole-Genome Sequencing in Pediatric Neurology Inpatients** -- JAMA Neurology, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854794
 - **Blood-Based Biomarkers, Diagnostic Certainty, and Clinical Management** -- JAMA Neurology, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854793
 - **Ten Years of Ocrelizumab in Relapsing Multiple Sclerosis** -- JAMA Neurology, Mon, 05 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854792
+- **Neoadjuvant Stereotactic Ablative Radiotherapy Before Inferior Vena Cava Thrombectomy for Renal Cell Carcinoma** -- JAMA Oncology, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855337
+- **Additional Analyses to Address Model Used to Adjust for Crossover in the ClarIDHy Trial** -- JAMA Oncology, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855336
+- **Complementary Observations for Interpreting Findings of T-Cell–Engaging Bispecific Antibody Therapy** -- JAMA Oncology, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855335
+- **Complementary Observations for Interpreting Findings of T-Cell–Engaging Bispecific Antibody Therapy—Reply** -- JAMA Oncology, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855334
+- **Nivolumab-Ipilimumab for Gastric/Gastroesophageal Junction Adenocarcinoma** -- JAMA Oncology, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855333
 - **Disitamab Vedotin Plus Tislelizumab in Non–Muscle-Invasive Bladder Cancer** -- JAMA Oncology, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854915
 - **Chi Hong? We Are Ready For You** -- JAMA Oncology, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854914
 - **Beyond Tumor Size, Toward Meaningful Patient Outcomes** -- JAMA Oncology, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854913
-- **Error in Supplement 3** -- JAMA Oncology, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854861
-- **Actionable Signals in Pancreatic Cancer Risk Scores** -- JAMA Oncology, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854860
-- **Actionable Signals in Pancreatic Cancer Risk Scores—Reply** -- JAMA Oncology, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854859
-- **Immune Checkpoint Inhibitor–Based Downstaging Therapy for Hepatocellular Carcinoma** -- JAMA Oncology, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854858
-- **Rethinking Treatment Intensification in Poorly Chemosensitive Ovarian Cancer** -- JAMA Oncology, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854857
-- **Rethinking Value in Cancer Care in the US** -- JAMA Oncology, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854856
+- **A Woman With Palatal Ulcers** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855370
+- **Facial Synkinesis Resting Phenotypes and Surgical Implications** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855369
+- **Longitudinal Growth of Mandated Hearing Aid Benefits in the US** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855368
 - **Validity of the SNOT-22 as a Primary Outcome in Recurrent Acute Rhinosinusitis** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855173
 - **Validity of the SNOT-22 as a Primary Outcome in Recurrent Acute Rhinosinusitis—Reply** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855172
 - **Body Composition Metrics and Overall Survival in Head and Neck Cancer Radiotherapy** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855171
 - **Precision Phenotyping With Audiometric Data and Gene Discovery** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855170
-- **Sinonasal Obstruction Secondary to Mass With Palatal Erosion** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854691
-- **Opioid Use After Head and Neck Cancer Treatment** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854690
-- **Pollutant-Specific Inflammatory Signatures in Sinonasal Tissue** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854689
-- **Pollutant-Specific Inflammatory Signatures in Sinonasal Tissue—Reply** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854688
-- **Long-Term Opioid Use Following Radiation or Chemoradiation for Head and Neck Cancer** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854687
-- **Testosterone Inhibition and Risk of Laryngeal and Hypopharyngeal Squamous Cell Carcinoma in Men** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854686
-- **Ergonomics in Endoscopic Sinus and Skull Base Surgery** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854685
 - **Supporting LGBT Adolescents—A Global Need in Challenging Times** -- JAMA Pediatrics, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2855214
 - **Racial and Ethnic Disparities in Birth Weight Measurement Precision** -- JAMA Pediatrics, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2855213
 - **Support Seeking and Mental Health Risk Among US Adolescents** -- JAMA Pediatrics, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2855212
@@ -196,7 +205,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Surgical Access and Required Transportation Escorts** -- JAMA Surgery, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854883
 
 
-## ⚠ 94 new systematic review/meta-analysis published in your journals
+## ⚠ 95 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -221,6 +230,7 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Network meta-analysis of intrathyroidal injection of combined dexamethasone with lidocaine for subacute thyroiditis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798061/
 - **Comparison of bivalirudin versus heparin in percutaneous coronary intervention for patients with acute coronary syndrome: A meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798052/
 - **A network meta-analysis of intensive nursing interventions for delirium in ICU patients.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798043/
+- **Longitudinal associations between loneliness and outcomes of Common Mental Disorders (CMDs): A systematic review and meta-analysis.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42875771/
 - **Factors influencing access to green health prescribing in primary care for older adults - a qualitative systematic review.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823709/
 - **Effectiveness of green health prescribing and nature-based interventions in primary care and community settings for older adults: a systematic review of health, wellbeing and social outcomes.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823701/
 - **The effectiveness of digital therapeutics in improving sleep quality: a systematic review and network meta-analysis.** -- BMC Medicine, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42806363/
@@ -295,4 +305,122 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Sarcopenia in Indian adults with type 2 diabetes: a systematic review and meta-analysis of prevalence and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42810793/
 - **Bright light therapy and circadian rhythm regulation for delirium prevention in hospitalised adults: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42805655/
 
-No new RCT-type articles found today.
+
+7 new RCT-type article(s) found.
+
+## Racial Differences in Respiratory Tract Infection Diagnosis and Antibiotic Prescriptions.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42875615/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Longitudinal associations between loneliness and outcomes of Common Mental Disorders (CMDs): A systematic review and meta-analysis.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42875771/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Effectiveness and safety of coenzyme Q10 in people with heart failure with preserved ejection fraction (HFpEF): a systematic review and meta-analysis.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42869600/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults (≥18 years) with heart failure with preserved ejection fraction (HFpEF), defined as an ejection fraction of ≥50%
+- Intervention: Coenzyme Q10 (CoQ10) supplementation (any regimen)
+- Comparator: Placebo or standard care
+- Outcome: Mortality, cardiovascular death, hospitalization due to heart failure, and quality of life (e.g., Kansas City Cardiomyopathy Questionnaire)
+- Study design: Randomized controlled trials (RCTs)
+- Notes: The abstract notes that evidence for all outcomes was considered very uncertain or of very low certainty due to small sample sizes and mixed results.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with heart failure and preserved or mildly reduced ejection fraction (LVEF >40%)
+- Intervention: Coenzyme Q10 (including ubiquinone and ubiquinol formulations)
+- Outcome: Clinical cardiovascular outcomes (mortality, hospitalization) and health-related quality of life
+- Why widened: The population was broadened to include mildly reduced ejection fraction (HFmrEF) as these patients are often grouped with HFpEF in clinical trials and guidelines. The intervention was clarified to include all chemical forms of CoQ10. Outcomes were grouped into broader clinical families to allow for more inclusive pooling.
+
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~202 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~202
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%28%E2%89%A518+years%29+with+heart+failure+with+preserved+ejection+fraction+%28HFpEF%29%2C+defined+as+an+ejection+fraction+of+%E2%89%A550%25+Coenzyme+Q10+%28CoQ10%29+supplementation+%28any+regimen%29+Mortality%2C+cardiovascular+death%2C+hospitalization+due+to+heart+failure%2C+and+quality+of+life+%28e.g.%2C+Kansas+City+Cardiomyopathy+Questionnaire%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%28%E2%89%A518+years%29+with+heart+failure+with+preserved+ejection+fraction+%28HFpEF%29%2C+defined+as+an+ejection+fraction+of+%E2%89%A550%25+Coenzyme+Q10+%28CoQ10%29+supplementation+%28any+regimen%29+Mortality%2C+cardiovascular+death%2C+hospitalization+due+to+heart+failure%2C+and+quality+of+life+%28e.g.%2C+Kansas+City+Cardiomyopathy+Questionnaire%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Heart+Failure%2C+Diastolic%22%5BMeSH%5D+OR+%22HFpEF%22%29+AND+%28%22Ubiquinone%22%5BMeSH%5D+OR+%22Coenzyme+Q10%22%29+AND+%28randomized+controlled+trial%5BFilter%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Heart+Failure%22%5BMeSH%5D%29+AND+%28%22Ubiquinone%22%5BMeSH%5D+OR+%22Coenzyme+Q10%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Antithrombotic therapy regimens after transcatheter valve-in-valve and valve-in-ring procedures: a scoping review.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42869591/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Association between physical activity and quality of life among breast cancer survivors in China: a cross-sectional mediation analysis.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42869584/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Breast cancer survivors (1-5 years post-primary treatment) in Hunan, China
+- Intervention: Physical activity (measured via IPAQ-SF)
+- Comparator: Lower levels of physical activity
+- Outcome: Quality of Life (FACT-B) and unmet healthcare-seeking/health behavior needs (CSP-BC)
+- Study design: Cross-sectional mediation analysis
+- Notes: The study is cross-sectional, meaning the 'intervention' is an observed exposure rather than a randomized treatment. The comparator is the internal variation of activity levels within the cohort.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Breast cancer survivors
+- Intervention: Physical activity or exercise
+- Outcome: Quality of Life and survivorship needs
+- Why widened: Removed geographic restriction (China) and the specific post-treatment timeframe (1-5 years) to encompass the broader survivor population. Generalized physical activity and QoL measures beyond specific scales (IPAQ-SF/FACT-B) to include any validated assessment of these constructs.
+
+**Signal:** WORTH A CLOSER LOOK: ~63 on the narrow PICO, ~1074 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~63
+- Broadened PICO pool: ~1074
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Breast+cancer+survivors+%281-5+years+post-primary+treatment%29+in+Hunan%2C+China+Physical+activity+%28measured+via+IPAQ-SF%29+Quality+of+Life+%28FACT-B%29+and+unmet+healthcare-seeking%2Fhealth+behavior+needs+%28CSP-BC%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Breast+cancer+survivors+%281-5+years+post-primary+treatment%29+in+Hunan%2C+China+Physical+activity+%28measured+via+IPAQ-SF%29+Quality+of+Life+%28FACT-B%29+and+unmet+healthcare-seeking%2Fhealth+behavior+needs+%28CSP-BC%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Breast+Neoplasms%22%5BMesh%5D%29+AND+%28%22Exercise%22%5BMesh%5D+OR+%22Physical+Activity%22%29+AND+%28%22Quality+of+Life%22%5BMesh%5D%29+AND+%22China%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Breast+Neoplasms%22%5BMesh%5D%29+AND+%28%22Exercise%22%5BMesh%5D+OR+%22Physical+Activity%22%29+AND+%28%22Quality+of+Life%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Acupuncture-related therapies as an adjunct to opioid agonist therapy during active dose reduction in adults with opioid use disorder: protocol for a scoping review.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42864141/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Waist circumference outperforms cardiometabolic indices for identifying hypogonadism in Klinefelter Syndrome.
+**Journal:** Journal of Clinical Endocrinology & Metabolism  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42875728/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
