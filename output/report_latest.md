@@ -1,6 +1,6 @@
 # Journal Watch Report -- 2026-10-16
 
-## 🕐 199 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 202 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
@@ -24,6 +24,15 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Health-Related Social Needs among Older Adults — Addressing Mismeasurement** -- New England Journal of Medicine, 2026-10-10T11:30:07Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2608580?af=R&rss=currentIssue
 - **Not Available in Your Country** -- New England Journal of Medicine, 2026-10-10T11:30:07Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2609409?af=R&rss=currentIssue
 - **Adult Attention Deficit–Hyperactivity Disorder** -- New England Journal of Medicine, 2026-10-14T09:00:07Z -- https://www.nejm.org/doi/full/10.1056/NEJMcp2516040?af=R&rss=currentIssue
+- **JAMA Editors' Summary Podcast October 16, 2026** -- JAMA, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855707
+- **Fasting Duration Minimally Affects Most Routine Laboratory Tests** -- JAMA, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855643
+- **FDA Approves a Second Weekly Basal Insulin Option for Type 2 Diabetes** -- JAMA, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855642
+- **Global Life Expectancy Rebounds, Noncommunicable Disease Threat Increases** -- JAMA, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855641
+- **US Cancer Mortality Declines, Driven by Lung Cancer** -- JAMA, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855640
+- **WHO Broadens Guidance for Recommended Contraceptives** -- JAMA, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855639
+- **Fasting Duration Minimally Affects Most Routine Laboratory Tests** -- JAMA, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855638
+- **The Primary Care Crisis** -- JAMA, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855637
+- **Where Next for Lp(a)?** -- JAMA, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855636
 - **Announcing New Journal  JAMA AI** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855493
 - **Engaging With Medical Evidence in the Age of AI** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855492
 - **Clinician Use of an Artificial Intelligence–Enabled Clinical Information Platform** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855491
@@ -35,15 +44,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Lifestyle and Metformin Interventions and Risk of Multimorbidity in Individuals With Prediabetes—In Reply** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855381
 - **See One** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855380
 - **FDA’s Testosterone Label Changes: Implications and Unresolved Issues** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855379
-- **Over-the-Counter Hearing Aids 4 Years Later** -- JAMA, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855378
-- **Inhaled Sedation in Acute Respiratory Failure** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855467
-- **Vasopressin in Septic Shock** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855466
-- **Inhaled Sedation Strategy for Acute Hypoxemic Respiratory Failure** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855465
-- **Isoflurane in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855464
-- **Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative AKI in Septic Shock** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855463
-- **Vasopressin Initiation Threshold in Septic Shock** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855462
-- **Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure Research Summary** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855461
-- **Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock   Research Summary** -- JAMA, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855460
+- **ACP answers US Senate's call for healthcare reform solutions** -- Annals of Internal Medicine, Fri, 16 Oct 2026 11:00:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-16-2026/acp-answers-us-senates-call-for-healthcare-reform-solutions
 - **ACP joins national and state medical organizations in objecting to proposed changes to Modifier -25 in Medicare Physician Fee Schedule** -- Annals of Internal Medicine, Mon, 12 Oct 2026 12:18:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-joins-national-and-state-medical-organizations-in-objecting-to-proposed-changes-to-modifier-25
 - **ACP joins Utah Medical Licensing Board in calling for reevaluation of the state's AI prescription pilot program** -- Annals of Internal Medicine, Fri, 09 Oct 2026 12:17:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-joins-utah-medical-licensing-board-in-calling-for-reevaluation-of-the-states-ai-prescription
 - **Applications now open for internship in ACP's Washington, D.C., office** -- Annals of Internal Medicine, Thu, 08 Oct 2026 15:17:00 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20261006-applications-now-open-for-internship-in-acps
@@ -53,7 +54,6 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Statement from leading physician organizations on the role of augmented intelligence in healthcare** -- Annals of Internal Medicine, Thu, 01 Oct 2026 09:15:49 -0400 -- https://www.acponline.org/acp-newsroom/statement-from-leading-physician-organizations-on-the-role-of-augmented-intelligence-in-healthcare
 - **2027-2028 ACP committee appointments survey open for applications** -- Annals of Internal Medicine, Tue, 29 Sep 2026 15:04:02 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20260929-2027-2028-acp-committee-appointments-survey-open
 - **ACP continues to advocate for patient access to vaccinations** -- Annals of Internal Medicine, Fri, 25 Sep 2026 11:30:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/september-18-2026/acp-continues-to-advocate-for-patient-access-to-vaccinations
-- **Medicaid enrollees challenge rule threatening coverage for people with serious health conditions** -- Annals of Internal Medicine, Mon, 21 Sep 2026 09:31:36 -0400 -- https://www.acponline.org/acp-newsroom/medicaid-enrollees-challenge-rule-threatening-coverage-for-people-with-serious-health-conditions
 - **The Growing Role of Phenobarbital in Managing Inpatient Alcohol Withdrawal Syndrome** -- JAMA Internal Medicine, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854923
 - **Communicating Uncertainty and Influence on Treatment Decision-Making by Patients** -- JAMA Internal Medicine, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854922
 - **Changes in US Life Expectancy From 2019 to 2024** -- JAMA Internal Medicine, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854921
@@ -132,6 +132,11 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Inflation-Adjusted Medicare Reimbursement for Common Dermatologic Procedures** -- JAMA Dermatology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2854944
 - **CLIPI and Risk Stratification in Advanced Mycosis Fungoides and Sézary Syndrome** -- JAMA Dermatology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2854943
 - **Melanoma Prevention Among Children of Melanoma Survivors** -- JAMA Dermatology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2854942
+- **Open Questions About the Next Phase of Telehealth Adoption** -- JAMA Health Forum, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855165
+- **Cuts to Medicaid Adult Dental Benefits and Savings for US States** -- JAMA Health Forum, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855164
+- **Mental Health Ghost Networks in Commercial Insurance Plans** -- JAMA Health Forum, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855163
+- **Psychotherapy and Antidepressant Use After Recommended Screening** -- JAMA Health Forum, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855162
+- **Avoiding a 2-Tier AI Ecosystem in Health Care** -- JAMA Health Forum, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855161
 - **The Challenges of Linking SNAP State Cost Sharing to Payment Error Rates** -- JAMA Health Forum, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855585
 - **Site-Neutral Rate-Setting Methods for Medicare Spending** -- JAMA Health Forum, Fri, 09 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854819
 - **Drug Spending on Accelerated Approval Indications Subsequently Withdrawn From the Market** -- JAMA Health Forum, Fri, 09 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854818
@@ -147,8 +152,6 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Support for Human and Civil Rights in Physical Disability, Mental Illness, and Substance Use Disorder** -- JAMA Health Forum, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854593
 - **Service-Level Utilization in Risk-Based Contracts and a Benchmarking Approach for Fee-Schedule Reforms** -- JAMA Health Forum, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854592
 - **JAMA Health Forum** -- JAMA Health Forum, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854591
-- **Protecting LGBTQ+ Populations From Conversion Practices** -- JAMA Health Forum, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854590
-- **Medicare for All Gets a Budget Check** -- JAMA Health Forum, Thu, 01 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854940
 - **Optic Embolism in a 30-Year-Old Woman** -- JAMA Neurology, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854984
 - **Global Incidence of All-Cause Dementia** -- JAMA Neurology, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854983
 - **Early Pregnancy Use of Anti-CGRP Monoclonal Antibodies and Propranolol and Spontaneous Abortion Risk** -- JAMA Neurology, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854982
@@ -304,41 +307,4 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Sarcopenia in Indian adults with type 2 diabetes: a systematic review and meta-analysis of prevalence and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42810793/
 - **Bright light therapy and circadian rhythm regulation for delirium prevention in hospitalised adults: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42805655/
 
-
-1 new RCT-type article(s) found.
-
-## Pancreatic steatosis is not associated with impaired insulin secretion among individuals with diabetes.
-**Journal:** Journal of Clinical Endocrinology & Metabolism  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42885251/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: 170 individuals with diabetes
-- Intervention: Pancreatic steatosis (measured as pancreatic fat fraction [PFF] via MRI)
-- Comparator: Lower pancreatic fat fraction or absence of pancreatic steatosis
-- Outcome: Insulin secretion (HOMA2-B, C-peptide response to glucagon [ΔC-Pe], proinsulin to C-peptide ratio [PI:C]) and insulin resistance (HOMA2-IR, Adipo-IR, IV insulin tolerance test)
-- Study design: Cross-sectional observational study
-- Notes: The abstract does not specify the type of diabetes (Type 1 vs Type 2), though the use of HOMA and C-peptide suggests a focus on residual beta-cell function often studied in Type 2 or early Type 1.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with dysglycemia (including diabetes, pre-diabetes, or metabolic syndrome)
-- Intervention: Pancreatic steatosis (assessed by any imaging modality such as MRI, CT, or ultrasound)
-- Outcome: Beta-cell function and insulin sensitivity
-- Why widened: Broadened population to include pre-diabetes and metabolic syndrome as pancreatic fat is relevant across the spectrum of metabolic disease. Generalized MRI-specific PFF to any imaging-defined pancreatic steatosis. Grouped specific biochemical indices into broader physiological categories (beta-cell function and insulin sensitivity) to allow for pooling of different validated measures.
-
-**Signal:** WORTH A CLOSER LOOK: ~31 on the narrow PICO, ~222 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~31
-- Broadened PICO pool: ~222
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=170+individuals+with+diabetes+Pancreatic+steatosis+%28measured+as+pancreatic+fat+fraction+%5BPFF%5D+via+MRI%29+Insulin+secretion+%28HOMA2-B%2C+C-peptide+response+to+glucagon+%5B%CE%94C-Pe%5D%2C+proinsulin+to+C-peptide+ratio+%5BPI%3AC%5D%29+and+insulin+resistance+%28HOMA2-IR%2C+Adipo-IR%2C+IV+insulin+tolerance+test%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=170+individuals+with+diabetes+Pancreatic+steatosis+%28measured+as+pancreatic+fat+fraction+%5BPFF%5D+via+MRI%29+Insulin+secretion+%28HOMA2-B%2C+C-peptide+response+to+glucagon+%5B%CE%94C-Pe%5D%2C+proinsulin+to+C-peptide+ratio+%5BPI%3AC%5D%29+and+insulin+resistance+%28HOMA2-IR%2C+Adipo-IR%2C+IV+insulin+tolerance+test%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22pancreatic+steatosis%22+OR+%22pancreatic+fat+fraction%22%29+AND+%22diabetes+mellitus%22+AND+%28%22insulin+secretion%22+OR+%22insulin+resistance%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22pancreatic+steatosis%22+OR+%22fatty+pancreas%22+OR+%22pancreatic+fat%22%29+AND+%28%22insulin+resistance%22+OR+%22beta-cell+function%22+OR+%22islet+function%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
+No new RCT-type articles found today.
