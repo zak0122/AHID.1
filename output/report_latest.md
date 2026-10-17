@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-10-16
+# Journal Watch Report -- 2026-10-17
 
 ## 🕐 202 ahead-of-print item(s) (not yet in PubMed)
 
@@ -208,7 +208,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Surgical Access and Required Transportation Escorts** -- JAMA Surgery, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854883
 
 
-## ⚠ 94 new systematic review/meta-analysis published in your journals
+## ⚠ 92 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -237,6 +237,8 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Factors influencing access to green health prescribing in primary care for older adults - a qualitative systematic review.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823709/
 - **Effectiveness of green health prescribing and nature-based interventions in primary care and community settings for older adults: a systematic review of health, wellbeing and social outcomes.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823701/
 - **The effectiveness of digital therapeutics in improving sleep quality: a systematic review and network meta-analysis.** -- BMC Medicine, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42806363/
+- **Economic valuation of ecosystem services in agriculture and agroforestry: A meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42886685/
+- **Artificial intelligence-enhanced electrocardiography for predicting mortality and major adverse cardiovascular events: A systematic review and narrative synthesis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42886644/
 - **The ability of the commercial inertial measurement unit-based gait system in determining Parkinson's disease: A systematic review with meta-analysis of cross-sectional studies.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42879463/
 - **Coronary microvascular dysfunction in patients undergoing transcatheter aortic valve implantation: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42879389/
 - **Dietary and lifestyle quality and endometrial cancer: Incidence and survivorship outcomes-An umbrella review of systematic reviews and meta-analyses.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42873780/
@@ -256,8 +258,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Efficacy and safety of T-DXd versus Other HER2-targeted therapies in second-line and later settings for HER2-positive metastatic breast cancer: A Bayesian network meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42809558/
 - **The perceived facilitators and barriers to the potential adoption of teledentistry among dental care providers in Saudi Arabia: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42804453/
 - **From preclinical promise to regulatory reality: translation of small rodent acute injury therapies to human approval and safety outcomes: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42804443/
-- **Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42789586/
-- **Effects of exercise interventions on gait, motor function, and balance in patients with Parkinson's disease: A meta-analysis with clinical implications.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42789569/
 - **Efficacy and safety of acupuncture therapy for chronic spontaneous urticaria: a network meta-analysis based on randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42876828/
 - **Efficacy of acupuncture, Chinese herbal medicine, combined acupuncture-herbal therapy, and western medication for adult chronic insomnia: a network meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42876817/
 - **Comparative effectiveness of exercise and self-management interventions delivered through different modes of digital support on pain and patient-reported physical function in people with knee osteoarthritis: a systematic review and network meta-analysis of randomised controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42876545/
@@ -297,8 +297,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Comparison of vonoprazan and proton pump inhibitors for the management of gastric post-endoscopic submucosal dissection ulcers and preventing delayed bleeding: a meta-analysis of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798450/
 - **Integrated TCM and Western medicine rehabilitation program after breast cancer surgery: a best evidence summary.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798445/
 - **Safety and efficacy of microbiota-directed adjunctive therapy in acute pancreatitis: a systematic review and meta-analysis of prebiotics, probiotics, and synbiotics.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798434/
-- **Advances in rapid ADAMTS13 testing for thrombotic thrombocytopenic purpura: a systematic review of diagnostic assays and the role of clinical probability tools.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42787177/
-- **Prediction models for infection after kidney transplantation: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42787048/
 - **Preoperative pathways in adults with multiple long-term conditions undergoing major surgery: a systematic review.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843878/
 - **HIV care cascade of adolescents and young adults in sub-Saharan Africa: a systematic review and meta-analysis.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843861/
 - **Carbon footprint of clinical research: a systematic review and quantitative synthesis of estimates, sources of variation and emission hotspots.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833727/
@@ -307,4 +305,581 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Sarcopenia in Indian adults with type 2 diabetes: a systematic review and meta-analysis of prevalence and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42810793/
 - **Bright light therapy and circadian rhythm regulation for delirium prevention in hospitalised adults: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42805655/
 
-No new RCT-type articles found today.
+
+16 new RCT-type article(s) found.
+
+## Early Nocturnal Care Disruption and the Hazard of Incident ICU Delirium in Critically Ill Adults: A Target-Trial Emulation in MIMIC-IV.
+**Journal:** American Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42887845/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults in the ICU with a stay of at least 48 hours and a negative delirium screen at the 48-hour landmark.
+- Intervention: High nocturnal care-contact intensity (above the cohort median) between 22:00 and 05:59, based on vital-sign charting, laboratory draws, and medication administrations.
+- Comparator: Low nocturnal care-contact intensity (below the cohort median).
+- Outcome: Incident ICU delirium.
+- Study design: Target-trial emulation (retrospective cohort study using the MIMIC-IV database).
+- Notes: The study uses a specific landmark period (48h) and a median-split for exposure; results may be sensitive to the definition of 'contact' derived from electronic health record timestamps. The authors note potential for reverse causation.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Critically ill adults in the intensive care unit.
+- Intervention: Nocturnal care disruptions or sleep fragmentation due to clinical activities.
+- Outcome: Incident delirium.
+- Why widened: Broadened population to all ICU patients regardless of the 48h landmark. Broadened intervention from a specific median-split contact rate to general nocturnal care disruptions to allow for pooling with studies using different metrics of sleep fragmentation or clinical care intensity.
+
+**Signal:** WORTH A CLOSER LOOK: ~5 on the narrow PICO, ~1265 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~5
+- Broadened PICO pool: ~1265
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+in+the+ICU+with+a+stay+of+at+least+48+hours+and+a+negative+delirium+screen+at+the+48-hour+landmark.+High+nocturnal+care-contact+intensity+%28above+the+cohort+median%29+between+22%3A00+and+05%3A59%2C+based+on+vital-sign+charting%2C+laboratory+draws%2C+and+medication+administrations.+Incident+ICU+delirium.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+in+the+ICU+with+a+stay+of+at+least+48+hours+and+a+negative+delirium+screen+at+the+48-hour+landmark.+High+nocturnal+care-contact+intensity+%28above+the+cohort+median%29+between+22%3A00+and+05%3A59%2C+based+on+vital-sign+charting%2C+laboratory+draws%2C+and+medication+administrations.+Incident+ICU+delirium.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22intensive+care+units%22%5BMeSH%5D+OR+%22critical+illness%22%5BMeSH%5D%29+AND+%22delirium%22%5BMeSH%5D+AND+%28%22nocturnal%22+OR+%22nighttime%22%29+AND+%28%22care+contacts%22+OR+%22disruption%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22intensive+care+units%22%5BMeSH%5D+OR+%22critical+illness%22%5BMeSH%5D%29+AND+%22delirium%22%5BMeSH%5D+AND+%28%22sleep+deprivation%22%5BMeSH%5D+OR+%22sleep+fragmentation%22+OR+%22patient+care%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Quantifying the diagnostic time gap in precision oncology: A retrospective analysis of potential time savings from same-day cartridge-based molecular testing versus next-generation sequencing in cytology specimens.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886752/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with non-small cell lung carcinoma, thyroid carcinoma, melanoma, or mammary analogue secretory carcinoma of the salivary gland undergoing molecular testing on cytology specimens.
+- Intervention: Rapid cartridge-based molecular testing (Idylla platform; KRAS, EGFR, BRAF, and GeneFusion assays).
+- Comparator: Standard next-generation sequencing (NGS).
+- Outcome: Diagnostic turnaround time (TAT) and calculated time savings (NGS TAT minus modeled Idylla TAT).
+- Study design: Retrospective analysis and modeling study.
+- Notes: The Idylla turnaround time was modeled as 1-3 days rather than measured prospectively in a real-world clinical workflow. The study did not directly measure the time to treatment initiation.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with solid tumors requiring molecular profiling for targeted therapy selection.
+- Intervention: Rapid or point-of-care molecular testing platforms (e.g., cartridge-based or automated PCR).
+- Outcome: Diagnostic turnaround time and time to initiation of targeted therapy.
+- Why widened: Broadened specific cancer types to all solid tumors requiring profiling as the clinical need for speed is similar across these indications. Widened the specific Idylla platform to all rapid molecular assays. Included time to treatment as the clinically relevant outcome family that turnaround time serves.
+
+**Signal:** WORTH A CLOSER LOOK: ~20 on the narrow PICO, ~32 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~20
+- Broadened PICO pool: ~32
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+non-small+cell+lung+carcinoma%2C+thyroid+carcinoma%2C+melanoma%2C+or+mammary+analogue+secretory+carcinoma+of+the+salivary+gland+undergoing+molecular+testing+on+cytology+specimens.+Rapid+cartridge-based+molecular+testing+%28Idylla+platform%3B+KRAS%2C+EGFR%2C+BRAF%2C+and+GeneFusion+assays%29.+Diagnostic+turnaround+time+%28TAT%29+and+calculated+time+savings+%28NGS+TAT+minus+modeled+Idylla+TAT%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+non-small+cell+lung+carcinoma%2C+thyroid+carcinoma%2C+melanoma%2C+or+mammary+analogue+secretory+carcinoma+of+the+salivary+gland+undergoing+molecular+testing+on+cytology+specimens.+Rapid+cartridge-based+molecular+testing+%28Idylla+platform%3B+KRAS%2C+EGFR%2C+BRAF%2C+and+GeneFusion+assays%29.+Diagnostic+turnaround+time+%28TAT%29+and+calculated+time+savings+%28NGS+TAT+minus+modeled+Idylla+TAT%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Idylla%22%5BTitle%2FAbstract%5D%29+AND+%28%22Next-generation+sequencing%22%5BTitle%2FAbstract%5D%29+AND+%28%22turnaround+time%22%5BTitle%2FAbstract%5D+OR+%22TAT%22%5BTitle%2FAbstract%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Molecular+Diagnostic+Techniques%22%5BMeSH%5D+OR+%22Point-of-Care+Testing%22%5BMeSH%5D%29+AND+%28%22Neoplasms%22%5BMeSH%5D%29+AND+%28%22turnaround+time%22%5BTitle%2FAbstract%5D+OR+%22time+to+treatment%22%5BTitle%2FAbstract%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Identifying diagnostic testing gaps for antiphospholipid syndrome within a single healthcare system.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886731/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients in a regional health system with ICD codes for APS-associated conditions, signs, symptoms, or who had antiphospholipid antibody testing (N=16,679).
+- Intervention: Clinical laboratory testing patterns for APS (specifically IgG/IgM anti-cardiolipin, IgG/IgM anti-beta-2 glycoprotein I, and Lupus Anticoagulant).
+- Comparator: 2023 ACR/EULAR research criteria for laboratory evaluation.
+- Outcome: Proportion of patients with incomplete testing (diagnostic gaps) relative to the benchmark criteria.
+- Study design: Retrospective cross-sectional study.
+- Notes: The study uses research criteria as a surrogate for clinical diagnostic standards; the population is defined retrospectively by existing codes and orders rather than a prospective clinical suspicion.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients suspected of having Antiphospholipid Syndrome (APS) or presenting with APS-associated clinical events (e.g., thrombosis, pregnancy complications).
+- Intervention: Comprehensive antiphospholipid antibody (aPL) laboratory evaluation (triple testing).
+- Outcome: Adherence to international diagnostic or research guidelines for APS (e.g., ACR/EULAR or Sydney criteria).
+- Why widened: The population was widened from a single health system's ICD-coded cohort to all patients suspected of APS. The intervention was generalized from specific antibody assays to 'comprehensive evaluation' to include various laboratory protocols. The comparator was widened from the 2023 criteria to 'international guidelines' to allow for studies using older but still relevant benchmarks.
+
+**Signal:** PROBABLY TOO THIN: only ~4 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~4
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+in+a+regional+health+system+with+ICD+codes+for+APS-associated+conditions%2C+signs%2C+symptoms%2C+or+who+had+antiphospholipid+antibody+testing+%28N%3D16%2C679%29.+Clinical+laboratory+testing+patterns+for+APS+%28specifically+IgG%2FIgM+anti-cardiolipin%2C+IgG%2FIgM+anti-beta-2+glycoprotein+I%2C+and+Lupus+Anticoagulant%29.+Proportion+of+patients+with+incomplete+testing+%28diagnostic+gaps%29+relative+to+the+benchmark+criteria.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+in+a+regional+health+system+with+ICD+codes+for+APS-associated+conditions%2C+signs%2C+symptoms%2C+or+who+had+antiphospholipid+antibody+testing+%28N%3D16%2C679%29.+Clinical+laboratory+testing+patterns+for+APS+%28specifically+IgG%2FIgM+anti-cardiolipin%2C+IgG%2FIgM+anti-beta-2+glycoprotein+I%2C+and+Lupus+Anticoagulant%29.+Proportion+of+patients+with+incomplete+testing+%28diagnostic+gaps%29+relative+to+the+benchmark+criteria.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Antiphospholipid+Syndrome%22%5BMeSH%5D%29+AND+%28%222023+ACR%2FEULAR%22%29+AND+%28%22diagnostic+gaps%22+OR+%22testing+patterns%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Antiphospholipid+Syndrome%2Fdiagnosis%22%5BMeSH%5D%29+AND+%28%22Guideline+Adherence%22%5BMeSH%5D+OR+%22Practice+Patterns%2C+Physicians%27%22%5BMeSH%5D%29+AND+%28%22Antibodies%2C+Antiphospholipid%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Rates of nonproliferative diabetic retinopathy (NPDR) regression among patients with very mild or mild NPDR in an Indian Health Service teleophthalmology program, 2015 - 2020.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886725/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with very mild or mild nonproliferative diabetic retinopathy (NPDR) within the Indian Health Service teleophthalmology program
+- Intervention: Standard diabetes management (analyzed by HbA1c levels, insulin use, and diabetes duration)
+- Comparator: unclear
+- Outcome: Diabetic retinopathy (DR) regression
+- Study design: Retrospective longitudinal cohort study
+- Notes: The study is observational and lacks a formal control group; intervention and comparator are not strictly defined as this is a natural history/risk factor analysis.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with early-stage nonproliferative diabetic retinopathy (NPDR)
+- Intervention: Glycemic control and diabetes management
+- Outcome: Change in diabetic retinopathy severity (regression or progression)
+- Why widened: Widened population from a specific healthcare system (IHS) to general early NPDR; generalized specific metabolic factors to overall glycemic management; expanded outcome to include progression to cover the full clinical course of the disease.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~12 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~12
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+very+mild+or+mild+nonproliferative+diabetic+retinopathy+%28NPDR%29+within+the+Indian+Health+Service+teleophthalmology+program+Standard+diabetes+management+%28analyzed+by+HbA1c+levels%2C+insulin+use%2C+and+diabetes+duration%29+Diabetic+retinopathy+%28DR%29+regression
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+very+mild+or+mild+nonproliferative+diabetic+retinopathy+%28NPDR%29+within+the+Indian+Health+Service+teleophthalmology+program+Standard+diabetes+management+%28analyzed+by+HbA1c+levels%2C+insulin+use%2C+and+diabetes+duration%29+Diabetic+retinopathy+%28DR%29+regression+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Indian+Health+Service%22%5BMesh%5D+OR+%22Indian+Health+Service%22%29+AND+%22diabetic+retinopathy%22+AND+regression
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Diabetic+Retinopathy%2Fpathology%22%5BMesh%5D+OR+%22Diabetic+Retinopathy%2Ftherapy%22%5BMesh%5D%29+AND+%28regression+OR+improvement%29+AND+%22Glycemic+Control%22%5BMesh%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## A retrospective epidemiological study of screening-derived solid cancer incidence proxy rates in South Korea before and after COVID-19 using Korean National Health Insurance Service data.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886720/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Individuals in South Korea eligible for or participating in national cancer screening programs for six solid cancers (stomach, liver, colorectal, breast, cervical, and lung).
+- Intervention: The COVID-19 pandemic period (2020-2024).
+- Comparator: The pre-COVID-19 period (2010-2019).
+- Outcome: Screening-derived solid cancer incidence proxy rates per 100,000 screened or eligible persons.
+- Study design: Retrospective ecological longitudinal study.
+- Notes: The study uses aggregate proxy rates rather than confirmed cancer registry data; the liver cancer proxy rate is specifically noted to be influenced by a change in denominator (high-risk population restriction).
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Individuals eligible for organized national or regional cancer screening programs.
+- Intervention: The COVID-19 pandemic period.
+- Outcome: Cancer screening performance metrics, including detection rates, diagnostic yield, and screening-detected incidence.
+- Why widened: The population was widened from South Korea to any organized screening program to allow for international meta-analysis. The outcome was widened from 'proxy rates' to 'performance metrics' to include studies reporting confirmed incidence or screening volume, which are clinically related to the disruption of cancer care.
+
+**Signal:** CHECK OVERLAP: 29889 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~104
+- Existing reviews found: 29889
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Individuals+in+South+Korea+eligible+for+or+participating+in+national+cancer+screening+programs+for+six+solid+cancers+%28stomach%2C+liver%2C+colorectal%2C+breast%2C+cervical%2C+and+lung%29.+The+COVID-19+pandemic+period+%282020-2024%29.+Screening-derived+solid+cancer+incidence+proxy+rates+per+100%2C000+screened+or+eligible+persons.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Individuals+in+South+Korea+eligible+for+or+participating+in+national+cancer+screening+programs+for+six+solid+cancers+%28stomach%2C+liver%2C+colorectal%2C+breast%2C+cervical%2C+and+lung%29.+The+COVID-19+pandemic+period+%282020-2024%29.+Screening-derived+solid+cancer+incidence+proxy+rates+per+100%2C000+screened+or+eligible+persons.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22COVID-19%22+OR+%22SARS-CoV-2%22%29+AND+%22cancer+screening%22+AND+%22South+Korea%22+AND+%22incidence%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22COVID-19%22+OR+%22SARS-CoV-2%22%29+AND+%22Early+Detection+of+Cancer%22%5BMesh%5D+AND+%28%22incidence%22+OR+%22detection+rate%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Clustering of patient-derived laboratory data: A privacy-preserving distributed approach to enhance clinical laboratory quality control and regional external quality assessment.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886680/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Clinical laboratories performing hematological testing (WBC, RBC, HGB, PLT, MCV) across seven hospitals.
+- Intervention: Custom Clustering-PBRTQC-PBQA (CPP) model using density-based clustering (OPTICS) and privacy-preserving distributed architecture.
+- Comparator: Conventional moving-average patient-based real-time quality control (PBRTQC).
+- Outcome: Alert frequency (EWMA and 1-3S episodes), calibration consistency, and detection of low-magnitude systematic biases missed by internal quality control.
+- Study design: 20-month multicentre methodological evaluation and validation study.
+- Notes: The study focuses on the performance of the QC algorithm using patient-derived data streams rather than clinical patient outcomes; the population is defined by the laboratory setting.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Clinical laboratories across various diagnostic specialties.
+- Intervention: Machine learning or clustering-based patient-based real-time quality control (PBRTQC) systems.
+- Outcome: Laboratory quality assurance performance, including error detection sensitivity, alert specificity, and bias detection.
+- Why widened: Broadened from specific hematology analytes to general clinical laboratory settings; widened the specific CPP/OPTICS algorithm to include other clustering or machine learning-based PBRTQC methods to allow for meta-analysis of algorithmic QC improvements.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~18 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~18
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Clinical+laboratories+performing+hematological+testing+%28WBC%2C+RBC%2C+HGB%2C+PLT%2C+MCV%29+across+seven+hospitals.+Custom+Clustering-PBRTQC-PBQA+%28CPP%29+model+using+density-based+clustering+%28OPTICS%29+and+privacy-preserving+distributed+architecture.+Alert+frequency+%28EWMA+and+1-3S+episodes%29%2C+calibration+consistency%2C+and+detection+of+low-magnitude+systematic+biases+missed+by+internal+quality+control.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Clinical+laboratories+performing+hematological+testing+%28WBC%2C+RBC%2C+HGB%2C+PLT%2C+MCV%29+across+seven+hospitals.+Custom+Clustering-PBRTQC-PBQA+%28CPP%29+model+using+density-based+clustering+%28OPTICS%29+and+privacy-preserving+distributed+architecture.+Alert+frequency+%28EWMA+and+1-3S+episodes%29%2C+calibration+consistency%2C+and+detection+of+low-magnitude+systematic+biases+missed+by+internal+quality+control.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Clustering-PBRTQC-PBQA%22+OR+%22OPTICS+clustering%22%29+AND+%22quality+control%22+AND+%22laboratory%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22patient-based+real-time+quality+control%22+OR+%22PBRTQC%22%29+AND+%28%22clustering%22+OR+%22machine+learning%22+OR+%22artificial+intelligence%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Self-perceived competencies of Master of Public Health graduates and recommendations for programs in South Africa.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886678/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Master of Public Health (MPH) graduates from South African universities (alumni exiting between 2012-2016).
+- Intervention: South African Master of Public Health (MPH) academic programs.
+- Comparator: unclear
+- Outcome: Self-reported public health competencies across 11 domains (usefulness, attainment, and confidence) and recommendations for program improvement.
+- Study design: Online survey (cross-sectional).
+- Notes: The study is descriptive and lacks a control group; the intervention is the educational program itself rather than a clinical treatment.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Public health graduates in low- and middle-income countries (LMICs).
+- Intervention: Public health professional degree programs (MPH or equivalent).
+- Outcome: Workforce readiness and core competency attainment.
+- Why widened: Population was widened from South Africa to LMICs to allow for comparison across similar resource-constrained educational settings. Intervention was generalized to include equivalent professional degrees. Outcomes were generalized to workforce readiness to encompass various competency frameworks.
+
+**Signal:** WORTH A CLOSER LOOK: ~15 on the narrow PICO, ~19 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~15
+- Broadened PICO pool: ~19
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Master+of+Public+Health+%28MPH%29+graduates+from+South+African+universities+%28alumni+exiting+between+2012-2016%29.+South+African+Master+of+Public+Health+%28MPH%29+academic+programs.+Self-reported+public+health+competencies+across+11+domains+%28usefulness%2C+attainment%2C+and+confidence%29+and+recommendations+for+program+improvement.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Master+of+Public+Health+%28MPH%29+graduates+from+South+African+universities+%28alumni+exiting+between+2012-2016%29.+South+African+Master+of+Public+Health+%28MPH%29+academic+programs.+Self-reported+public+health+competencies+across+11+domains+%28usefulness%2C+attainment%2C+and+confidence%29+and+recommendations+for+program+improvement.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22Master+of+Public+Health%22+AND+South+Africa+AND+competencies
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Master+of+Public+Health%22+OR+%22Public+Health+Education%22%29+AND+%28%22Developing+Countries%22%5BMeSH%5D+OR+%22Africa%22%29+AND+%22Professional+Competence%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Laboratory-based surveillance of antimicrobial non-susceptibility in Enterobacter species over 12 years at a tertiary-care hospital in Saudi Arabia.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886673/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults at a tertiary-care hospital in southern Saudi Arabia with Enterobacter isolates (91.8% Enterobacter cloacae complex).
+- Intervention: 12-year temporal period (August 2012 to August 2024).
+- Comparator: Comparison across years (longitudinal) and between care settings (inpatient vs. outpatient).
+- Outcome: Annual percent change (APC) in the odds of antimicrobial non-susceptibility; prevalence of Carbapenem-resistant Enterobacterales (CRE) and difficult-to-treat resistance (DTR).
+- Study design: Retrospective laboratory-based surveillance study.
+- Notes: The 'intervention' is the passage of time in a surveillance context rather than a controlled clinical intervention. Specific clinical diagnoses or infection sites are not detailed beyond 'specimen source'.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with Enterobacter species infections.
+- Intervention: Long-term antimicrobial resistance surveillance.
+- Outcome: Temporal trends in antimicrobial resistance and multi-drug resistance phenotypes.
+- Why widened: Removed geographic (Saudi Arabia) and facility-specific (tertiary-care) constraints to allow for pooling with other regional or global surveillance data. Generalized specific resistance metrics (CRE/DTR) to broader resistance trends to capture studies using varying definitions of multi-drug resistance.
+
+**Signal:** WORTH A CLOSER LOOK: ~12 on the narrow PICO, ~21 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~12
+- Broadened PICO pool: ~21
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+at+a+tertiary-care+hospital+in+southern+Saudi+Arabia+with+Enterobacter+isolates+%2891.8%25+Enterobacter+cloacae+complex%29.+12-year+temporal+period+%28August+2012+to+August+2024%29.+Annual+percent+change+%28APC%29+in+the+odds+of+antimicrobial+non-susceptibility%3B+prevalence+of+Carbapenem-resistant+Enterobacterales+%28CRE%29+and+difficult-to-treat+resistance+%28DTR%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+at+a+tertiary-care+hospital+in+southern+Saudi+Arabia+with+Enterobacter+isolates+%2891.8%25+Enterobacter+cloacae+complex%29.+12-year+temporal+period+%28August+2012+to+August+2024%29.+Annual+percent+change+%28APC%29+in+the+odds+of+antimicrobial+non-susceptibility%3B+prevalence+of+Carbapenem-resistant+Enterobacterales+%28CRE%29+and+difficult-to-treat+resistance+%28DTR%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Enterobacter%22%5BMesh%5D%29+AND+%28%22Saudi+Arabia%22%29+AND+%28%22Drug+Resistance%2C+Bacterial%22%5BMesh%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Enterobacter%22%5BMesh%5D%29+AND+%28%22Drug+Resistance%2C+Bacterial%22%5BMesh%5D%29+AND+%28%22Trends%22%5BMesh%5D+OR+%22Time+Factors%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Rising stroke burden in Uganda: A national time-series analysis and forecasts, 2016-2028.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886663/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: General population of Uganda
+- Intervention: unclear
+- Comparator: unclear
+- Outcome: Monthly stroke incidence and stroke-related mortality
+- Study design: Retrospective time-series analysis and forecasting
+- Notes: This is an epidemiological surveillance study rather than a clinical trial, so intervention and comparator fields are not applicable in the traditional sense.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: General population in Sub-Saharan Africa
+- Intervention: unclear
+- Outcome: Stroke burden (incidence, prevalence, and mortality)
+- Why widened: Widened population from Uganda to Sub-Saharan Africa to allow for regional meta-analysis of epidemiological trends; broadened outcome to include general stroke burden metrics beyond monthly incidence.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~4
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=General+population+of+Uganda+Monthly+stroke+incidence+and+stroke-related+mortality
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=General+population+of+Uganda+Monthly+stroke+incidence+and+stroke-related+mortality+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Stroke%22%5BMeSH%5D%29+AND+%22Uganda%22%5BMeSH%5D+AND+%28%22Incidence%22%5BMeSH%5D+OR+%22Mortality%22%5BMeSH%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Stroke%22%5BMeSH%5D%29+AND+%22Africa+South+of+the+Sahara%22%5BMeSH%5D+AND+%28%22Epidemiology%22%5BMeSH%5D+OR+%22Trends%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Early hospital discharge following delivery during wartime is not associated with increased rates of postpartum hospital referrals.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886662/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Postpartum women (specifically low-risk women) during wartime
+- Intervention: Early hospital discharge following delivery (median 53.2 hours)
+- Comparator: Standard hospital discharge during a non-war period (median 64.1 hours)
+- Outcome: Rate of postpartum visits to the gynecological emergency room (GER), referrals for infection or bleeding, and hospital admission rate
+- Study design: Retrospective cohort study
+- Notes: The abstract specifies that 'low-risk women' were discharged earlier, but the comparison of baseline characteristics (age, parity, etc.) suggests the study cohort may include a broader range of postpartum women; the exact criteria for 'low-risk' are not defined.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Postpartum women
+- Intervention: Early postpartum hospital discharge (e.g., <48-72 hours)
+- Outcome: Postpartum healthcare utilization, emergency department visits, and hospital readmission
+- Why widened: Widened the population by removing the 'wartime' context to focus on the clinical safety of early discharge in general. Broadened the outcome from 'gynecological emergency room' to general healthcare utilization and readmissions to capture a more comprehensive safety profile.
+
+**Signal:** CHECK OVERLAP: 114 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~0
+- Existing reviews found: 114
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Postpartum+women+%28specifically+low-risk+women%29+during+wartime+Early+hospital+discharge+following+delivery+%28median+53.2+hours%29+Rate+of+postpartum+visits+to+the+gynecological+emergency+room+%28GER%29%2C+referrals+for+infection+or+bleeding%2C+and+hospital+admission+rate
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Postpartum+women+%28specifically+low-risk+women%29+during+wartime+Early+hospital+discharge+following+delivery+%28median+53.2+hours%29+Rate+of+postpartum+visits+to+the+gynecological+emergency+room+%28GER%29%2C+referrals+for+infection+or+bleeding%2C+and+hospital+admission+rate+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Postpartum+Period%22%5BMeSH%5D+OR+%22Delivery%2C+Obstetric%22%5BMeSH%5D%29+AND+%22Patient+Discharge%22%5BMeSH%5D+AND+%22War%22%5BMeSH%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Postpartum+Period%22%5BMeSH%5D+OR+%22Delivery%2C+Obstetric%22%5BMeSH%5D%29+AND+%22Early+Discharge%22%5BMeSH%5D+AND+%28%22Patient+Readmission%22%5BMeSH%5D+OR+%22Emergency+Service%2C+Hospital%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Fluctuations of micronutrients during pregnancy in Lianyungang, Jiangsu, China: A prospective longitudinal cohort study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886660/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Healthy pregnant women in Lianyungang, Jiangsu, China
+- Intervention: Longitudinal measurement of whole-blood trace elements (Cu, Ca, Fe, Zn, Mg, Pb, Mn) and serum vitamins (D, E, K, B-complex, B12) across three trimesters
+- Comparator: Intra-individual longitudinal comparison (first vs. second vs. third trimester)
+- Outcome: Trimester-specific concentrations and fluctuations of micronutrients
+- Study design: Prospective longitudinal cohort study
+- Notes: The study is observational and descriptive, lacking a traditional intervention/control group. The final analysis included a small sample size of 43 women.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Healthy pregnant women
+- Intervention: Maternal micronutrient status (vitamins and trace elements)
+- Outcome: Trimester-specific reference intervals or longitudinal changes in micronutrient concentrations
+- Why widened: The population was widened from a specific geographic location (Lianyungang) to healthy pregnant women generally. The specific list of vitamins and minerals was generalized to 'micronutrient status' to capture studies looking at physiological trends rather than just these specific analytes.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~139 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~139
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Healthy+pregnant+women+in+Lianyungang%2C+Jiangsu%2C+China+Longitudinal+measurement+of+whole-blood+trace+elements+%28Cu%2C+Ca%2C+Fe%2C+Zn%2C+Mg%2C+Pb%2C+Mn%29+and+serum+vitamins+%28D%2C+E%2C+K%2C+B-complex%2C+B12%29+across+three+trimesters+Trimester-specific+concentrations+and+fluctuations+of+micronutrients
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Healthy+pregnant+women+in+Lianyungang%2C+Jiangsu%2C+China+Longitudinal+measurement+of+whole-blood+trace+elements+%28Cu%2C+Ca%2C+Fe%2C+Zn%2C+Mg%2C+Pb%2C+Mn%29+and+serum+vitamins+%28D%2C+E%2C+K%2C+B-complex%2C+B12%29+across+three+trimesters+Trimester-specific+concentrations+and+fluctuations+of+micronutrients+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22pregnancy%22%5BMeSH+Terms%5D+OR+%22pregnant+women%22%5BMeSH+Terms%5D%29+AND+%22Lianyungang%22%5BAll+Fields%5D+AND+%22micronutrients%22%5BMeSH+Terms%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22pregnancy%22%5BMeSH+Terms%5D+OR+%22pregnant+women%22%5BMeSH+Terms%5D%29+AND+%22micronutrients%22%5BMeSH+Terms%5D+AND+%28%22longitudinal+studies%22%5BMeSH+Terms%5D+OR+%22reference+values%22%5BMeSH+Terms%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Interventions with mitochondrial-related effects in older adults with type 2 diabetes: Protocol for a systematic review with conditional network meta-analysis.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886655/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults aged 60 years or older with type 2 diabetes mellitus (T2DM)
+- Intervention: Mitochondrial-related interventions (pharmacological agents, nutritional supplements, and lifestyle modifications) targeting mitochondrial pathways or evaluated for effects on mitochondrial function biomarkers
+- Comparator: Placebo, standard care, or no intervention
+- Outcome: Mitochondrial function biomarkers (categorized by biological domain, tissue source, and assay method)
+- Study design: Randomized controlled trials
+- Notes: The abstract is a protocol for a systematic review, not a primary study. The definition of 'mitochondrial-related interventions' is operationally defined by the authors and may include a wide variety of agents.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with type 2 diabetes mellitus
+- Intervention: Metabolic and mitochondrial-targeted therapies
+- Outcome: Mitochondrial function and glycemic control outcomes
+- Why widened: Removed the age restriction (60+) to include all adults with T2DM, as mitochondrial dysfunction is a core feature of the disease across the lifespan. Broadened the outcome to include glycemic control alongside mitochondrial biomarkers to allow for a more comprehensive assessment of metabolic health interventions.
+
+**Signal:** WORTH A CLOSER LOOK: ~10 on the narrow PICO, ~239 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~10
+- Broadened PICO pool: ~239
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+aged+60+years+or+older+with+type+2+diabetes+mellitus+%28T2DM%29+Mitochondrial-related+interventions+%28pharmacological+agents%2C+nutritional+supplements%2C+and+lifestyle+modifications%29+targeting+mitochondrial+pathways+or+evaluated+for+effects+on+mitochondrial+function+biomarkers+Mitochondrial+function+biomarkers+%28categorized+by+biological+domain%2C+tissue+source%2C+and+assay+method%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+aged+60+years+or+older+with+type+2+diabetes+mellitus+%28T2DM%29+Mitochondrial-related+interventions+%28pharmacological+agents%2C+nutritional+supplements%2C+and+lifestyle+modifications%29+targeting+mitochondrial+pathways+or+evaluated+for+effects+on+mitochondrial+function+biomarkers+Mitochondrial+function+biomarkers+%28categorized+by+biological+domain%2C+tissue+source%2C+and+assay+method%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Diabetes+Mellitus%2C+Type+2%22%5BMeSH%5D%29+AND+%28%22Aged%22%5BMeSH%5D%29+AND+%28%22Mitochondria%22%5BMeSH%5D%29+AND+%28Randomized+Controlled+Trial%5Bptyp%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Diabetes+Mellitus%2C+Type+2%22%5BMeSH%5D%29+AND+%28%22Mitochondria%22%5BMeSH%5D+OR+%22Energy+Metabolism%22%5BMeSH%5D%29+AND+%28Randomized+Controlled+Trial%5Bptyp%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Multidimensional oral health and frailty in older adults: A sex-stratified cross-sectional study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886645/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Community-dwelling older adults aged 65 years and older in South Korea (2022 KLoSA cohort)
+- Intervention: Multidimensional oral health factors (structural: edentulous status/denture use; behavioral; subjective: tooth sensitivity, chewing/swallowing difficulty, oral pain)
+- Comparator: Individuals with better oral health status or fewer oral health complaints
+- Outcome: Frailty status (categorized as robust, pre-frail, or frail using the Frailty Instrument for older Korean adults)
+- Study design: Cross-sectional study
+- Notes: The study is cross-sectional, assessing associations rather than causal interventions. The 'intervention' is an exposure/risk factor.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Community-dwelling older adults
+- Intervention: Oral health status and dental conditions
+- Outcome: Frailty and geriatric syndromes
+- Why widened: Removed the specific geographic and cohort constraint (Korean/KLoSA) to generalize to the global elderly population. Grouped specific oral metrics (edentulous, sensitivity, pain) into general oral health status to capture a wider range of dental health indicators.
+
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~240 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~240
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Community-dwelling+older+adults+aged+65+years+and+older+in+South+Korea+%282022+KLoSA+cohort%29+Multidimensional+oral+health+factors+%28structural%3A+edentulous+status%2Fdenture+use%3B+behavioral%3B+subjective%3A+tooth+sensitivity%2C+chewing%2Fswallowing+difficulty%2C+oral+pain%29+Frailty+status+%28categorized+as+robust%2C+pre-frail%2C+or+frail+using+the+Frailty+Instrument+for+older+Korean+adults%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Community-dwelling+older+adults+aged+65+years+and+older+in+South+Korea+%282022+KLoSA+cohort%29+Multidimensional+oral+health+factors+%28structural%3A+edentulous+status%2Fdenture+use%3B+behavioral%3B+subjective%3A+tooth+sensitivity%2C+chewing%2Fswallowing+difficulty%2C+oral+pain%29+Frailty+status+%28categorized+as+robust%2C+pre-frail%2C+or+frail+using+the+Frailty+Instrument+for+older+Korean+adults%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Korean+Longitudinal+Study+of+Aging%22+OR+%22KLoSA%22%29+AND+%22oral+health%22+AND+%22frailty%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Aged%22%5BMesh%5D+OR+%22older+adults%22%29+AND+%28%22Oral+Health%22%5BMesh%5D+OR+%22Tooth+Loss%22%5BMesh%5D+OR+%22dental+health%22%29+AND+%22Frailty%22%5BMesh%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Measuring geographic proximity to family medicine and continuity of care in the last year of life: A population-level retrospective cohort study using Canadian health administrative data.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886643/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults who died in Ontario, Canada, between 2021 and 2024
+- Intervention: Greater geographic distance (driving distance in km) from the patient's residence to their family physician's practice
+- Comparator: Shorter geographic distance (lower quartiles of driving distance)
+- Outcome: Relational continuity of outpatient care (measured by concentration of visits, dispersion across physicians, and temporal regularity)
+- Study design: Population-level retrospective cohort study
+- Notes: The study uses administrative data and driving distance as a proxy for proximity; specific relational continuity indices are used rather than a single standardized scale.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients in the last year of life or receiving palliative care
+- Intervention: Geographic barriers or travel distance to primary care providers
+- Outcome: Continuity of care (relational, informational, or management)
+- Why widened: The population was broadened from a specific Canadian cohort to all end-of-life patients. The intervention was widened from driving distance to general geographic access/barriers. The outcome was widened from specific relational continuity metrics to general continuity of care to capture a broader range of health service research.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~124 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~124
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+who+died+in+Ontario%2C+Canada%2C+between+2021+and+2024+Greater+geographic+distance+%28driving+distance+in+km%29+from+the+patient%27s+residence+to+their+family+physician%27s+practice+Relational+continuity+of+outpatient+care+%28measured+by+concentration+of+visits%2C+dispersion+across+physicians%2C+and+temporal+regularity%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+who+died+in+Ontario%2C+Canada%2C+between+2021+and+2024+Greater+geographic+distance+%28driving+distance+in+km%29+from+the+patient%27s+residence+to+their+family+physician%27s+practice+Relational+continuity+of+outpatient+care+%28measured+by+concentration+of+visits%2C+dispersion+across+physicians%2C+and+temporal+regularity%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22last+year+of+life%22+OR+%22end+of+life%22%29+AND+%22driving+distance%22+AND+%22family+physician%22+AND+%22continuity+of+care%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Terminal+Care%22%5BMesh%5D+OR+%22Palliative+Care%22%5BMesh%5D+OR+%22end+of+life%22%29+AND+%28%22Health+Services+Accessibility%22%5BMesh%5D+OR+%22Geographic+Mapping%22%5BMesh%5D+OR+%22travel+distance%22%29+AND+%22Continuity+of+Patient+Care%22%5BMesh%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Histopathologic spectrum of focal liver lesions diagnosed by ultrasound-guided percutaneous liver biopsy and predictors of hepatocellular carcinoma: A single-center experience from Sub-Saharan Africa.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886641/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adult patients (≥18 years) with focal liver lesions (FLLs) excluding LI-RADS 1, 2, or 5, at a tertiary center in Sub-Saharan Africa.
+- Intervention: Ultrasound-guided percutaneous liver biopsy (US-PLB).
+- Comparator: unclear
+- Outcome: Histopathologic diagnosis spectrum (including HCC, metastatic tumors, and benign lesions) and predictors of HCC (HBV, HCV, FIB-4 score, and tumor size).
+- Study design: Retrospective observational study.
+- Notes: The study is a single-center descriptive and predictive analysis; it does not compare the intervention against a control diagnostic modality.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with focal liver lesions.
+- Intervention: Image-guided percutaneous liver biopsy.
+- Outcome: Diagnostic yield and histopathologic spectrum of focal liver lesions.
+- Why widened: Removed the specific geographic restriction (Sub-Saharan Africa) and LI-RADS exclusions to generalize to the broader clinical challenge of diagnosing FLLs. Expanded US-guided biopsy to all image-guided biopsies (e.g., CT-guided) as the clinical utility and diagnostic questions are analogous.
+
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~11 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~11
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+%28%E2%89%A518+years%29+with+focal+liver+lesions+%28FLLs%29+excluding+LI-RADS+1%2C+2%2C+or+5%2C+at+a+tertiary+center+in+Sub-Saharan+Africa.+Ultrasound-guided+percutaneous+liver+biopsy+%28US-PLB%29.+Histopathologic+diagnosis+spectrum+%28including+HCC%2C+metastatic+tumors%2C+and+benign+lesions%29+and+predictors+of+HCC+%28HBV%2C+HCV%2C+FIB-4+score%2C+and+tumor+size%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+%28%E2%89%A518+years%29+with+focal+liver+lesions+%28FLLs%29+excluding+LI-RADS+1%2C+2%2C+or+5%2C+at+a+tertiary+center+in+Sub-Saharan+Africa.+Ultrasound-guided+percutaneous+liver+biopsy+%28US-PLB%29.+Histopathologic+diagnosis+spectrum+%28including+HCC%2C+metastatic+tumors%2C+and+benign+lesions%29+and+predictors+of+HCC+%28HBV%2C+HCV%2C+FIB-4+score%2C+and+tumor+size%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22focal+liver+lesion%22%29+AND+%28%22ultrasound-guided+biopsy%22%29+AND+%28%22Sub-Saharan+Africa%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22focal+liver+lesion%22%5BMeSH%5D+OR+%22focal+liver+lesion%22%29+AND+%28%22Biopsy%2C+Needle%22%5BMeSH%5D%29+AND+%28%22diagnosis%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Early inflammation-driven damage and delayed viral clearance are associated with prolonged biliary perturbation in a Cameroonian cohort of COVID-19 patients.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42886631/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: SARS-CoV-2-positive individuals in Cameroon (n=38)
+- Intervention: COVID-19 infection (specifically assessing viral load, IL-6 levels, and IgG seroconversion)
+- Comparator: Internal longitudinal comparison (D0 vs D14 vs D30)
+- Outcome: Liver biomarkers (ALT, AST, total bilirubin, direct bilirubin)
+- Study design: Longitudinal cohort study
+- Notes: The study lacks a healthy control group; comparisons are made within the cohort over time. The sample size is small (n=38).
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with COVID-19
+- Intervention: SARS-CoV-2 infection and associated systemic inflammation
+- Outcome: Hepatic dysfunction or liver injury
+- Why widened: Widened the population from a specific Cameroonian cohort to general COVID-19 patients to allow for meta-analysis across different regions. Broadened specific spectrophotometric biomarkers (ALT, AST, Bilirubin) to the clinical category of 'liver injury' to capture studies using varied hepatic panels. Included 'systemic inflammation' to encompass studies looking at cytokines beyond just IL-6.
+
+**Signal:** WORTH A CLOSER LOOK: ~4 on the narrow PICO, ~24 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~4
+- Broadened PICO pool: ~24
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=SARS-CoV-2-positive+individuals+in+Cameroon+%28n%3D38%29+COVID-19+infection+%28specifically+assessing+viral+load%2C+IL-6+levels%2C+and+IgG+seroconversion%29+Liver+biomarkers+%28ALT%2C+AST%2C+total+bilirubin%2C+direct+bilirubin%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=SARS-CoV-2-positive+individuals+in+Cameroon+%28n%3D38%29+COVID-19+infection+%28specifically+assessing+viral+load%2C+IL-6+levels%2C+and+IgG+seroconversion%29+Liver+biomarkers+%28ALT%2C+AST%2C+total+bilirubin%2C+direct+bilirubin%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22COVID-19%22+OR+%22SARS-CoV-2%22%29+AND+%22Cameroon%22+AND+%28%22ALT%22+OR+%22AST%22+OR+%22Bilirubin%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22COVID-19%22%5BMesh%5D+OR+%22SARS-CoV-2%22%29+AND+%28%22Liver+Diseases%22%5BMesh%5D+OR+%22Liver+Function+Tests%22%5BMesh%5D%29+AND+%28%22Interleukin-6%22%5BMesh%5D+OR+%22Viral+Load%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
