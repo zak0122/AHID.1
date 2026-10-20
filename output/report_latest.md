@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-10-19
+# Journal Watch Report -- 2026-10-20
 
 ## 🕐 202 ahead-of-print item(s) (not yet in PubMed)
 
@@ -208,7 +208,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Surgical Access and Required Transportation Escorts** -- JAMA Surgery, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854883
 
 
-## ⚠ 99 new systematic review/meta-analysis published in your journals
+## ⚠ 96 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -261,8 +261,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Efficacy of nebulized salbutamol in transient tachypnea of the newborn: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42821532/
 - **Deep learning for cardiac CT segmentation for congenital heart disease: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42809584/
 - **Efficacy and safety of T-DXd versus Other HER2-targeted therapies in second-line and later settings for HER2-positive metastatic breast cancer: A Bayesian network meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42809558/
-- **The perceived facilitators and barriers to the potential adoption of teledentistry among dental care providers in Saudi Arabia: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42804453/
-- **From preclinical promise to regulatory reality: translation of small rodent acute injury therapies to human approval and safety outcomes: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42804443/
 - **Research trends in post-ERCP pancreatitis: a dual-database bibliometric analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42890586/
 - **Global trends and knowledge structure of cardiovascular magnetocardiography research: a bibliometric analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42890519/
 - **Mapping the complement-targeted landscape in igA nephropathy: a systematic review with structured descriptive synthesis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42889983/
@@ -310,241 +308,96 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Follow-up colonoscopy after abnormal stool-based colorectal cancer screening: a systematic review of completion, timeliness and implementation strategies.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833723/
 - **Association between personal birth companion and maternal mental health in low- and middle-income countries: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42816075/
 - **Sarcopenia in Indian adults with type 2 diabetes: a systematic review and meta-analysis of prevalence and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42810793/
-- **Bright light therapy and circadian rhythm regulation for delirium prevention in hospitalised adults: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42805655/
 
 
-8 new RCT-type article(s) found.
+4 new RCT-type article(s) found.
 
-## Cost-Effectiveness of HCV Screening in Emergency Departments Using DETECT Hep C Trial Results.
-**Journal:** JAMA Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42895735/  
+## Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42896534/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Diagnosis and Treatment of Cardiovascular Conditions in Medicare Advantage In-Home Health Risk Assessments.
+**Journal:** Annals of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42896184/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Individuals presenting to emergency departments in the US (simulated cohort based on DETECT Hep C trial data from Denver Health, Johns Hopkins, and University of Mississippi)
-- Intervention: Nontargeted HCV screening in the emergency department
-- Comparator: Targeted HCV screening or no ED HCV screening
-- Outcome: Remaining life expectancy, quality-adjusted life-years (QALYs), incremental cost-effectiveness ratios (ICERs), costs, and percentage of infections cured
-- Study design: Economic evaluation (simulation study using the HEP-CE model)
-- Notes: The population is a simulated cohort based on specific US medical centers; outcomes are model-based projections rather than direct clinical observations.
+- Population: Medicare Advantage beneficiaries diagnosed with cardiovascular risk factors or disease (hypertension, hyperlipidemia, diabetes, atrial fibrillation, ischemic heart disease, peripheral vascular disease, or heart failure)
+- Intervention: In-home health risk assessments (HRAs)
+- Comparator: Facility-based visits
+- Outcome: Proportion of conditions diagnosed during the encounter and subsequent treatment rates (proxied by prescription fills)
+- Study design: Cohort study
+- Notes: The study relies on claims data and uses prescription fills as a proxy for management; clinical severity of conditions was not assessed.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults presenting to emergency departments
-- Intervention: Routine or universal HCV screening
-- Outcome: Cost-effectiveness and long-term clinical outcomes
-- Why widened: Broadened population from specific US trial sites to general ED settings. Generalized 'nontargeted' screening to 'routine/universal' to capture similar screening strategies. Grouped specific economic metrics into general cost-effectiveness to allow for pooling with different modeling approaches.
+- Population: Medicare beneficiaries with chronic health conditions
+- Intervention: Home-based health assessments or screenings
+- Outcome: Rates of diagnosis and subsequent clinical management or health service utilization
+- Why widened: Broadened Medicare Advantage to all Medicare beneficiaries to capture generalizable policy impacts. Generalized specific cardiovascular conditions to chronic conditions as HRAs typically screen for multiple comorbidities. Expanded treatment rates to clinical management to include follow-up care beyond just prescriptions.
 
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~5 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~78 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~5
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~78
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Individuals+presenting+to+emergency+departments+in+the+US+%28simulated+cohort+based+on+DETECT+Hep+C+trial+data+from+Denver+Health%2C+Johns+Hopkins%2C+and+University+of+Mississippi%29+Nontargeted+HCV+screening+in+the+emergency+department+Remaining+life+expectancy%2C+quality-adjusted+life-years+%28QALYs%29%2C+incremental+cost-effectiveness+ratios+%28ICERs%29%2C+costs%2C+and+percentage+of+infections+cured
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Individuals+presenting+to+emergency+departments+in+the+US+%28simulated+cohort+based+on+DETECT+Hep+C+trial+data+from+Denver+Health%2C+Johns+Hopkins%2C+and+University+of+Mississippi%29+Nontargeted+HCV+screening+in+the+emergency+department+Remaining+life+expectancy%2C+quality-adjusted+life-years+%28QALYs%29%2C+incremental+cost-effectiveness+ratios+%28ICERs%29%2C+costs%2C+and+percentage+of+infections+cured+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hepatitis+C%22%5BMeSH%5D%29+AND+%22Emergency+Service%2C+Hospital%22%5BMeSH%5D+AND+%22nontargeted+screening%22+AND+%22cost-effectiveness%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hepatitis+C%22%5BMeSH%5D%29+AND+%22Emergency+Service%2C+Hospital%22%5BMeSH%5D+AND+%22Mass+Screening%22%5BMeSH%5D+AND+%22Economics%22%5BMeSH%5D
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Medicare+Advantage+beneficiaries+diagnosed+with+cardiovascular+risk+factors+or+disease+%28hypertension%2C+hyperlipidemia%2C+diabetes%2C+atrial+fibrillation%2C+ischemic+heart+disease%2C+peripheral+vascular+disease%2C+or+heart+failure%29+In-home+health+risk+assessments+%28HRAs%29+Proportion+of+conditions+diagnosed+during+the+encounter+and+subsequent+treatment+rates+%28proxied+by+prescription+fills%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Medicare+Advantage+beneficiaries+diagnosed+with+cardiovascular+risk+factors+or+disease+%28hypertension%2C+hyperlipidemia%2C+diabetes%2C+atrial+fibrillation%2C+ischemic+heart+disease%2C+peripheral+vascular+disease%2C+or+heart+failure%29+In-home+health+risk+assessments+%28HRAs%29+Proportion+of+conditions+diagnosed+during+the+encounter+and+subsequent+treatment+rates+%28proxied+by+prescription+fills%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Medicare+Advantage%22%29+AND+%28%22Health+Risk+Assessment%22%29+AND+%28%22Cardiovascular+Diseases%22%5BMesh%5D+OR+%22Cardiovascular%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Home+Care+Services%22%5BMesh%5D+OR+%22In-home+assessment%22%29+AND+%22Medicare%22%5BMesh%5D+AND+%28%22Diagnosis%22%5BMesh%5D+AND+%22Therapeutics%22%5BMesh%5D%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Mifepristone Patient Agreement Form and Medication Abortion Knowledge: A Randomized Clinical Trial.
-**Journal:** JAMA Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42895726/  
+## Projected Effect of 2026 Federal Changes to the Childhood Immunization Schedule on Chronic Hepatitis B Virus Infections in the United States.
+**Journal:** Annals of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42896183/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: People aged 15 years or older, proficient in English or Spanish, receiving mifepristone and misoprostol for medication abortion at 5 US facilities.
-- Intervention: Reviewing and signing the FDA-required Patient Agreement Form (PAF) plus PAF-related counseling, following standard clinic counseling and medication guide.
-- Comparator: Standard clinic counseling and mifepristone medication guide only (survey completed before PAF exposure).
-- Outcome: Medication abortion knowledge (score on a 12-item survey covering medical care, effectiveness, administration, risks, and side effects).
-- Study design: Randomized Clinical Trial
-- Notes: The abstract clearly defines the intervention as the timing of the survey relative to the PAF signing. The 'control' is effectively the standard of care before the specific regulatory step.
+- Population: One-year birth cohort of U.S.-born infants
+- Intervention: Deferred (2-month) HBV vaccination or shared decision-making HBV vaccination strategy
+- Comparator: Universal birth-dose HBV vaccination strategy
+- Outcome: Number of chronic HBV infections and number of HBV-susceptible individuals at 20 years
+- Study design: Markov cohort state transition model
+- Notes: The study is a mathematical simulation/modeling study based on projected policy changes rather than observed clinical trial data.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients seeking medication abortion.
-- Intervention: Mandatory regulatory patient information materials or Risk Evaluation and Mitigation Strategy (REMS) consent forms.
-- Outcome: Patient knowledge, health literacy, or informed consent comprehension.
-- Why widened: Broadened population to all medication abortion seekers regardless of age or language proficiency. Broadened intervention from a specific FDA form to any mandatory regulatory information or REMS-mandated materials. Broadened outcome to include general health literacy and comprehension metrics beyond the specific 12-item survey.
+- Population: Infants and newborns
+- Intervention: Delayed or non-universal HBV vaccination schedules
+- Outcome: Incidence of chronic HBV infection and long-term HBV immunity/susceptibility
+- Why widened: Population was widened from U.S.-specific infants to all infants to capture global vaccination policy impacts. Intervention was widened from specific 2026 proposed federal changes to any non-birth-dose schedule. Outcome was widened from a specific 20-year projection to general chronic infection and immunity status.
 
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~18 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~142 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~18
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~142
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=People+aged+15+years+or+older%2C+proficient+in+English+or+Spanish%2C+receiving+mifepristone+and+misoprostol+for+medication+abortion+at+5+US+facilities.+Reviewing+and+signing+the+FDA-required+Patient+Agreement+Form+%28PAF%29+plus+PAF-related+counseling%2C+following+standard+clinic+counseling+and+medication+guide.+Medication+abortion+knowledge+%28score+on+a+12-item+survey+covering+medical+care%2C+effectiveness%2C+administration%2C+risks%2C+and+side+effects%29.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=People+aged+15+years+or+older%2C+proficient+in+English+or+Spanish%2C+receiving+mifepristone+and+misoprostol+for+medication+abortion+at+5+US+facilities.+Reviewing+and+signing+the+FDA-required+Patient+Agreement+Form+%28PAF%29+plus+PAF-related+counseling%2C+following+standard+clinic+counseling+and+medication+guide.+Medication+abortion+knowledge+%28score+on+a+12-item+survey+covering+medical+care%2C+effectiveness%2C+administration%2C+risks%2C+and+side+effects%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22mifepristone%22%29+AND+%28%22patient+agreement+form%22%29+AND+%28%22knowledge%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22mifepristone%22+OR+%22medication+abortion%22%29+AND+%28%22Risk+Evaluation+and+Mitigation+Strategy%22+OR+%22REMS%22+OR+%22informed+consent%22+OR+%22patient+education%22%29+AND+%28%22knowledge%22+OR+%22health+literacy%22%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=One-year+birth+cohort+of+U.S.-born+infants+Deferred+%282-month%29+HBV+vaccination+or+shared+decision-making+HBV+vaccination+strategy+Number+of+chronic+HBV+infections+and+number+of+HBV-susceptible+individuals+at+20+years
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=One-year+birth+cohort+of+U.S.-born+infants+Deferred+%282-month%29+HBV+vaccination+or+shared+decision-making+HBV+vaccination+strategy+Number+of+chronic+HBV+infections+and+number+of+HBV-susceptible+individuals+at+20+years+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hepatitis+B+Vaccines%22%5BMesh%5D%29+AND+%28%22universal+birth+dose%22%29+AND+%28%22United+States%22%29+AND+%28%22Markov+model%22+OR+%22simulation%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hepatitis+B+Vaccines%22%5BMesh%5D%29+AND+%28%22vaccination+schedule%22%5BMesh%5D+OR+%22birth+dose%22%29+AND+%28%22Hepatitis+B%2C+Chronic%22%5BMesh%5D+OR+%22disease+transmission%22%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Randomized Clinical Trial of the Year.
-**Journal:** JAMA Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42895710/  
+## In adults unresponsive after cardiac arrest, conservative vs. liberal oxygen therapy did not improve outcomes at 180 d.
+**Journal:** Annals of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42832799/  
 **Published:** Oct 2026
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## ICare-FASTER (Improving Care by Faster Risk Stratification Through Use of High-Sensitivity Point-of-Care Troponin in Patients Presenting With Possible Acute Coronary Syndrome in the Emergency Department): A Stepped-Wedge Cluster-Randomized Trial.
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42895015/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients presenting with possible acute coronary syndrome in the emergency department
-- Intervention: Point-of-care high-sensitivity cardiac troponin I (hs-cTnI) assay within an accelerated diagnostic pathway
-- Comparator: Central laboratory high-sensitivity cardiac troponin (hs-cTn) assay within an accelerated diagnostic pathway
-- Outcome: Emergency department length of stay (primary); myocardial infarction or cardiac death within 30 days (safety)
-- Study design: Pragmatic, stepped-wedge cluster-randomized trial
-- Notes: The specific brand of the point-of-care assay and the specific thresholds used in the accelerated diagnostic pathway are not detailed in the abstract.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with suspected acute coronary syndrome in the emergency department
-- Intervention: Point-of-care high-sensitivity cardiac troponin (hs-cTn) testing
-- Outcome: Emergency department throughput and 30-day major adverse cardiac events (MACE)
-- Why widened: Widened hs-cTnI to hs-cTn to include both T and I assays. Widened length of stay to throughput and specific safety outcomes to MACE to capture a broader range of efficiency and safety metrics used in similar diagnostic trials.
-
-**Signal:** CHECK OVERLAP: 248 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~8
-- Broadened PICO pool: ~61
-- Existing reviews found: 248
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+presenting+with+possible+acute+coronary+syndrome+in+the+emergency+department+Point-of-care+high-sensitivity+cardiac+troponin+I+%28hs-cTnI%29+assay+within+an+accelerated+diagnostic+pathway+Emergency+department+length+of+stay+%28primary%29%3B+myocardial+infarction+or+cardiac+death+within+30+days+%28safety%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+presenting+with+possible+acute+coronary+syndrome+in+the+emergency+department+Point-of-care+high-sensitivity+cardiac+troponin+I+%28hs-cTnI%29+assay+within+an+accelerated+diagnostic+pathway+Emergency+department+length+of+stay+%28primary%29%3B+myocardial+infarction+or+cardiac+death+within+30+days+%28safety%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22point-of-care%22+AND+%22high-sensitivity+cardiac+troponin%22+AND+%22emergency+department%22+AND+%22length+of+stay%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22point-of-care%22+AND+%22troponin%22+AND+%22emergency+department%22+AND+%28%22length+of+stay%22+OR+%22efficiency%22+OR+%22disposition%22%29%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Comment on Johnsen et al. Achieving at Least 15% Weight Loss Within 2 Years of Type 2 Diabetes Diagnosis Is Associated With Lower Risks of Macrovascular and Microvascular Complications: A U.K. Cohort Study.
-**Journal:** Diabetes Care  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42896097/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Vascular Risk Factors and Late-Onset Epilepsy.
-**Journal:** JAMA Neurology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42895730/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults aged 65 years or older without prevalent epilepsy at baseline
-- Intervention: Vascular risk factors (current smoking, hypertension, diabetes, chronic kidney disease, history of stroke, and apolipoprotein E ε4 allele)
-- Comparator: Absence of the specific vascular risk factor
-- Outcome: Incident late-onset epilepsy (onset at age ≥65 years)
-- Study design: Individual participant data meta-analysis of prospective cohort studies
-- Notes: The abstract is very clear regarding the definition of late-onset epilepsy and the specific risk factors analyzed.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Older adults (typically aged 50-60+)
-- Intervention: Cardiovascular and metabolic risk factors
-- Outcome: Incident epilepsy in later life
-- Why widened: The age threshold for 'late-onset' was broadened from 65 to general older adulthood, and specific risk factors were grouped into the broader category of cardiovascular/metabolic health to capture studies looking at similar systemic burdens like obesity or hyperlipidemia not explicitly highlighted in the primary results.
-
-**Signal:** WORTH A CLOSER LOOK: ~423 on the narrow PICO, ~1364 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~423
-- Broadened PICO pool: ~1364
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+aged+65+years+or+older+without+prevalent+epilepsy+at+baseline+Vascular+risk+factors+%28current+smoking%2C+hypertension%2C+diabetes%2C+chronic+kidney+disease%2C+history+of+stroke%2C+and+apolipoprotein+E+%CE%B54+allele%29+Incident+late-onset+epilepsy+%28onset+at+age+%E2%89%A565+years%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+aged+65+years+or+older+without+prevalent+epilepsy+at+baseline+Vascular+risk+factors+%28current+smoking%2C+hypertension%2C+diabetes%2C+chronic+kidney+disease%2C+history+of+stroke%2C+and+apolipoprotein+E+%CE%B54+allele%29+Incident+late-onset+epilepsy+%28onset+at+age+%E2%89%A565+years%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Late-Onset+Epilepsy%22+OR+%22Epilepsy%2Fepidemiology%22%5BMeSH%5D%29+AND+%28%22Vascular+Risk+Factors%22+OR+%22Smoking%22+OR+%22Hypertension%22+OR+%22Diabetes+Mellitus%22+OR+%22Stroke%22%29+AND+%22Aged%22%5BMeSH%5D
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Epilepsy%2Fetiology%22%5BMeSH%5D+OR+%22Epilepsy%2Fepidemiology%22%5BMeSH%5D%29+AND+%28%22Cardiovascular+Diseases%2Fepidemiology%22%5BMeSH%5D+OR+%22Risk+Factors%22%5BMeSH%5D%29+AND+%28%22Aged%22%5BMeSH%5D+OR+%22Middle+Aged%22%5BMeSH%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Mobile Subthreshold Exercise Program (MSTEP) for Youth With Prolonged Concussion Recovery: A Randomized Clinical Trial.
-**Journal:** JAMA Pediatrics  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42895728/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Youth (11-18 years old) with concussion up to 1 year from injury (mean 73.3 days post-injury).
-- Intervention: Mobile Subthreshold Exercise Program (MSTEP): virtually delivered aerobic exercise starting at 60% HR max, advanced over 6 weeks via weekly videoconferencing.
-- Comparator: Stretching control group receiving stretching exercises and weekly videoconferencing calls.
-- Outcome: Primary: Concussive symptoms and health-related quality of life (HRQoL). Secondary: Sleep, depression, and anxiety.
-- Study design: Randomized Clinical Trial
-- Notes: The abstract specifies 'prolonged recovery' in the title but includes participants from acute to chronic stages (up to 1 year). The analysis notes the intervention was most effective for those <3 months from injury.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Pediatric and adolescent patients (under 19 years) with concussion or persistent post-concussive symptoms.
-- Intervention: Aerobic exercise programs (including subthreshold, supervised, or remotely delivered).
-- Outcome: Post-concussion symptom scores, recovery duration, and quality of life measures.
-- Why widened: Widened the specific MSTEP protocol to general aerobic exercise to include other subthreshold protocols (e.g., Buffalo Protocol). Broadened the population to all pediatric concussion to capture studies on both acute and persistent symptoms. Broadened the comparator to include any active control or standard care.
-
-**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~35 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~3
-- Broadened PICO pool: ~35
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Youth+%2811-18+years+old%29+with+concussion+up+to+1+year+from+injury+%28mean+73.3+days+post-injury%29.+Mobile+Subthreshold+Exercise+Program+%28MSTEP%29%3A+virtually+delivered+aerobic+exercise+starting+at+60%25+HR+max%2C+advanced+over+6+weeks+via+weekly+videoconferencing.+Primary%3A+Concussive+symptoms+and+health-related+quality+of+life+%28HRQoL%29.+Secondary%3A+Sleep%2C+depression%2C+and+anxiety.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Youth+%2811-18+years+old%29+with+concussion+up+to+1+year+from+injury+%28mean+73.3+days+post-injury%29.+Mobile+Subthreshold+Exercise+Program+%28MSTEP%29%3A+virtually+delivered+aerobic+exercise+starting+at+60%25+HR+max%2C+advanced+over+6+weeks+via+weekly+videoconferencing.+Primary%3A+Concussive+symptoms+and+health-related+quality+of+life+%28HRQoL%29.+Secondary%3A+Sleep%2C+depression%2C+and+anxiety.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22Mobile+Subthreshold+Exercise+Program%22+AND+concussion+AND+youth
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28concussion+OR+%22brain+concussion%22%5BMeSH%5D%29+AND+%28%22aerobic+exercise%22+OR+%22exercise+therapy%22%5BMeSH%5D%29+AND+%28pediatric+OR+adolescent+OR+youth%29+AND+%22randomized+controlled+trial%22%5BPT%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Evening Phone Use and Sleep Outcomes Among Youth.
-**Journal:** JAMA Pediatrics  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42895708/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: US youths (Android users, mean age 14.8 years) in the Adolescent Brain Cognitive Development Study
-- Intervention: Passively sensed evening smartphone use (cumulative use after 8 pm to midnight and proximal use 5-30 minutes before sleep onset)
-- Comparator: Within-person average smartphone use (days with higher-than-average use compared to days with lower-than-average use)
-- Outcome: Objectively measured sleep outcomes (total sleep time, sleep onset, sleep offset, and wake after sleep onset)
-- Study design: Intensive longitudinal cohort study
-- Notes: The study is limited to Android users due to the technical requirements of the sensing application, which may introduce selection bias. The comparator is internal (within-person) rather than a separate control group.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adolescents and young adults
-- Intervention: Evening screen-based media use (smartphones, tablets, or computers)
-- Outcome: Sleep duration and quality
-- Why widened: Population was widened from US Android users to all adolescents/young adults to capture the relevant developmental stage. Intervention was widened from smartphones to all screen-based media as they share similar mechanisms of sleep disruption (blue light, cognitive arousal). Outcomes were grouped into general sleep health categories.
-
-**Signal:** WORTH A CLOSER LOOK: ~2 on the narrow PICO, ~346 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~2
-- Broadened PICO pool: ~346
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=US+youths+%28Android+users%2C+mean+age+14.8+years%29+in+the+Adolescent+Brain+Cognitive+Development+Study+Passively+sensed+evening+smartphone+use+%28cumulative+use+after+8+pm+to+midnight+and+proximal+use+5-30+minutes+before+sleep+onset%29+Objectively+measured+sleep+outcomes+%28total+sleep+time%2C+sleep+onset%2C+sleep+offset%2C+and+wake+after+sleep+onset%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=US+youths+%28Android+users%2C+mean+age+14.8+years%29+in+the+Adolescent+Brain+Cognitive+Development+Study+Passively+sensed+evening+smartphone+use+%28cumulative+use+after+8+pm+to+midnight+and+proximal+use+5-30+minutes+before+sleep+onset%29+Objectively+measured+sleep+outcomes+%28total+sleep+time%2C+sleep+onset%2C+sleep+offset%2C+and+wake+after+sleep+onset%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22smartphone%22%5BMeSH+Terms%5D+OR+%22smartphone%22%29+AND+%22sleep%22%5BMeSH+Terms%5D+AND+%22adolescent%22%5BMeSH+Terms%5D+AND+%22passive+sensing%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22screen+time%22%5BMeSH+Terms%5D+OR+%22electronic+media%22%29+AND+%22sleep%22%5BMeSH+Terms%5D+AND+%22adolescent%22%5BMeSH+Terms%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
