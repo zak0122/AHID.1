@@ -68,26 +68,26 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Comparative Effectiveness of Phenobarbital vs Diazepam for Alcohol Withdrawal Syndrome** -- JAMA Internal Medicine, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854918
 - **Communicating Uncertainties About the Benefits and Risks of New Cancer Drugs** -- JAMA Internal Medicine, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854917
 - **Clinical Framework for Durable Genomic Interventions** -- JAMA Internal Medicine, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854916
-- **Prevalence and correlates of sexual harassment among female nursing students in Tanzanian higher educational institutions: a cross-sectional survey** -- BMJ Open, 2026-10-15T04:19:58-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e125302?rss=1
-- **Protecting mothers and their infants through screening and comprehensive management of sexually transmitted infections in antenatal care in Zimbabwe (PROMISE): study protocol for an open label individually randomised controlled trial** -- BMJ Open, 2026-10-15T04:19:58-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e126249?rss=1
-- **Protocol for the development of a paediatric core outcome set for arthrogryposis multiplex congenita: an international multi-interest-holder consensus study** -- BMJ Open, 2026-10-15T04:19:58-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e126300?rss=1
-- **Trends in diversity of scientific authorship by ethnicity, sex and age of authors in a National Institute for Health and Care Research Biomedical Research Centre in England: a retrospective longitudinal bibliometric study** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e115677?rss=1
-- **Mixed-methods evaluation of a rights-based intervention to reduce long-term segregation in mental health services: the HOPE(S) National Programme in England** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e115706?rss=1
-- **Evaluation and performance of the {beta}-hCG discriminatory zone and targeted ultrasound findings for early pregnancy diagnosis in a high-risk population: a retrospective cohort study at a US safety-net hospital** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e116039?rss=1
-- **Experiences during medical internship in Bangladesh: a multicentre cross-sectional study** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e116419?rss=1
-- **Return to work and work abandonment in female breast cancer survivors: systematic review and meta-analysis protocol** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e117563?rss=1
-- **Randomised, double-blind, placebo-controlled trial of faecal microbiota transplantation in patients with decompensated cirrhosis: the Livergut protocol** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118486?rss=1
-- **Incidence of diabetes remission and association with microvascular and macrovascular complications in patients with newly diagnosed type 2 diabetes mellitus: a retrospective cohort study using real-world data in Thailand** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119475?rss=1
-- **Local food system-related predictors of food security among lactating women in rural central Oromia, Ethiopia: a cross-sectional study** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119597?rss=1
-- **Multiplex molecular respiratory diagnostic panels and antimicrobial use in paediatric respiratory infections: a systematic review and meta-analysis protocol** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120190?rss=1
-- **Photobiomodulation therapy combined with a static magnetic field in critically ill patients receiving invasive mechanical ventilation: protocol for a multicentre randomised triple-blind placebo-controlled trial** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121660?rss=1
-- **Web-based resources supporting a public health approach to preventing and responding to problematic and harmful sexual behaviour in children and young people: protocol for a grey literature scoping review** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e122907?rss=1
-- **Gateway to belonging? A mixed-methods study exploring the experiences of widening participation students in a UK medical school** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123003?rss=1
-- **Accessibility of essential medicines and vaccines among fisherfolk, artisanal miners and pastoralists in Mainland Tanzania: a qualitative study of barriers and strategies from the perspectives of healthcare professionals and community leaders** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123559?rss=1
-- **Beyond non-adherence: qualitative insights into how patients strategically navigate pluralistic chronic care in West Africa** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123607?rss=1
-- **Components of service delivery for the detection, care and management of children with cerebral visual impairment: a scoping review** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e123975?rss=1
-- **Role and values of Swedish community hospitals through the eyes of general hospital doctors: a qualitative interview study** -- BMJ Open, 2026-10-15T04:19:57-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e124543?rss=1
-- **Comparative risk of injury among users of benzodiazepines and related drugs concomitantly with clarithromycin versus azithromycin: a retrospective cohort study of US Medicaid enrollees** -- BMJ Open, 2026-10-14T23:48:07-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e109127?rss=1
+- **Protocol for mixed methods study exploring the gut-brain health among South Indian population** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e114625?rss=1
+- **MetCool ACS: study protocol for a multicentre quasi-randomised trial of metformin in patients without diabetes after acute coronary syndrome in Poland** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e117039?rss=1
+- **Multiregional characterisation of collaboration between clinical and community-based organisations for postpartum transition care delivery: A mixed methods study protocol** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e117566?rss=1
+- **Characterising patients in England with Down syndrome and Alzheimers disease: a descriptive observational study using data from Clinical Practice Research Datalink linked to Hospital Episode Statistics** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118484?rss=1
+- **Immobilisation versus early active motion following primary flexor pollicis longus tendon zones 1-2 repair: protocol for a registry-based multicentre randomised controlled trial in Sweden** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118506?rss=1
+- **TeleBACK clinical trial: comparing the effectiveness of telerehabilitation and in-clinic physical therapy for patients with chronic low back pain - protocol for a multicentre, pragmatic, individually randomised group treatment trial** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118831?rss=1
+- **Immigrant-origin adolescent mental and sexual health disparities in the USA: a scoping review protocol** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e118908?rss=1
+- **How often do Australian government-funded interventional trials exclude adults with intellectual disability? A retrospective registry analysis of ANZCTR records, 2022-2024** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119053?rss=1
+- **Online information seeking behaviour and health outcomes among patients with hypertension, diabetes and dyslipidaemia (the 'three highs): a scoping review protocol** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119169?rss=1
+- **Cost-effectiveness of newborn screening for phenylketonuria and congenital hypothyroidism in Hubei, China** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119305?rss=1
+- **Optimising hospital pharmacy inventory for high-value, intermittent-demand drugs using a machine-learning approach with LightGBM-Tweedie regression: a single-centre, retrospective study** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e119366?rss=1
+- **Exploring the lived experiences of women with breast cancer across the care continuum: a systematic meta-aggregative qualitative review protocol** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120045?rss=1
+- **Stakeholders perspectives on communication gaps in cervical cancer prevention among women of Turkish, Moroccan and Syrian origin: a focus group study in the Netherlands** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120419?rss=1
+- **Stakeholder perspectives on sustainable antenatal point-of-care ultrasound (APOCUS) implementation in rural Australia: a qualitative study of professional body submissions and clinician focus groups** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120460?rss=1
+- **Associations between short-term PM2.5 exposure and major cardiovascular events in high-risk population: a nationwide case-crossover study** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120476?rss=1
+- **Co-developed neck exercise (EPIC-Neck) versus usual exercise care for people with chronic non-specific neck pain: a UK multicentre randomised feasibility trial** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120571?rss=1
+- **Study protocol for the Collaborative Registrar Education and Training Enhancement (CREATE) project: a mixed-methods participatory study to co-design, implement and evaluate innovations to optimise GP training** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e120917?rss=1
+- **Examining trends, outcomes and barriers to midwifery integration within Louisiana hospitals: a mixed-methods study protocol** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121028?rss=1
+- **Conceptual and statistical considerations for producing global estimates of health indicators: protocol for a scoping review** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121361?rss=1
+- **Ophthalmic surveillance before and after treatment of non-functioning pituitary adenomas with optic pathway involvement: a systematic review protocol** -- BMJ Open, 2026-10-20T01:19:39-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e121428?rss=1
 - **Periorbital Purpura and Fatigue in a Man Aged 57 Years** -- JAMA Cardiology, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2855128
 - **A Proactive Digital Valve Care Pathway for Management of Severe Aortic Stenosis** -- JAMA Cardiology, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2855127
 - **Cement Embolism After Vertebroplasty** -- JAMA Cardiology, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854803
@@ -208,7 +208,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Surgical Access and Required Transportation Escorts** -- JAMA Surgery, Wed, 07 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854883
 
 
-## ⚠ 96 new systematic review/meta-analysis published in your journals
+## ⚠ 97 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -261,6 +261,7 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Efficacy of nebulized salbutamol in transient tachypnea of the newborn: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42821532/
 - **Deep learning for cardiac CT segmentation for congenital heart disease: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42809584/
 - **Efficacy and safety of T-DXd versus Other HER2-targeted therapies in second-line and later settings for HER2-positive metastatic breast cancer: A Bayesian network meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42809558/
+- **Nurse-led rehabilitation after total hip or knee arthroplasty: a systematic review and meta-analysis of functional recovery, self-efficacy, and quality of life.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42898140/
 - **Research trends in post-ERCP pancreatitis: a dual-database bibliometric analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42890586/
 - **Global trends and knowledge structure of cardiovascular magnetocardiography research: a bibliometric analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42890519/
 - **Mapping the complement-targeted landscape in igA nephropathy: a systematic review with structured descriptive synthesis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42889983/
@@ -310,94 +311,184 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Sarcopenia in Indian adults with type 2 diabetes: a systematic review and meta-analysis of prevalence and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42810793/
 
 
-4 new RCT-type article(s) found.
+5 new RCT-type article(s) found.
 
-## Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial.
-**Journal:** JAMA  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42896534/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
-
----
-
-## Diagnosis and Treatment of Cardiovascular Conditions in Medicare Advantage In-Home Health Risk Assessments.
-**Journal:** Annals of Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42896184/  
+## The Ambulatory Patient Experience with Ambient Artificial Intelligence Scribes: A Qualitative Study.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42897388/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Medicare Advantage beneficiaries diagnosed with cardiovascular risk factors or disease (hypertension, hyperlipidemia, diabetes, atrial fibrillation, ischemic heart disease, peripheral vascular disease, or heart failure)
-- Intervention: In-home health risk assessments (HRAs)
-- Comparator: Facility-based visits
-- Outcome: Proportion of conditions diagnosed during the encounter and subsequent treatment rates (proxied by prescription fills)
-- Study design: Cohort study
-- Notes: The study relies on claims data and uses prescription fills as a proxy for management; clinical severity of conditions was not assessed.
+- Population: Patients in ambulatory specialties (e.g., dermatology, primary care) at an academic medical center whose clinicians used ambient AI scribes
+- Intervention: Ambient artificial intelligence (AI) scribes
+- Comparator: unclear
+- Outcome: Patient experience (including respect for preferences, thoroughness of visit notes, and time spent answering questions) and factors influencing comfort
+- Study design: Qualitative study (semi-structured interviews)
+- Notes: The study is qualitative and descriptive, so a control group is not explicitly defined. The specific AI scribe software is not named.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Medicare beneficiaries with chronic health conditions
-- Intervention: Home-based health assessments or screenings
-- Outcome: Rates of diagnosis and subsequent clinical management or health service utilization
-- Why widened: Broadened Medicare Advantage to all Medicare beneficiaries to capture generalizable policy impacts. Generalized specific cardiovascular conditions to chronic conditions as HRAs typically screen for multiple comorbidities. Expanded treatment rates to clinical management to include follow-up care beyond just prescriptions.
+- Population: Ambulatory patients
+- Intervention: Ambient AI scribes or AI-assisted clinical documentation tools
+- Outcome: Patient experience and satisfaction
+- Why widened: Broadened the population from specific specialties at an academic center to all ambulatory patients. Broadened the intervention to include the general category of AI-assisted documentation. Broadened the outcome to general patient satisfaction to allow for pooling with other experience-related metrics.
 
-**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~78 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~8 on the narrow PICO, ~23 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~0
-- Broadened PICO pool: ~78
+- Narrow PICO pool: ~8
+- Broadened PICO pool: ~23
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Medicare+Advantage+beneficiaries+diagnosed+with+cardiovascular+risk+factors+or+disease+%28hypertension%2C+hyperlipidemia%2C+diabetes%2C+atrial+fibrillation%2C+ischemic+heart+disease%2C+peripheral+vascular+disease%2C+or+heart+failure%29+In-home+health+risk+assessments+%28HRAs%29+Proportion+of+conditions+diagnosed+during+the+encounter+and+subsequent+treatment+rates+%28proxied+by+prescription+fills%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Medicare+Advantage+beneficiaries+diagnosed+with+cardiovascular+risk+factors+or+disease+%28hypertension%2C+hyperlipidemia%2C+diabetes%2C+atrial+fibrillation%2C+ischemic+heart+disease%2C+peripheral+vascular+disease%2C+or+heart+failure%29+In-home+health+risk+assessments+%28HRAs%29+Proportion+of+conditions+diagnosed+during+the+encounter+and+subsequent+treatment+rates+%28proxied+by+prescription+fills%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Medicare+Advantage%22%29+AND+%28%22Health+Risk+Assessment%22%29+AND+%28%22Cardiovascular+Diseases%22%5BMesh%5D+OR+%22Cardiovascular%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Home+Care+Services%22%5BMesh%5D+OR+%22In-home+assessment%22%29+AND+%22Medicare%22%5BMesh%5D+AND+%28%22Diagnosis%22%5BMesh%5D+AND+%22Therapeutics%22%5BMesh%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+in+ambulatory+specialties+%28e.g.%2C+dermatology%2C+primary+care%29+at+an+academic+medical+center+whose+clinicians+used+ambient+AI+scribes+Ambient+artificial+intelligence+%28AI%29+scribes+Patient+experience+%28including+respect+for+preferences%2C+thoroughness+of+visit+notes%2C+and+time+spent+answering+questions%29+and+factors+influencing+comfort
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+in+ambulatory+specialties+%28e.g.%2C+dermatology%2C+primary+care%29+at+an+academic+medical+center+whose+clinicians+used+ambient+AI+scribes+Ambient+artificial+intelligence+%28AI%29+scribes+Patient+experience+%28including+respect+for+preferences%2C+thoroughness+of+visit+notes%2C+and+time+spent+answering+questions%29+and+factors+influencing+comfort+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22ambient+AI+scribe%22+OR+%22ambient+artificial+intelligence+scribe%22%29+AND+%22patient+experience%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Artificial+Intelligence%22%5BMeSH%5D+AND+%22Medical+Records%22%5BMeSH%5D%29+AND+%22Patient+Satisfaction%22%5BMeSH%5D
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Projected Effect of 2026 Federal Changes to the Childhood Immunization Schedule on Chronic Hepatitis B Virus Infections in the United States.
-**Journal:** Annals of Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42896183/  
-**Published:** Oct 2026
+## Patient-Reported Outcomes Following Two-Tined Three-Site Conventional Radiofrequency Ablation of Genicular Nerves for Chronic Knee Pain.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42898139/  
+**Published:** Sep 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: One-year birth cohort of U.S.-born infants
-- Intervention: Deferred (2-month) HBV vaccination or shared decision-making HBV vaccination strategy
-- Comparator: Universal birth-dose HBV vaccination strategy
-- Outcome: Number of chronic HBV infections and number of HBV-susceptible individuals at 20 years
-- Study design: Markov cohort state transition model
-- Notes: The study is a mathematical simulation/modeling study based on projected policy changes rather than observed clinical trial data.
+- Population: Adult patients with chronic knee pain who demonstrated a positive diagnostic response (≥50% NRS reduction) to a previous genicular nerve block.
+- Intervention: Conventional genicular nerve radiofrequency ablation (GNRFA) using two-tined electrodes at three sites (superior medial, superior lateral, and inferior medial genicular nerves).
+- Comparator: unclear
+- Outcome: Numeric Rating Scale (NRS) pain scores, Patient Reported Outcomes Measurement Information System (PROMIS) Global Health (Physical and Mental), and Patient Health Questionnaire-9 (PHQ-9) at 0-3, 3-6, and 6-12 months.
+- Study design: Retrospective chart review
+- Notes: The study uses a pre-post design without a separate control group. The comparator is the pre-procedure baseline.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Infants and newborns
-- Intervention: Delayed or non-universal HBV vaccination schedules
-- Outcome: Incidence of chronic HBV infection and long-term HBV immunity/susceptibility
-- Why widened: Population was widened from U.S.-specific infants to all infants to capture global vaccination policy impacts. Intervention was widened from specific 2026 proposed federal changes to any non-birth-dose schedule. Outcome was widened from a specific 20-year projection to general chronic infection and immunity status.
+- Population: Adults with chronic knee pain.
+- Intervention: Genicular nerve radiofrequency ablation (GNRFA).
+- Outcome: Pain intensity and health-related quality of life (HRQoL).
+- Why widened: The intervention was widened from a specific electrode type (two-tined) and specific site technique to the general GNRFA procedure. The population was widened to include all chronic knee pain patients, removing the specific diagnostic block response threshold. Outcomes were generalized from specific scales (NRS, PROMIS, PHQ-9) to the broader clinical domains of pain and quality of life.
 
-**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~142 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~96 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~0
-- Broadened PICO pool: ~142
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~96
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=One-year+birth+cohort+of+U.S.-born+infants+Deferred+%282-month%29+HBV+vaccination+or+shared+decision-making+HBV+vaccination+strategy+Number+of+chronic+HBV+infections+and+number+of+HBV-susceptible+individuals+at+20+years
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=One-year+birth+cohort+of+U.S.-born+infants+Deferred+%282-month%29+HBV+vaccination+or+shared+decision-making+HBV+vaccination+strategy+Number+of+chronic+HBV+infections+and+number+of+HBV-susceptible+individuals+at+20+years+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hepatitis+B+Vaccines%22%5BMesh%5D%29+AND+%28%22universal+birth+dose%22%29+AND+%28%22United+States%22%29+AND+%28%22Markov+model%22+OR+%22simulation%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hepatitis+B+Vaccines%22%5BMesh%5D%29+AND+%28%22vaccination+schedule%22%5BMesh%5D+OR+%22birth+dose%22%29+AND+%28%22Hepatitis+B%2C+Chronic%22%5BMesh%5D+OR+%22disease+transmission%22%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+with+chronic+knee+pain+who+demonstrated+a+positive+diagnostic+response+%28%E2%89%A550%25+NRS+reduction%29+to+a+previous+genicular+nerve+block.+Conventional+genicular+nerve+radiofrequency+ablation+%28GNRFA%29+using+two-tined+electrodes+at+three+sites+%28superior+medial%2C+superior+lateral%2C+and+inferior+medial+genicular+nerves%29.+Numeric+Rating+Scale+%28NRS%29+pain+scores%2C+Patient+Reported+Outcomes+Measurement+Information+System+%28PROMIS%29+Global+Health+%28Physical+and+Mental%29%2C+and+Patient+Health+Questionnaire-9+%28PHQ-9%29+at+0-3%2C+3-6%2C+and+6-12+months.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+with+chronic+knee+pain+who+demonstrated+a+positive+diagnostic+response+%28%E2%89%A550%25+NRS+reduction%29+to+a+previous+genicular+nerve+block.+Conventional+genicular+nerve+radiofrequency+ablation+%28GNRFA%29+using+two-tined+electrodes+at+three+sites+%28superior+medial%2C+superior+lateral%2C+and+inferior+medial+genicular+nerves%29.+Numeric+Rating+Scale+%28NRS%29+pain+scores%2C+Patient+Reported+Outcomes+Measurement+Information+System+%28PROMIS%29+Global+Health+%28Physical+and+Mental%29%2C+and+Patient+Health+Questionnaire-9+%28PHQ-9%29+at+0-3%2C+3-6%2C+and+6-12+months.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22genicular+nerve%22+AND+%22radiofrequency+ablation%22+AND+%22two-tined%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22genicular+nerve%22%5BMeSH+Terms%5D+OR+%22genicular+nerve%22%29+AND+%28%22radiofrequency+ablation%22%5BMeSH+Terms%5D+OR+%22radiofrequency+ablation%22%29+AND+%28%22knee+pain%22%5BMeSH+Terms%5D+OR+%22knee+pain%22%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## In adults unresponsive after cardiac arrest, conservative vs. liberal oxygen therapy did not improve outcomes at 180 d.
-**Journal:** Annals of Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42832799/  
-**Published:** Oct 2026
+## Trimester-specific associations of maternal vitamin D metabolic markers with risks of small vulnerable newborns: a prospective birth cohort study.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42897644/  
+**Published:** Jul 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Pregnant women and their infants (2,505 mother-infant pairs) in China
+- Intervention: Higher serum levels of five vitamin D metabolites (including 25(OH)D and 3-epi-25(OH)D3) measured longitudinally across three trimesters
+- Comparator: Lower serum levels of vitamin D metabolites
+- Outcome: Small vulnerable newborns (SVN) related outcomes
+- Study design: Prospective birth cohort study
+- Notes: The abstract mentions five metabolites but only explicitly names 25(OH)D and 3-epi-25(OH)D3. The specific components of 'SVN-related outcomes' (e.g., SGA, preterm birth, LBW) are not individually listed in the abstract text.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Pregnant women
+- Intervention: Maternal vitamin D status (including metabolites and deficiency markers)
+- Outcome: Small vulnerable newborns (SVN) or adverse neonatal growth outcomes (SGA, LBW, or preterm birth)
+- Why widened: Removed the geographic restriction to China to include global populations. Broadened specific metabolites to general vitamin D status to allow for studies only measuring total 25(OH)D. Expanded SVN to include its typical constituent outcomes (SGA, LBW) to facilitate meta-analysis with studies using older terminology.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~233 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~233
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Pregnant+women+and+their+infants+%282%2C505+mother-infant+pairs%29+in+China+Higher+serum+levels+of+five+vitamin+D+metabolites+%28including+25%28OH%29D+and+3-epi-25%28OH%29D3%29+measured+longitudinally+across+three+trimesters+Small+vulnerable+newborns+%28SVN%29+related+outcomes
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Pregnant+women+and+their+infants+%282%2C505+mother-infant+pairs%29+in+China+Higher+serum+levels+of+five+vitamin+D+metabolites+%28including+25%28OH%29D+and+3-epi-25%28OH%29D3%29+measured+longitudinally+across+three+trimesters+Small+vulnerable+newborns+%28SVN%29+related+outcomes+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22small+vulnerable+newborns%22%29+AND+%28%22vitamin+D+metabolites%22+OR+%223-epi-25%28OH%29D3%22%29+AND+pregnancy
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Vitamin+D%22%5BMeSH%5D+OR+%22Vitamin+D+Deficiency%22%5BMeSH%5D%29+AND+%28%22Infant%2C+Small+for+Gestational+Age%22%5BMeSH%5D+OR+%22Premature+Birth%22%5BMeSH%5D+OR+%22Infant%2C+Low+Birth+Weight%22%5BMeSH%5D%29+AND+%22Pregnancy%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Defining optimal treatment strategies for nasopharyngeal carcinoma based on the ninth edition TNM staging system: insights from a multicenter cohort study in an endemic region.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42897534/  
+**Published:** Jul 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with nasopharyngeal carcinoma (NPC), including non-metastatic (M0) and de novo metastatic (M1) cases, restaged according to the ninth edition AJCC/UICC (TNM-9) criteria.
+- Intervention: Risk-stratified intensified therapy: CCRT for intermediate-risk (IB, T3N0); Induction Chemotherapy (IC) plus CCRT (with or without adjuvant chemotherapy) for high-risk (T1-3N2, Stage III); and systemic therapy plus locoregional radiotherapy (LRRT) and maintenance therapy (MT) for metastatic disease.
+- Comparator: Less intensive therapy: IMRT alone (for low-risk/Stage IA); CCRT alone (for high-risk); or systemic therapy alone (for metastatic disease).
+- Outcome: 5-year Overall Survival (OS) and Hazard Ratio (HR).
+- Study design: Multicenter cohort study using propensity score matching and inverse probability of treatment weighting.
+- Notes: The abstract reports on multiple distinct PICO questions simultaneously for different risk strata. The TNM-9 staging is a new classification (2025), so the cohort was retrospectively restaged.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with Nasopharyngeal Carcinoma (NPC) of any stage.
+- Intervention: Combined modality therapy (Chemoradiotherapy with or without induction or adjuvant chemotherapy).
+- Outcome: Survival outcomes (Overall Survival, Progression-Free Survival).
+- Why widened: Broadened from TNM-9 specific risk groups to general NPC to allow comparison with studies using TNM-7 or TNM-8 staging. Generalized specific chemotherapy sequences (IC, CCRT, AC) into 'combined modality therapy' to capture various treatment protocols used in meta-analyses.
+
+**Signal:** PROBABLY TOO THIN: only ~2 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~2
+- Broadened PICO pool: ~2
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+nasopharyngeal+carcinoma+%28NPC%29%2C+including+non-metastatic+%28M0%29+and+de+novo+metastatic+%28M1%29+cases%2C+restaged+according+to+the+ninth+edition+AJCC%2FUICC+%28TNM-9%29+criteria.+Risk-stratified+intensified+therapy%3A+CCRT+for+intermediate-risk+%28IB%2C+T3N0%29%3B+Induction+Chemotherapy+%28IC%29+plus+CCRT+%28with+or+without+adjuvant+chemotherapy%29+for+high-risk+%28T1-3N2%2C+Stage+III%29%3B+and+systemic+therapy+plus+locoregional+radiotherapy+%28LRRT%29+and+maintenance+therapy+%28MT%29+for+metastatic+disease.+5-year+Overall+Survival+%28OS%29+and+Hazard+Ratio+%28HR%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+nasopharyngeal+carcinoma+%28NPC%29%2C+including+non-metastatic+%28M0%29+and+de+novo+metastatic+%28M1%29+cases%2C+restaged+according+to+the+ninth+edition+AJCC%2FUICC+%28TNM-9%29+criteria.+Risk-stratified+intensified+therapy%3A+CCRT+for+intermediate-risk+%28IB%2C+T3N0%29%3B+Induction+Chemotherapy+%28IC%29+plus+CCRT+%28with+or+without+adjuvant+chemotherapy%29+for+high-risk+%28T1-3N2%2C+Stage+III%29%3B+and+systemic+therapy+plus+locoregional+radiotherapy+%28LRRT%29+and+maintenance+therapy+%28MT%29+for+metastatic+disease.+5-year+Overall+Survival+%28OS%29+and+Hazard+Ratio+%28HR%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Nasopharyngeal+Carcinoma%22%5BMesh%5D%29+AND+%28%22TNM-9%22+OR+%229th+edition%22%29+AND+%28%22chemoradiotherapy%22+OR+%22induction+chemotherapy%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Nasopharyngeal+Carcinoma%22%5BMesh%5D%29+AND+%28%22chemoradiotherapy%22%5BMesh%5D+OR+%22induction+chemotherapy%22%5BMesh%5D%29+AND+%28%22survival%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Nurse-led rehabilitation after total hip or knee arthroplasty: a systematic review and meta-analysis of functional recovery, self-efficacy, and quality of life.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42898140/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients after total hip or knee arthroplasty
+- Intervention: Nurse-led rehabilitation
+- Comparator: Usual care
+- Outcome: Functional recovery, self-efficacy, and quality of life
+- Study design: Systematic review and meta-analysis of randomized controlled trials
+- Notes: The abstract clearly defines the population, intervention, and outcomes. The search period listed (2010-2026) is unusual as it includes future dates, possibly indicating a living systematic review or a typo in the source text.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients undergoing total joint arthroplasty
+- Intervention: Nurse-led postoperative care or rehabilitation programs
+- Outcome: Patient-reported outcome measures (PROMs) and functional status
+- Why widened: Population was widened from specific joints (hip/knee) to all total joint arthroplasties. Intervention was widened from 'rehabilitation' to 'postoperative care' to capture broader nursing interventions. Outcomes were grouped into the broader category of PROMs and functional status to allow for pooling of various recovery scales.
+
+**Signal:** CHECK OVERLAP: 1119 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~58
+- Existing reviews found: 1119
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+after+total+hip+or+knee+arthroplasty+Nurse-led+rehabilitation+Functional+recovery%2C+self-efficacy%2C+and+quality+of+life
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+after+total+hip+or+knee+arthroplasty+Nurse-led+rehabilitation+Functional+recovery%2C+self-efficacy%2C+and+quality+of+life+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Arthroplasty%2C+Replacement%2C+Hip%22%5BMeSH%5D+OR+%22Arthroplasty%2C+Replacement%2C+Knee%22%5BMeSH%5D%29+AND+%22Rehabilitation%22%5BMeSH%5D+AND+%22Nurses%22%5BMeSH%5D+AND+%22Randomized+Controlled+Trial%22%5BPT%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22Arthroplasty%2C+Replacement%22%5BMeSH%5D+AND+%28%22Nursing%22%5BMeSH%5D+OR+%22Nurse-Led%22%29+AND+%28%22Rehabilitation%22%5BMeSH%5D+OR+%22Recovery+of+Function%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
