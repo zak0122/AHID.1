@@ -1,6 +1,6 @@
 # Journal Watch Report -- 2026-10-22
 
-## 🕐 209 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 215 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
@@ -24,6 +24,17 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Case 30-2026: A 52-Year-Old Man with Vision Loss in the Left Eye** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMcpc2603184?af=R&rss=currentIssue
 - **Examining the Use of Race in Clinical Algorithms** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2612470?af=R&rss=currentIssue
 - **What I See before Anyone Speaks** -- New England Journal of Medicine, 2026-10-17T11:30:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2604584?af=R&rss=currentIssue
+- **Rituximab Maintenance in Eosinophilic Granulomatosis With Polyangiitis** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855726
+- **Obesity and Starvation** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855725
+- **Compounded GLP-1 Dispensing Patterns and Vitamin B 12  Coformulation** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855724
+- **Clinical Practice Guidelines on Antiviral Therapies for Adults With COVID-19 Infection** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855723
+- **Clinical Practice Guidelines on Antiviral Therapies for Adults With COVID-19 Infection—Reply** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855722
+- **A Technology Journalist Looks at AI and Health** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855721
+- **Breast Cancer’s Transformation From Terminal to Manageable** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855720
+- **Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855719
+- **Visitors Must Check In** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855718
+- **Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy Research Summary** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855717
+- **Reforming Risk Adjustment in Medicare Advantage** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855716
 - **Childhood Cancer Risk After Assisted Reproductive Technology** -- JAMA, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855689
 - **The US Opioid Overdose Epidemic at a Crossroad** -- JAMA, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855688
 - **Metabolic Dysfunction–Associated Steatotic Liver Disease in Children and Adolescents** -- JAMA, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855687
@@ -33,17 +44,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Prone Positioning for Infants With Bronchiolitis and HFNC Support—Reply** -- JAMA, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855683
 - **Patient Information: Childhood Obesity** -- JAMA, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855682
 - **Social History** -- JAMA, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855681
-- **“He Lives Alone”: The Social History and Detachment in Poetry and Medicine** -- JAMA, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855680
-- **Obesity in Children Aged 2 to 12 Years** -- JAMA, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855679
-- **Reassessing Lumbar Punctures for Very Young Febrile Infants** -- JAMA, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855678
-- **Incorrect Affiliation** -- JAMA, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855714
-- **Individualized Cardiac Index–Guided Hemodynamic Therapy in High-Risk Patients** -- JAMA, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855713
-- **Individualized Cardiac Index–Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery Research Summary** -- JAMA, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855712
-- **Therapy for Adults With Complicated Urinary Tract Infection** -- JAMA, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855490
-- **Accessibility of Publicly Posted Kidney Transplant Waitlist Criteria Under IOTA** -- JAMA, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855489
-- **Illicit Injectable Peptides** -- JAMA, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855488
-- **Illicit Injectable Peptides—Reply** -- JAMA, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855487
-- **CD36  Variant and the Genetic Landscape of Dilated Cardiomyopathy** -- JAMA, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855486
+- **Proposed changes to hepatitis B vaccination schedule could significantly increase infections, model suggests** -- Annals of Internal Medicine, Thu, 22 Oct 2026 09:02:25 -0400 -- https://www.acpjournals.org/doi/10.7326/ANNALS-26-02135
 - **ACP answers US Senate's call for healthcare reform solutions** -- Annals of Internal Medicine, Fri, 16 Oct 2026 11:00:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-16-2026/acp-answers-us-senates-call-for-healthcare-reform-solutions
 - **ACP joins national and state medical organizations in objecting to proposed changes to Modifier -25 in Medicare Physician Fee Schedule** -- Annals of Internal Medicine, Mon, 12 Oct 2026 12:18:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-joins-national-and-state-medical-organizations-in-objecting-to-proposed-changes-to-modifier-25
 - **ACP joins Utah Medical Licensing Board in calling for reevaluation of the state's AI prescription pilot program** -- Annals of Internal Medicine, Fri, 09 Oct 2026 12:17:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-joins-utah-medical-licensing-board-in-calling-for-reevaluation-of-the-states-ai-prescription
@@ -53,7 +54,6 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **ACP testifies at House Committee hearing on medicare payment reform** -- Annals of Internal Medicine, Fri, 02 Oct 2026 12:15:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-testifies-at-house-committee-hearing-on-medicare-payment-reform
 - **Statement from leading physician organizations on the role of augmented intelligence in healthcare** -- Annals of Internal Medicine, Thu, 01 Oct 2026 09:15:49 -0400 -- https://www.acponline.org/acp-newsroom/statement-from-leading-physician-organizations-on-the-role-of-augmented-intelligence-in-healthcare
 - **2027-2028 ACP committee appointments survey open for applications** -- Annals of Internal Medicine, Tue, 29 Sep 2026 15:04:02 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20260929-2027-2028-acp-committee-appointments-survey-open
-- **ACP continues to advocate for patient access to vaccinations** -- Annals of Internal Medicine, Fri, 25 Sep 2026 11:30:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/september-18-2026/acp-continues-to-advocate-for-patient-access-to-vaccinations
 - **Palpitations and Muscle Cramps in an Older Man** -- JAMA Internal Medicine, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2855596
 - **Error in Text** -- JAMA Internal Medicine, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2855595
 - **Randomized Clinical Trial of the Year** -- JAMA Internal Medicine, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2855594
@@ -133,6 +133,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Cancer Risk in Patients With Overall and Site-Specific Lichen Planus** -- JAMA Dermatology, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2855302
 - **Device-Free Auricular Acupressure for Rosacea** -- JAMA Dermatology, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2855301
 - **Infantile Hemangiomas** -- JAMA Dermatology, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2855300
+- **Voter Suppression Is a Structural Determinant of Health** -- JAMA Health Forum, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855936
 - **Open Questions About the Next Phase of Telehealth Adoption** -- JAMA Health Forum, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855165
 - **Cuts to Medicaid Adult Dental Benefits and Savings for US States** -- JAMA Health Forum, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855164
 - **Mental Health Ghost Networks in Commercial Insurance Plans** -- JAMA Health Forum, Fri, 16 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2855163
@@ -152,28 +153,33 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Financial Effects of an Out-of-Pocket Cap in Traditional Medicare** -- JAMA Health Forum, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854594
 - **Support for Human and Civil Rights in Physical Disability, Mental Illness, and Substance Use Disorder** -- JAMA Health Forum, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854593
 - **Service-Level Utilization in Risk-Based Contracts and a Benchmarking Approach for Fee-Schedule Reforms** -- JAMA Health Forum, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854592
-- **JAMA Health Forum** -- JAMA Health Forum, Fri, 02 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854591
+- **Risk of Inflammatory Bowel Disease After Anti-CD20 Treatment in MS** -- JAMA Neurology, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2855706
 - **Vascular Risk Factors and Late-Onset Epilepsy** -- JAMA Neurology, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2855276
 - **The Patient I Could Not Save** -- JAMA Neurology, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2855275
-- **Optic Embolism in a 30-Year-Old Woman** -- JAMA Neurology, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854984
-- **Global Incidence of All-Cause Dementia** -- JAMA Neurology, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854983
-- **Early Pregnancy Use of Anti-CGRP Monoclonal Antibodies and Propranolol and Spontaneous Abortion Risk** -- JAMA Neurology, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854982
-- **%p-Tau217 by Race and Ethnicity in Preclinical AD** -- JAMA Neurology, Mon, 12 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854981
+- **Error in Figure 3** -- JAMA Oncology, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855657
+- **Long-Term Outcomes of De-Escalated 30-Gy Elective Irradiation in HPV-Associated Oropharyngeal Cancer** -- JAMA Oncology, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855656
+- **Comments on Cardiac Risk After Heart-Sparing Breast Radiotherapy Study** -- JAMA Oncology, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855655
+- **Comments on Cardiac Risk After Heart-Sparing Breast Radiotherapy Study** -- JAMA Oncology, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855654
+- **Comments on Cardiac Risk After Heart-Sparing Breast Radiotherapy Study—Reply** -- JAMA Oncology, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855653
+- **Rilvegostomig Plus Trastuzumab-Deruxtecan for Early-Stage Breast Cancer** -- JAMA Oncology, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855652
+- **“Low-Risk” Ovarian Lesions—The Case for Early Follow-Up** -- JAMA Oncology, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855651
 - **Neoadjuvant Stereotactic Ablative Radiotherapy Before Inferior Vena Cava Thrombectomy for Renal Cell Carcinoma** -- JAMA Oncology, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855337
 - **Additional Analyses to Address Model Used to Adjust for Crossover in the ClarIDHy Trial** -- JAMA Oncology, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855336
 - **Complementary Observations for Interpreting Findings of T-Cell–Engaging Bispecific Antibody Therapy** -- JAMA Oncology, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855335
 - **Complementary Observations for Interpreting Findings of T-Cell–Engaging Bispecific Antibody Therapy—Reply** -- JAMA Oncology, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855334
 - **Nivolumab-Ipilimumab for Gastric/Gastroesophageal Junction Adenocarcinoma** -- JAMA Oncology, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2855333
-- **Disitamab Vedotin Plus Tislelizumab in Non–Muscle-Invasive Bladder Cancer** -- JAMA Oncology, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854915
-- **Chi Hong? We Are Ready For You** -- JAMA Oncology, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854914
-- **Beyond Tumor Size, Toward Meaningful Patient Outcomes** -- JAMA Oncology, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854913
+- **Error in References** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855844
+- **Bringing Survivorship Care Upstream in Head and Neck Cancer** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855843
+- **Concerns About Smell and Taste Disturbances Among GLP-1 Receptor Agonist Users** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855842
+- **Concerns About Smell and Taste Disturbances Among GLP-1 Receptor Agonist Users** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855841
+- **Concerns About Smell and Taste Disturbances Among GLP-1 Receptor Agonist Users—Reply** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855840
+- **Survivorship Care in Head and Neck Cancer** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855839
+- **Clinical Heterogeneity Across Oropharyngeal Cancer Datasets** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855838
+- **What is Sudden Sensorineural Hearing Loss?** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855837
+- **Na V 1.8 Inhibition and the Future of Nonopioid Analgesia in Otolaryngology** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855836
 - **A Woman With Palatal Ulcers** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855370
 - **Facial Synkinesis Resting Phenotypes and Surgical Implications** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855369
 - **Longitudinal Growth of Mandated Hearing Aid Benefits in the US** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 15 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855368
-- **Validity of the SNOT-22 as a Primary Outcome in Recurrent Acute Rhinosinusitis** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855173
-- **Validity of the SNOT-22 as a Primary Outcome in Recurrent Acute Rhinosinusitis—Reply** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855172
-- **Body Composition Metrics and Overall Survival in Head and Neck Cancer Radiotherapy** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855171
-- **Precision Phenotyping With Audiometric Data and Gene Discovery** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 08 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2855170
 - **Rates of Nicotine Use Among Children and Adolescents** -- JAMA Pediatrics, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2855376
 - **No Caffeine for Hypoxic-Ischemic Encephalopathy** -- JAMA Pediatrics, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2855375
 - **Evening Phone Use and Sleep Outcomes Among Youth** -- JAMA Pediatrics, Mon, 19 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2855374
@@ -313,275 +319,4 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Carbon footprint of clinical research: a systematic review and quantitative synthesis of estimates, sources of variation and emission hotspots.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833727/
 - **Follow-up colonoscopy after abnormal stool-based colorectal cancer screening: a systematic review of completion, timeliness and implementation strategies.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833723/
 
-
-9 new RCT-type article(s) found.
-
-## Multidimensional fidelity of the EPIC-Neck exercise programme for chronic non-specific neck pain: a UK feasibility trial process evaluation.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42901598/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults with chronic non-specific neck pain
-- Intervention: EPIC-Neck exercise programme (individualised exercise prescription combined with behaviour change techniques)
-- Comparator: unclear
-- Outcome: Multidimensional fidelity (domains: training, delivery, receipt, and enactment)
-- Study design: Mixed-methods fidelity evaluation embedded within a randomised controlled feasibility study
-- Notes: The abstract focuses on the process evaluation of the intervention arm; while it mentions a randomized feasibility study, the specific control group intervention is not described.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with chronic neck pain
-- Intervention: Individualised exercise therapy incorporating behaviour change techniques
-- Outcome: Implementation fidelity and process evaluation outcomes
-- Why widened: Broadened the specific 'EPIC-Neck' protocol to the broader category of individualized exercise with behavior change components. Broadened 'non-specific' neck pain to 'chronic neck pain' to include a wider clinical range. Broadened specific fidelity domains to general implementation/process metrics.
-
-**Signal:** PROBABLY TOO THIN: only ~2 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~4
-- Broadened PICO pool: ~2
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+chronic+non-specific+neck+pain+EPIC-Neck+exercise+programme+%28individualised+exercise+prescription+combined+with+behaviour+change+techniques%29+Multidimensional+fidelity+%28domains%3A+training%2C+delivery%2C+receipt%2C+and+enactment%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+chronic+non-specific+neck+pain+EPIC-Neck+exercise+programme+%28individualised+exercise+prescription+combined+with+behaviour+change+techniques%29+Multidimensional+fidelity+%28domains%3A+training%2C+delivery%2C+receipt%2C+and+enactment%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22EPIC-Neck%22%29+AND+%28%22neck+pain%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Neck+Pain%22%5BMeSH%5D%29+AND+%28%22Exercise+Therapy%22%5BMeSH%5D+OR+%22Behavior+Therapy%22%5BMeSH%5D%29+AND+%28%22Implementation+Science%22%5BMeSH%5D+OR+%22fidelity%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Dietary and lifestyle interventions in non-infectious uveitis: protocol for a systematic review.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42901594/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adult and paediatric patients with non-infectious uveitis (NIU)
-- Intervention: Modifiable lifestyle behaviours, dietary supplements, and psychological interventions
-- Comparator: unclear
-- Outcome: Flare frequency/severity, visual acuity, treatment response, adverse events, health-related quality of life, inflammatory markers, and mental health outcomes
-- Study design: Randomised controlled trials and non-randomised controlled studies
-- Notes: The abstract does not explicitly state the comparator (e.g., placebo, standard care, or no intervention), though it notes these are adjuncts to treatment. Specific lifestyle behaviors are not listed individually.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with non-infectious uveitis
-- Intervention: Non-pharmacological adjunct interventions
-- Outcome: Clinical disease activity, visual function, and quality of life
-- Why widened: The population was already broad (adult and pediatric); interventions were grouped into a single 'non-pharmacological' category to capture diverse adjuncts; outcomes were grouped into clinical and functional domains to facilitate pooling of heterogeneous metrics.
-
-**Signal:** WORTH A CLOSER LOOK: ~11 on the narrow PICO, ~103 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~11
-- Broadened PICO pool: ~103
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+and+paediatric+patients+with+non-infectious+uveitis+%28NIU%29+Modifiable+lifestyle+behaviours%2C+dietary+supplements%2C+and+psychological+interventions+Flare+frequency%2Fseverity%2C+visual+acuity%2C+treatment+response%2C+adverse+events%2C+health-related+quality+of+life%2C+inflammatory+markers%2C+and+mental+health+outcomes
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+and+paediatric+patients+with+non-infectious+uveitis+%28NIU%29+Modifiable+lifestyle+behaviours%2C+dietary+supplements%2C+and+psychological+interventions+Flare+frequency%2Fseverity%2C+visual+acuity%2C+treatment+response%2C+adverse+events%2C+health-related+quality+of+life%2C+inflammatory+markers%2C+and+mental+health+outcomes+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22non-infectious+uveitis%22%29+AND+%28%22dietary+supplements%22+OR+%22lifestyle%22+OR+%22psychological%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Uveitis%22%5BMeSH%5D+NOT+%22Infection%22%5BMeSH%5D%29+AND+%28%22Complementary+Therapies%22%5BMeSH%5D+OR+%22Life+Style%22%5BMeSH%5D+OR+%22Dietary+Supplements%22%5BMeSH%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Ophthalmic surveillance before and after treatment of non-functioning pituitary adenomas with optic pathway involvement: a systematic review protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42901592/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults (≥18 years) with radiologically confirmed non-functioning pituitary adenomas (NFPAs) and documented optic pathway involvement.
-- Intervention: Ophthalmic surveillance and assessment (pre- and post-treatment).
-- Comparator: unclear
-- Outcome: Ophthalmic assessment results, including visual field defects, visual acuity, and color vision impairment.
-- Study design: Systematic review protocol (including RCTs, non-randomized studies, and case series with n≥10).
-- Notes: The abstract describes a protocol for a systematic review rather than a primary clinical trial; the 'intervention' here refers to the diagnostic monitoring protocols being synthesized.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with any pituitary adenoma (functioning or non-functioning) causing optic pathway compression.
-- Intervention: Ophthalmic monitoring and diagnostic assessment protocols.
-- Outcome: Visual function parameters and surveillance methodology/timing.
-- Why widened: The population was broadened from 'non-functioning' to all pituitary adenomas because the clinical requirement for ophthalmic surveillance is dictated by the mass effect on the optic chiasm, which is a shared feature of any large pituitary tumor regardless of hormonal activity.
-
-**Signal:** WORTH A CLOSER LOOK: ~2 on the narrow PICO, ~390 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~2
-- Broadened PICO pool: ~390
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%28%E2%89%A518+years%29+with+radiologically+confirmed+non-functioning+pituitary+adenomas+%28NFPAs%29+and+documented+optic+pathway+involvement.+Ophthalmic+surveillance+and+assessment+%28pre-+and+post-treatment%29.+Ophthalmic+assessment+results%2C+including+visual+field+defects%2C+visual+acuity%2C+and+color+vision+impairment.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%28%E2%89%A518+years%29+with+radiologically+confirmed+non-functioning+pituitary+adenomas+%28NFPAs%29+and+documented+optic+pathway+involvement.+Ophthalmic+surveillance+and+assessment+%28pre-+and+post-treatment%29.+Ophthalmic+assessment+results%2C+including+visual+field+defects%2C+visual+acuity%2C+and+color+vision+impairment.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Pituitary+Adenoma%22%5BMesh%5D+OR+%22non-functioning+pituitary+adenoma%22%29+AND+%28%22Optic+Chiasm%22%5BMesh%5D+OR+%22Vision+Disorders%22%5BMesh%5D%29+AND+%28%22Monitoring%2C+Physiologic%22%5BMesh%5D+OR+%22surveillance%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pituitary+Neoplasms%22%5BMesh%5D+AND+%28%22Vision+Disorders%22%5BMesh%5D+OR+%22Visual+Fields%22%5BMesh%5D%29+AND+%28%22Monitoring%2C+Physiologic%22%5BMesh%5D+OR+%22Diagnostic+Techniques%2C+Ophthalmological%22%5BMesh%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Small dense low-density lipoprotein cholesterol and risk of cardiovascular events in general adults: a systematic review and meta-analysis of prospective studies.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42901588/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: General, community-based, or population-based adults
-- Intervention: High baseline small dense low-density lipoprotein cholesterol (sdLDL-C) levels
-- Comparator: Low baseline small dense low-density lipoprotein cholesterol (sdLDL-C) levels (e.g., lowest quartile or category)
-- Outcome: Incident cardiovascular events
-- Study design: Systematic review and meta-analysis of prospective cohort studies
-- Notes: The abstract clearly defines the population and study design. It notes that the intervention (sdLDL-C) was assessed via different methods (direct vs. calculated), which influenced the effect size.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults
-- Intervention: Atherogenic LDL subfractions (including sdLDL-C, LDL particle size, or LDL particle number)
-- Outcome: Cardiovascular disease (including incident events, mortality, or specific diagnoses like myocardial infarction and stroke)
-- Why widened: Broadened the intervention from specifically sdLDL-C to atherogenic LDL subfractions to include related lipid markers that measure similar pathological features. Broadened the population to all adults to include clinical subgroups beyond general community populations.
-
-**Signal:** WORTH A CLOSER LOOK: ~6 on the narrow PICO, ~752 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~6
-- Broadened PICO pool: ~752
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=General%2C+community-based%2C+or+population-based+adults+High+baseline+small+dense+low-density+lipoprotein+cholesterol+%28sdLDL-C%29+levels+Incident+cardiovascular+events
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=General%2C+community-based%2C+or+population-based+adults+High+baseline+small+dense+low-density+lipoprotein+cholesterol+%28sdLDL-C%29+levels+Incident+cardiovascular+events+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22small+dense+low-density+lipoprotein+cholesterol%22+OR+%22sdLDL-C%22%29+AND+%22cardiovascular+events%22+AND+%22prospective%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22LDL+subfractions%22+OR+%22LDL+particle+size%22+OR+%22sdLDL%22%29+AND+%22cardiovascular+diseases%22%5BMeSH%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Characterising patients in England with Down syndrome and Alzheimer's disease: a descriptive observational study using data from Clinical Practice Research Datalink linked to Hospital Episode Statistics.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42901581/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
-
----
-
-## Exercise for tension-type headache: protocol for a systematic review and meta-analysis with meta-regression and assessment of exercise reporting completeness.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42901569/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
-
----
-
-## Examining trends, outcomes and barriers to midwifery integration within Louisiana hospitals: a mixed-methods study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42901561/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Low-risk women with singleton term vertex pregnancies undergoing in-hospital births in Louisiana (2012-2024)
-- Intervention: Certified nurse-midwife (CNM)-attended birth
-- Comparator: Obstetrician-attended birth
-- Outcome: Caesarean delivery, labour induction, epidural use, 5-minute Apgar score, and birth weight
-- Study design: Sequential explanatory mixed-methods study (retrospective cohort analysis and semi-structured interviews)
-- Notes: The abstract describes a study protocol rather than completed results. The population is geographically restricted to Louisiana.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Low-risk pregnant women in hospital settings
-- Intervention: Midwifery-led care
-- Outcome: Obstetric interventions and neonatal outcomes
-- Why widened: Geographic restriction (Louisiana) was removed to allow for broader regional or national synthesis. The specific provider type (CNM) was widened to midwifery-led care to include various certification types. Specific outcomes were grouped into intervention and neonatal outcome families to allow for pooling of similar metrics.
-
-**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~12 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~0
-- Broadened PICO pool: ~12
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Low-risk+women+with+singleton+term+vertex+pregnancies+undergoing+in-hospital+births+in+Louisiana+%282012-2024%29+Certified+nurse-midwife+%28CNM%29-attended+birth+Caesarean+delivery%2C+labour+induction%2C+epidural+use%2C+5-minute+Apgar+score%2C+and+birth+weight
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Low-risk+women+with+singleton+term+vertex+pregnancies+undergoing+in-hospital+births+in+Louisiana+%282012-2024%29+Certified+nurse-midwife+%28CNM%29-attended+birth+Caesarean+delivery%2C+labour+induction%2C+epidural+use%2C+5-minute+Apgar+score%2C+and+birth+weight+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Certified+Nurse-Midwife%22+OR+%22CNM%22%29+AND+%22Louisiana%22+AND+%22hospital+birth%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Nurse+Midwives%22%5BMeSH%5D+OR+%22Midwifery%22%5BMeSH%5D%29+AND+%22Obstetrics%22%5BMeSH%5D+AND+%22Pregnancy+Outcome%22%5BMeSH%5D+AND+%22Hospitalization%22%5BMeSH%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Pooled prevalence of third-generation cephalosporin resistance among 
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42901557/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with bloodstream infections in Southeast Asian countries (specific pathogen unclear due to truncated text)
-- Intervention: Third-generation cephalosporin resistance
-- Comparator: unclear
-- Outcome: Prevalence of antimicrobial resistance
-- Study design: Cross-sectional, surveillance, cohort, retrospective laboratory database, and prospective observational studies
-- Notes: The abstract text is truncated after 'resistance among', leaving the specific bacterial species (e.g., E. coli, K. pneumoniae) unidentified. The comparator is not applicable as this is a prevalence study protocol.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with systemic bacterial infections in Southeast Asia
-- Intervention: Cephalosporin resistance (any generation)
-- Outcome: Antimicrobial resistance rates
-- Why widened: Broadened the infection type from 'bloodstream' to 'systemic' and the drug class from 'third-generation' to all 'cephalosporins' to capture broader resistance trends in the same geographic region.
-
-**Signal:** PROBABLY TOO THIN: only ~1 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~1
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+bloodstream+infections+in+Southeast+Asian+countries+%28specific+pathogen+unclear+due+to+truncated+text%29+Third-generation+cephalosporin+resistance+Prevalence+of+antimicrobial+resistance
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+bloodstream+infections+in+Southeast+Asian+countries+%28specific+pathogen+unclear+due+to+truncated+text%29+Third-generation+cephalosporin+resistance+Prevalence+of+antimicrobial+resistance+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22bloodstream+infection%22+OR+%22bacteremia%22%29+AND+%22third-generation+cephalosporin%22+AND+%22resistance%22+AND+%22Southeast+Asia%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22bacterial+infections%22+OR+%22sepsis%22%29+AND+%22cephalosporins%22+AND+%22drug+resistance%2C+bacterial%22+AND+%22Southeast+Asia%22
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Associations between short-term PM
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42901555/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Individuals at high risk for cardiovascular events (CORE-Thailand registry) with high prevalence of hypertension (98.1%), dyslipidemia (83.3%), and diabetes (58.4%), mean age 69.9 years.
-- Intervention: Short-term exposure to particulate matter with a diameter ≤2.5 µm (PM2.5).
-- Comparator: Control time periods (within-subject comparison using a time-stratified case-crossover design).
-- Outcome: Four-point major adverse cardiovascular events (4P-MACEs) including non-fatal myocardial infarction, non-fatal stroke, heart failure hospitalisation, and all-cause death.
-- Study design: Time-stratified case-crossover design.
-- Notes: The abstract is quite detailed regarding the population and outcome components; the title was truncated in the prompt but the registry name and study design are explicitly stated.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with high cardiovascular risk or pre-existing atherosclerotic cardiovascular disease.
-- Intervention: Short-term exposure to fine particulate matter (PM2.5).
-- Outcome: Major adverse cardiovascular events (MACE) or cardiovascular-related hospitalization and mortality.
-- Why widened: Widened the population from the specific Thai registry to a general high-risk cardiovascular population to allow for geographic pooling. Generalized the specific 4P-MACE to the broader category of MACE and cardiovascular morbidity/mortality commonly used in environmental epidemiology.
-
-**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~0
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Individuals+at+high+risk+for+cardiovascular+events+%28CORE-Thailand+registry%29+with+high+prevalence+of+hypertension+%2898.1%25%29%2C+dyslipidemia+%2883.3%25%29%2C+and+diabetes+%2858.4%25%29%2C+mean+age+69.9+years.+Short-term+exposure+to+particulate+matter+with+a+diameter+%E2%89%A42.5+%C2%B5m+%28PM2.5%29.+Four-point+major+adverse+cardiovascular+events+%284P-MACEs%29+including+non-fatal+myocardial+infarction%2C+non-fatal+stroke%2C+heart+failure+hospitalisation%2C+and+all-cause+death.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Individuals+at+high+risk+for+cardiovascular+events+%28CORE-Thailand+registry%29+with+high+prevalence+of+hypertension+%2898.1%25%29%2C+dyslipidemia+%2883.3%25%29%2C+and+diabetes+%2858.4%25%29%2C+mean+age+69.9+years.+Short-term+exposure+to+particulate+matter+with+a+diameter+%E2%89%A42.5+%C2%B5m+%28PM2.5%29.+Four-point+major+adverse+cardiovascular+events+%284P-MACEs%29+including+non-fatal+myocardial+infarction%2C+non-fatal+stroke%2C+heart+failure+hospitalisation%2C+and+all-cause+death.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22PM2.5%22+OR+%22Particulate+Matter%22%29+AND+%22CORE-Thailand%22+AND+%22MACE%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Particulate+Matter%22%5BMeSH%5D%29+AND+%28%22Cardiovascular+Diseases%22%5BMeSH%5D%29+AND+%28%22Case-Crossover+Studies%22%5BMeSH%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
+No new RCT-type articles found today.
