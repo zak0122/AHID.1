@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-10-23
+# Journal Watch Report -- 2026-10-24
 
 ## 🕐 195 ahead-of-print item(s) (not yet in PubMed)
 
@@ -201,7 +201,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Preparing the US Health Care System for Major War** -- JAMA Surgery, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2855269
 
 
-## ⚠ 101 new systematic review/meta-analysis published in your journals
+## ⚠ 88 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -225,17 +225,9 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **The effect of cognitive behavioral therapy for sleep and glycemic outcomes in people with diabetes: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42854018/
 - **Dose-response effects of robot-assisted training on poststroke functional recovery: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42854007/
 - **Metallic versus plastic stents for the management of biliary obstruction: A GRADE-assessed systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42854002/
-- **Genetically predicted associations between inflammatory cytokines and juvenile idiopathic arthritis: A Mendelian randomization study.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42826339/
-- **Serum 25-hydroxyvitamin D levels are associated with thyroid diseases: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42826330/
-- **Safety profile of elafibranor versus placebo in primary biliary cholangitis: A systematic review, meta-analysis, and trial sequential analysis of randomized controlled trials.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42826317/
-- **Genetic evidence for associations between gastroesophageal reflux disease and site-specific extraesophageal cancers: A Mendelian randomization study.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42826299/
-- **Renoprotective effects and safety of sodium-glucose cotransporter 2 inhibitors in diabetic chronic kidney disease: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42826278/
-- **Prevalence of metabolic syndrome among patients with Alzheimer disease: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42826267/
-- **Impact of acupuncture on lower limb motor function recovery after stroke: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42826265/
 - **Diagnostic accuracy of point-of-care ultrasound in adult non-traumatic emergency medicine: an umbrella review.** -- BMC Medicine, Jul 2026 -- https://pubmed.ncbi.nlm.nih.gov/42907895/
 - **Longitudinal associations between loneliness and outcomes of Common Mental Disorders (CMDs): A systematic review and meta-analysis.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42875771/
-- **Factors influencing access to green health prescribing in primary care for older adults - a qualitative systematic review.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823709/
-- **Effectiveness of green health prescribing and nature-based interventions in primary care and community settings for older adults: a systematic review of health, wellbeing and social outcomes.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823701/
+- **Precancerous cervical lesions and associated factors among HIV-positive women in Southern and Eastern African countries: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42912824/
 - **Dietary context and ethanol-related injury in preclinical models: A contemporary systematic review of predominantly obesogenic diets and liver outcomes.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42905751/
 - **Economic valuation of ecosystem services in agriculture and agroforestry: A meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42886685/
 - **Artificial intelligence-enhanced electrocardiography for predicting mortality and major adverse cardiovascular events: A systematic review and narrative synthesis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42886644/
@@ -253,7 +245,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **EEG correlates of auditory rise time processing: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42837359/
 - **Serum ferritin in children with Attention Deficit Hyperactivity Disorder (ADHD): A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42832553/
 - **Educational and behavioural interventions for reducing fear of hypoglycaemia in adults with type 2 diabetes: A systematic review and meta-analysis of randomised controlled trials.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42832512/
-- **Efficacy of nebulized salbutamol in transient tachypnea of the newborn: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42821532/
 - **Comparison of outcomes after SMILE using VISUMAX 800 and VISUMAX 500 for correcting myopia and myopic astigmatism: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42909235/
 - **Sugammadex versus anticholinesterase reversal of neuromuscular blockade in adult surgical patients: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42909100/
 - **Clinical outcomes of different sclerosing agents for hemorrhoids: a network meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42908803/
@@ -297,14 +288,704 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Prognostic value of the prognostic nutritional index in sepsis, pneumonia, and tuberculosis: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42834912/
 - **Application of type 2 inflammation-related biomarkers in risk prediction models for acute exacerbations in adult asthma: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42827866/
 - **Sacituzumab govitecan in metastatic breast cancer: a systematic review and meta-analysis of its clinical benefit and safety.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42827466/
-- **Predictive biomarkers of biologic therapy response in chronic rhinosinusitis with nasal polyps: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42825053/
-- **Receptor tyrosine kinase targeted therapies in glioblastoma: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42824982/
-- **Efficacy of psychological and behavioral interventions for depressive symptoms in people with epilepsy: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42824472/
-- **Evaluating the efficacy of intensified insulin therapy in hypertriglyceridemic acute pancreatitis management: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42824056/
 - **Exploring gut microbiome dysbiosis in vasculitis in adults: a systematic review.** -- Systematic Reviews, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888447/
 - **Preoperative pathways in adults with multiple long-term conditions undergoing major surgery: a systematic review.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843878/
 - **HIV care cascade of adolescents and young adults in sub-Saharan Africa: a systematic review and meta-analysis.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843861/
 - **Carbon footprint of clinical research: a systematic review and quantitative synthesis of estimates, sources of variation and emission hotspots.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833727/
 - **Follow-up colonoscopy after abnormal stool-based colorectal cancer screening: a systematic review of completion, timeliness and implementation strategies.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833723/
 
-No new RCT-type articles found today.
+
+68 new RCT-type article(s) found.
+
+## Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial.
+**Journal:** New England Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912700/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults with IgA nephropathy and an estimated glomerular filtration rate (eGFR) of at least 30 ml/min/1.73 m²
+- Intervention: Ravulizumab
+- Comparator: Placebo
+- Outcome: Reduction in geometric mean 24-hour urinary protein-to-creatinine ratio (UPCR) at week 34
+- Study design: Phase 3 randomized controlled trial (interim analysis)
+- Notes: The abstract is clear regarding the population, intervention, and primary endpoint for this interim analysis.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with IgA nephropathy
+- Intervention: Terminal complement inhibitors (C5 inhibitors)
+- Outcome: Proteinuria reduction (UPCR or 24-hour urine protein)
+- Why widened: The population was broadened by removing the specific eGFR threshold. The intervention was widened from a specific monoclonal antibody (ravulizumab) to the drug class (C5 inhibitors) to capture similar agents like eculizumab. The outcome was generalized from a specific 34-week timepoint to general proteinuria reduction to allow for pooling with other clinical trials.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+IgA+nephropathy+and+an+estimated+glomerular+filtration+rate+%28eGFR%29+of+at+least+30+ml%2Fmin%2F1.73+m%C2%B2+Ravulizumab+Reduction+in+geometric+mean+24-hour+urinary+protein-to-creatinine+ratio+%28UPCR%29+at+week+34
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+IgA+nephropathy+and+an+estimated+glomerular+filtration+rate+%28eGFR%29+of+at+least+30+ml%2Fmin%2F1.73+m%C2%B2+Ravulizumab+Reduction+in+geometric+mean+24-hour+urinary+protein-to-creatinine+ratio+%28UPCR%29+at+week+34+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22ravulizumab%22%5BSupplementary+Concept%5D+OR+%22ravulizumab%22%29+AND+%22Glomerulonephritis%2C+IGA%22%5BMesh%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Complement+C5+Inhibitors%22%5BMesh%5D+OR+%22terminal+complement+inhibitor%22%29+AND+%22Glomerulonephritis%2C+IGA%22%5BMesh%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.
+**Journal:** New England Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912669/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Participants with biopsy-proven IgA nephropathy receiving stable background therapy
+- Intervention: Povetacicept 80 mg subcutaneously every 4 weeks
+- Comparator: Placebo
+- Outcome: Change in 24-hour urinary protein-to-creatinine ratio (UPCR) at week 36
+- Study design: Phase 3, double-blind, placebo-controlled trial (interim analysis)
+- Notes: The abstract is highly specific regarding dosing and primary endpoint timing. 'Stable background therapy' is mentioned as a requirement but the specific agents (e.g., ACE inhibitors or ARBs) are not listed.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with IgA nephropathy
+- Intervention: Dual BAFF and APRIL inhibitors (e.g., TACI-Fc fusion proteins)
+- Outcome: Proteinuria reduction (UPCR or 24-hour urine protein)
+- Why widened: Widened povetacicept to the drug class (dual BAFF/APRIL inhibitors) to include similar agents like telitacicept. Broadened the specific 36-week UPCR endpoint to general proteinuria reduction to capture various trial durations and measurement techniques common in this field.
+
+**Signal:** WORTH A CLOSER LOOK: ~4 on the narrow PICO, ~48 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~4
+- Broadened PICO pool: ~48
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Participants+with+biopsy-proven+IgA+nephropathy+receiving+stable+background+therapy+Povetacicept+80+mg+subcutaneously+every+4+weeks+Change+in+24-hour+urinary+protein-to-creatinine+ratio+%28UPCR%29+at+week+36
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Participants+with+biopsy-proven+IgA+nephropathy+receiving+stable+background+therapy+Povetacicept+80+mg+subcutaneously+every+4+weeks+Change+in+24-hour+urinary+protein-to-creatinine+ratio+%28UPCR%29+at+week+36+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=povetacicept+AND+%22IgA+nephropathy%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22BAFF%22+OR+%22APRIL%22%29+AND+%28%22inhibitor%22+OR+%22antagonist%22+OR+%22TACI%22%29+AND+%22IgA+nephropathy%22
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Sibeprenlimab in IgA Nephropathy - Final Phase 3 Trial Analysis.
+**Journal:** New England Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911185/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Atacicept in IgA Nephropathy - Phase 3 Trial Final Efficacy Analysis.
+**Journal:** New England Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911181/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Remibrutinib versus teriflunomide in relapsing multiple sclerosis (REMODEL-1 and REMODEL-2): two randomised, phase 3 trials.
+**Journal:** The Lancet  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42915009/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults (18-55 years) with relapsing multiple sclerosis, an Expanded Disability Status Scale (EDSS) score of 0-5.5, and evidence of recent disease activity
+- Intervention: Remibrutinib 100 mg twice daily (oral)
+- Comparator: Teriflunomide 14 mg once daily (oral)
+- Outcome: Annualised relapse rate (ARR)
+- Study design: Two identical, randomised, double-blind, double-dummy, active comparator-controlled, parallel-group, phase 3 trials
+- Notes: The abstract provides specific inclusion criteria (age, EDSS) and a clearly defined primary endpoint.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with relapsing multiple sclerosis
+- Intervention: Bruton's tyrosine kinase (BTK) inhibitors
+- Outcome: Clinical relapse measures and safety outcomes
+- Why widened: Remibrutinib was widened to the drug class (BTK inhibitors) to allow for comparison with other agents in the same class. The population was widened by removing specific age and EDSS restrictions to encompass the general relapsing MS population. The outcome was widened from ARR to general relapse and safety measures to capture broader efficacy data.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~11 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~11
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%2818-55+years%29+with+relapsing+multiple+sclerosis%2C+an+Expanded+Disability+Status+Scale+%28EDSS%29+score+of+0-5.5%2C+and+evidence+of+recent+disease+activity+Remibrutinib+100+mg+twice+daily+%28oral%29+Annualised+relapse+rate+%28ARR%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%2818-55+years%29+with+relapsing+multiple+sclerosis%2C+an+Expanded+Disability+Status+Scale+%28EDSS%29+score+of+0-5.5%2C+and+evidence+of+recent+disease+activity+Remibrutinib+100+mg+twice+daily+%28oral%29+Annualised+relapse+rate+%28ARR%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=remibrutinib+AND+teriflunomide+AND+multiple+sclerosis
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Bruton+Tyrosine+Kinase+Inhibitors%22+OR+%22BTK+inhibitor%22%29+AND+%22Multiple+Sclerosis%2C+Relapsing-Remitting%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Efficacy and safety of mitapivat in patients with sickle cell disease (RISE UP): a phase 3, double-blind, global, randomised, placebo-controlled trial.
+**Journal:** The Lancet  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42913682/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Conversational diagnostic artificial intelligence in ambulatory primary care: a prospective feasibility study.
+**Journal:** The Lancet  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42849491/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Pregnancy Outcomes After Living Kidney Donation.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42914154/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy: A Randomized Clinical Trial.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911562/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Video Decision Support and Advance Care Planning in Older Adults With Advanced Kidney Disease: The VIDEO-KD Randomized Clinical Trial.
+**Journal:** JAMA Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911803/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## The Effect of Pet Companionship on Clinical Symptoms in Migraine.
+**Journal:** American Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42913767/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Dermoscopy Explainable Intelligence Performance in Evaluating Melanoma and Non-Melanoma Skin Cancer.
+**Journal:** Mayo Clinic Proceedings  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911162/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Predictors of Newly Prescribed Medications for Alcohol Use Disorder Among Hospitalized Adults: A Retrospective Cohort Study.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42918933/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Pharmacokinetic, Pharmacodynamic, and Clinical Outcomes of Vancomycin and β-Lactam Antibiotics in Adults With Augmented Renal Clearance: A Systematic Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42910325/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## The Diagnostic Funnel: A Multi-Stage Diagnostic Selection Protocol for Minimally Invasive Sacroiliac Joint Fusion.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42910314/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Early Post-transcatheter Aortic Valve Implantation (TAVI) Haemodynamics With SAPIEN Balloon-Expandable and Evolut Self-Expanding Valve Platforms: A Retrospective Single-Centre Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42910130/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Community Experience of COVID-19 Hospitalizations.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42910043/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Chronic Complications Following Dengue Infection: A Scoping Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42909991/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Diabetic Retinal Disease Onset and Progression During Established Semaglutide or Tirzepatide Treatment: A Retrospective Comparative Cohort Study With a Descriptive Regional Nonarteritic Anterior Ischemic Optic Neuropathy (NAION) Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42909983/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Cell-Type-Specific Transcriptomic Alterations in the Epileptic Prefrontal Cortex and Complementary Neuroimaging Findings in an Independent Cohort.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42909952/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Esophageal Carcinoma Incidence and Survival Analysis: A Population-Based Cancer Registry Study in Central India.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42909884/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Abdominal circumference and its relationship with the incidence of hypotension during elective cesarean section under spinal anesthesia at public hospitals of Addis Ababa, Ethiopia, 2024.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912799/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## The hidden burden of viral meningitis in ethiopia: Etiology and clinical outcomes.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912798/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Interstitial Lung Diseases treatment prescription practices among pulmonologists in India: A prospective multicentre observational study (India-ILD care study).
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912795/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## A public-data audit of transcriptomic prognostic transportability in R-CHOP-treated diffuse large B-cell lymphoma.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912792/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Search for the glycated hemoglobin target minimizing mortality among people with type 2 diabetes with rare incidence of treatment-related severe hypoglycemia - Epidemiologic analysis of J-DOIT3 randomized controlled trial.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912779/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Lens dislocation, OCTA, and archived FBN1 reports: An exploratory study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912778/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Analysing the implementation and transferability of an enhanced care pathway integrating systematic supportive cancer care and patient-partner support for people living with anal cancer: Protocol for a mixed-methods study in two French cancer centres.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912772/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Longitudinal blood pressure trajectories and time to stroke among hypertensive patients: A Bayesian multivariate joint modeling study in Benishangul-Gumuz, Ethiopia.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912760/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Shaping nursing identity: Empathy and personality in Chinese undergraduate education.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912757/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## The applications of artificial intelligence in liver transplantation: A comprehensive scoping review.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912756/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Determine and compare limb specific predictors based on the foot pressure index of right and left foot among young adults in Saudi Arabia using machine learning models.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912754/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Comparative evaluation of machine learning algorithms for Maize Lethal Necrosis Disease detection under class imbalance.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912750/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Mechanical properties and failure characteristics of geocells: A comparative experimental study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912735/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Accumulation or adaptation? A longitudinal study of role conflict and turnover intention among Chinese social workers.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912731/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Comparative evaluation of YOLO models for retained root fragment detection.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912721/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## PREnatal Syphilis point-of-care ScreenING in an urban low-barrier clinic (PRESSING) study: Protocol for a prospective single arm feasibility trial.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911975/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Feasibility of a machine learning model for predicting weight gain after kidney transplantation machine learning and weight gain after kidney transplantation.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911966/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Incidence and predictors of mother-to-child transmission of HIV among HIV-exposed infants in public General hospitals of Tigray, Ethiopia, 2020: Retrospective cohort study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911950/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Otolin-1 for differentiating central and peripheral causes of acute continuous dizziness.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911946/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Combined transcutaneous electrical nerve stimulation and low-level laser photobiomodulation for postoperative pain after cesarean section: A randomized controlled trial.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911935/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Association of IL-6 and IL-10 serum levels with genetic variants in diabetic neuropathy: Clinical findings from a Bangladeshi patient cohort.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911932/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Predicting under-five child mortality in Zambia: Machine learning versus parametric survival models.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911926/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Institutional patterns in diagnosis and antifibrotic-era treatment uptake for IPF and PPF across U.S. centers.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911924/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## First-trimester plasma asprosin and its association with gestational diabetes mellitus: A prospective cohort study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911916/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Assessing the robustness of meta-analyses to variability in the frequency and timing of postoperative delirium assessment - a novel methodological approach.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911914/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Inhaled sedation versus intravenous sedation in critically ill patients (IS-CRITIC): protocol for a multicentre, randomised, controlled clinical trial in Spain.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919600/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Effectiveness of intravenous paracetamol plus ibuprofen versus intravenous paracetamol plus metamizole for pain in children with acute pancreatitis at tertiary referral centres in Poland: a multicentre randomised controlled trial protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919597/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Cognitive behavioural therapy compared to compensatory strategy training for persisting memory symptoms after concussion in adults: protocol for a randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919596/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Lifestyle intervention to improve outcomes in dichorionic twin pregnancies: study protocol for a multicentre randomised controlled trial with an integrated pilot study - the LIFETWIN trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919594/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Efficacy and safety of double plasma cytokine adsorption system with sequential low-volume plasma exchange in treating acute-on-chronic liver failure complicated by sepsis: protocol for a multicentre randomised controlled clinical trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919591/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Double-blind, placebo-controlled randomised clinical trial on flexible doses of escitalopram and naltrexone in the treatment of men with compulsive sexual behaviour disorder: study protocol presentation.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919590/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Diagnostic and prognostic blood hormone biomarkers in vestibular disorders: protocol for a prospective observational cohort study at a tertiary referral centre in Germany.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919589/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Community health and well-being workers (CHWWs) for preventive healthcare services uptake in the UK: a cluster-randomised controlled trial protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919586/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Does a nurse-led intervention improve medication adherence among older adults with hypertension in Spanish primary care? Protocol for a pragmatic cluster randomised controlled trial (NURSE-ADHERE-HTN).
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919582/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Effectiveness of adherence intervention programmes for home exercises in stroke survivors: a systematic review of randomised controlled trials.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919581/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## TAICHIKNEE trial: protocol for an embedded pragmatic, individually randomised group-treatment trial of remotely delivered Tai Chi for knee osteoarthritis across US healthcare systems.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42919577/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Feasibility and acceptability of a remote blood pressure monitoring pharmacist-led telehealth programme in an emergency department transition care clinic: a pilot randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42914550/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Cost-effectiveness of adjunctive hyperbaric oxygen therapy for fibromyalgia: an economic evaluation alongside a single-centre randomised controlled trial in Brazil.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42914549/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Ultrasound guidance versus near-infrared light versus the standard technique for first-attempt success of peripheral intravenous catheterisation in adults with difficult venous access in a medical imaging department (RÉUSSIR-VVP): protocol for a single-centre, three arms, randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42914543/  
+**Published:** Oct 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Advanced Subclinical Atherosclerosis in Young Individuals and Risk of Mortality Over 30 Years: The Coronary Artery Calcium Consortium.
+**Journal:** JAMA Cardiology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912400/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Local Wealth Inequality and Working-Age Mortality in US Counties.
+**Journal:** JAMA Health Forum  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42912381/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Risk of Inflammatory Bowel Disease After Anti-CD20 Treatment in Multiple Sclerosis.
+**Journal:** JAMA Neurology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911175/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Rilvegostomig Plus Trastuzumab-Deruxtecan for Early-Stage Breast Cancer: The I-SPY2.2 Randomized Clinical Trial.
+**Journal:** JAMA Oncology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911610/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Long-Term Outcomes of De-Escalated 30-Gy Elective Irradiation in HPV-Associated Oropharyngeal Cancer.
+**Journal:** JAMA Oncology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911605/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Clinical Heterogeneity Across Oropharyngeal Cancer Datasets and Implications for Outcome Prediction.
+**Journal:** JAMA Otolaryngology-Head & Neck Surgery  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911606/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Survivorship Care Before Completion of Definitive Radiotherapy and Oncologic Outcomes in Head and Neck Cancer.
+**Journal:** JAMA Otolaryngology-Head & Neck Surgery  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911578/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## NaV1.8 Inhibition and the Future of Nonopioid Analgesia in Otolaryngology: A Narrative Review.
+**Journal:** JAMA Otolaryngology-Head & Neck Surgery  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42911570/  
+**Published:** Oct 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
