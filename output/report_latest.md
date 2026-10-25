@@ -1,6 +1,6 @@
-# Journal Watch Report -- 2026-10-24
+# Journal Watch Report -- 2026-10-25
 
-## 🕐 195 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 194 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
@@ -24,21 +24,20 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Case 30-2026: A 52-Year-Old Man with Vision Loss in the Left Eye** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMcpc2603184?af=R&rss=currentIssue
 - **Examining the Use of Race in Clinical Algorithms** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2612470?af=R&rss=currentIssue
 - **What I See before Anyone Speaks** -- New England Journal of Medicine, 2026-10-17T11:30:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2604584?af=R&rss=currentIssue
+- **Increased Hemoglobin With SGLT2 Inhibitors** -- JAMA, Sat, 24 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855789
+- **SGLT2 Inhibitor Use and Levels of Hemoglobin, Markers of Iron, and Erythropoiesis** -- JAMA, Sat, 24 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855788
+- **JAMA Editors' Summary Podcast October 23, 2026** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855986
+- **New Guidelines Issued for Diagnosing Iron Deficiency** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855968
+- **WHO Reports Highest Number of Cholera Deaths in Decades** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855967
+- **Global Heart Failure Burden Increased Between 1990 and 2023** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855966
+- **ACC Releases Guidance for Managing Resistant Hypertension** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855965
+- **AAP Advises Against Raw Milk and Other Unpasteurized Dairy** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855964
+- **WHO Publishes First Guidelines for Managing Obesity in Children** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855963
+- **Steatotic Liver Disease: A Global Problem** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855962
+- **The Rise in Testosterone Therapy for Women** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855961
 - **Trastuzumab Rezetecan in EBBR2-Low Metastatic Breast Cancer** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855792
 - **Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855791
 - **Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer Research Summary** -- JAMA, Fri, 23 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855790
-- **Pregnancy Outcomes After Living Kidney Donation** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855729
-- **Rituximab Maintenance in Eosinophilic Granulomatosis With Polyangiitis** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855726
-- **Obesity and Starvation** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855725
-- **Compounded GLP-1 Dispensing Patterns and Vitamin B 12  Coformulation** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855724
-- **Clinical Practice Guidelines on Antiviral Therapies for Adults With COVID-19 Infection** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855723
-- **Clinical Practice Guidelines on Antiviral Therapies for Adults With COVID-19 Infection—Reply** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855722
-- **A Technology Journalist Looks at AI and Health** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855721
-- **Breast Cancer’s Transformation From Terminal to Manageable** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855720
-- **Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855719
-- **Visitors Must Check In** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855718
-- **Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy Research Summary** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855717
-- **Reforming Risk Adjustment in Medicare Advantage** -- JAMA, Thu, 22 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855716
 - **Proposed changes to hepatitis B vaccination schedule could significantly increase infections, model suggests** -- Annals of Internal Medicine, Thu, 22 Oct 2026 09:02:25 -0400 -- https://www.acpjournals.org/doi/10.7326/ANNALS-26-02135
 - **ACP answers US Senate's call for healthcare reform solutions** -- Annals of Internal Medicine, Fri, 16 Oct 2026 11:00:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-16-2026/acp-answers-us-senates-call-for-healthcare-reform-solutions
 - **ACP joins national and state medical organizations in objecting to proposed changes to Modifier -25 in Medicare Physician Fee Schedule** -- Annals of Internal Medicine, Mon, 12 Oct 2026 12:18:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-joins-national-and-state-medical-organizations-in-objecting-to-proposed-changes-to-modifier-25
@@ -201,7 +200,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Preparing the US Health Care System for Major War** -- JAMA Surgery, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2855269
 
 
-## ⚠ 92 new systematic review/meta-analysis published in your journals
+## ⚠ 91 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -291,7 +290,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Comparison of propofol fentanyl versus propofol ketamine for painless gastrointestinal endoscopy: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42835036/
 - **Prognostic value of the prognostic nutritional index in sepsis, pneumonia, and tuberculosis: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42834912/
 - **Application of type 2 inflammation-related biomarkers in risk prediction models for acute exacerbations in adult asthma: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42827866/
-- **Sacituzumab govitecan in metastatic breast cancer: a systematic review and meta-analysis of its clinical benefit and safety.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42827466/
 - **Exploring gut microbiome dysbiosis in vasculitis in adults: a systematic review.** -- Systematic Reviews, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888447/
 - **Preoperative pathways in adults with multiple long-term conditions undergoing major surgery: a systematic review.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843878/
 - **HIV care cascade of adolescents and young adults in sub-Saharan Africa: a systematic review and meta-analysis.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843861/
