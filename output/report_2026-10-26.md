@@ -200,7 +200,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Preparing the US Health Care System for Major War** -- JAMA Surgery, Wed, 14 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2855269
 
 
-## ⚠ 93 new systematic review/meta-analysis published in your journals
+## ⚠ 94 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -292,10 +292,343 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Efficacy and safety of early mobilization in patients with ARDS: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42835185/
 - **Comparison of propofol fentanyl versus propofol ketamine for painless gastrointestinal endoscopy: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42835036/
 - **Prognostic value of the prognostic nutritional index in sepsis, pneumonia, and tuberculosis: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42834912/
+- **Chlorella for health: evidence from a GRADE-assessed systematic review and dose-response meta-analysis.** -- Systematic Reviews, Jul 2026 -- https://pubmed.ncbi.nlm.nih.gov/42928353/
 - **Exploring gut microbiome dysbiosis in vasculitis in adults: a systematic review.** -- Systematic Reviews, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888447/
 - **Preoperative pathways in adults with multiple long-term conditions undergoing major surgery: a systematic review.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843878/
 - **HIV care cascade of adolescents and young adults in sub-Saharan Africa: a systematic review and meta-analysis.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843861/
 - **Carbon footprint of clinical research: a systematic review and quantitative synthesis of estimates, sources of variation and emission hotspots.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833727/
 - **Follow-up colonoscopy after abnormal stool-based colorectal cancer screening: a systematic review of completion, timeliness and implementation strategies.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42833723/
 
-No new RCT-type articles found today.
+
+9 new RCT-type article(s) found.
+
+## Non-invasive Neurally Adjusted Ventilatory Assist (NIV-Nava): Four-Year Experience in a Level III Neonatal Intensive Care Unit.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42928955/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Newborns (mean gestational age 26 weeks, mean birth weight 822g) with prematurity, respiratory distress syndrome, and bronchopulmonary dysplasia in a Level III NICU.
+- Intervention: Non-invasive neurally adjusted ventilatory assist (NIV-NAVA).
+- Comparator: unclear
+- Outcome: Proportion of NIV-NAVA episodes not requiring subsequent endotracheal intubation (success defined as avoidance of intubation).
+- Study design: Observational retrospective cohort study.
+- Notes: The study is a single-arm retrospective review without a control group; comparisons are limited to 'before and after' physiological parameters.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Preterm infants requiring non-invasive respiratory support.
+- Intervention: Neurally Adjusted Ventilatory Assist (NAVA) or synchronized non-invasive ventilation.
+- Outcome: Treatment failure requiring escalation to invasive mechanical ventilation.
+- Why widened: The population was broadened from specific extremely low birth weight/gestational age cohorts to all preterm infants requiring support. The intervention was broadened to include synchronized non-invasive modes generally, as NIV-NAVA is often compared to or pooled with other synchronized modes like SNIPPV. The outcome was generalized to treatment failure.
+
+**Signal:** WORTH A CLOSER LOOK: ~8 on the narrow PICO, ~6 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~8
+- Broadened PICO pool: ~6
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Newborns+%28mean+gestational+age+26+weeks%2C+mean+birth+weight+822g%29+with+prematurity%2C+respiratory+distress+syndrome%2C+and+bronchopulmonary+dysplasia+in+a+Level+III+NICU.+Non-invasive+neurally+adjusted+ventilatory+assist+%28NIV-NAVA%29.+Proportion+of+NIV-NAVA+episodes+not+requiring+subsequent+endotracheal+intubation+%28success+defined+as+avoidance+of+intubation%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Newborns+%28mean+gestational+age+26+weeks%2C+mean+birth+weight+822g%29+with+prematurity%2C+respiratory+distress+syndrome%2C+and+bronchopulmonary+dysplasia+in+a+Level+III+NICU.+Non-invasive+neurally+adjusted+ventilatory+assist+%28NIV-NAVA%29.+Proportion+of+NIV-NAVA+episodes+not+requiring+subsequent+endotracheal+intubation+%28success+defined+as+avoidance+of+intubation%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22NIV-NAVA%22+OR+%22non-invasive+neurally+adjusted+ventilatory+assist%22%29+AND+%22NICU%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Interactive+Ventilatory+Support%22%5BMesh%5D+OR+%22NAVA%22%29+AND+%22Infant%2C+Premature%22%5BMesh%5D+AND+%22Intubation%2C+Intratracheal%22%5BMesh%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## A Comparative Evaluation of the Effects of Three Different Mouthwashes on Salivary pH in Patients Undergoing Fixed Orthodontic Treatment: A Randomized Clinical Trial.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42928919/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients undergoing fixed orthodontic treatment
+- Intervention: Hetafu CUTE mouthwash (10-15 mL, twice daily)
+- Comparator: Chlorhexidine mouthwash and Listerine mouthwash
+- Outcome: Salivary pH (measured at 5 minutes and 1 week)
+- Study design: Randomized parallel-group single-blind clinical trial
+- Notes: The specific chemical composition of 'Hetafu CUTE' is not defined in the abstract, though it is characterized by its effect on increasing pH.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with orthodontic appliances
+- Intervention: pH-modifying or alkaline mouthwashes
+- Outcome: Salivary pH or buffering capacity
+- Why widened: Population was widened from 'fixed' to all orthodontic appliances as the risk of demineralization is similar. The intervention was broadened from a specific brand (Hetafu CUTE) to its functional class (pH-modifying) to allow for comparison with other alkaline rinses. Outcome was broadened to include buffering capacity, which is physiologically related to pH maintenance.
+
+**Signal:** WORTH A CLOSER LOOK: ~2 on the narrow PICO, ~74 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~2
+- Broadened PICO pool: ~74
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+undergoing+fixed+orthodontic+treatment+Hetafu+CUTE+mouthwash+%2810-15+mL%2C+twice+daily%29+Salivary+pH+%28measured+at+5+minutes+and+1+week%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+undergoing+fixed+orthodontic+treatment+Hetafu+CUTE+mouthwash+%2810-15+mL%2C+twice+daily%29+Salivary+pH+%28measured+at+5+minutes+and+1+week%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hetafu+CUTE%22+OR+%22chlorhexidine%22+OR+%22Listerine%22%29+AND+%22fixed+orthodontic+treatment%22+AND+%22salivary+pH%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Mouthwashes%22%5BMeSH%5D%29+AND+%28%22Orthodontics%2C+Corrective%22%5BMeSH%5D+OR+%22Orthodontic+Appliances%22%5BMeSH%5D%29+AND+%28%22Hydrogen-Ion+Concentration%22%5BMeSH%5D+OR+%22Saliva%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Management, Practice, and Outcomes of Fragility Fractures and Osteoporosis Care at a Tertiary Hospital in Riyadh, Saudi Arabia.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42928876/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults hospitalized with fragility fractures in Riyadh, Saudi Arabia
+- Intervention: Severe frailty (quantified by a cumulative deficit index/Frailty Index)
+- Comparator: Fit patients (Frailty Index ≤ 0.174)
+- Outcome: One-year mortality and prolonged hospitalization (>20 days)
+- Study design: Retrospective cohort study
+- Notes: The study evaluates both the quality of osteoporosis care (descriptive) and the prognostic value of a frailty index (analytical). The specific thresholds for 'prolonged hospitalization' and 'fit' are study-defined.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with fragility fractures
+- Intervention: Frailty (assessed by any validated tool or index)
+- Outcome: Post-fracture clinical outcomes (including mortality and healthcare utilization)
+- Why widened: Removed the specific geographic location (Riyadh) and the specific 24-variable frailty index to include any validated frailty measure. Grouped specific outcomes like 'prolonged hospitalization' into 'healthcare utilization' to capture similar studies with different thresholds.
+
+**Signal:** PROBABLY TOO THIN: only ~2 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~2
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+hospitalized+with+fragility+fractures+in+Riyadh%2C+Saudi+Arabia+Severe+frailty+%28quantified+by+a+cumulative+deficit+index%2FFrailty+Index%29+One-year+mortality+and+prolonged+hospitalization+%28%3E20+days%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+hospitalized+with+fragility+fractures+in+Riyadh%2C+Saudi+Arabia+Severe+frailty+%28quantified+by+a+cumulative+deficit+index%2FFrailty+Index%29+One-year+mortality+and+prolonged+hospitalization+%28%3E20+days%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22fragility+fracture%22%29+AND+%28%22frailty+index%22%29+AND+%28%22Riyadh%22+OR+%22Saudi+Arabia%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22fragility+fracture%22%5BMeSH+Terms%5D+OR+%22osteoporotic+fractures%22%5BMeSH+Terms%5D%29+AND+%22frailty%22%5BMeSH+Terms%5D+AND+%28%22mortality%22%5BMeSH+Terms%5D+OR+%22length+of+stay%22%5BMeSH+Terms%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Long-Term Cardiovascular, Thromboembolic, and Malignancy Safety of Janus Kinase (JAK) Inhibitors in Dermatologic and Rheumatologic Populations: A Narrative Comparative Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42928856/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with rheumatoid arthritis, psoriatic arthritis, atopic dermatitis, or alopecia areata.
+- Intervention: Janus kinase (JAK) inhibitors (including tofacitinib, topical agents, and selective TYK2 inhibitors).
+- Comparator: Tumor necrosis factor (TNF) inhibitors (specifically for rheumatoid arthritis) or other standard treatments/placebo.
+- Outcome: Cardiovascular events, thromboembolism, and malignancy.
+- Study design: Narrative comparative review of RCTs, integrated safety analyses, long-term extensions, and observational studies.
+- Notes: The abstract is a review of existing literature rather than a primary study. Specific comparators for the dermatologic populations are not explicitly detailed beyond 'available alternatives'.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with chronic inflammatory or autoimmune diseases (rheumatologic and dermatologic).
+- Intervention: Janus kinase (JAK) inhibitors (class-wide).
+- Outcome: Major adverse cardiovascular events (MACE), venous thromboembolism (VTE), and malignancy.
+- Why widened: Specific diseases were grouped into 'chronic inflammatory or autoimmune diseases' as they share the JAK-STAT pathway pathophysiology. Specific drugs and formulations were generalized to the JAK inhibitor class to capture class-wide safety signals. Outcomes were standardized to common safety clusters (MACE/VTE) used in meta-analyses.
+
+**Signal:** WORTH A CLOSER LOOK: ~187 on the narrow PICO, ~6 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~187
+- Broadened PICO pool: ~6
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+rheumatoid+arthritis%2C+psoriatic+arthritis%2C+atopic+dermatitis%2C+or+alopecia+areata.+Janus+kinase+%28JAK%29+inhibitors+%28including+tofacitinib%2C+topical+agents%2C+and+selective+TYK2+inhibitors%29.+Cardiovascular+events%2C+thromboembolism%2C+and+malignancy.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+rheumatoid+arthritis%2C+psoriatic+arthritis%2C+atopic+dermatitis%2C+or+alopecia+areata.+Janus+kinase+%28JAK%29+inhibitors+%28including+tofacitinib%2C+topical+agents%2C+and+selective+TYK2+inhibitors%29.+Cardiovascular+events%2C+thromboembolism%2C+and+malignancy.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Janus+Kinase+Inhibitors%22%5BMeSH%5D+OR+%22tofacitinib%22%29+AND+%28%22Arthritis%2C+Rheumatoid%22%5BMeSH%5D+OR+%22Arthritis%2C+Psoriatic%22%5BMeSH%5D+OR+%22Dermatitis%2C+Atopic%22%5BMeSH%5D+OR+%22Alopecia+Areata%22%5BMeSH%5D%29+AND+%28%22Cardiovascular+Diseases%22%5BMeSH%5D+OR+%22Thromboembolism%22%5BMeSH%5D+OR+%22Neoplasms%22%5BMeSH%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22Janus+Kinase+Inhibitors%22%5BMeSH%5D+AND+%22Safety%22%5BMeSH%5D+AND+%28%22Rheumatic+Diseases%22%5BMeSH%5D+OR+%22Skin+Diseases%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## IcoSema in Weight Management and Glycaemic Control: A Systematic Review and Meta-Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42928846/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: adults with type 2 diabetes
+- Intervention: IcoSema (once-weekly fixed-ratio combination of insulin icodec and semaglutide)
+- Comparator: basal insulin alone, semaglutide alone, or daily basal-bolus insulin
+- Outcome: HbA1c, body weight, and clinically significant or severe hypoglycaemia
+- Study design: randomised controlled trials
+- Notes: The abstract identifies four specific phase 3 trials (COMBINE 1-4) with distinct comparators for each.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: patients with type 2 diabetes
+- Intervention: fixed-ratio combinations of basal insulin and GLP-1 receptor agonists
+- Outcome: glycaemic control, weight management, and adverse events
+- Why widened: The intervention was widened from a specific product (IcoSema) to the drug class (basal insulin/GLP-1 RA combinations) to include similar therapies like iGlarLixi or IDegLira. Outcomes were generalized to their clinical families.
+
+**Signal:** CHECK OVERLAP: 457 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~29
+- Broadened PICO pool: ~18
+- Existing reviews found: 457
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=adults+with+type+2+diabetes+IcoSema+%28once-weekly+fixed-ratio+combination+of+insulin+icodec+and+semaglutide%29+HbA1c%2C+body+weight%2C+and+clinically+significant+or+severe+hypoglycaemia
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=adults+with+type+2+diabetes+IcoSema+%28once-weekly+fixed-ratio+combination+of+insulin+icodec+and+semaglutide%29+HbA1c%2C+body+weight%2C+and+clinically+significant+or+severe+hypoglycaemia+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22IcoSema%22%29+OR+%28%22insulin+icodec%22+AND+%22semaglutide%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Diabetes+Mellitus%2C+Type+2%22%5BMeSH%5D%29+AND+%28%22Insulin%22%5BMeSH%5D+AND+%22Glucagon-Like+Peptide-1+Receptor+Agonists%22%5BMeSH%5D%29+AND+%28%22Drug+Combinations%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## High-Dose Tigecycline for Multidrug-Resistant Serratia Infections in Critically Ill Adults: A Systematic Review of Direct and Indirect Clinical Evidence.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42928831/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Critically ill adults with multidrug-resistant Serratia infections
+- Intervention: High-dose tigecycline
+- Comparator: Standard-dose tigecycline
+- Outcome: 28-day or 30-day mortality, clinical response, microbiological response, and safety (fibrinogen decline, hepatic or platelet abnormalities)
+- Study design: Systematic review of observational studies
+- Notes: The abstract explicitly states that direct evidence for the specific population (Serratia) is absent; the reported results are derived from indirect evidence or general MDR Gram-negative cohorts.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Critically ill adults with multidrug-resistant Gram-negative infections
+- Intervention: High-dose tigecycline
+- Outcome: Clinical efficacy (mortality and response) and safety
+- Why widened: The population was widened from Serratia to MDR Gram-negative infections because the review itself relies on these broader cohorts due to a lack of pathogen-specific data. Outcomes were generalized to efficacy and safety to capture the range of clinical and laboratory markers reported.
+
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~39 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~39
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Critically+ill+adults+with+multidrug-resistant+Serratia+infections+High-dose+tigecycline+28-day+or+30-day+mortality%2C+clinical+response%2C+microbiological+response%2C+and+safety+%28fibrinogen+decline%2C+hepatic+or+platelet+abnormalities%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Critically+ill+adults+with+multidrug-resistant+Serratia+infections+High-dose+tigecycline+28-day+or+30-day+mortality%2C+clinical+response%2C+microbiological+response%2C+and+safety+%28fibrinogen+decline%2C+hepatic+or+platelet+abnormalities%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Serratia%22%5BMesh%5D+OR+%22Serratia%22%29+AND+%22Tigecycline%22%5BMesh%5D+AND+%28%22high+dose%22+OR+%22high-dose%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Gram-Negative+Bacterial+Infections%22%5BMesh%5D+OR+%22Gram-Negative+Bacteria%22%29+AND+%22Tigecycline%22%5BMesh%5D+AND+%28%22high+dose%22+OR+%22high-dose%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Baseline Predictors of Crestal Bone Maintenance and Implant Stability Following Immediate Implant Placement With Platelet-Rich Fibrin: A Retrospective Observational Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42928814/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients receiving single-unit dental implants immediately after tooth extraction
+- Intervention: Immediate implant placement with adjunctive Platelet-Rich Fibrin (PRF)
+- Comparator: unclear
+- Outcome: Crestal bone level changes and implant stability (Implant Stability Quotient) at 6 months
+- Study design: Retrospective observational study
+- Notes: The study is a single-arm retrospective analysis focusing on internal predictors; there is no control group (non-PRF) described in the abstract.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients undergoing immediate dental implant placement
+- Intervention: Immediate implant placement with platelet-rich concentrates (PRF or PRP)
+- Outcome: Peri-implant bone remodeling and implant stability
+- Why widened: Broadened the population from single-unit to any immediate implant; widened the intervention from PRF specifically to the broader class of platelet-rich concentrates (including PRP) to allow for meta-analysis of autologous blood concentrates; generalized the outcome to include all peri-implant bone changes and stability measures.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+receiving+single-unit+dental+implants+immediately+after+tooth+extraction+Immediate+implant+placement+with+adjunctive+Platelet-Rich+Fibrin+%28PRF%29+Crestal+bone+level+changes+and+implant+stability+%28Implant+Stability+Quotient%29+at+6+months
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+receiving+single-unit+dental+implants+immediately+after+tooth+extraction+Immediate+implant+placement+with+adjunctive+Platelet-Rich+Fibrin+%28PRF%29+Crestal+bone+level+changes+and+implant+stability+%28Implant+Stability+Quotient%29+at+6+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Immediate+Dental+Implant+Placement%22%5BMesh%5D%29+AND+%22Platelet-Rich+Fibrin%22%5BMesh%5D+AND+%22Alveolar+Bone+Loss%22%5BMesh%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Immediate+Dental+Implant+Placement%22%5BMesh%5D%29+AND+%28%22Platelet-Rich+Fibrin%22%5BMesh%5D+OR+%22Platelet-Rich+Plasma%22%5BMesh%5D%29+AND+%28%22Alveolar+Bone+Loss%22%5BMesh%5D+OR+%22Dental+Implant+Stability%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Prenatal COVID-19 pandemic-related traumatic stress and risk of child neurodevelopmental disorders: a cohort study.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42928291/  
+**Published:** Jul 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Pregnant individuals (≥ 12 weeks gestation) during the COVID-19 pandemic (June 2020 - September 2022)
+- Intervention: High prenatal COVID-19 pandemic-related traumatic stress (PTS Scale score ≥ 9)
+- Comparator: Low prenatal COVID-19 pandemic-related traumatic stress (PTS Scale score < 9)
+- Outcome: Child neurodevelopmental disorders (NDD) and autism spectrum disorder (ASD)
+- Study design: Prospective cohort study
+- Notes: The exposure is an observational stress measure rather than a clinical intervention. The follow-up period extends to July 2025, which may include projected data or very recent results depending on the current date.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Pregnant individuals exposed to major public health crises or large-scale disasters
+- Intervention: Prenatal disaster-related or pandemic-related psychological stress
+- Outcome: Child neurodevelopmental, behavioral, or psychiatric disorders
+- Why widened: Broadened the specific COVID-19 context to include other major disasters/pandemics to allow for pooling of studies on maternal stress during large-scale crises. Broadened NDD to include behavioral/psychiatric disorders as these are often studied together in the context of prenatal stress.
+
+**Signal:** WORTH A CLOSER LOOK: ~52 on the narrow PICO, ~22 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~52
+- Broadened PICO pool: ~22
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Pregnant+individuals+%28%E2%89%A5+12+weeks+gestation%29+during+the+COVID-19+pandemic+%28June+2020+-+September+2022%29+High+prenatal+COVID-19+pandemic-related+traumatic+stress+%28PTS+Scale+score+%E2%89%A5+9%29+Child+neurodevelopmental+disorders+%28NDD%29+and+autism+spectrum+disorder+%28ASD%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Pregnant+individuals+%28%E2%89%A5+12+weeks+gestation%29+during+the+COVID-19+pandemic+%28June+2020+-+September+2022%29+High+prenatal+COVID-19+pandemic-related+traumatic+stress+%28PTS+Scale+score+%E2%89%A5+9%29+Child+neurodevelopmental+disorders+%28NDD%29+and+autism+spectrum+disorder+%28ASD%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22COVID-19%22%5BMeSH%5D+OR+%22SARS-CoV-2%22%5BMeSH%5D%29+AND+%22Prenatal+Exposure+Delayed+Effects%22%5BMeSH%5D+AND+%22Neurodevelopmental+Disorders%22%5BMeSH%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Pandemics%22%5BMeSH%5D+OR+%22Disasters%22%5BMeSH%5D%29+AND+%22Prenatal+Exposure+Delayed+Effects%22%5BMeSH%5D+AND+%28%22Neurodevelopmental+Disorders%22%5BMeSH%5D+OR+%22Mental+Disorders+Diagnosed+in+Childhood%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
+- Prenatal COVID-19 pandemic-related traumatic stress and risk of child neurodevelopmental disorders: a cohort study (2026, BMC Medicine) -- https://www.semanticscholar.org/paper/fbff20bfdbc47041f4a3be49112a859bc410be66
+- Traumatic Childbirth and Birth-Related Post-Traumatic Stress Disorder in the Time of the COVID-19 Pandemic: A Prospective Cohort Study (2022, International Journal of Environmental Research and Public Health) -- https://www.semanticscholar.org/paper/207a53923942da62756010fe15001ddc1fcacc7a
+- The allostatic overload in pregnancy during the COVID-19 pandemic and potential effects on the health of the mother-child dyad: Study Protocol (2025, medRxiv) -- https://www.semanticscholar.org/paper/58ed0f9d82cf773b87b13e0e03e0aba5c9f0b991
+- Interplay between long‐term vulnerability and new risk: Young adolescent and maternal mental health immediately before and during the COVID‐19 pandemic (2021, JCPP Advances) -- https://www.semanticscholar.org/paper/8369f4ed7db486ad4e2a620f6940d942ba88b9e2
+- Life satisfaction for adolescents with developmental and behavioral disabilities during the COVID-19 pandemic (2023, Pediatric Research) -- https://www.semanticscholar.org/paper/5909cfadc9edb6c4c8e51cc6faa085d4dedc1ccd
+
+---
+
+## Efficacy and Safety of Lonapegsomatropin in Children With Turner Syndrome: 52-Week Results From the New InsiGHTS Trial.
+**Journal:** Journal of Clinical Endocrinology & Metabolism  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42929032/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: prepubertal children with Turner syndrome
+- Intervention: once-weekly lonapegsomatropin (0.24, 0.30, or 0.36 mg hGH/kg/week)
+- Comparator: daily somatropin (0.35 mg/kg/week)
+- Outcome: annualized height velocity (AHV) at 26 and 52 weeks, change in height standard deviation score (SDS), safety, and tolerability
+- Study design: Phase 2 randomized dose-ranging trial
+- Notes: The abstract clearly states the population, intervention doses, and primary/secondary endpoints. The sample size is small (n=49) as expected for a phase 2 trial.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: children with Turner syndrome
+- Intervention: long-acting growth hormone (LAGH) analogs
+- Outcome: growth velocity and height standard deviation scores
+- Why widened: The population was broadened from 'prepubertal' to all children with Turner syndrome to capture studies across different developmental stages. The intervention was broadened from a specific prodrug (lonapegsomatropin) to the class of long-acting growth hormones to allow for comparison with other weekly formulations. Outcomes were generalized to standard growth metrics regardless of specific week 26/52 time points.
+
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~11 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~11
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=prepubertal+children+with+Turner+syndrome+once-weekly+lonapegsomatropin+%280.24%2C+0.30%2C+or+0.36+mg+hGH%2Fkg%2Fweek%29+annualized+height+velocity+%28AHV%29+at+26+and+52+weeks%2C+change+in+height+standard+deviation+score+%28SDS%29%2C+safety%2C+and+tolerability
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=prepubertal+children+with+Turner+syndrome+once-weekly+lonapegsomatropin+%280.24%2C+0.30%2C+or+0.36+mg+hGH%2Fkg%2Fweek%29+annualized+height+velocity+%28AHV%29+at+26+and+52+weeks%2C+change+in+height+standard+deviation+score+%28SDS%29%2C+safety%2C+and+tolerability+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=lonapegsomatropin+AND+%22Turner+syndrome%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22long-acting+growth+hormone%22+OR+%22lonapegsomatropin%22+OR+%22somatrogon%22+OR+%22somapacitan%22%29+AND+%22Turner+syndrome%22
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
