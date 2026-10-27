@@ -292,220 +292,259 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **HIV care cascade of adolescents and young adults in sub-Saharan Africa: a systematic review and meta-analysis.** -- BMJ Open, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42843861/
 
 
-15 new RCT-type article(s) found.
+7 new RCT-type article(s) found.
 
-## Izalontamab brengitecan versus platinum-based chemotherapy in EGFR-mutated advanced non-squamous non-small-cell lung cancer after progression on third-generation EGFR tyrosine kinase inhibitors (PANKU-Lung01): a multicentre, randomised, open-label, phase 3 trial in China.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933461/  
+## Cardiovascular Risk Prediction in Postmenopausal Women With and Without Chronic Kidney Disease: An Observational Cohort Study.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42934356/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with EGFR-mutated locally advanced or metastatic non-squamous non-small-cell lung cancer (NSCLC) who have progressed on third-generation EGFR tyrosine kinase inhibitors (TKIs) and have received no previous chemotherapy for advanced disease.
-- Intervention: Izalontamab brengitecan (2.5 mg/kg intravenously on days 1 and 8 of each 3-week cycle).
-- Comparator: Platinum-based chemotherapy (pemetrexed plus carboplatin or cisplatin).
-- Outcome: Progression-free survival (PFS) assessed by blinded independent central review (BICR).
-- Study design: Multicentre, randomised, open-label, phase 3 trial.
-- Notes: The study was conducted exclusively at 73 sites in China, which may affect generalizability to other ethnic populations.
+- Population: Postmenopausal women ages 50-79 without cardiovascular disease, stratified by Chronic Kidney Disease (CKD) status (eGFR < 60 mL/min per 1.73 m²).
+- Intervention: Cardiovascular risk prediction models: Framingham, Adult Treatment Panel (ATP) III, ACC/AHA Pooled Cohort Equations (PCE), QRISK3, and PREVENT.
+- Comparator: Women without CKD (eGFR ≥ 60 mL/min per 1.73 m²).
+- Outcome: Model discrimination (C-statistic) and calibration for cardiovascular events (including MI, angina, CHD death, stroke, and TIA).
+- Study design: Secondary analysis of a prospective cohort study (Women's Health Initiative Biomarker Studies).
+- Notes: The abstract provides specific eGFR cutoffs and lists all models and outcomes clearly.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with EGFR-mutated advanced non-small-cell lung cancer (NSCLC) after progression on any EGFR tyrosine kinase inhibitor (TKI).
-- Intervention: Bispecific antibody-drug conjugates (ADCs) targeting EGFR and HER3.
-- Outcome: Survival outcomes (Progression-free survival and Overall survival).
-- Why widened: Population widened to include any prior EGFR TKI (not just 3rd-generation) and all NSCLC histologies. Intervention widened from a specific drug to the class of EGFR/HER3-targeted bispecific ADCs to capture similar agents in development. Outcome widened to include overall survival as a standard clinical endpoint for meta-analysis.
+- Population: Women with Chronic Kidney Disease.
+- Intervention: Cardiovascular risk prediction models.
+- Outcome: Predictive performance (discrimination and calibration) for cardiovascular disease events.
+- Why widened: Broadened population from postmenopausal women to all women with CKD to capture a wider range of clinical validation studies. Broadened specific risk models (e.g., QRISK3, PREVENT) to the general class of cardiovascular risk assessment tools to allow for meta-analysis across different model versions.
 
-**Signal:** WORTH A CLOSER LOOK: ~4 on the narrow PICO, ~23 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~4
-- Broadened PICO pool: ~23
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+EGFR-mutated+locally+advanced+or+metastatic+non-squamous+non-small-cell+lung+cancer+%28NSCLC%29+who+have+progressed+on+third-generation+EGFR+tyrosine+kinase+inhibitors+%28TKIs%29+and+have+received+no+previous+chemotherapy+for+advanced+disease.+Izalontamab+brengitecan+%282.5+mg%2Fkg+intravenously+on+days+1+and+8+of+each+3-week+cycle%29.+Progression-free+survival+%28PFS%29+assessed+by+blinded+independent+central+review+%28BICR%29.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+EGFR-mutated+locally+advanced+or+metastatic+non-squamous+non-small-cell+lung+cancer+%28NSCLC%29+who+have+progressed+on+third-generation+EGFR+tyrosine+kinase+inhibitors+%28TKIs%29+and+have+received+no+previous+chemotherapy+for+advanced+disease.+Izalontamab+brengitecan+%282.5+mg%2Fkg+intravenously+on+days+1+and+8+of+each+3-week+cycle%29.+Progression-free+survival+%28PFS%29+assessed+by+blinded+independent+central+review+%28BICR%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Izalontamab+brengitecan%22+OR+%22iza-bren%22%29+AND+%22NSCLC%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22EGFR%22+AND+%22HER3%22%29+AND+%22antibody-drug+conjugate%22+AND+%22Carcinoma%2C+Non-Small-Cell+Lung%22%5BMesh%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Sacituzumab tirumotecan versus treatment of physician's choice in previously treated endometrial cancer (TroFuse-005/ENGOT-en23/GOG-3095): a randomised, open-label, phase 3 trial.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933460/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Female adults (18+) with histologically confirmed advanced or recurrent endometrial carcinoma or carcinosarcoma, previously treated with up to three lines of therapy including platinum-based chemotherapy and anti-PD-1/PD-L1 therapy.
-- Intervention: Sacituzumab tirumotecan (4 mg/kg IV on days 1 and 15 of each 28-day cycle).
-- Comparator: Treatment of physician's choice (TPC), including intravenous doxorubicin (full list of TPC options truncated in abstract).
-- Outcome: Progression-free survival (PFS) and overall survival (OS).
-- Study design: Randomised, open-label, phase 3 trial.
-- Notes: The description of the comparator (TPC) was truncated in the abstract text, though doxorubicin was explicitly mentioned. The specific number of previous lines of therapy was capped at three.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with advanced or recurrent endometrial cancer previously treated with platinum-based chemotherapy and immune checkpoint inhibitors.
-- Intervention: TROP2-directed antibody-drug conjugates (ADCs).
-- Outcome: Survival and disease progression outcomes (PFS, OS, ORR).
-- Why widened: The intervention was widened from a specific drug (sacituzumab tirumotecan) to the class (TROP2-directed ADCs) to allow for comparison with similar agents like sacituzumab govitecan. The population was slightly generalized to remove the specific 'three lines' limit while maintaining the core clinical context of post-chemo/immunotherapy recurrence.
-
-**Signal:** PROBABLY TOO THIN: only ~4 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~228 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
 - Narrow PICO pool: ~1
-- Broadened PICO pool: ~4
+- Broadened PICO pool: ~228
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Female+adults+%2818%2B%29+with+histologically+confirmed+advanced+or+recurrent+endometrial+carcinoma+or+carcinosarcoma%2C+previously+treated+with+up+to+three+lines+of+therapy+including+platinum-based+chemotherapy+and+anti-PD-1%2FPD-L1+therapy.+Sacituzumab+tirumotecan+%284+mg%2Fkg+IV+on+days+1+and+15+of+each+28-day+cycle%29.+Progression-free+survival+%28PFS%29+and+overall+survival+%28OS%29.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Female+adults+%2818%2B%29+with+histologically+confirmed+advanced+or+recurrent+endometrial+carcinoma+or+carcinosarcoma%2C+previously+treated+with+up+to+three+lines+of+therapy+including+platinum-based+chemotherapy+and+anti-PD-1%2FPD-L1+therapy.+Sacituzumab+tirumotecan+%284+mg%2Fkg+IV+on+days+1+and+15+of+each+28-day+cycle%29.+Progression-free+survival+%28PFS%29+and+overall+survival+%28OS%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22sacituzumab+tirumotecan%22+OR+%22MK-2870%22+OR+%22SKB264%22%29+AND+%22endometrial+cancer%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22TROP2-directed+antibody-drug+conjugate%22+OR+%22sacituzumab%22%29+AND+%22endometrial+neoplasms%22%5BMeSH%5D
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Postmenopausal+women+ages+50-79+without+cardiovascular+disease%2C+stratified+by+Chronic+Kidney+Disease+%28CKD%29+status+%28eGFR+%3C+60+mL%2Fmin+per+1.73+m%C2%B2%29.+Cardiovascular+risk+prediction+models%3A+Framingham%2C+Adult+Treatment+Panel+%28ATP%29+III%2C+ACC%2FAHA+Pooled+Cohort+Equations+%28PCE%29%2C+QRISK3%2C+and+PREVENT.+Model+discrimination+%28C-statistic%29+and+calibration+for+cardiovascular+events+%28including+MI%2C+angina%2C+CHD+death%2C+stroke%2C+and+TIA%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Postmenopausal+women+ages+50-79+without+cardiovascular+disease%2C+stratified+by+Chronic+Kidney+Disease+%28CKD%29+status+%28eGFR+%3C+60+mL%2Fmin+per+1.73+m%C2%B2%29.+Cardiovascular+risk+prediction+models%3A+Framingham%2C+Adult+Treatment+Panel+%28ATP%29+III%2C+ACC%2FAHA+Pooled+Cohort+Equations+%28PCE%29%2C+QRISK3%2C+and+PREVENT.+Model+discrimination+%28C-statistic%29+and+calibration+for+cardiovascular+events+%28including+MI%2C+angina%2C+CHD+death%2C+stroke%2C+and+TIA%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22postmenopausal+women%22%29+AND+%28%22chronic+kidney+disease%22%29+AND+%28%22Framingham%22+OR+%22QRISK3%22+OR+%22PREVENT%22+OR+%22Pooled+Cohort+Equations%22%29+AND+%22cardiovascular+risk%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22women%22%29+AND+%28%22renal+insufficiency%2C+chronic%22%5BMeSH%5D%29+AND+%28%22risk+assessment%22%5BMeSH%5D%29+AND+%28%22cardiovascular+diseases%22%5BMeSH%5D%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Izalontamab brengitecan for HR+/HER2- breast cancer in China (PANKU-Breast01): a randomised, phase 3 trial.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933459/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## First-line pembrolizumab versus carboplatin plus paclitaxel in participants with mismatch repair-deficient advanced or recurrent endometrial cancer (KEYNOTE-C93/GOG-3064/ENGOT-en15): interim analysis of a multicentre, open-label, randomised, active-comparator controlled, phase 3 trial.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933458/  
+## Admission Dysphagia Screening and Hospital-Acquired Aspiration Pneumonia in General Wards: A Retrospective Cohort Study.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42934351/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults (≥18 years) with inoperable, stage III or IV, persistent, advanced, or recurrent mismatch repair-deficient (dMMR) endometrial cancer.
-- Intervention: Intravenous pembrolizumab 400 mg every 6 weeks for up to 18 cycles.
-- Comparator: Intravenous carboplatin (AUC 5 or 6 mg/mL per min) plus paclitaxel (175 mg/m²).
-- Outcome: Progression-free survival (PFS), overall survival (OS), quality of life, and safety (treatment-related adverse events).
-- Study design: Multicentre, open-label, randomised, active-comparator controlled, phase 3 trial.
-- Notes: The abstract mentions quality of life as an assessment but does not report specific data for it. The interim analysis cutoff date (April 24, 2026) listed in the text appears to be a typographical error given the recruitment dates (2022-2023).
+- Population: Adult patients admitted to general wards
+- Intervention: Adherence to a nurse-led dysphagia screening protocol (Eating Assessment Tool-10 [EAT-10], repetitive saliva swallowing test [RSST], and mealtime observation) on admission
+- Comparator: Non-adherence to the dysphagia screening protocol
+- Outcome: Incidence of hospital-acquired aspiration pneumonia (HA-AP)
+- Study design: Retrospective cohort study
+- Notes: The comparator is defined by protocol non-adherence rather than a specific alternative standard of care; the exact nature of 'non-adherence' (e.g., no screening vs. incomplete screening) is not explicitly detailed.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with advanced or recurrent mismatch repair-deficient (dMMR) endometrial cancer.
-- Intervention: PD-1 or PD-L1 inhibitor monotherapy.
-- Outcome: Survival (PFS, OS) and safety.
-- Why widened: Broadened pembrolizumab to the PD-1/PD-L1 inhibitor class to allow for comparison with other immunotherapies (e.g., dostarlimab). Broadened the specific chemotherapy regimen to platinum-based chemotherapy. Simplified the population to advanced/recurrent dMMR endometrial cancer to capture similar clinical cohorts regardless of specific stage III/IV sub-classification.
+- Population: Hospitalized adult patients
+- Intervention: Systematic dysphagia screening or swallowing assessment protocols
+- Outcome: Hospital-acquired aspiration pneumonia
+- Why widened: Broadened the specific nurse-led protocol (EAT-10, RSST) to any systematic dysphagia screening to capture various validated assessment tools. Broadened the population from 'general wards' to all 'hospitalized adults' to include other inpatient settings where aspiration risk is clinically relevant.
 
-**Signal:** WORTH A CLOSER LOOK: ~20 on the narrow PICO, ~7 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~113 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~20
-- Broadened PICO pool: ~7
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~113
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%28%E2%89%A518+years%29+with+inoperable%2C+stage+III+or+IV%2C+persistent%2C+advanced%2C+or+recurrent+mismatch+repair-deficient+%28dMMR%29+endometrial+cancer.+Intravenous+pembrolizumab+400+mg+every+6+weeks+for+up+to+18+cycles.+Progression-free+survival+%28PFS%29%2C+overall+survival+%28OS%29%2C+quality+of+life%2C+and+safety+%28treatment-related+adverse+events%29.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%28%E2%89%A518+years%29+with+inoperable%2C+stage+III+or+IV%2C+persistent%2C+advanced%2C+or+recurrent+mismatch+repair-deficient+%28dMMR%29+endometrial+cancer.+Intravenous+pembrolizumab+400+mg+every+6+weeks+for+up+to+18+cycles.+Progression-free+survival+%28PFS%29%2C+overall+survival+%28OS%29%2C+quality+of+life%2C+and+safety+%28treatment-related+adverse+events%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22pembrolizumab%22%5BMeSH+Terms%5D+OR+%22pembrolizumab%22%29+AND+%28%22carboplatin%22%5BMeSH+Terms%5D+OR+%22carboplatin%22%29+AND+%28%22paclitaxel%22%5BMeSH+Terms%5D+OR+%22paclitaxel%22%29+AND+%28%22endometrial+neoplasms%22%5BMeSH+Terms%5D+OR+%22endometrial+cancer%22%29+AND+%22dMMR%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22programmed+cell+death+1+receptor%22%5BMeSH+Terms%5D+OR+%22PD-1+inhibitors%22%29+AND+%28%22platinum+compounds%22%5BMeSH+Terms%5D+OR+%22chemotherapy%22%29+AND+%28%22endometrial+neoplasms%22%5BMeSH+Terms%5D%29+AND+%28%22mismatch+repair+deficiency%22%5BMeSH+Terms%5D+OR+%22dMMR%22%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+admitted+to+general+wards+Adherence+to+a+nurse-led+dysphagia+screening+protocol+%28Eating+Assessment+Tool-10+%5BEAT-10%5D%2C+repetitive+saliva+swallowing+test+%5BRSST%5D%2C+and+mealtime+observation%29+on+admission+Incidence+of+hospital-acquired+aspiration+pneumonia+%28HA-AP%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+admitted+to+general+wards+Adherence+to+a+nurse-led+dysphagia+screening+protocol+%28Eating+Assessment+Tool-10+%5BEAT-10%5D%2C+repetitive+saliva+swallowing+test+%5BRSST%5D%2C+and+mealtime+observation%29+on+admission+Incidence+of+hospital-acquired+aspiration+pneumonia+%28HA-AP%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22EAT-10%22+OR+%22repetitive+saliva+swallowing+test%22%29+AND+%22aspiration+pneumonia%22+AND+%22hospital-acquired%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Deglutition+Disorders%2Fdiagnosis%22%5BMeSH%5D+OR+%22dysphagia+screening%22%29+AND+%22Pneumonia%2C+Aspiration%2Fprevention+and+control%22%5BMeSH%5D
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Ruzaltatug rezetecan versus chemotherapy for EGFR-mutated advanced non-small-cell lung cancer progressing after EGFR tyrosine kinase inhibitor therapy (HERON-Lung01): interim analysis of a randomised, open-label, phase 3 trial in China.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933457/  
-**Published:** Oct 2026
+## Optimal doses of cognitive digital therapeutics for pediatric patients with cognitive impairments: A retrospective study based on big data.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42934734/  
+**Published:** Jul 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Pediatric patients (children and adolescents) with cognitive impairments
+- Intervention: Cognitive digital therapeutics (CDT) at specific daily (16-28 min), weekly (7 days), and total (1-9 months) doses
+- Comparator: Varying doses of cognitive digital therapeutics (internal comparison)
+- Outcome: Cognitive improvement measured by the Mean Cognitive Index
+- Study design: Retrospective study based on big data
+- Notes: The specific etiology of cognitive impairment (e.g., ADHD, ASD, or intellectual disability) is not specified. The 'Mean Cognitive Index' is a study-specific or proprietary metric.
 
----
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Children and adolescents with cognitive or neurodevelopmental disorders
+- Intervention: Cognitive digital therapeutics or digital cognitive training
+- Outcome: Cognitive function or neuropsychological performance
+- Why widened: Broadened specific CDT dosing to the general intervention class and the specific Mean Cognitive Index to the broader family of cognitive outcomes to allow for comparison with other digital health platforms.
 
-## Laparoscopic Versus Open Liver Resection for Colorectal Liver Metastases : An Individual Participant Data Meta-analysis of Four Randomized Clinical Trials.
-**Journal:** Annals of Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42932884/  
-**Published:** Oct 2026
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~9 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~9
+- Existing reviews found: 0
 
----
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Pediatric+patients+%28children+and+adolescents%29+with+cognitive+impairments+Cognitive+digital+therapeutics+%28CDT%29+at+specific+daily+%2816-28+min%29%2C+weekly+%287+days%29%2C+and+total+%281-9+months%29+doses+Cognitive+improvement+measured+by+the+Mean+Cognitive+Index
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Pediatric+patients+%28children+and+adolescents%29+with+cognitive+impairments+Cognitive+digital+therapeutics+%28CDT%29+at+specific+daily+%2816-28+min%29%2C+weekly+%287+days%29%2C+and+total+%281-9+months%29+doses+Cognitive+improvement+measured+by+the+Mean+Cognitive+Index+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22cognitive+digital+therapeutics%22%29+AND+%28pediatric+OR+children+OR+adolescents%29+AND+%22Mean+Cognitive+Index%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22digital+therapeutics%22+OR+%22digital+cognitive+training%22%29+AND+%28%22cognitive+impairment%22+OR+%22neurodevelopmental+disorders%22%29+AND+%28child+OR+adolescent%29
 
-## Obesity and Cancer Risk in Young Adults in Korea : A Nationwide Health Screening Cohort Study.
-**Journal:** Annals of Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42932883/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Effect of yoga on blood pressure in hypertensive older adults: a randomised multicentre study with control group - study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933840/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Prognostic value of the C-reactive protein-triglyceride-glucose index (CTI) for major adverse cardiovascular events in patients with coronary artery disease: a retrospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933839/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Effect of interferon gamma as a treatment for post-aggressive immunosuppression in critically ill (INFINITY trial): study protocol for a randomised Bayesian double-blind controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933837/  
-**Published:** Oct 2026
+## Rethinking evidence generation in gastrointestinal cancer treatment research: the need for both high-quality interventional and observational evidence.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42934650/  
+**Published:** Jul 2026
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with gastrointestinal (GI) cancers (including anal, colorectal, esogastric, pancreatic, hepatocellular, and biliary tract cancers)
+- Intervention: Integration of high-quality interventional research (RCTs) and observational research/real-world evidence (RWE)
+- Comparator: Current research ecosystem relying primarily on randomized controlled trials (RCTs) alone
+- Outcome: Reduction in research waste, acceleration of evidence generation, and identification of effective personalized treatments
+- Study design: Methodological perspective/Review
+- Notes: The abstract describes a methodological framework rather than a specific clinical trial; PICO elements are extracted based on the proposed research strategy rather than a patient-level intervention.
 
----
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with any gastrointestinal malignancy
+- Intervention: Use of Real-World Evidence (RWE) and observational study designs in oncology clinical evidence synthesis
+- Outcome: Quality, validity, and efficiency of clinical guidelines and therapeutic recommendations
+- Why widened: Broadened the specific list of GI cancers to the general category of GI malignancies. Generalized the intervention from 'integration' to the broader application of RWE in oncology to capture the methodological shift in evidence generation.
 
-## Influence of bed occupancy and patient characteristics on bedspacing practices: a multicentre retrospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933831/  
-**Published:** Oct 2026
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~50 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~50
+- Existing reviews found: 0
 
----
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+gastrointestinal+%28GI%29+cancers+%28including+anal%2C+colorectal%2C+esogastric%2C+pancreatic%2C+hepatocellular%2C+and+biliary+tract+cancers%29+Integration+of+high-quality+interventional+research+%28RCTs%29+and+observational+research%2Freal-world+evidence+%28RWE%29+Reduction+in+research+waste%2C+acceleration+of+evidence+generation%2C+and+identification+of+effective+personalized+treatments
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+gastrointestinal+%28GI%29+cancers+%28including+anal%2C+colorectal%2C+esogastric%2C+pancreatic%2C+hepatocellular%2C+and+biliary+tract+cancers%29+Integration+of+high-quality+interventional+research+%28RCTs%29+and+observational+research%2Freal-world+evidence+%28RWE%29+Reduction+in+research+waste%2C+acceleration+of+evidence+generation%2C+and+identification+of+effective+personalized+treatments+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Gastrointestinal+Neoplasms%22%5BMeSH%5D%29+AND+%28%22Real+World+Evidence%22%5BMeSH%5D%29+AND+%28%22Randomized+Controlled+Trials+as+Topic%22%5BMeSH%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Gastrointestinal+Neoplasms%22%5BMeSH%5D%29+AND+%28%22Evidence-Based+Medicine%22%5BMeSH%5D+OR+%22Research+Design%22%5BMeSH%5D%29+AND+%28%22Observational+Study%22%5BPublication+Type%5D+OR+%22Real+World+Evidence%22%5BMeSH%5D%29
 
-## Primary non-adherence to newly prescribed discharge medications and 30-day adverse outcomes by mental health status: a retrospective cohort study in two tertiary care hospitals in Montréal, Québec, Canada.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933830/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Cancer incidence following platelet count and C-reactive protein testing across ethnic groups in English primary care: a cohort study of 5 million patients.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933828/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Admission to the kangaroo mother care ward and maternal postpartum depression in Lusaka, Zambia: a randomised controlled trial study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933826/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## TASTY AND HEALTHY DIET REDUCES FECAL CALPROTECTIN IN HIGH-RISK FIRST-DEGREE RELATIVES OF PATIENTS WITH CROHN'S DISEASE: PIONIR RANDOMIZED CROSSOVER TRIAL.
-**Journal:** Gastroenterology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42933673/  
+## Epidemiology of malaria and district-level factors associated with malaria elimination in Sumatra region, Indonesia: a retrospective analysis of surveillance data.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42934639/  
+**Published:** Jul 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: 154 districts in Sumatra, Indonesia, including 13,386 reported malaria cases from 2019 to 2021
+- Intervention: District-level factors including higher Human Development Index (HDI), lower historical annual parasite incidence (API), and fewer endemic neighboring districts
+- Comparator: Districts that have not achieved malaria elimination status
+- Outcome: Malaria elimination status and the likelihood of cases being classified as imported versus indigenous
+- Study design: Retrospective analysis of surveillance data using multivariable logistic regression and spatial clustering analysis
+- Notes: The study is an observational epidemiological analysis rather than a clinical trial; the 'intervention' refers to district-level characteristics/exposures associated with the outcome.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Administrative districts or regions in malaria-endemic countries undergoing elimination phases
+- Intervention: Socioeconomic development indicators and historical malaria transmission intensity
+- Outcome: Achievement of malaria elimination or significant reduction in indigenous transmission
+- Why widened: The population was widened from Sumatra to any malaria-endemic region to capture similar epidemiological transitions. The intervention was broadened from specific indices (like HDI) to general socioeconomic and historical transmission factors to allow for pooling with studies using different metrics.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~10
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=154+districts+in+Sumatra%2C+Indonesia%2C+including+13%2C386+reported+malaria+cases+from+2019+to+2021+District-level+factors+including+higher+Human+Development+Index+%28HDI%29%2C+lower+historical+annual+parasite+incidence+%28API%29%2C+and+fewer+endemic+neighboring+districts+Malaria+elimination+status+and+the+likelihood+of+cases+being+classified+as+imported+versus+indigenous
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=154+districts+in+Sumatra%2C+Indonesia%2C+including+13%2C386+reported+malaria+cases+from+2019+to+2021+District-level+factors+including+higher+Human+Development+Index+%28HDI%29%2C+lower+historical+annual+parasite+incidence+%28API%29%2C+and+fewer+endemic+neighboring+districts+Malaria+elimination+status+and+the+likelihood+of+cases+being+classified+as+imported+versus+indigenous+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Malaria%22%5BMeSH%5D%29+AND+%22Sumatra%22+AND+%22elimination%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Malaria%22%5BMeSH%5D+AND+%22Disease+Elimination%22%5BMeSH%5D%29+AND+%28%22Socioeconomic+Factors%22%5BMeSH%5D+OR+%22Epidemiological+Monitoring%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Outcomes of Hypoplastic Left Heart Syndrome by Subtype and Presence of Ventriculocoronary Connections: A Fetal Heart Society Multicenter Retrospective Study.
+**Journal:** Circulation  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42934200/  
 **Published:** Oct 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Fetuses and infants <2 months old with Hypoplastic Left Heart Syndrome (HLHS)
+- Intervention: Mitral stenosis and aortic atresia (MS/AA) subtype with ventriculocoronary connections (VCCs)
+- Comparator: HLHS subtypes without VCCs (specifically MS/AA without VCCs, MA/AA, or MS/AS)
+- Outcome: Transplant-free survival at 5 and 10 years
+- Study design: Multicenter retrospective cohort study
+- Notes: The study evaluates anatomical subtypes and the presence of VCCs as prognostic factors (exposures) rather than a therapeutic intervention. The primary comparison group for the high-risk subtype was MS/AA without VCCs.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Infants with Hypoplastic Left Heart Syndrome
+- Intervention: Ventriculocoronary connections (VCCs) or coronary artery fistulae
+- Outcome: Long-term mortality or transplant-free survival
+- Why widened: Broadened the population to include all HLHS infants to capture studies with varying enrollment ages; generalized the intervention to include coronary anomalies/fistulae which is the broader class for VCCs; widened the outcome from specific 5/10 year intervals to general long-term survival to facilitate pooling with studies using different follow-up durations.
+
+**Signal:** WORTH A CLOSER LOOK: ~7 on the narrow PICO, ~11 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~7
+- Broadened PICO pool: ~11
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Fetuses+and+infants+%3C2+months+old+with+Hypoplastic+Left+Heart+Syndrome+%28HLHS%29+Mitral+stenosis+and+aortic+atresia+%28MS%2FAA%29+subtype+with+ventriculocoronary+connections+%28VCCs%29+Transplant-free+survival+at+5+and+10+years
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Fetuses+and+infants+%3C2+months+old+with+Hypoplastic+Left+Heart+Syndrome+%28HLHS%29+Mitral+stenosis+and+aortic+atresia+%28MS%2FAA%29+subtype+with+ventriculocoronary+connections+%28VCCs%29+Transplant-free+survival+at+5+and+10+years+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hypoplastic+Left+Heart+Syndrome%22%5BMeSH%5D%29+AND+%28%22ventriculocoronary+connections%22+OR+%22VCC%22%29+AND+%28%22mitral+stenosis%22+AND+%22aortic+atresia%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hypoplastic+Left+Heart+Syndrome%22%5BMeSH%5D%29+AND+%28%22ventriculocoronary+connections%22+OR+%22coronary+vessel+anomalies%22%5BMeSH%5D%29+AND+%28%22survival%22+OR+%22mortality%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
+- Abstract 4138483: Outcomes of Hypoplastic Left Heart Syndrome by Subtype and Presence of Ventriculocoronary Connections: A Fetal Heart Society Multi-Center Retrospective study (2024, Circulation) -- https://www.semanticscholar.org/paper/6c15fb023b8e38a88de6d1a01a799c415eac9cfb
+
+---
+
+## Palopegteriparatide in Adults With Hypoparathyroidism: 3.5-Year Results From the Phase 3 PaTHway Trial.
+**Journal:** Journal of Clinical Endocrinology & Metabolism  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42935168/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults with hypoparathyroidism
+- Intervention: Palopegteriparatide (titrated from 18 µg/day)
+- Comparator: Placebo (during the initial 26-week double-blind period) and conventional therapy (calcium and active vitamin D supplements)
+- Outcome: Independence from conventional therapy (≤600 mg/day calcium and no active vitamin D), maintenance of normocalcemia (8.3 to 10.6 mg/dL), renal function (eGFR, 24-hour urine calcium), bone mineral density (BMD), and safety (adverse events) at 182 weeks
+- Study design: Phase 3 randomized, double-blind, placebo-controlled trial followed by a 156-week open-label extension
+- Notes: The abstract reports long-term results (3.5 years) which primarily reflect the open-label extension phase rather than the initial placebo-controlled period.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with chronic hypoparathyroidism
+- Intervention: Parathyroid hormone (PTH) replacement therapy (including long-acting analogs and prodrugs)
+- Outcome: Long-term clinical and biochemical control (normocalcemia, supplement independence, renal preservation, and skeletal health)
+- Why widened: Broadened the specific drug (palopegteriparatide) to the class of PTH replacement therapies to allow for comparison with other formulations like rhPTH(1-84). Broadened specific biochemical and supplement thresholds to general clinical control to capture long-term management efficacy across different study protocols.
+
+**Signal:** WORTH A CLOSER LOOK: ~49 on the narrow PICO, ~158 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~49
+- Broadened PICO pool: ~158
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+hypoparathyroidism+Palopegteriparatide+%28titrated+from+18+%C2%B5g%2Fday%29+Independence+from+conventional+therapy+%28%E2%89%A4600+mg%2Fday+calcium+and+no+active+vitamin+D%29%2C+maintenance+of+normocalcemia+%288.3+to+10.6+mg%2FdL%29%2C+renal+function+%28eGFR%2C+24-hour+urine+calcium%29%2C+bone+mineral+density+%28BMD%29%2C+and+safety+%28adverse+events%29+at+182+weeks
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+hypoparathyroidism+Palopegteriparatide+%28titrated+from+18+%C2%B5g%2Fday%29+Independence+from+conventional+therapy+%28%E2%89%A4600+mg%2Fday+calcium+and+no+active+vitamin+D%29%2C+maintenance+of+normocalcemia+%288.3+to+10.6+mg%2FdL%29%2C+renal+function+%28eGFR%2C+24-hour+urine+calcium%29%2C+bone+mineral+density+%28BMD%29%2C+and+safety+%28adverse+events%29+at+182+weeks+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22palopegteriparatide%22+AND+%22hypoparathyroidism%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22parathyroid+hormone%22%5BMeSH+Terms%5D+OR+%22PTH+replacement%22%29+AND+%22hypoparathyroidism%22%5BMeSH+Terms%5D+AND+%28%22long-term%22+OR+%22extension+study%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
