@@ -4,26 +4,26 @@
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
-- **Ianalumab for the Treatment of Patients with Sjögren’s Disease** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2601088?af=R&rss=currentIssue
-- **Response-Tailored or Standard-Duration Antibiotic Treatment for Infective Endocarditis** -- New England Journal of Medicine, 2026-08-28T09:30:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2607887?af=R&rss=currentIssue
-- **Tambotatug Pelitecan in Small-Cell Lung Cancer after Platinum-Based Therapy** -- New England Journal of Medicine, 2026-09-12T11:59:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2610229?af=R&rss=currentIssue
-- **Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event** -- New England Journal of Medicine, 2026-08-29T09:00:17Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2608717?af=R&rss=currentIssue
-- **Reengineering Coagulation with a Bispecific Antibody** -- New England Journal of Medicine, 2026-09-09T12:01:41Z -- https://www.nejm.org/doi/full/10.1056/NEJMcibr2608873?af=R&rss=currentIssue
-- **Helicobacter pylori Infection — Advances, Challenges, and the Road Ahead** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMra2414530?af=R&rss=currentIssue
-- **IVUS-Guided PCI in Left Main Coronary Disease** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2609433?af=R&rss=currentIssue
-- **Pulsed Field Ablation for Persistent Atrial Fibrillation** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2610073?af=R&rss=currentIssue
-- **Daraxonrasib in Previously Treated Metastatic Pancreatic Cancer** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2611022?af=R&rss=currentIssue
-- **Mavacamten and Obstructive Hypertrophic Cardiomyopathy in Teens** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2611023?af=R&rss=currentIssue
-- **In Vivo Aquaporin-1 Circular RNA Therapy for Radiation-Induced Xerostomia** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2604891?af=R&rss=currentIssue
-- **Conducting Research with Involuntarily Hospitalized Patients — Ethical, Legal, and Regulatory Considerations** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMms2608116?af=R&rss=currentIssue
-- **Ianalumab in Sjögren’s Disease — A First Step** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2610330?af=R&rss=currentIssue
-- **Role for Factor XIa Inhibitors after an Acute Coronary Syndrome Event** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2612343?af=R&rss=currentIssue
-- **Infective Endocarditis — When Is Enough Enough?** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2612352?af=R&rss=currentIssue
-- **Tuberculous Empyema Resulting in Pseudochylothorax** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2517156?af=R&rss=currentIssue
-- **Spinal Tuberculosis** -- New England Journal of Medicine, 2026-10-17T11:30:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2607513?af=R&rss=currentIssue
-- **Case 30-2026: A 52-Year-Old Man with Vision Loss in the Left Eye** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMcpc2603184?af=R&rss=currentIssue
-- **Examining the Use of Race in Clinical Algorithms** -- New England Journal of Medicine, 2026-10-21T09:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2612470?af=R&rss=currentIssue
-- **What I See before Anyone Speaks** -- New England Journal of Medicine, 2026-10-17T11:30:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2604584?af=R&rss=currentIssue
+- **Immediate Ambulatory Electrocardiographic Monitoring in Syncope** -- New England Journal of Medicine, 2026-08-31T06:15:07Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2605812?af=R&rss=currentIssue
+- **Continuous Glucose Monitoring in Non–Insulin-Treated Type 2 Diabetes** -- New England Journal of Medicine, 2026-10-14T09:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2608571?af=R&rss=currentIssue
+- **Tozorakimab to Prevent COPD Exacerbations** -- New England Journal of Medicine, 2026-09-08T11:45:04Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2606998?af=R&rss=currentIssue
+- **Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury** -- New England Journal of Medicine, 2026-10-14T01:00:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2608397?af=R&rss=currentIssue
+- **Gram-Negative Bacterial Resistance** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMra2506114?af=R&rss=currentIssue
+- **Ensartinib in ALK-Positive Non–Small-Cell Lung Cancer** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2610348?af=R&rss=currentIssue
+- **Syncope** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2611462?af=R&rss=currentIssue
+- **Sirolimus-Coated Balloon Angioplasty for Infrainguinal Artery Disease** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2611610?af=R&rss=currentIssue
+- **SLC6A19 Inhibitor Repinatrabit and Phenylalanine Levels in Phenylketonuria** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2514812?af=R&rss=currentIssue
+- **Gene Therapy for Phenylketonuria in Adults** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2518656?af=R&rss=currentIssue
+- **Neuroepithelial Tumor with AAV Integration** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2609764?af=R&rss=currentIssue
+- **Cardiac Monitors for Unexplained Syncope — More Benefit than Expected?** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2612346?af=R&rss=currentIssue
+- **Continuous or Intermittent Renal-Replacement Therapy — What Is the Question?** -- New England Journal of Medicine, 2026-10-14T01:34:34Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2612910?af=R&rss=currentIssue
+- **Thelaziasis** -- New England Journal of Medicine, 2026-10-24T11:30:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2609683?af=R&rss=currentIssue
+- **Splenosis** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2609770?af=R&rss=currentIssue
+- **An Element Out of Place** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMimc2600356?af=R&rss=currentIssue
+- **Case 31-2026: A 42-Year-Old Pregnant Woman with Vaginal Hemorrhage** -- New England Journal of Medicine, 2026-10-28T09:00:13Z -- https://www.nejm.org/doi/full/10.1056/NEJMcpc2603185?af=R&rss=currentIssue
+- **My Father’s Code** -- New England Journal of Medicine, 2026-10-24T11:30:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2605919?af=R&rss=currentIssue
+- **Abortion Care in Puerto Rico — A Fragile Legal Landscape** -- New England Journal of Medicine, 2026-10-24T11:30:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2607323?af=R&rss=currentIssue
+- **The Future of Health Agency Enforcement Fines** -- New England Journal of Medicine, 2026-10-24T11:30:09Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2609972?af=R&rss=currentIssue
 - **Diagnosis and Management of Acute Rhinosinusitis in Adults** -- JAMA, Wed, 28 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855978
 - **Diagnosis of Suspected Pulmonary Embolism in Patients With Cancer** -- JAMA, Wed, 28 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855977
 - **Diagnosis of Suspected Pulmonary Embolism in Patients With Cancer—Reply** -- JAMA, Wed, 28 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2855976
@@ -304,139 +304,112 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Exploring gut microbiome dysbiosis in vasculitis in adults: a systematic review.** -- Systematic Reviews, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888447/
 
 
-9 new RCT-type article(s) found.
+3 new RCT-type article(s) found.
 
-## Impact of a large measles outbreak associated with transmission in the Americas and Canada's loss of measles elimination status: descriptive cohort study.
-**Journal:** BMJ  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42951282/  
-**Published:** Oct 2026
+## Development and evaluation of a practical teaching model for medical laboratory interns based on the "quality-safety-patient-centered" triple helix framework.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42952562/  
+**Published:** 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Individuals in Ontario, Canada meeting the case definition for confirmed or probable measles infection between October 28, 2024, and October 6, 2025.
-- Intervention: Exposure to measles virus (specifically the MVs/Ontario.CAN/47.24 strain) during a large-scale outbreak.
-- Comparator: unclear
-- Outcome: Demographic characteristics, vaccination status, hospital/ICU admission, pregnancy-associated outcomes, congenital infection, encephalitis, mortality, and international spread.
-- Study design: Descriptive cohort study
-- Notes: The study is descriptive and lacks a formal control group. The 'intervention' is an exposure to an outbreak rather than a clinical treatment.
+- Population: medical laboratory interns
+- Intervention: quality-safety-patient-centered triple helix framework teaching model
+- Comparator: historical control group (standard teaching model)
+- Outcome: Triple Helix Integrated Literacy Scale total score
+- Study design: two-phase, quasi-experimental, non-randomized design with a historical control group
+- Notes: The abstract text contains a typographical error or omission in the description of the control group ('The control group ( The experimental group...'), though the design is explicitly stated as historical control.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Populations in regions with previously achieved measles elimination status experiencing resurgence or outbreaks.
-- Intervention: Measles virus infection or outbreak exposure.
-- Outcome: Clinical morbidity, mortality, and impact on national or regional disease elimination status.
-- Why widened: Broadened the population from a specific geographic cohort (Ontario) to any region with elimination status to capture the broader phenomenon of measles re-establishment. Broadened specific clinical complications to general morbidity/mortality and public health status to allow for meta-analysis of outbreak impacts.
+- Population: laboratory medicine trainees
+- Intervention: competency-based education frameworks focusing on quality, safety, and patient-centered care
+- Outcome: professional competency and literacy scores
+- Why widened: The population was widened from 'interns' to 'trainees' to include students at various levels of laboratory medicine. The intervention was widened from the specific 'triple helix' brand to the general pedagogical categories it represents (quality/safety/patient-centeredness) to allow for pooling with similar educational reforms. The outcome was widened from a specific scale to general professional competency measures.
 
-**Signal:** WORTH A CLOSER LOOK: ~7 on the narrow PICO, ~584 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~29 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~7
-- Broadened PICO pool: ~584
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~29
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Individuals+in+Ontario%2C+Canada+meeting+the+case+definition+for+confirmed+or+probable+measles+infection+between+October+28%2C+2024%2C+and+October+6%2C+2025.+Exposure+to+measles+virus+%28specifically+the+MVs%2FOntario.CAN%2F47.24+strain%29+during+a+large-scale+outbreak.+Demographic+characteristics%2C+vaccination+status%2C+hospital%2FICU+admission%2C+pregnancy-associated+outcomes%2C+congenital+infection%2C+encephalitis%2C+mortality%2C+and+international+spread.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Individuals+in+Ontario%2C+Canada+meeting+the+case+definition+for+confirmed+or+probable+measles+infection+between+October+28%2C+2024%2C+and+October+6%2C+2025.+Exposure+to+measles+virus+%28specifically+the+MVs%2FOntario.CAN%2F47.24+strain%29+during+a+large-scale+outbreak.+Demographic+characteristics%2C+vaccination+status%2C+hospital%2FICU+admission%2C+pregnancy-associated+outcomes%2C+congenital+infection%2C+encephalitis%2C+mortality%2C+and+international+spread.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Measles%22%5BMesh%5D%29+AND+%22Ontario%22+AND+%222024%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Measles%22%5BMesh%5D%29+AND+%28%22Disease+Outbreaks%22%5BMesh%5D%29+AND+%28%22Elimination%22+OR+%22Eradication%22%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=medical+laboratory+interns+quality-safety-patient-centered+triple+helix+framework+teaching+model+Triple+Helix+Integrated+Literacy+Scale+total+score
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=medical+laboratory+interns+quality-safety-patient-centered+triple+helix+framework+teaching+model+Triple+Helix+Integrated+Literacy+Scale+total+score+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22medical+laboratory+interns%22%29+AND+%28%22triple+helix+framework%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Medical+Laboratory+Science%2Feducation%22%5BMeSH%5D%29+AND+%28%22Competency-Based+Education%22%5BMeSH%5D+OR+%22Quality+Improvement%22+OR+%22Patient+Safety%22%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Management of chronic pain secondary to temporomandibular disorders: a systematic review and network meta-analysis of randomised trials.
-**Journal:** BMJ  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42951279/  
-**Published:** Oct 2026
+## Faculty-supervised AI-supported BOPPPS-CBL and performance on a simulated neurological-emergency assessment among junior-college medical interns: a batch-stratified randomized educational study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42952540/  
+**Published:** 2026
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Junior-college medical interns in China
+- Intervention: Faculty-supervised AI-supported BOPPPS (Bridge-in, Objectives, Pre-assessment, Participatory Learning, Post-assessment, and Summary) and case-based learning (CBL)
+- Comparator: Conventional BOPPPS-CBL
+- Outcome: Performance scores on a locally developed simulated neurological-emergency assessment
+- Study design: Prospective, batch-stratified randomized educational study
+- Notes: The abstract clearly defines the components of the intervention and the specific population. The exact nature of the AI support (e.g., LLM vs. expert system) is not specified.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Medical students and clinical interns
+- Intervention: AI-enhanced case-based learning (CBL)
+- Outcome: Clinical competency or simulation-based assessment scores
+- Why widened: The population was widened from a specific Chinese educational tier to all medical trainees. The intervention was widened from the specific BOPPPS-CBL framework to general AI-enhanced CBL to capture similar pedagogical approaches. The outcome was widened from neurological emergencies to general clinical simulation performance.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Junior-college+medical+interns+in+China+Faculty-supervised+AI-supported+BOPPPS+%28Bridge-in%2C+Objectives%2C+Pre-assessment%2C+Participatory+Learning%2C+Post-assessment%2C+and+Summary%29+and+case-based+learning+%28CBL%29+Performance+scores+on+a+locally+developed+simulated+neurological-emergency+assessment
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Junior-college+medical+interns+in+China+Faculty-supervised+AI-supported+BOPPPS+%28Bridge-in%2C+Objectives%2C+Pre-assessment%2C+Participatory+Learning%2C+Post-assessment%2C+and+Summary%29+and+case-based+learning+%28CBL%29+Performance+scores+on+a+locally+developed+simulated+neurological-emergency+assessment+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22BOPPPS%22+OR+%22case-based+learning%22%29+AND+%22artificial+intelligence%22+AND+%22neurological+emergency%22+AND+%22interns%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Artificial+Intelligence%22%5BMeSH%5D+OR+%22AI%22%29+AND+%22Case-Based+Learning%22%5BMeSH%5D+AND+%22Education%2C+Medical%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Efficacy and cost effectiveness of high volume injections with and without corticosteroid compared with sham for midportion Achilles tendinopathy (Inject trial): randomised controlled trial.
-**Journal:** BMJ  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42951276/  
-**Published:** Oct 2026
+## Effect of mindfulness breathing versus acupoint stimulation on anxiety, fatigue, and sleep quality among children undergoing stem cell transplantation: a three-arm randomized controlled trial.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42952477/  
+**Published:** 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults (18 years or older) diagnosed with midportion Achilles tendinopathy
-- Intervention: High volume injection (50 mL saline and 0.5% bupivacaine) with or without 25 mg hydrocortisone
-- Comparator: Sham injection (2-3 mL 0.5% bupivacaine hydrochloride)
-- Outcome: Pain and disability (VISA-A score) at 52 weeks; cost per quality-adjusted life-years (QALYs)
+- Population: Children aged 7-17 years undergoing hematopoietic stem cell transplantation (HSCT)
+- Intervention: Mindfulness breathing or acupoint stimulation (once daily for 7 days pre-transplant and 1 month post-transplant)
+- Comparator: Routine care
+- Outcome: Anxiety (STAI-C), fatigue (Fatigue Severity Scale), and sleep quality (PROMIS Parent Proxy Sleep Disturbance Scale) at 1 week and 1 month post-intervention
 - Study design: Three-arm randomized controlled trial
-- Notes: The abstract is highly detailed regarding the specific volumes and components of the injections.
+- Notes: The specific acupoints used for stimulation were not detailed in the abstract. The specific components of 'routine care' are not defined.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with Achilles tendinopathy
-- Intervention: High volume injection (HVI) or hydrodissection therapies
-- Outcome: Pain, physical function, and health economic outcomes
-- Why widened: The population was broadened from 'midportion' to all Achilles tendinopathy to capture studies on insertional cases. The intervention was generalized from a specific 50mL protocol to any high-volume or hydrodissection technique. The outcome was widened from the VISA-A scale to general pain and function to allow for pooling with other validated scales.
+- Population: Pediatric patients (children and adolescents) undergoing hematopoietic stem cell transplantation
+- Intervention: Mindfulness-based interventions or acupressure/acupoint-based therapies
+- Outcome: Psychological distress (anxiety), fatigue, and sleep disturbances
+- Why widened: Broadened specific techniques (mindfulness breathing and acupoint stimulation) to their broader therapeutic classes (mindfulness-based and acupressure-based therapies) to allow for pooling of similar non-pharmacological supportive care. Broadened specific measurement scales to general symptom categories.
 
-**Signal:** WORTH A CLOSER LOOK: ~4 on the narrow PICO, ~18 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** PROBABLY TOO THIN: only ~2 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~4
-- Broadened PICO pool: ~18
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~2
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%2818+years+or+older%29+diagnosed+with+midportion+Achilles+tendinopathy+High+volume+injection+%2850+mL+saline+and+0.5%25+bupivacaine%29+with+or+without+25+mg+hydrocortisone+Pain+and+disability+%28VISA-A+score%29+at+52+weeks%3B+cost+per+quality-adjusted+life-years+%28QALYs%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%2818+years+or+older%29+diagnosed+with+midportion+Achilles+tendinopathy+High+volume+injection+%2850+mL+saline+and+0.5%25+bupivacaine%29+with+or+without+25+mg+hydrocortisone+Pain+and+disability+%28VISA-A+score%29+at+52+weeks%3B+cost+per+quality-adjusted+life-years+%28QALYs%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Achilles+tendinopathy%22%29+AND+%28%22high+volume+injection%22%29+AND+%28%22randomized+controlled+trial%22%5BPT%5D%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Achilles+Tendon%22%5BMesh%5D+OR+%22Achilles+tendinopathy%22%29+AND+%28%22high+volume+injection%22+OR+%22hydrodissection%22+OR+%22volume+expansion%22%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Children+aged+7-17+years+undergoing+hematopoietic+stem+cell+transplantation+%28HSCT%29+Mindfulness+breathing+or+acupoint+stimulation+%28once+daily+for+7+days+pre-transplant+and+1+month+post-transplant%29+Anxiety+%28STAI-C%29%2C+fatigue+%28Fatigue+Severity+Scale%29%2C+and+sleep+quality+%28PROMIS+Parent+Proxy+Sleep+Disturbance+Scale%29+at+1+week+and+1+month+post-intervention
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Children+aged+7-17+years+undergoing+hematopoietic+stem+cell+transplantation+%28HSCT%29+Mindfulness+breathing+or+acupoint+stimulation+%28once+daily+for+7+days+pre-transplant+and+1+month+post-transplant%29+Anxiety+%28STAI-C%29%2C+fatigue+%28Fatigue+Severity+Scale%29%2C+and+sleep+quality+%28PROMIS+Parent+Proxy+Sleep+Disturbance+Scale%29+at+1+week+and+1+month+post-intervention+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22mindfulness+breathing%22+OR+%22acupoint+stimulation%22%29+AND+%22hematopoietic+stem+cell+transplantation%22+AND+%28child+OR+adolescent%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Mindfulness%22%5BMesh%5D+OR+%22Acupressure%22%5BMesh%5D+OR+%22Acupuncture+Points%22%5BMesh%5D%29+AND+%22Hematopoietic+Stem+Cell+Transplantation%22%5BMesh%5D+AND+%28%22Child%22%5BMesh%5D+OR+%22Adolescent%22%5BMesh%5D%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Recovery of worsening renal function after acute heart failure.
-**Journal:** European Journal of Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42951732/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Comparing SGLT2 Inhibitors on Incident Major Adverse Kidney Events in Type 2 Diabetes: A Target Trial Emulation.
-**Journal:** Mayo Clinic Proceedings  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42951018/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Medical fitness trajectories and associated factors among licensed aviation personnel in Korea: a retrospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42951301/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Comparator choice in clinical trials of cancer drugs and recommendation categories in National Comprehensive Cancer Network (NCCN) guidelines: a retrospective cohort analysis.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42951299/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Changemaker: study protocol for sustainable adolescent health interventions to reduce non-communicable disease risks in urban Burkina Faso, Kenya and Tanzania - a hybrid type 2 cluster-randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42951297/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Efficacy of a large language model-driven application for emotion management in breast cancer patients (EMBRACE): protocol for a multicentre randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42951296/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
 
 ---
