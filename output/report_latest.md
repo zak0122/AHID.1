@@ -312,211 +312,112 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Exploring gut microbiome dysbiosis in vasculitis in adults: a systematic review.** -- Systematic Reviews, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888447/
 
 
-11 new RCT-type article(s) found.
+3 new RCT-type article(s) found.
 
-## Performance of 0/1 h versus 0/3 h pathways in patients with suspected myocardial infarction: a systematic review and individual participant data meta-analysis of randomised controlled trials.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42956796/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with suspected myocardial infarction
-- Intervention: 0/1 h pathway (blood draws at 0 h and 1 h)
-- Comparator: 0/3 h pathway (blood draws at 0 h and 3 h, standard care)
-- Outcome: Primary safety: composite of all-cause death or new type 1 myocardial infarction within 30 days. Primary efficacy: emergency department length of stay and direct discharge from the emergency department.
-- Study design: Systematic review and individual participant data meta-analysis of randomised controlled trials
-- Notes: The primary safety outcome was refined from 'any new MI' to 'type 1 MI' after data receipt but before analysis. The abstract notes that efficacy outcomes were not reported for the whole analysis population in four of the five trials.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients presenting to the emergency department with suspected acute coronary syndrome
-- Intervention: Accelerated diagnostic protocols or rapid rule-out pathways using cardiac troponin
-- Outcome: Major adverse cardiac events (MACE) and healthcare resource utilization (length of stay or discharge rates)
-- Why widened: Widened the specific 0/1h protocol to 'accelerated diagnostic protocols' to include other rapid algorithms (e.g., 0/2h) that share the same clinical intent. Expanded 'suspected MI' to 'suspected ACS' to capture the broader clinical presentation. Grouped specific safety outcomes under 'MACE' to allow for common variations in trial definitions.
-
-**Signal:** WORTH A CLOSER LOOK: ~6 on the narrow PICO, ~5 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~6
-- Broadened PICO pool: ~5
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+suspected+myocardial+infarction+0%2F1+h+pathway+%28blood+draws+at+0+h+and+1+h%29+Primary+safety%3A+composite+of+all-cause+death+or+new+type+1+myocardial+infarction+within+30+days.+Primary+efficacy%3A+emergency+department+length+of+stay+and+direct+discharge+from+the+emergency+department.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+suspected+myocardial+infarction+0%2F1+h+pathway+%28blood+draws+at+0+h+and+1+h%29+Primary+safety%3A+composite+of+all-cause+death+or+new+type+1+myocardial+infarction+within+30+days.+Primary+efficacy%3A+emergency+department+length+of+stay+and+direct+discharge+from+the+emergency+department.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%220%2F1+h%22+OR+%220%2F1-hour%22%29+AND+%28%220%2F3+h%22+OR+%220%2F3-hour%22%29+AND+%22myocardial+infarction%22+AND+%22randomized+controlled+trial%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22accelerated+diagnostic+protocol%22+OR+%22rapid+rule-out%22%29+AND+%22troponin%22+AND+%22acute+coronary+syndrome%22+AND+%22randomized+controlled+trial%22
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Non-invasive tests in metabolic dysfunction-associated steatotic liver disease: the LITMUS prospective multicentre diagnostic accuracy study.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42956772/  
-**Published:** Oct 2026
+## Atrial Fibrillation in Tribal and Non-tribal Populations: A Comparative Analysis From Eastern India.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42959061/  
+**Published:** Sep 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults with biopsy-confirmed metabolic dysfunction-associated steatotic liver disease (MASLD)
-- Intervention: 12 single markers and 18 multimarker panels (including SomaSignal, FibroMeter-VCTE, Agile 3+, TSP2, NIS4, Agile 4, ADAPT, ELF, LSM-VCTE, and gamma-glutamyl transferase)
-- Comparator: Centrally scored liver histology (NASH Clinical Research Network Scoring System)
-- Outcome: Diagnostic performance measured by Area Under the Receiver Operating Characteristic curve (AUC) for MASH, at-risk MASH (F≥2), advanced fibrosis (F≥3), and cirrhosis (F4)
-- Study design: Prospective, multicentre, diagnostic accuracy study
-- Notes: The abstract provides a comprehensive list of specific biomarkers and target conditions; no significant ambiguity noted.
+- Population: Adult patients with Atrial Fibrillation in Eastern India
+- Intervention: Tribal status (indigenous population)
+- Comparator: Non-tribal status (general population)
+- Outcome: Clinical presentation (first-diagnosed AF, ventricular rate, heart failure symptoms), echocardiographic characteristics (LVEF), comorbidities (cardiometabolic disorders, CKD, ischemic CVD), thromboembolic risk (CHA2DS2-VASc), and anticoagulation practices
+- Study design: Retrospective hospital-based cross-sectional study
+- Notes: The intervention is a demographic exposure rather than a clinical treatment. The study is observational and descriptive.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with MASLD or Non-alcoholic Fatty Liver Disease (NAFLD)
-- Intervention: Non-invasive biomarkers and multimarker panels for liver disease staging
-- Outcome: Diagnostic accuracy for steatohepatitis and liver fibrosis stages
-- Why widened: Broadened MASLD to include NAFLD to account for the recent nomenclature change. Grouped specific proprietary panels (e.g., SomaSignal, NIS4) into the general category of non-invasive biomarkers to allow for comparison with other diagnostic tools in the same class.
+- Population: Adult patients with Atrial Fibrillation in South Asia or low-to-middle-income countries
+- Intervention: Indigenous, tribal, or marginalized ethnic status
+- Outcome: Clinical characteristics, cardiovascular risk profiles, and healthcare management disparities
+- Why widened: Widened geographic focus from Eastern India to South Asia/LMICs and specific tribal status to marginalized ethnic status to capture broader health disparity trends. Grouped specific clinical and echocardiographic metrics into general risk profiles and management patterns to facilitate pooling with other health equity studies.
 
-**Signal:** WORTH A CLOSER LOOK: ~29 on the narrow PICO, ~19 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~29
-- Broadened PICO pool: ~19
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+biopsy-confirmed+metabolic+dysfunction-associated+steatotic+liver+disease+%28MASLD%29+12+single+markers+and+18+multimarker+panels+%28including+SomaSignal%2C+FibroMeter-VCTE%2C+Agile+3%2B%2C+TSP2%2C+NIS4%2C+Agile+4%2C+ADAPT%2C+ELF%2C+LSM-VCTE%2C+and+gamma-glutamyl+transferase%29+Diagnostic+performance+measured+by+Area+Under+the+Receiver+Operating+Characteristic+curve+%28AUC%29+for+MASH%2C+at-risk+MASH+%28F%E2%89%A52%29%2C+advanced+fibrosis+%28F%E2%89%A53%29%2C+and+cirrhosis+%28F4%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+biopsy-confirmed+metabolic+dysfunction-associated+steatotic+liver+disease+%28MASLD%29+12+single+markers+and+18+multimarker+panels+%28including+SomaSignal%2C+FibroMeter-VCTE%2C+Agile+3%2B%2C+TSP2%2C+NIS4%2C+Agile+4%2C+ADAPT%2C+ELF%2C+LSM-VCTE%2C+and+gamma-glutamyl+transferase%29+Diagnostic+performance+measured+by+Area+Under+the+Receiver+Operating+Characteristic+curve+%28AUC%29+for+MASH%2C+at-risk+MASH+%28F%E2%89%A52%29%2C+advanced+fibrosis+%28F%E2%89%A53%29%2C+and+cirrhosis+%28F4%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22LITMUS+study%22+OR+%22SomaSignal%22+OR+%22FibroMeter-VCTE%22+OR+%22Agile+3%2B%22%29+AND+%22MASLD%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22MASLD%22+OR+%22NAFLD%22+OR+%22Non-alcoholic+Fatty+Liver+Disease%22%29+AND+%28%22non-invasive+biomarkers%22+OR+%22multimarker+panels%22%29+AND+%28%22diagnostic+accuracy%22%29+AND+%28%22fibrosis%22+OR+%22steatohepatitis%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42956771/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Children (aged 2 weeks to 20 years) intubated and mechanically ventilated for less than 96 hours with early, moderate-to-severe paediatric acute respiratory distress syndrome (PARDS).
-- Intervention: Prone positioning and/or High-frequency oscillatory ventilation (HFOV).
-- Comparator: Supine positioning and/or Conventional mechanical ventilation (CMV).
-- Outcome: Ventilator-free days through day 28.
-- Study design: International, two-by-two factorial, response-adaptive, phase 3, randomized controlled trial.
-- Notes: The abstract provides specific inclusion criteria (age, ventilation timing, severity) and clear definitions for the factorial interventions and primary outcome.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Pediatric patients (neonates through adolescents) with moderate-to-severe Acute Respiratory Distress Syndrome (ARDS).
-- Intervention: Prone positioning or High-frequency ventilation (HFV).
-- Outcome: Duration of mechanical ventilation, ventilator-free days, or all-cause mortality.
-- Why widened: The population was widened from a specific age/timing window to general pediatric ARDS to allow for pooling with other pediatric critical care trials. HFOV was widened to the broader class of high-frequency ventilation. The outcome was expanded from a specific 28-day window to include general ventilation duration and mortality, which are commonly reported together in respiratory meta-analyses.
-
-**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~671 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~87 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
 - Narrow PICO pool: ~3
-- Broadened PICO pool: ~671
+- Broadened PICO pool: ~87
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Children+%28aged+2+weeks+to+20+years%29+intubated+and+mechanically+ventilated+for+less+than+96+hours+with+early%2C+moderate-to-severe+paediatric+acute+respiratory+distress+syndrome+%28PARDS%29.+Prone+positioning+and%2For+High-frequency+oscillatory+ventilation+%28HFOV%29.+Ventilator-free+days+through+day+28.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Children+%28aged+2+weeks+to+20+years%29+intubated+and+mechanically+ventilated+for+less+than+96+hours+with+early%2C+moderate-to-severe+paediatric+acute+respiratory+distress+syndrome+%28PARDS%29.+Prone+positioning+and%2For+High-frequency+oscillatory+ventilation+%28HFOV%29.+Ventilator-free+days+through+day+28.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22prone+position%22+OR+%22high-frequency+oscillatory+ventilation%22%29+AND+%22pediatric+acute+respiratory+distress+syndrome%22+AND+%22ventilator-free+days%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22prone+position%22%5BMeSH%5D+OR+%22high-frequency+ventilation%22%5BMeSH%5D%29+AND+%22respiratory+distress+syndrome%22%5BMeSH%5D+AND+%28child%5BMeSH%5D+OR+infant%5BMeSH%5D+OR+adolescent%5BMeSH%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+with+Atrial+Fibrillation+in+Eastern+India+Tribal+status+%28indigenous+population%29+Clinical+presentation+%28first-diagnosed+AF%2C+ventricular+rate%2C+heart+failure+symptoms%29%2C+echocardiographic+characteristics+%28LVEF%29%2C+comorbidities+%28cardiometabolic+disorders%2C+CKD%2C+ischemic+CVD%29%2C+thromboembolic+risk+%28CHA2DS2-VASc%29%2C+and+anticoagulation+practices
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+with+Atrial+Fibrillation+in+Eastern+India+Tribal+status+%28indigenous+population%29+Clinical+presentation+%28first-diagnosed+AF%2C+ventricular+rate%2C+heart+failure+symptoms%29%2C+echocardiographic+characteristics+%28LVEF%29%2C+comorbidities+%28cardiometabolic+disorders%2C+CKD%2C+ischemic+CVD%29%2C+thromboembolic+risk+%28CHA2DS2-VASc%29%2C+and+anticoagulation+practices+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Atrial+Fibrillation%22%5BMesh%5D%29+AND+%28tribal+OR+indigenous%29+AND+India
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Atrial+Fibrillation%22%5BMesh%5D%29+AND+%28%22Health+Status+Disparities%22%5BMesh%5D+OR+%22Ethnic+Groups%22%5BMesh%5D+OR+%22Indigenous+Peoples%22%5BMesh%5D%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Disease-free survival and overall survival after neoadjuvant immunotherapy in mismatch repair-deficient colon cancer in the Netherlands: results of the single-arm, multicentre, phase 2, NICHE-2 trial.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42906564/  
+## Factors associated with the use of UK emergency services in children and young people with intellectual developmental disabilities.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42958241/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with previously untreated, clinical stage 2 or 3, resectable mismatch repair-deficient (dMMR) colon cancer
-- Intervention: Neoadjuvant ipilimumab (1 mg/kg, one dose) and nivolumab (3 mg/kg, two doses) followed by surgery
-- Comparator: unclear
-- Outcome: 3-year disease-free survival and 5-year overall survival
-- Study design: Single-arm, multicentre, phase 2 trial
-- Notes: The study is a single-arm trial, so no active or placebo comparator is defined in the abstract.
+- Population: Children and young people (aged 4-15.5 years) in England with intellectual developmental disabilities (IDD) of confirmed genetic etiology (pathogenic genetic variants).
+- Intervention: Demographic, socioeconomic, behavioral, genetic, and clinical factors (including adaptive functioning, externalizing behavior, and multisystem medical conditions).
+- Comparator: General pediatric population (for baseline rate comparison) and internal comparison of subgroups within the IDD cohort.
+- Outcome: Yearly emergency service use rate (total lifetime emergency visits divided by age).
+- Study design: Retrospective cohort study using linked administrative healthcare data (Hospital Episode Statistics) and caregiver questionnaires.
+- Notes: The study is an observational analysis of risk factors rather than a clinical trial; 'intervention' refers to the exposures/factors analyzed.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with resectable mismatch repair-deficient (dMMR) or microsatellite instability-high (MSI-H) colorectal cancer
-- Intervention: Neoadjuvant immune checkpoint inhibition
-- Outcome: Survival outcomes (disease-free survival and overall survival)
-- Why widened: Broadened dMMR to include MSI-H as they are functionally equivalent for treatment selection. Expanded colon cancer to colorectal cancer as neoadjuvant strategies are often pooled across the large bowel. Generalized the specific ipilimumab/nivolumab regimen to the class of immune checkpoint inhibitors to include other PD-1 or CTLA-4 combinations. Broadened specific survival timepoints to general survival metrics.
+- Population: Children and adolescents with intellectual or developmental disabilities.
+- Intervention: Clinical, behavioral, and socioeconomic determinants of healthcare use.
+- Outcome: Emergency healthcare utilization (including emergency department visits and urgent care attendance).
+- Why widened: The population was broadened from 'genetic etiology' to all intellectual/developmental disabilities to capture a wider clinical group. The specific age range (4-15.5) and geographic location (England) were removed to allow for international and broader pediatric comparisons. The outcome was generalized from a specific rate calculation to overall emergency utilization.
 
-**Signal:** WORTH A CLOSER LOOK: ~10 on the narrow PICO, ~108 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~79 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~10
-- Broadened PICO pool: ~108
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~79
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+previously+untreated%2C+clinical+stage+2+or+3%2C+resectable+mismatch+repair-deficient+%28dMMR%29+colon+cancer+Neoadjuvant+ipilimumab+%281+mg%2Fkg%2C+one+dose%29+and+nivolumab+%283+mg%2Fkg%2C+two+doses%29+followed+by+surgery+3-year+disease-free+survival+and+5-year+overall+survival
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+previously+untreated%2C+clinical+stage+2+or+3%2C+resectable+mismatch+repair-deficient+%28dMMR%29+colon+cancer+Neoadjuvant+ipilimumab+%281+mg%2Fkg%2C+one+dose%29+and+nivolumab+%283+mg%2Fkg%2C+two+doses%29+followed+by+surgery+3-year+disease-free+survival+and+5-year+overall+survival+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22ipilimumab%22+AND+%22nivolumab%22%29+AND+%22colon+cancer%22+AND+%22neoadjuvant%22+AND+%22dMMR%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22immune+checkpoint+inhibitors%22%5BMeSH%5D+OR+%22immunotherapy%22%5BMeSH%5D%29+AND+%22colorectal+neoplasms%22%5BMeSH%5D+AND+%22neoadjuvant+therapy%22%5BMeSH%5D+AND+%28%22dMMR%22+OR+%22MSI-H%22%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Children+and+young+people+%28aged+4-15.5+years%29+in+England+with+intellectual+developmental+disabilities+%28IDD%29+of+confirmed+genetic+etiology+%28pathogenic+genetic+variants%29.+Demographic%2C+socioeconomic%2C+behavioral%2C+genetic%2C+and+clinical+factors+%28including+adaptive+functioning%2C+externalizing+behavior%2C+and+multisystem+medical+conditions%29.+Yearly+emergency+service+use+rate+%28total+lifetime+emergency+visits+divided+by+age%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Children+and+young+people+%28aged+4-15.5+years%29+in+England+with+intellectual+developmental+disabilities+%28IDD%29+of+confirmed+genetic+etiology+%28pathogenic+genetic+variants%29.+Demographic%2C+socioeconomic%2C+behavioral%2C+genetic%2C+and+clinical+factors+%28including+adaptive+functioning%2C+externalizing+behavior%2C+and+multisystem+medical+conditions%29.+Yearly+emergency+service+use+rate+%28total+lifetime+emergency+visits+divided+by+age%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Intellectual+Disability%22%5BMesh%5D+OR+%22Developmental+Disabilities%22%5BMesh%5D%29+AND+%22Emergency+Service%2C+Hospital%22%5BMesh%5D+AND+%22Genetic+Variation%22%5BMesh%5D+AND+%28Child+OR+Adolescent%29+AND+England
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Intellectual+Disability%22%5BMesh%5D+OR+%22Developmental+Disabilities%22%5BMesh%5D%29+AND+%22Emergency+Service%2C+Hospital%22%5BMesh%5D+AND+%28Child+OR+Adolescent%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## The Effects of Cannabinoids in Cardiovascular Disease: A Comprehensive Review.
-**Journal:** American Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42957145/  
-**Published:** Oct 2026
+## Ultrasound cycloplasty: dynamic efficacy and long-term safety in glaucoma patients from northwest China.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42959028/  
+**Published:** 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with various types of glaucoma from Northwest China
+- Intervention: Ultrasound cycloplasty (UCP) using 8 or 10 sectors
+- Comparator: Preoperative baseline (self-controlled)
+- Outcome: Intraocular pressure (IOP) reduction, surgical success rate, 24-hour IOP fluctuation, pain score improvement, and complications at 1 year
+- Study design: Prospective follow-up study (case series)
+- Notes: The abstract does not specify the exact types of glaucoma included (e.g., primary open-angle vs. refractory). The comparator is the patient's own baseline rather than a control group.
 
----
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with glaucoma
+- Intervention: Ultrasound cycloplasty (UCP)
+- Outcome: Intraocular pressure (IOP) and safety outcomes
+- Why widened: Removed geographic restriction (Northwest China) as UCP efficacy is generally evaluated across broader populations. Grouped specific IOP metrics and pain scores into general efficacy and safety outcomes. Removed specific sector counts for the intervention to include all UCP protocols.
 
-## Association between intracatheter Ca²
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42957308/  
-**Published:** Oct 2026
+**Signal:** WORTH A CLOSER LOOK: ~15 on the narrow PICO, ~37 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~15
+- Broadened PICO pool: ~37
+- Existing reviews found: 0
 
----
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+various+types+of+glaucoma+from+Northwest+China+Ultrasound+cycloplasty+%28UCP%29+using+8+or+10+sectors+Intraocular+pressure+%28IOP%29+reduction%2C+surgical+success+rate%2C+24-hour+IOP+fluctuation%2C+pain+score+improvement%2C+and+complications+at+1+year
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+various+types+of+glaucoma+from+Northwest+China+Ultrasound+cycloplasty+%28UCP%29+using+8+or+10+sectors+Intraocular+pressure+%28IOP%29+reduction%2C+surgical+success+rate%2C+24-hour+IOP+fluctuation%2C+pain+score+improvement%2C+and+complications+at+1+year+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22ultrasound+cycloplasty%22+OR+%22UCP%22%29+AND+%22Glaucoma%22%5BMesh%5D+AND+%22China%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22ultrasound+cycloplasty%22+OR+%22High-Intensity+Focused+Ultrasound+Ablation%22%5BMesh%5D%29+AND+%22Glaucoma%22%5BMesh%5D
 
-## Effectiveness of physical activity and sedentary behaviour interventions delivered following cancer screening or suspected cancer referral: a systematic review and meta-analysis protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42957305/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Does a digital support intervention reduce sedentary behaviour during cancer treatment in individuals with breast, prostate or colorectal cancer? Study protocol for a Swedish multicentre randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42957304/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Effects of perfusion-guided permissive hypotension and early vasopressin initiation in adults with septic shock: protocol for a multicentre 2×2 factorial randomised controlled trial in Japanese intensive care units.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42957303/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Effect of alpha transcranial alternating current stimulation over the bilateral sensorimotor cortex on postoperative quality of recovery in patients undergoing lumbar fusion surgery: a single-centre, randomised, double-blind, sham-controlled trial protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42957298/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Protocol for PARA-PET: a trial of [
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42957293/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
