@@ -215,7 +215,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Quantifying Risk Tolerance in Kidney Xenotransplantation** -- JAMA Surgery, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2855644
 
 
-## ⚠ 96 new systematic review/meta-analysis published in your journals
+## ⚠ 98 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -259,6 +259,8 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **The dual burden of disease: Depression among patients with multidrug resistance tuberculosis in low-income and lower- middle-income countries: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42868138/
 - **Predictors of immunological non-response despite virological suppression in people living with HIV on antiretroviral therapy: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42862878/
 - **Menstrual health challenges and associated barriers among tribal adolescent girls in India: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42862827/
+- **Effects of faecal microbiota transplantation on glycaemic outcomes in adults with metabolic disorders: a systematic review and meta-analysis of randomised controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42964097/
+- **Physical activity, metabolic health and well-being in community-dwelling older adults: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42964077/
 - **Direct randomized evidence for systemic targeted therapies in prurigo nodularis: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42959662/
 - **Machine learning and deep learning for diagnosis of endometriosis: systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42959151/
 - **Research progress and trends of gut microbiota and lung injury: a bibliometric and visualization analysis based on two databases (2015-2026).** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42959125/
@@ -317,93 +319,375 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Exploring gut microbiome dysbiosis in vasculitis in adults: a systematic review.** -- Systematic Reviews, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888447/
 
 
-4 new RCT-type article(s) found.
+10 new RCT-type article(s) found.
 
-## PRE-Pregnancy Weight Loss and the Reducing Effect on CHILDhood Overweight (PREPARE CHILD): clinical trial protocol for a randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42963093/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Randomised controlled trials of faecal microbiota transplantation in adult inpatients: a scoping review study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42963088/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Efficacy and safety of oral orforglipron in Japanese participants with obesity disease (ATTAIN-J): a double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial.
-**Journal:** The Lancet Diabetes & Endocrinology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42962687/  
+## Polygenic and classical risk integration reshapes breast cancer screening recommendations in 9,761 Asian women.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42963548/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Japanese adults (aged 18 years or older) with obesity disease (BMI ≥ 27 kg/m²)
-- Intervention: Oral orforglipron (6 mg, 12 mg, or 36 mg once daily)
-- Comparator: Placebo
-- Outcome: Mean percentage change in bodyweight at week 72, proportion of participants achieving ≥ 5% bodyweight reduction, and safety (gastrointestinal adverse events)
-- Study design: Double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial
-- Notes: The abstract text for BMI range was cut off ('between 27 kg/m'), but the context of Japanese obesity guidelines and the study title 'obesity disease' implies the standard Japanese threshold of ≥ 27 kg/m².
+- Population: Asian women aged 35-59 years (specifically focusing on those 40-49 for screening reclassification)
+- Intervention: Risk-stratified breast cancer screening using a combination of Polygenic Risk Score (PRS), Gail model, mammographic density, and family history
+- Comparator: Standard age-based mammography screening recommendations
+- Outcome: Reclassification of screening recommendations (downgrading or upgrading frequency) and sensitivity for breast cancer detection
+- Study design: Prospective cohort study with comparative case-cohort analysis
+- Notes: The abstract focuses heavily on the 40-49 age group for the reclassification results. Long-term clinical outcomes like mortality or interval cancer rates are not reported due to the study's prospective nature and limited events.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with obesity or overweight
-- Intervention: Oral non-peptide GLP-1 receptor agonists
-- Outcome: Change in bodyweight and treatment-emergent adverse events
-- Why widened: The population was broadened from Japanese-specific to general adults with obesity to allow for global meta-analysis. The intervention was broadened from a specific drug (orforglipron) to its pharmacological class (oral non-peptide GLP-1RAs) to capture similar pipeline agents. The outcome was generalized from a specific 72-week timepoint to any weight change measure.
+- Population: Adult women of Asian descent
+- Intervention: Risk-stratified breast cancer screening incorporating polygenic risk scores and clinical risk factors
+- Outcome: Changes in screening eligibility/frequency and diagnostic performance metrics
+- Why widened: Broadened population to all adult Asian women to include various age-based screening windows. Broadened intervention to any PRS-based risk stratification to allow for different clinical models (e.g., Tyrer-Cuzick instead of Gail). Broadened outcome to general diagnostic accuracy and eligibility changes to capture similar health services research.
 
-**Signal:** WORTH A CLOSER LOOK: ~5 on the narrow PICO, ~22 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~5
-- Broadened PICO pool: ~22
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~0
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Japanese+adults+%28aged+18+years+or+older%29+with+obesity+disease+%28BMI+%E2%89%A5+27+kg%2Fm%C2%B2%29+Oral+orforglipron+%286+mg%2C+12+mg%2C+or+36+mg+once+daily%29+Mean+percentage+change+in+bodyweight+at+week+72%2C+proportion+of+participants+achieving+%E2%89%A5+5%25+bodyweight+reduction%2C+and+safety+%28gastrointestinal+adverse+events%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Japanese+adults+%28aged+18+years+or+older%29+with+obesity+disease+%28BMI+%E2%89%A5+27+kg%2Fm%C2%B2%29+Oral+orforglipron+%286+mg%2C+12+mg%2C+or+36+mg+once+daily%29+Mean+percentage+change+in+bodyweight+at+week+72%2C+proportion+of+participants+achieving+%E2%89%A5+5%25+bodyweight+reduction%2C+and+safety+%28gastrointestinal+adverse+events%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=orforglipron+AND+Japan+AND+obesity
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Glucagon-Like+Peptide-1+Receptor%2Fagonists%22%5BMesh%5D+OR+%22GLP-1+receptor+agonist%22%29+AND+%22Administration%2C+Oral%22%5BMesh%5D+AND+%22Obesity%22%5BMesh%5D
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Asian+women+aged+35-59+years+%28specifically+focusing+on+those+40-49+for+screening+reclassification%29+Risk-stratified+breast+cancer+screening+using+a+combination+of+Polygenic+Risk+Score+%28PRS%29%2C+Gail+model%2C+mammographic+density%2C+and+family+history+Reclassification+of+screening+recommendations+%28downgrading+or+upgrading+frequency%29+and+sensitivity+for+breast+cancer+detection
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Asian+women+aged+35-59+years+%28specifically+focusing+on+those+40-49+for+screening+reclassification%29+Risk-stratified+breast+cancer+screening+using+a+combination+of+Polygenic+Risk+Score+%28PRS%29%2C+Gail+model%2C+mammographic+density%2C+and+family+history+Reclassification+of+screening+recommendations+%28downgrading+or+upgrading+frequency%29+and+sensitivity+for+breast+cancer+detection+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Polygenic+Risk+Score%22+OR+%22PRS%22%29+AND+%22Gail+model%22+AND+%22breast+cancer+screening%22+AND+%22Asian%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Polygenic+Risk+Score%22+OR+%22PRS%22%29+AND+%22Breast+Neoplasms%2Fprevention+%26+control%22%5BMeSH%5D+AND+%22Risk+Assessment%22%5BMeSH%5D
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Clinical and metabolic subtypes of recent-onset adult type 1 diabetes: a prospective cohort study.
-**Journal:** The Lancet Diabetes & Endocrinology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42962686/  
-**Published:** Oct 2026
+## Development and external validation of interpretable machine learning models for 7-, 14-, and 28-day mortality in sepsis-associated liver injury.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964336/  
+**Published:** 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults (aged 18-69 years) with recent-onset (within 12 months) clinically diagnosed type 1 diabetes or GADA-positive individuals originally diagnosed with type 2 diabetes
-- Intervention: Subtyping using unsupervised machine learning based on GADA status, fasting C-peptide, glucose, triglycerides, and HDL cholesterol
-- Comparator: Comparison between identified subtypes (Classic T1D, Mixed T1D, and GADA-negative)
-- Outcome: Aetiological traits (polygenic risk scores, HLA profiles), insulin sensitivity, glucagon-stimulated C-peptide trajectories (β-cell function), and risks of complications (hypoglycaemia, retinopathy, and cardiovascular autonomic neuropathy)
-- Study design: Prospective cohort study
-- Notes: The intervention is an analytical subtyping method rather than a clinical treatment. The population includes a subset of GADA-positive patients originally misdiagnosed as type 2 diabetes.
+- Population: Adults meeting prespecified sepsis-associated liver injury (SALI) criteria.
+- Intervention: Machine learning models using clinical features recorded during the first 24 hours of admission.
+- Comparator: Modified SOFA (Sequential Organ Failure Assessment) score.
+- Outcome: All-cause in-hospital mortality within 7, 14, and 28 days (measured by AUROC).
+- Study design: Retrospective cohort study (model development and external validation).
+- Notes: The specific external validation cohort source is not named in the abstract. The exact 'prespecified SALI criteria' are mentioned but not detailed.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with adult-onset autoimmune diabetes (including Type 1 Diabetes and Latent Autoimmune Diabetes in Adults)
-- Intervention: Phenotypic or metabolic clustering and subtyping
-- Outcome: Beta-cell function decline and diabetes-related complications
-- Why widened: The population was widened from 'recent-onset T1D' to 'adult-onset autoimmune diabetes' to include LADA, which often overlaps clinically. The intervention was widened from specific ML-based clustering to general phenotypic subtyping to allow for different statistical approaches. Outcomes were grouped into the broader categories of disease progression and complications.
+- Population: Adults with sepsis and acute organ dysfunction, specifically liver dysfunction.
+- Intervention: Machine learning-based prognostic or risk-stratification models.
+- Outcome: Short-term mortality (in-hospital or 30-day mortality).
+- Why widened: Broadened SALI to the clinical category of sepsis with organ dysfunction to capture similar prognostic tools. Grouped specific mortality timepoints (7, 14, 28 days) into 'short-term mortality'. Generalized specific ML models to the broader category of ML-based risk stratification for clinical utility.
 
-**Signal:** WORTH A CLOSER LOOK: ~6 on the narrow PICO, ~231 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~4 on the narrow PICO, ~7 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~6
-- Broadened PICO pool: ~231
+- Narrow PICO pool: ~4
+- Broadened PICO pool: ~7
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%28aged+18-69+years%29+with+recent-onset+%28within+12+months%29+clinically+diagnosed+type+1+diabetes+or+GADA-positive+individuals+originally+diagnosed+with+type+2+diabetes+Subtyping+using+unsupervised+machine+learning+based+on+GADA+status%2C+fasting+C-peptide%2C+glucose%2C+triglycerides%2C+and+HDL+cholesterol+Aetiological+traits+%28polygenic+risk+scores%2C+HLA+profiles%29%2C+insulin+sensitivity%2C+glucagon-stimulated+C-peptide+trajectories+%28%CE%B2-cell+function%29%2C+and+risks+of+complications+%28hypoglycaemia%2C+retinopathy%2C+and+cardiovascular+autonomic+neuropathy%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%28aged+18-69+years%29+with+recent-onset+%28within+12+months%29+clinically+diagnosed+type+1+diabetes+or+GADA-positive+individuals+originally+diagnosed+with+type+2+diabetes+Subtyping+using+unsupervised+machine+learning+based+on+GADA+status%2C+fasting+C-peptide%2C+glucose%2C+triglycerides%2C+and+HDL+cholesterol+Aetiological+traits+%28polygenic+risk+scores%2C+HLA+profiles%29%2C+insulin+sensitivity%2C+glucagon-stimulated+C-peptide+trajectories+%28%CE%B2-cell+function%29%2C+and+risks+of+complications+%28hypoglycaemia%2C+retinopathy%2C+and+cardiovascular+autonomic+neuropathy%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Diabetes+Mellitus%2C+Type+1%22%5BMesh%5D%29+AND+%28%22Adult%22%5BMesh%5D%29+AND+%28%22Cluster+Analysis%22%5BMesh%5D+OR+%22unsupervised+machine+learning%22%29+AND+%28%22GADA%22+OR+%22C-peptide%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Diabetes+Mellitus%2C+Type+1%22%5BMesh%5D+OR+%22Latent+Autoimmune+Diabetes+in+Adults%22%5BMesh%5D%29+AND+%28%22Phenotype%22%5BMesh%5D+OR+%22Cluster+Analysis%22%5BMesh%5D%29+AND+%28%22Disease+Progression%22%5BMesh%5D+OR+%22Diabetes+Complications%22%5BMesh%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+meeting+prespecified+sepsis-associated+liver+injury+%28SALI%29+criteria.+Machine+learning+models+using+clinical+features+recorded+during+the+first+24+hours+of+admission.+All-cause+in-hospital+mortality+within+7%2C+14%2C+and+28+days+%28measured+by+AUROC%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+meeting+prespecified+sepsis-associated+liver+injury+%28SALI%29+criteria.+Machine+learning+models+using+clinical+features+recorded+during+the+first+24+hours+of+admission.+All-cause+in-hospital+mortality+within+7%2C+14%2C+and+28+days+%28measured+by+AUROC%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22sepsis-associated+liver+injury%22+OR+%22SALI%22%29+AND+%28%22machine+learning%22+OR+%22artificial+intelligence%22%29+AND+mortality
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28sepsis+AND+%22liver+injury%22%29+AND+%28%22machine+learning%22+OR+%22prognostic+model%22%29+AND+mortality
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Remimazolam versus propofol for elderly patients undergoing laparoscopic gastrointestinal surgery: a randomized trial concentrating on delirium and hemodynamic stability.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964328/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Elderly patients (aged 60-80 years) undergoing laparoscopic gastrointestinal surgery
+- Intervention: Remimazolam induction (doses of 0.15 mg/kg or 0.3 mg/kg)
+- Comparator: Propofol induction (dose of 1.5 mg/kg)
+- Outcome: Incidence of postoperative delirium (POD) within 5 days; hemodynamic stability (blood pressure, hypotensive events, vasopressor requirements)
+- Study design: Prospective randomized controlled trial
+- Notes: The abstract explicitly states the study was not adequately powered to exclude a clinically relevant difference in POD due to a lower-than-expected event rate.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Elderly patients (60+ years) undergoing major surgery
+- Intervention: Remimazolam (any dose or administration protocol)
+- Outcome: Postoperative delirium and intraoperative hemodynamic stability
+- Why widened: Widened the surgical population from specific laparoscopic GI surgery to 'major surgery' to capture broader perioperative trends. Removed specific induction dosages for remimazolam and propofol to allow for comparison across varying anesthetic protocols. Grouped specific hemodynamic metrics into 'intraoperative hemodynamic stability'.
+
+**Signal:** WORTH A CLOSER LOOK: ~6 on the narrow PICO, ~89 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~6
+- Broadened PICO pool: ~89
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Elderly+patients+%28aged+60-80+years%29+undergoing+laparoscopic+gastrointestinal+surgery+Remimazolam+induction+%28doses+of+0.15+mg%2Fkg+or+0.3+mg%2Fkg%29+Incidence+of+postoperative+delirium+%28POD%29+within+5+days%3B+hemodynamic+stability+%28blood+pressure%2C+hypotensive+events%2C+vasopressor+requirements%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Elderly+patients+%28aged+60-80+years%29+undergoing+laparoscopic+gastrointestinal+surgery+Remimazolam+induction+%28doses+of+0.15+mg%2Fkg+or+0.3+mg%2Fkg%29+Incidence+of+postoperative+delirium+%28POD%29+within+5+days%3B+hemodynamic+stability+%28blood+pressure%2C+hypotensive+events%2C+vasopressor+requirements%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=remimazolam+AND+propofol+AND+delirium+AND+laparoscopic
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=remimazolam+AND+propofol+AND+delirium
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
+- Remimazolam versus propofol for elderly patients undergoing laparoscopic gastrointestinal surgery: a randomized trial concentrating on delirium and hemodynamic stability (2026, Frontiers in Medicine) -- https://www.semanticscholar.org/paper/46921f84bdf8e6e54d3a41eeecf9fd07b28e5308
+
+---
+
+## Development and validation of a prognostic prediction model for elderly patients with sepsis-associated acute kidney injury based on interpretable machine learning.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964288/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Elderly patients with sepsis-associated acute kidney injury (SA-AKI)
+- Intervention: XGBoost-based interpretable machine learning prognostic model using 10 clinical variables (age, weight, RDW, PaO2, lactate, PT, APTT, BUN, creatinine, respiratory rate)
+- Comparator: Decision tree, logistic regression, random forest, and LightGBM models
+- Outcome: 28-day in-hospital mortality
+- Study design: Retrospective cohort study with external validation
+- Notes: The specific age threshold for 'elderly' is not defined in the abstract. The source of the external validation dataset is not explicitly named, though the training data came from MIMIC-IV.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adult patients with sepsis-associated acute kidney injury (SA-AKI)
+- Intervention: Machine learning-based prognostic prediction models
+- Outcome: Short-term mortality (e.g., 28-day, 30-day, or in-hospital mortality)
+- Why widened: Population widened from 'elderly' to 'adults' to include a broader clinical cohort. Intervention widened from a specific XGBoost architecture to the general class of machine learning models to allow for comparison across different algorithmic approaches. Outcome widened to include standard short-term mortality definitions used across different ICU databases.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~13 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~13
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Elderly+patients+with+sepsis-associated+acute+kidney+injury+%28SA-AKI%29+XGBoost-based+interpretable+machine+learning+prognostic+model+using+10+clinical+variables+%28age%2C+weight%2C+RDW%2C+PaO2%2C+lactate%2C+PT%2C+APTT%2C+BUN%2C+creatinine%2C+respiratory+rate%29+28-day+in-hospital+mortality
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Elderly+patients+with+sepsis-associated+acute+kidney+injury+%28SA-AKI%29+XGBoost-based+interpretable+machine+learning+prognostic+model+using+10+clinical+variables+%28age%2C+weight%2C+RDW%2C+PaO2%2C+lactate%2C+PT%2C+APTT%2C+BUN%2C+creatinine%2C+respiratory+rate%29+28-day+in-hospital+mortality+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22sepsis-associated+acute+kidney+injury%22+OR+%22SA-AKI%22%29+AND+%22elderly%22+AND+%22XGBoost%22+AND+%22mortality%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22sepsis-associated+acute+kidney+injury%22+OR+%22SA-AKI%22%29+AND+%22machine+learning%22+AND+%22mortality%22+AND+%22prognosis%22
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Cumulative weight reduction across repeated acupoint catgut embedding sessions in obese women: a retrospective cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964266/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Obese women (BMI ≥ 28 kg/m²)
+- Intervention: Acupoint catgut embedding (ACE)
+- Comparator: Control group (specific nature not stated)
+- Outcome: Body Mass Index (BMI) reduction
+- Study design: Retrospective cohort study
+- Notes: The abstract does not specify what the control group received (e.g., sham, lifestyle intervention, or no treatment).
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Obese adults
+- Intervention: Acupoint catgut embedding or acupoint embedding therapy
+- Outcome: Weight loss or body composition measures
+- Why widened: Broadened population from women to adults as the physiological mechanism of ACE is likely applicable across genders; broadened intervention to include general 'acupoint embedding' terminology to capture variations in technique; broadened outcome to include general weight loss measures beyond just BMI.
+
+**Signal:** WORTH A CLOSER LOOK: ~11 on the narrow PICO, ~65 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~11
+- Broadened PICO pool: ~65
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Obese+women+%28BMI+%E2%89%A5+28+kg%2Fm%C2%B2%29+Acupoint+catgut+embedding+%28ACE%29+Body+Mass+Index+%28BMI%29+reduction
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Obese+women+%28BMI+%E2%89%A5+28+kg%2Fm%C2%B2%29+Acupoint+catgut+embedding+%28ACE%29+Body+Mass+Index+%28BMI%29+reduction+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Acupoint+catgut+embedding%22%29+AND+%28%22obesity%22+OR+%22BMI%22%29+AND+%22women%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Acupoint+catgut+embedding%22+OR+%22Acupoint+embedding%22%29+AND+%28%22obesity%22+OR+%22overweight%22+OR+%22weight+loss%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
+- Cumulative weight reduction across repeated acupoint catgut embedding sessions in obese women: a retrospective cohort study (2026, Frontiers in Medicine) -- https://www.semanticscholar.org/paper/90a67bf3676d691cdd5e09ef2c7d4958c7e62d7a
+
+---
+
+## Comparison of piezosurgery vs. conventional bone chisel for extraction of impacted mandibular third molars with root-canal intimacy: a retrospective cohort study with CBCT-based preoperative planning.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964256/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with impacted mandibular third molars (IMTMs) with roots adjacent to the inferior alveolar nerve canal (IANC)
+- Intervention: Piezosurgery (ultrasonic osteotome)
+- Comparator: Conventional bone chisel
+- Outcome: Surgical procedure duration, intraoperative blood loss, postoperative pain, swelling, trismus, and complication rates
+- Study design: Retrospective cohort study
+- Notes: The abstract lists study dates in the future (September 2025 to May 2026), which is likely a typographical error in the source text, but the clinical variables are clearly defined.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients undergoing surgical extraction of impacted mandibular third molars
+- Intervention: Ultrasonic bone surgery (Piezosurgery)
+- Outcome: Surgical efficiency and postoperative morbidity (pain, swelling, and complications)
+- Why widened: The population was broadened to include all impacted third molar extractions, as nerve proximity is a specific risk factor but the surgical technique remains comparable across all impactions. Outcomes were grouped into efficiency and morbidity to allow for pooling of various clinical scales.
+
+**Signal:** WORTH A CLOSER LOOK: ~5 on the narrow PICO, ~38 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~5
+- Broadened PICO pool: ~38
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+impacted+mandibular+third+molars+%28IMTMs%29+with+roots+adjacent+to+the+inferior+alveolar+nerve+canal+%28IANC%29+Piezosurgery+%28ultrasonic+osteotome%29+Surgical+procedure+duration%2C+intraoperative+blood+loss%2C+postoperative+pain%2C+swelling%2C+trismus%2C+and+complication+rates
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+impacted+mandibular+third+molars+%28IMTMs%29+with+roots+adjacent+to+the+inferior+alveolar+nerve+canal+%28IANC%29+Piezosurgery+%28ultrasonic+osteotome%29+Surgical+procedure+duration%2C+intraoperative+blood+loss%2C+postoperative+pain%2C+swelling%2C+trismus%2C+and+complication+rates+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Piezosurgery%22+OR+%22ultrasonic+osteotome%22%29+AND+%22mandibular+third+molar%22+AND+%22inferior+alveolar+nerve%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Piezosurgery%22%5BMeSH%5D+OR+%22ultrasonic+surgery%22%29+AND+%22Molar%2C+Third%22%5BMeSH%5D+AND+%22Tooth+Extraction%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Effects of faecal microbiota transplantation on glycaemic outcomes in adults with metabolic disorders: a systematic review and meta-analysis of randomised controlled trials.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964097/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults with type 2 diabetes, prediabetes, insulin resistance or related metabolic disorders
+- Intervention: Faecal microbiota transplantation (FMT)
+- Comparator: unclear
+- Outcome: Change from baseline in HOMA-IR (primary); HbA1c, fasting glucose, and clamp-derived peripheral insulin sensitivity (secondary)
+- Study design: Randomised controlled trials
+- Notes: The abstract mentions 'comparator type' and 'comparator design' in sensitivity analyses but does not specify the exact nature of the control (e.g., placebo vs. autologous FMT).
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with metabolic syndrome or glucose metabolism disorders
+- Intervention: Faecal microbiota transplantation
+- Outcome: Glycaemic outcomes and markers of insulin sensitivity
+- Why widened: The population was widened to 'metabolic syndrome' to encompass the spectrum of insulin-resistant states mentioned. Outcomes were grouped into a broader family of glycaemic markers to allow for pooling of various validated biochemical measures of glucose metabolism.
+
+**Signal:** CHECK OVERLAP: 1 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~199
+- Broadened PICO pool: ~244
+- Existing reviews found: 1
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+type+2+diabetes%2C+prediabetes%2C+insulin+resistance+or+related+metabolic+disorders+Faecal+microbiota+transplantation+%28FMT%29+Change+from+baseline+in+HOMA-IR+%28primary%29%3B+HbA1c%2C+fasting+glucose%2C+and+clamp-derived+peripheral+insulin+sensitivity+%28secondary%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+type+2+diabetes%2C+prediabetes%2C+insulin+resistance+or+related+metabolic+disorders+Faecal+microbiota+transplantation+%28FMT%29+Change+from+baseline+in+HOMA-IR+%28primary%29%3B+HbA1c%2C+fasting+glucose%2C+and+clamp-derived+peripheral+insulin+sensitivity+%28secondary%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Fecal+Microbiota+Transplantation%22%5BMeSH%5D%29+AND+%28%22Insulin+Resistance%22%5BMeSH%5D+OR+%22Diabetes+Mellitus%2C+Type+2%22%5BMeSH%5D+OR+%22HOMA-IR%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Fecal+Microbiota+Transplantation%22%5BMeSH%5D%29+AND+%28%22Metabolic+Syndrome%22%5BMeSH%5D+OR+%22Glucose+Metabolism+Disorders%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
+- Effects of faecal microbiota transplantation on glycaemic outcomes in adults with metabolic disorders: a systematic review and meta-analysis of randomised controlled trials (2026, Frontiers in Medicine) -- https://www.semanticscholar.org/paper/f7ebe9ea28ff04e9fa8e19e2da140ce5a06995eb
+
+---
+
+## Development and temporal exploratory evaluation of a multi-criteria decision analysis framework for Rh antigen-matched red blood cell donor prioritization.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964091/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients receiving RhD-positive red blood cell transfusions
+- Intervention: High-match status based on a multi-criteria decision analysis (MCDA) framework incorporating RhC, c, E, and e antigen matching (AHP-TOPSIS method)
+- Comparator: Low-match status based on the same MCDA framework
+- Outcome: Newly detected irregular antibody positivity within 6 months
+- Study design: Temporal exploratory cohort study
+- Notes: The study design is described as a 'temporal exploratory evaluation', which implies a retrospective or observational cohort analysis of a newly developed model against historical or concurrent data.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients receiving red blood cell transfusions
+- Intervention: Structured decision-support frameworks or algorithms for extended blood group antigen matching
+- Outcome: Red blood cell alloimmunization (detection of irregular antibodies)
+- Why widened: Broadened the specific MCDA framework to any structured decision-support system or algorithm for antigen matching. Widened the population from RhD-positive to all RBC recipients as the principle of matching applies broadly. Removed the specific 6-month timeframe for the outcome to capture general alloimmunization studies.
+
+**Signal:** PROBABLY TOO THIN: only ~1 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~1
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+receiving+RhD-positive+red+blood+cell+transfusions+High-match+status+based+on+a+multi-criteria+decision+analysis+%28MCDA%29+framework+incorporating+RhC%2C+c%2C+E%2C+and+e+antigen+matching+%28AHP-TOPSIS+method%29+Newly+detected+irregular+antibody+positivity+within+6+months
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+receiving+RhD-positive+red+blood+cell+transfusions+High-match+status+based+on+a+multi-criteria+decision+analysis+%28MCDA%29+framework+incorporating+RhC%2C+c%2C+E%2C+and+e+antigen+matching+%28AHP-TOPSIS+method%29+Newly+detected+irregular+antibody+positivity+within+6+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22multi-criteria+decision+analysis%22+OR+%22MCDA%22%29+AND+%22Rh+antigen%22+AND+%22transfusion%22+AND+%22alloimmunization%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Decision+Support+Techniques%22%5BMeSH%5D+OR+%22Algorithms%22%5BMeSH%5D%29+AND+%22Blood+Grouping+and+Crossmatching%22%5BMeSH%5D+AND+%22Erythrocyte+Transfusion%22%5BMeSH%5D+AND+%22Isoantibodies%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
+- Development and temporal exploratory evaluation of a multi-criteria decision analysis framework for Rh antigen-matched red blood cell donor prioritization (2026, Frontiers in Medicine) -- https://www.semanticscholar.org/paper/c4c0f8d0b040110419e32008fa6caa6af3796bae
+
+---
+
+## Relationships between serum angiogenesis markers and sarcopenia: a cross-sectional study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964051/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Older adults admitted to Nanyang Central Hospital (n=471)
+- Intervention: Serum levels of angiogenesis markers (VEGF, ANGPT1, and ANGPT2)
+- Comparator: Individuals without sarcopenia (normal cohort)
+- Outcome: Sarcopenia diagnosed by Asian Working Group for Sarcopenia (AWGS) criteria (hand grip strength and appendicular skeletal muscle mass)
+- Study design: Cross-sectional study
+- Notes: The study is cross-sectional, meaning it assesses association rather than causation. The population is specific to a single hospital in China.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Older adults
+- Intervention: Angiogenesis-related biomarkers
+- Outcome: Sarcopenia or age-related loss of muscle mass and strength
+- Why widened: Widened specific markers (VEGF, ANGPT1, ANGPT2) to the broader class of angiogenesis biomarkers to capture related physiological pathways. Generalized the AWGS-specific sarcopenia diagnosis to sarcopenia in general to include studies using different diagnostic frameworks (e.g., EWGSOP). Removed the specific hospital setting to cover the general geriatric population.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~10 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~10
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Older+adults+admitted+to+Nanyang+Central+Hospital+%28n%3D471%29+Serum+levels+of+angiogenesis+markers+%28VEGF%2C+ANGPT1%2C+and+ANGPT2%29+Sarcopenia+diagnosed+by+Asian+Working+Group+for+Sarcopenia+%28AWGS%29+criteria+%28hand+grip+strength+and+appendicular+skeletal+muscle+mass%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Older+adults+admitted+to+Nanyang+Central+Hospital+%28n%3D471%29+Serum+levels+of+angiogenesis+markers+%28VEGF%2C+ANGPT1%2C+and+ANGPT2%29+Sarcopenia+diagnosed+by+Asian+Working+Group+for+Sarcopenia+%28AWGS%29+criteria+%28hand+grip+strength+and+appendicular+skeletal+muscle+mass%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Sarcopenia%22%5BMesh%5D+OR+sarcopenia%29+AND+%28VEGF+OR+ANGPT1+OR+ANGPT2%29+AND+AWGS
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Sarcopenia%22%5BMesh%5D+OR+sarcopenia%29+AND+%28%22Angiogenesis+Inducing+Agents%22%5BMesh%5D+OR+angiogenesis%29+AND+%28%22Biomarkers%22%5BMesh%5D+OR+biomarker%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Body Mass Index-Specific Central Adiposity and Risk of Incident Type 2 Diabetes Among Aging Women.
+**Journal:** Journal of Clinical Endocrinology & Metabolism  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42963906/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Aging women free of type 2 diabetes at baseline (specifically from the WHI, HRS, and HANDLS cohorts).
+- Intervention: Higher waist circumference (WC) categories within specific Body Mass Index (BMI) strata.
+- Comparator: Lower waist circumference categories within the same BMI strata, or BMI alone.
+- Outcome: Incident type 2 diabetes (T2D).
+- Study design: Prospective cohort study.
+- Notes: The abstract does not specify the exact numerical cut-points used for the BMI-specific WC categories. It focuses exclusively on women.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults without type 2 diabetes at baseline.
+- Intervention: Measures of central adiposity (e.g., waist circumference, waist-to-hip ratio) used in conjunction with BMI.
+- Outcome: Incident type 2 diabetes or metabolic syndrome.
+- Why widened: The population was broadened to include all adults because the physiological link between central adiposity and insulin resistance is relevant across sexes. The intervention was widened to include other common metrics of central adiposity (like WHR) that are often used interchangeably with WC in clinical guidelines. The outcome was broadened to include metabolic syndrome as it is the primary precursor to T2D.
+
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~105 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~105
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Aging+women+free+of+type+2+diabetes+at+baseline+%28specifically+from+the+WHI%2C+HRS%2C+and+HANDLS+cohorts%29.+Higher+waist+circumference+%28WC%29+categories+within+specific+Body+Mass+Index+%28BMI%29+strata.+Incident+type+2+diabetes+%28T2D%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Aging+women+free+of+type+2+diabetes+at+baseline+%28specifically+from+the+WHI%2C+HRS%2C+and+HANDLS+cohorts%29.+Higher+waist+circumference+%28WC%29+categories+within+specific+Body+Mass+Index+%28BMI%29+strata.+Incident+type+2+diabetes+%28T2D%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22waist+circumference%22%5BMeSH+Terms%5D+AND+%22body+mass+index%22%5BMeSH+Terms%5D%29+AND+%22diabetes+mellitus%2C+type+2%22%5BMeSH+Terms%5D+AND+%22women%22%5BMeSH+Terms%5D+AND+%22incidence%22%5BMeSH+Terms%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22waist+circumference%22%5BMeSH+Terms%5D+OR+%22waist-hip+ratio%22%5BMeSH+Terms%5D%29+AND+%22body+mass+index%22%5BMeSH+Terms%5D+AND+%22diabetes+mellitus%2C+type+2%22%5BMeSH+Terms%5D+AND+%22incidence%22%5BMeSH+Terms%5D
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
