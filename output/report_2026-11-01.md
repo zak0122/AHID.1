@@ -319,380 +319,436 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Exploring gut microbiome dysbiosis in vasculitis in adults: a systematic review.** -- Systematic Reviews, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888447/
 
 
-11 new RCT-type article(s) found.
+12 new RCT-type article(s) found.
 
-## Standalone Middle Meningeal Artery Embolization Versus Surgical Evacuation for Nontraumatic Subdural Hematoma: A Propensity-Matched Multicenter Real-World Study.
+## Restoring Metabolic Architecture in the South Asian Thin-Outside-Fat-Inside (TOFI) Phenotype: A Mechanistic Rationale for Combining Abscisic Acid and β-Aminoisobutyric Acid.
 **Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42965224/  
-**Published:** Sep 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults (18 years or older) with inpatient ICD-10-CM-coded nontraumatic subdural hematoma
-- Intervention: Standalone middle meningeal artery embolization (MMAE) within one month of diagnosis
-- Comparator: Surgical evacuation within one month of diagnosis
-- Outcome: All-cause mortality, incident seizure disorder, and ischemic stroke at 3, 6, and 12 months
-- Study design: Retrospective propensity-matched multicenter cohort study
-- Notes: The abstract clearly defines the population using ICD-10-CM codes and specifies the timing of interventions and follow-up. The term 'nontraumatic' is used specifically to categorize the SDH.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with chronic or subacute subdural hematoma
-- Intervention: Middle meningeal artery embolization (MMAE)
-- Outcome: Mortality, neurological complications (seizures, stroke), and treatment failure or recurrence
-- Why widened: Broadened 'nontraumatic subdural hematoma' to 'chronic or subacute subdural hematoma' to match standard clinical terminology for this intervention. Removed 'standalone' from MMAE to allow for studies evaluating it as an adjunct to surgery. Grouped specific outcomes into broader clinical categories to capture a wider range of safety and efficacy data.
-
-**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~446 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~3
-- Broadened PICO pool: ~446
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%2818+years+or+older%29+with+inpatient+ICD-10-CM-coded+nontraumatic+subdural+hematoma+Standalone+middle+meningeal+artery+embolization+%28MMAE%29+within+one+month+of+diagnosis+All-cause+mortality%2C+incident+seizure+disorder%2C+and+ischemic+stroke+at+3%2C+6%2C+and+12+months
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%2818+years+or+older%29+with+inpatient+ICD-10-CM-coded+nontraumatic+subdural+hematoma+Standalone+middle+meningeal+artery+embolization+%28MMAE%29+within+one+month+of+diagnosis+All-cause+mortality%2C+incident+seizure+disorder%2C+and+ischemic+stroke+at+3%2C+6%2C+and+12+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22middle+meningeal+artery+embolization%22+OR+%22MMAE%22%29+AND+%22surgical+evacuation%22+AND+%22nontraumatic+subdural+hematoma%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22middle+meningeal+artery%22+AND+%22embolization%22%29+AND+%22Hematoma%2C+Subdural%22%5BMeSH%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Effects of Integrated Lumbar Canal Decompression Exercises Program on Pain, Functional Mobility, and Walking Performance in Participants With Lumbar Canal Stenosis.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42965221/  
-**Published:** Sep 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Participants diagnosed with lumbar canal stenosis (LCS)
-- Intervention: Integrated Lumbar Canal Decompression Exercise Program
-- Comparator: Conventional exercise program
-- Outcome: Pain (Numeric Pain Rating Scale), lumbar mobility (Modified Schober Test), functional mobility (Timed Up and Go Test), walking performance (Self-Paced Walking Test), and disability (Oswestry Disability Index)
-- Study design: Comparative study with random allocation
-- Notes: The abstract mentions a simple random sampling technique for recruitment and allocation, suggesting a randomized trial, though it is labeled as a comparative study. The duration and frequency of the intervention are not specified.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with lumbar spinal stenosis
-- Intervention: Decompression-focused exercise therapy
-- Outcome: Pain, spinal mobility, and functional disability
-- Why widened: The population was generalized to the standard clinical term 'lumbar spinal stenosis'. The intervention was widened from a specific named program to a class of decompression-focused exercises. Specific clinical tests (Schober, TUG, etc.) were grouped into their respective clinical outcome domains to allow for meta-analysis of similar functional measures.
-
-**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~0
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Participants+diagnosed+with+lumbar+canal+stenosis+%28LCS%29+Integrated+Lumbar+Canal+Decompression+Exercise+Program+Pain+%28Numeric+Pain+Rating+Scale%29%2C+lumbar+mobility+%28Modified+Schober+Test%29%2C+functional+mobility+%28Timed+Up+and+Go+Test%29%2C+walking+performance+%28Self-Paced+Walking+Test%29%2C+and+disability+%28Oswestry+Disability+Index%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Participants+diagnosed+with+lumbar+canal+stenosis+%28LCS%29+Integrated+Lumbar+Canal+Decompression+Exercise+Program+Pain+%28Numeric+Pain+Rating+Scale%29%2C+lumbar+mobility+%28Modified+Schober+Test%29%2C+functional+mobility+%28Timed+Up+and+Go+Test%29%2C+walking+performance+%28Self-Paced+Walking+Test%29%2C+and+disability+%28Oswestry+Disability+Index%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Lumbar+Canal+Stenosis%22%29+AND+%28%22Integrated+Lumbar+Canal+Decompression+Exercise+Program%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Lumbar+Spinal+Stenosis%22%5BMeSH%5D%29+AND+%28%22Exercise+Therapy%22%5BMeSH%5D+OR+%22Physical+Therapy+Modalities%22%5BMeSH%5D%29+AND+%28%22Decompression%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Split-Thickness Skin Graft Versus Conservative Management for Deep Partial-Thickness Burns: A Systematic Review and Meta-Analysis.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42965207/  
-**Published:** Sep 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with deep partial-thickness (DPT) burns
-- Intervention: Split-thickness skin graft (STSG)
-- Comparator: Conservative management
-- Outcome: Wound-healing time, hospital stay, wound infection rates, long-term scarring, and need for reconstructive procedures
-- Study design: Systematic review and meta-analysis of randomized controlled trials (RCTs), quasi-experimental studies, and cohort studies
-- Notes: The abstract is explicit regarding the population, intervention, and outcomes. Specific details of what 'conservative management' entailed (e.g., specific dressings) are not provided.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with partial-thickness burns
-- Intervention: Surgical skin grafting
-- Outcome: Wound healing efficiency and long-term recovery outcomes
-- Why widened: The population was broadened from 'deep partial-thickness' to 'partial-thickness' because clinical assessment of burn depth is often indeterminate, and the decision to graft versus manage conservatively applies to the broader category of dermal burns. The intervention was broadened to 'surgical skin grafting' to include variations in graft thickness or technique that a meta-analyst might group together.
-
-**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~0
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+deep+partial-thickness+%28DPT%29+burns+Split-thickness+skin+graft+%28STSG%29+Wound-healing+time%2C+hospital+stay%2C+wound+infection+rates%2C+long-term+scarring%2C+and+need+for+reconstructive+procedures
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+deep+partial-thickness+%28DPT%29+burns+Split-thickness+skin+graft+%28STSG%29+Wound-healing+time%2C+hospital+stay%2C+wound+infection+rates%2C+long-term+scarring%2C+and+need+for+reconstructive+procedures+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22deep+partial-thickness+burns%22%29+AND+%28%22split-thickness+skin+graft%22%29+AND+%28%22conservative+management%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Burns%2C+Partial-Thickness%22%5BMesh%5D%29+AND+%28%22Skin+Transplantation%22%5BMesh%5D%29+AND+%28%22Conservative+Treatment%22%5BMesh%5D+OR+%22Bandages%22%5BMesh%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Sensory-Modality Preferences Among Undergraduate Medical Students at a North Indian Medical College: Implications for Online and Blended Teaching.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42965200/  
-**Published:** Sep 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Undergraduate medical students (MBBS) at a North Indian medical college
-- Intervention: VARK questionnaire (version 8.01) assessment of sensory-modality preferences
-- Comparator: Sex (male vs. female) and MBBS batch
-- Outcome: Distribution of unimodal vs. multimodal learning preferences and specific VARK category scores
-- Study design: Cross-sectional study
-- Notes: The abstract mentions comparing preferences by MBBS batch in the objective, but specific results for batches are not provided in the results summary. The study is descriptive and does not test a clinical or educational intervention.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Medical students
-- Intervention: Learning style assessment tools
-- Outcome: Learning style preferences and demographic differences
-- Why widened: Broadened population from a specific regional cohort to all medical students. Broadened intervention from the specific VARK tool to learning style assessments generally to allow for meta-analysis of educational preferences in medical training.
-
-**Signal:** WORTH A CLOSER LOOK: ~5 on the narrow PICO, ~187 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~5
-- Broadened PICO pool: ~187
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Undergraduate+medical+students+%28MBBS%29+at+a+North+Indian+medical+college+VARK+questionnaire+%28version+8.01%29+assessment+of+sensory-modality+preferences+Distribution+of+unimodal+vs.+multimodal+learning+preferences+and+specific+VARK+category+scores
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Undergraduate+medical+students+%28MBBS%29+at+a+North+Indian+medical+college+VARK+questionnaire+%28version+8.01%29+assessment+of+sensory-modality+preferences+Distribution+of+unimodal+vs.+multimodal+learning+preferences+and+specific+VARK+category+scores+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22VARK%22%5BTitle%2FAbstract%5D%29+AND+%28%22medical+students%22%5BMeSH+Terms%5D+OR+%22medical+students%22%5BTitle%2FAbstract%5D%29+AND+%22India%22%5BTitle%2FAbstract%5D
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Learning+Styles%22%5BMeSH+Terms%5D+OR+%22learning+style%22%5BTitle%2FAbstract%5D%29+AND+%28%22medical+students%22%5BMeSH+Terms%5D+OR+%22medical+students%22%5BTitle%2FAbstract%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Use of Indocyanine Green Fluorescence in the Assessment of Bowel Perfusion in Emergency and Elective Colorectal Surgery: A Retrospective Cohort Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42965182/  
-**Published:** Sep 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adult patients undergoing elective or emergency colorectal surgery (specifically right/left hemicolectomy, rectal resection, or Hartmann reversal)
-- Intervention: Intraoperative indocyanine green (ICG) fluorescence angiography to evaluate colonic stump perfusion
-- Comparator: Historical control group (standard intraoperative macroscopic assessment without ICG)
-- Outcome: Anastomotic leakage (AL) rate
-- Study design: Single-center retrospective comparative cohort study
-- Notes: The abstract mentions 'change in surgical strategy' as a result but focuses primarily on AL as the objective. The control group is specified as historical.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients undergoing colorectal resection with primary anastomosis
-- Intervention: Intraoperative fluorescence-guided perfusion assessment
-- Outcome: Anastomotic complications and postoperative morbidity
-- Why widened: Population widened from specific procedures (hemicolectomy, etc.) to all colorectal resections with anastomosis. Intervention widened from ICG specifically to any fluorescence-guided perfusion assessment to capture similar technologies. Outcome widened from leakage to general anastomotic/postoperative complications to allow for broader meta-analysis of safety and efficacy.
-
-**Signal:** WORTH A CLOSER LOOK: ~42 on the narrow PICO, ~185 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~42
-- Broadened PICO pool: ~185
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+undergoing+elective+or+emergency+colorectal+surgery+%28specifically+right%2Fleft+hemicolectomy%2C+rectal+resection%2C+or+Hartmann+reversal%29+Intraoperative+indocyanine+green+%28ICG%29+fluorescence+angiography+to+evaluate+colonic+stump+perfusion+Anastomotic+leakage+%28AL%29+rate
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+undergoing+elective+or+emergency+colorectal+surgery+%28specifically+right%2Fleft+hemicolectomy%2C+rectal+resection%2C+or+Hartmann+reversal%29+Intraoperative+indocyanine+green+%28ICG%29+fluorescence+angiography+to+evaluate+colonic+stump+perfusion+Anastomotic+leakage+%28AL%29+rate+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Indocyanine+Green%22%5BMesh%5D+OR+%22ICG%22%29+AND+%22Colorectal+Surgery%22%5BMesh%5D+AND+%22Anastomotic+Leak%22%5BMesh%5D
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Fluorescence%22%5BMesh%5D+OR+%22Indocyanine+Green%22%5BMesh%5D%29+AND+%22Digestive+System+Surgical+Procedures%22%5BMesh%5D+AND+%22Anastomosis%2C+Surgical%22%5BMesh%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Timing of Growth Hormone Therapy Initiation and Final Adult Height in Idiopathic Short Stature: A Systematic Review.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964989/  
-**Published:** Sep 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Children with Idiopathic Short Stature (ISS)
-- Intervention: Recombinant human growth hormone (rhGH) therapy
-- Comparator: Timing of treatment initiation (specifically prepubertal vs. pubertal/late-pubertal)
-- Outcome: Final Adult Height (FAH) or Height Standard Deviation Score (HtSDS)
-- Study design: Systematic review of RCTs and observational/cohort/registry studies
-- Notes: The abstract mentions that some included studies used mixed short-stature cohorts rather than pure ISS. There is also heterogeneity in how growth responses were reported.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Children with non-growth hormone deficient (non-GHD) short stature
-- Intervention: Growth hormone therapy (any formulation)
-- Outcome: Adult or near-adult height outcomes
-- Why widened: Population was broadened from ISS to non-GHD short stature to include related idiopathic growth conditions often pooled in clinical practice. Outcome was broadened to include 'near-adult height' as many registries and long-term studies use this as a proxy for FAH.
-
-**Signal:** CHECK OVERLAP: 4 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~31
-- Broadened PICO pool: ~2369
-- Existing reviews found: 4
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Children+with+Idiopathic+Short+Stature+%28ISS%29+Recombinant+human+growth+hormone+%28rhGH%29+therapy+Final+Adult+Height+%28FAH%29+or+Height+Standard+Deviation+Score+%28HtSDS%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Children+with+Idiopathic+Short+Stature+%28ISS%29+Recombinant+human+growth+hormone+%28rhGH%29+therapy+Final+Adult+Height+%28FAH%29+or+Height+Standard+Deviation+Score+%28HtSDS%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Idiopathic+Short+Stature%22%5BMesh%5D+OR+%22Idiopathic+Short+Stature%22%29+AND+%28%22Growth+Hormone%22%5BMesh%5D+OR+%22rhGH%22%29+AND+%28%22Adult+Height%22+OR+%22FAH%22%29+AND+%28%22Timing%22+OR+%22Prepubertal%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Growth+Disorders%22%5BMesh%5D+OR+%22Short+Stature%22%29+AND+%22Growth+Hormone%22%5BMesh%5D+AND+%22Body+Height%22%5BMesh%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Functional Outcomes of Midshaft Clavicle Fractures Treated With Plate Osteosynthesis: A Prospective Observational Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964960/  
-**Published:** Sep 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adult patients with completely displaced midshaft clavicle fractures
-- Intervention: Open reduction and internal fixation (ORIF) with pre-contoured plates
-- Comparator: unclear
-- Outcome: Functional outcomes (Constant-Murley shoulder score) and radiographic fracture union
-- Study design: Prospective observational study
-- Notes: The study is a single-arm observational study with no control group; therefore, the comparator is not stated. The sample size is small (n=30).
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with displaced midshaft clavicle fractures
-- Intervention: Surgical fixation (ORIF) of clavicle fractures
-- Outcome: Shoulder function scores and bone healing (union)
-- Why widened: Broadened the population to include all displaced midshaft fractures regardless of 'completeness' of displacement. Broadened the intervention to surgical fixation generally to capture different plate types or intramedullary nails. Broadened outcomes to include any validated shoulder function score (e.g., DASH, ASES) and general union rates to facilitate meta-analysis.
-
-**Signal:** WORTH A CLOSER LOOK: ~326 on the narrow PICO, ~117 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~326
-- Broadened PICO pool: ~117
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+with+completely+displaced+midshaft+clavicle+fractures+Open+reduction+and+internal+fixation+%28ORIF%29+with+pre-contoured+plates+Functional+outcomes+%28Constant-Murley+shoulder+score%29+and+radiographic+fracture+union
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+with+completely+displaced+midshaft+clavicle+fractures+Open+reduction+and+internal+fixation+%28ORIF%29+with+pre-contoured+plates+Functional+outcomes+%28Constant-Murley+shoulder+score%29+and+radiographic+fracture+union+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Clavicle%22%5BMesh%5D%29+AND+%22Bone+Plates%22%5BMesh%5D+AND+%22Fracture+Fixation%2C+Internal%22%5BMesh%5D+AND+%22midshaft%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Clavicle%2Finjuries%22%5BMesh%5D+OR+%22Clavicle%2Fsurgery%22%5BMesh%5D%29+AND+%22Fracture+Fixation%2C+Internal%22%5BMesh%5D+AND+%22Recovery+of+Function%22%5BMesh%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Short-Term Outcomes of Lower-Extremity Surgical Revascularization for Chronic Limb-Threatening Ischemia Among Yemeni Patients: A Prospective Observational Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964954/  
-**Published:** Sep 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults with chronic limb-threatening ischemia (CLTI), Rutherford categories 4-6, in Yemen
-- Intervention: Open lower-extremity surgical revascularization (using great saphenous vein or PTFE grafts)
-- Comparator: unclear
-- Outcome: Primary graft patency and limb salvage at 3 months
-- Study design: Single-center prospective observational cohort study
-- Notes: The study is a single-arm observational cohort without a control group; the sample size is small (n=39).
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with chronic limb-threatening ischemia (CLTI)
-- Intervention: Open surgical revascularization (lower extremity bypass)
-- Outcome: Short-term graft patency and limb salvage
-- Why widened: Removed the specific geographic location (Yemen) and the specific 3-month time constraint to allow for pooling with other surgical CLTI cohorts evaluating short-term outcomes.
-
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~141 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~141
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+chronic+limb-threatening+ischemia+%28CLTI%29%2C+Rutherford+categories+4-6%2C+in+Yemen+Open+lower-extremity+surgical+revascularization+%28using+great+saphenous+vein+or+PTFE+grafts%29+Primary+graft+patency+and+limb+salvage+at+3+months
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+chronic+limb-threatening+ischemia+%28CLTI%29%2C+Rutherford+categories+4-6%2C+in+Yemen+Open+lower-extremity+surgical+revascularization+%28using+great+saphenous+vein+or+PTFE+grafts%29+Primary+graft+patency+and+limb+salvage+at+3+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Chronic+Limb-Threatening+Ischemia%22+OR+%22CLTI%22%29+AND+%22revascularization%22+AND+%22Yemen%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Chronic+Limb-Threatening+Ischemia%22%5BMesh%5D+OR+%22CLTI%22%29+AND+%22Vascular+Grafting%22%5BMesh%5D+AND+%28%22Limb+Salvage%22%5BMesh%5D+OR+%22Vascular+Patency%22%5BMesh%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
-**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
-- Short-Term Outcomes of Lower-Extremity Surgical Revascularization for Chronic Limb-Threatening Ischemia Among Yemeni Patients: A Prospective Observational Study (2026, Cureus) -- https://www.semanticscholar.org/paper/7aee4f1baa81ce6b112f516540a1285654a84374
-
----
-
-## Evaluating an Outpatient Rapid Preoperative Optimization Protocol for Poorly Controlled Graves' Disease: A Retrospective Cohort Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964670/  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42967192/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with poorly controlled Graves' disease (defined as fT4 > 30 pmol/L or fT3 > 10 pmol/L) scheduled for thyroidectomy.
-- Intervention: The Sheffield Perioperative Rapid Optimization in Graves' Disease (SPROG) protocol: an entirely outpatient, 14-day multimodal regimen including propranolol, Lugol's iodine, cholestyramine, and dexamethasone.
+- Population: South Asian adults with Thin-Outside-Fat-Inside (TOFI) phenotype, also known as metabolically obese normal-weight (MONW)
+- Intervention: Combination of Abscisic Acid (ABA) and β-Aminoisobutyric Acid (BAIBA)
 - Comparator: unclear
-- Outcome: Achievement of biochemical targets (fT4 < 30 pmol/L or fT3 < 10 pmol/L) at final preoperative assessment and incidence of perioperative thyroid storm.
-- Study design: Single-center retrospective observational cohort study.
-- Notes: The study is a single-arm retrospective evaluation; there is no control group. The comparator is listed as unclear because the study describes the protocol's performance rather than comparing it to another cohort in the same study.
+- Outcome: Body weight, body composition (visceral white adipose tissue, skeletal muscle mass, bone mineral density), and metabolic function (glycaemic control, β-cell function)
+- Study design: Open-label, single-arm cohort study (preliminary data reported within a narrative review)
+- Notes: The abstract is primarily a narrative review proposing a hypothesis; the specific study data mentioned is from a small (n=30) preliminary cohort without a stated control group.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with hyperthyroidism requiring rapid preoperative optimization before thyroidectomy.
-- Intervention: Rapid multimodal preoperative preparation (combination therapy including iodine, beta-blockers, and/or adjunctive agents like corticosteroids or bile acid sequestrants).
-- Outcome: Preoperative biochemical control and perioperative complications (including thyroid storm and surgical morbidity).
-- Why widened: The population was broadened from specific Graves' disease biochemical thresholds to general hyperthyroidism requiring rapid prep. The intervention was widened from the specific SPROG protocol to general multimodal rapid preparation to allow for variations in drug choice (e.g., different beta-blockers or steroids). Outcomes were broadened to include general surgical morbidity.
+- Population: Adults with metabolically obese normal-weight (MONW) phenotype or metabolic syndrome
+- Intervention: Abscisic Acid (ABA) and/or β-Aminoisobutyric Acid (BAIBA)
+- Outcome: Metabolic health markers including body composition, insulin sensitivity, and adiposity
+- Why widened: The population was broadened from South Asian TOFI to the general MONW/metabolic syndrome category as these share the same underlying pathophysiology. The intervention was broadened to include the individual metabolites (ABA or BAIBA) because the combination is highly specific and early-stage. Outcomes were grouped into general metabolic health markers to capture related physiological improvements.
 
-**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~31 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~43 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~43
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=South+Asian+adults+with+Thin-Outside-Fat-Inside+%28TOFI%29+phenotype%2C+also+known+as+metabolically+obese+normal-weight+%28MONW%29+Combination+of+Abscisic+Acid+%28ABA%29+and+%CE%B2-Aminoisobutyric+Acid+%28BAIBA%29+Body+weight%2C+body+composition+%28visceral+white+adipose+tissue%2C+skeletal+muscle+mass%2C+bone+mineral+density%29%2C+and+metabolic+function+%28glycaemic+control%2C+%CE%B2-cell+function%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=South+Asian+adults+with+Thin-Outside-Fat-Inside+%28TOFI%29+phenotype%2C+also+known+as+metabolically+obese+normal-weight+%28MONW%29+Combination+of+Abscisic+Acid+%28ABA%29+and+%CE%B2-Aminoisobutyric+Acid+%28BAIBA%29+Body+weight%2C+body+composition+%28visceral+white+adipose+tissue%2C+skeletal+muscle+mass%2C+bone+mineral+density%29%2C+and+metabolic+function+%28glycaemic+control%2C+%CE%B2-cell+function%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Abscisic+Acid%22+AND+%22beta-Aminoisobutyric+Acid%22%29+AND+%28%22Thin-Outside-Fat-Inside%22+OR+%22TOFI%22+OR+%22metabolically+obese+normal-weight%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Abscisic+Acid%22+OR+%22beta-Aminoisobutyric+Acid%22%29+AND+%28%22metabolic+syndrome%22+OR+%22insulin+resistance%22+OR+%22body+composition%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Acute Renal and Hemodynamic Risk in Young Adults With Sickle-Cell Trait and Disease: A Propensity-Score-Matched Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42967134/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adolescents and young adults (aged 13-40 years) with sickle-cell disease (SCD) or sickle-cell trait (SCT)
+- Intervention: Presence of sickle-cell disease (SCD) or sickle-cell trait (SCT)
+- Comparator: Propensity-score matched controls from the general non-sickle-cell population
+- Outcome: Incidence of rhabdomyolysis, heat-related illness, acute kidney failure, dehydration, electrolyte imbalance, syncope/collapse, and hemodynamic shock within five years
+- Study design: Retrospective propensity-score-matched cohort analysis
+- Notes: The abstract clearly defines the population age, the exposure, and the specific outcomes measured.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients of any age with sickle-cell hemoglobinopathies (SCD or SCT)
+- Intervention: Sickle-cell hemoglobinopathies (SCD or SCT)
+- Outcome: Acute renal and hemodynamic complications
+- Why widened: Removed the specific age constraint (13-40 years) to include the full spectrum of patients with these hemoglobinopathies. Aggregated specific acute events into a broader clinical category of renal and hemodynamic complications to allow for pooling of related acute physiological crises.
+
+**Signal:** WORTH A CLOSER LOOK: ~69 on the narrow PICO, ~1328 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~69
+- Broadened PICO pool: ~1328
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adolescents+and+young+adults+%28aged+13-40+years%29+with+sickle-cell+disease+%28SCD%29+or+sickle-cell+trait+%28SCT%29+Presence+of+sickle-cell+disease+%28SCD%29+or+sickle-cell+trait+%28SCT%29+Incidence+of+rhabdomyolysis%2C+heat-related+illness%2C+acute+kidney+failure%2C+dehydration%2C+electrolyte+imbalance%2C+syncope%2Fcollapse%2C+and+hemodynamic+shock+within+five+years
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adolescents+and+young+adults+%28aged+13-40+years%29+with+sickle-cell+disease+%28SCD%29+or+sickle-cell+trait+%28SCT%29+Presence+of+sickle-cell+disease+%28SCD%29+or+sickle-cell+trait+%28SCT%29+Incidence+of+rhabdomyolysis%2C+heat-related+illness%2C+acute+kidney+failure%2C+dehydration%2C+electrolyte+imbalance%2C+syncope%2Fcollapse%2C+and+hemodynamic+shock+within+five+years+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Sickle+Cell+Trait%22%5BMeSH%5D+OR+%22Anemia%2C+Sickle+Cell%22%5BMeSH%5D%29+AND+%28%22Acute+Kidney+Injury%22%5BMeSH%5D+OR+%22Shock%22%5BMeSH%5D+OR+%22Dehydration%22%5BMeSH%5D%29+AND+%28Adolescent%5BMeSH%5D+OR+%22Young+Adult%22%5BMeSH%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Sickle+Cell+Trait%22%5BMeSH%5D+OR+%22Anemia%2C+Sickle+Cell%22%5BMeSH%5D%29+AND+%28%22Acute+Kidney+Injury%22%5BMeSH%5D+OR+%22Shock%22%5BMeSH%5D+OR+%22Hemodynamics%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Absolute Eosinophil Count as a Corroborative Marker for Sepsis at ICU Admission: An Observational Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42967112/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adult patients admitted to the ICU with suspected infection
+- Intervention: Absolute Eosinophil Count (AEC) at ICU admission
+- Comparator: Sepsis-3 criteria (SOFA and qSOFA scores)
+- Outcome: Diagnostic accuracy for sepsis (AUC, sensitivity, specificity) and correlation with SOFA/qSOFA scores
+- Study design: Observational study (diagnostic accuracy)
+- Notes: The study uses a specific cutoff (152.5 cells/µL) derived from its own ROC analysis. The study dates mentioned (2025-2026) are in the future relative to current real-world time.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Critically ill adults with suspected infection or sepsis
+- Intervention: Eosinopenia or Absolute Eosinophil Count (AEC)
+- Outcome: Diagnosis, severity, or prognosis of sepsis
+- Why widened: Broadened population from 'ICU admission' to 'critically ill' to capture patients in emergency departments or step-down units. Broadened intervention to include the clinical state of 'eosinopenia' generally. Broadened outcome to include prognosis and severity, as AEC is frequently investigated for both diagnostic and prognostic utility in sepsis.
+
+**Signal:** PROBABLY TOO THIN: only ~1 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
 
 **Pool counts (keyword-based, not verified):**
 - Narrow PICO pool: ~0
-- Broadened PICO pool: ~31
+- Broadened PICO pool: ~1
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+poorly+controlled+Graves%27+disease+%28defined+as+fT4+%3E+30+pmol%2FL+or+fT3+%3E+10+pmol%2FL%29+scheduled+for+thyroidectomy.+The+Sheffield+Perioperative+Rapid+Optimization+in+Graves%27+Disease+%28SPROG%29+protocol%3A+an+entirely+outpatient%2C+14-day+multimodal+regimen+including+propranolol%2C+Lugol%27s+iodine%2C+cholestyramine%2C+and+dexamethasone.+Achievement+of+biochemical+targets+%28fT4+%3C+30+pmol%2FL+or+fT3+%3C+10+pmol%2FL%29+at+final+preoperative+assessment+and+incidence+of+perioperative+thyroid+storm.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+poorly+controlled+Graves%27+disease+%28defined+as+fT4+%3E+30+pmol%2FL+or+fT3+%3E+10+pmol%2FL%29+scheduled+for+thyroidectomy.+The+Sheffield+Perioperative+Rapid+Optimization+in+Graves%27+Disease+%28SPROG%29+protocol%3A+an+entirely+outpatient%2C+14-day+multimodal+regimen+including+propranolol%2C+Lugol%27s+iodine%2C+cholestyramine%2C+and+dexamethasone.+Achievement+of+biochemical+targets+%28fT4+%3C+30+pmol%2FL+or+fT3+%3C+10+pmol%2FL%29+at+final+preoperative+assessment+and+incidence+of+perioperative+thyroid+storm.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Graves+Disease%22%5BMeSH%5D%29+AND+%28%22Thyroidectomy%22%5BMeSH%5D%29+AND+%28%22Preoperative+Care%22%5BMeSH%5D%29+AND+%28%22outpatient%22%29+AND+%28%22rapid%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Graves+Disease%22%5BMeSH%5D+OR+%22Hyperthyroidism%22%5BMeSH%5D%29+AND+%28%22Thyroidectomy%22%5BMeSH%5D%29+AND+%28%22Preoperative+Care%22%5BMeSH%5D%29+AND+%28%22Iodine%22%5BMeSH%5D+OR+%22Cholestyramine+Resins%22%5BMeSH%5D+OR+%22Dexamethasone%22%5BMeSH%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+admitted+to+the+ICU+with+suspected+infection+Absolute+Eosinophil+Count+%28AEC%29+at+ICU+admission+Diagnostic+accuracy+for+sepsis+%28AUC%2C+sensitivity%2C+specificity%29+and+correlation+with+SOFA%2FqSOFA+scores
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+admitted+to+the+ICU+with+suspected+infection+Absolute+Eosinophil+Count+%28AEC%29+at+ICU+admission+Diagnostic+accuracy+for+sepsis+%28AUC%2C+sensitivity%2C+specificity%29+and+correlation+with+SOFA%2FqSOFA+scores+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Absolute+Eosinophil+Count%22%29+AND+%22Sepsis%22%5BMesh%5D+AND+%22Intensive+Care+Units%22%5BMesh%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Eosinopenia%22%5BMesh%5D+OR+%22Eosinophils%22%5BMesh%5D%29+AND+%22Sepsis%22%5BMesh%5D+AND+%22Critical+Illness%22%5BMesh%5D
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Donor and Procedural Factors Associated With Citrate Toxicity During Plateletpheresis.
+## Code-Free Automated Machine-Learning (AutoML) Classification of Curated MRI Images Labeled for Rare Neurological Diseases: An Image-Level Proof-of-Concept Study.
 **Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964641/  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42967096/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Curated JPEG brain MRI images labeled with five rare neurological diseases: Walker-Warburg syndrome, pachygyria with cerebellar hypoplasia, Moyamoya disease, pantothenate kinase-associated neurodegeneration (PKAN), and Fukuyama congenital muscular dystrophy (FCMD)
+- Intervention: Code-free automated machine-learning (AutoML) classification using Google Cloud Vertex AI
+- Comparator: unclear
+- Outcome: Image-level classification performance (accuracy, precision, recall, and micro-averaged area under the precision-recall curve)
+- Study design: Image-level proof-of-concept classification study
+- Notes: The unit of analysis is the individual image rather than the patient; labels were not independently clinically adjudicated; no baseline or comparator model was evaluated.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with rare neurological diseases characterized by neuroimaging phenotypes
+- Intervention: Code-free or automated machine learning (AutoML) platforms for medical image classification
+- Outcome: Diagnostic accuracy and classification performance metrics
+- Why widened: Widened specific rare diseases to the general category of rare neurological diseases; broadened the specific Google Vertex AI platform to the general class of code-free AutoML tools; generalized image-level metrics to overall diagnostic performance to capture patient-level relevance in future studies.
+
+**Signal:** PROBABLY TOO THIN: only ~4 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~4
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Curated+JPEG+brain+MRI+images+labeled+with+five+rare+neurological+diseases%3A+Walker-Warburg+syndrome%2C+pachygyria+with+cerebellar+hypoplasia%2C+Moyamoya+disease%2C+pantothenate+kinase-associated+neurodegeneration+%28PKAN%29%2C+and+Fukuyama+congenital+muscular+dystrophy+%28FCMD%29+Code-free+automated+machine-learning+%28AutoML%29+classification+using+Google+Cloud+Vertex+AI+Image-level+classification+performance+%28accuracy%2C+precision%2C+recall%2C+and+micro-averaged+area+under+the+precision-recall+curve%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Curated+JPEG+brain+MRI+images+labeled+with+five+rare+neurological+diseases%3A+Walker-Warburg+syndrome%2C+pachygyria+with+cerebellar+hypoplasia%2C+Moyamoya+disease%2C+pantothenate+kinase-associated+neurodegeneration+%28PKAN%29%2C+and+Fukuyama+congenital+muscular+dystrophy+%28FCMD%29+Code-free+automated+machine-learning+%28AutoML%29+classification+using+Google+Cloud+Vertex+AI+Image-level+classification+performance+%28accuracy%2C+precision%2C+recall%2C+and+micro-averaged+area+under+the+precision-recall+curve%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Vertex+AI%22+OR+%22AutoML%22%29+AND+%28%22Walker-Warburg%22+OR+%22Moyamoya%22+OR+%22PKAN%22+OR+%22Fukuyama%22%29+AND+%22MRI%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Automated+Machine+Learning%22%5BMeSH%5D+OR+%22AutoML%22%29+AND+%22Nervous+System+Diseases%22%5BMeSH%5D+AND+%22Magnetic+Resonance+Imaging%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## One-Year Infection Eradication and Clinical Outcomes After Completed Two-Stage Revision for Hip and Knee Periprosthetic Joint Infection: A Retrospective Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42967026/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults with hip or knee periprosthetic joint infection (PJI) who completed two-stage revision arthroplasty.
+- Intervention: Completed two-stage revision arthroplasty (second-stage reimplantation).
+- Comparator: unclear
+- Outcome: Infection eradication (defined as no persistent/recurrent PJI, no further surgery for infection, and no suppressive antimicrobial therapy), pain scores, ambulatory status, and joint-specific range of motion at approximately one year.
+- Study design: Retrospective cohort study
+- Notes: The study is a single-center retrospective cohort without a control group receiving a different intervention; comparisons were made internally between those who achieved eradication and those who did not.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with periprosthetic joint infection (PJI) of major weight-bearing joints.
+- Intervention: Two-stage revision arthroplasty.
+- Outcome: Clinical success, including infection control and functional recovery (pain and mobility), at short-to-medium term follow-up (>= 1 year).
+- Why widened: The population was broadened from specific hip/knee PJI to major joints generally as the two-stage surgical principles are similar. Outcomes were broadened to 'clinical success' to allow for pooling with studies using slightly different definitions of eradication or functional scales.
+
+**Signal:** WORTH A CLOSER LOOK: ~31 on the narrow PICO, ~465 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~31
+- Broadened PICO pool: ~465
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+hip+or+knee+periprosthetic+joint+infection+%28PJI%29+who+completed+two-stage+revision+arthroplasty.+Completed+two-stage+revision+arthroplasty+%28second-stage+reimplantation%29.+Infection+eradication+%28defined+as+no+persistent%2Frecurrent+PJI%2C+no+further+surgery+for+infection%2C+and+no+suppressive+antimicrobial+therapy%29%2C+pain+scores%2C+ambulatory+status%2C+and+joint-specific+range+of+motion+at+approximately+one+year.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+hip+or+knee+periprosthetic+joint+infection+%28PJI%29+who+completed+two-stage+revision+arthroplasty.+Completed+two-stage+revision+arthroplasty+%28second-stage+reimplantation%29.+Infection+eradication+%28defined+as+no+persistent%2Frecurrent+PJI%2C+no+further+surgery+for+infection%2C+and+no+suppressive+antimicrobial+therapy%29%2C+pain+scores%2C+ambulatory+status%2C+and+joint-specific+range+of+motion+at+approximately+one+year.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22periprosthetic+joint+infection%22%29+AND+%28%22two-stage+revision%22%29+AND+%28%22hip%22+OR+%22knee%22%29+AND+%22one+year%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Prosthesis-Related+Infections%22%5BMeSH%5D%29+AND+%28%22Reoperation%22%5BMeSH%5D%29+AND+%28%22two-stage%22%29+AND+%28%22treatment+outcome%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Outcomes and Benefits of Using Twice Daily Nebulised Hypertonic Saline in T2-Low and T2-High Asthma With Bronchial Hypersecretion: A Retrospective Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42967022/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults with T2-low and T2-high asthma with a bronchial hypersecretion phenotype who successfully tolerated an initial hypertonic saline trial.
+- Intervention: Twice daily nebulised hypertonic saline (HS).
+- Comparator: The 12-month period prior to treatment initiation (self-control).
+- Outcome: Frequency of asthma exacerbations requiring primary care treatment and hospital admissions due to acute asthma exacerbations.
+- Study design: Retrospective cohort study (pre-post analysis).
+- Notes: The concentration of the hypertonic saline (e.g., 3% vs 7%) is not specified in the abstract. The study lacks a parallel control group, relying on a pre-post comparison.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with asthma and a bronchial hypersecretion phenotype.
+- Intervention: Nebulised hypertonic saline.
+- Outcome: Asthma exacerbations and healthcare utilization (hospitalizations or emergency visits).
+- Why widened: Broadened the population by removing the specific T2-high/low subtyping to include all hypersecretory asthma patients. Removed the specific 'twice daily' frequency from the intervention to include any HS regimen. Grouped specific outcomes into a broader 'healthcare utilization' category to allow for pooling with studies reporting ER visits or urgent care.
+
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~7 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~7
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+T2-low+and+T2-high+asthma+with+a+bronchial+hypersecretion+phenotype+who+successfully+tolerated+an+initial+hypertonic+saline+trial.+Twice+daily+nebulised+hypertonic+saline+%28HS%29.+Frequency+of+asthma+exacerbations+requiring+primary+care+treatment+and+hospital+admissions+due+to+acute+asthma+exacerbations.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+T2-low+and+T2-high+asthma+with+a+bronchial+hypersecretion+phenotype+who+successfully+tolerated+an+initial+hypertonic+saline+trial.+Twice+daily+nebulised+hypertonic+saline+%28HS%29.+Frequency+of+asthma+exacerbations+requiring+primary+care+treatment+and+hospital+admissions+due+to+acute+asthma+exacerbations.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Asthma%22%5BMesh%5D%29+AND+%22Saline+Solution%2C+Hypertonic%22%5BMesh%5D+AND+%28%22bronchial+hypersecretion%22+OR+%22T2-low%22+OR+%22T2-high%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Asthma%22%5BMesh%5D%29+AND+%22Saline+Solution%2C+Hypertonic%22%5BMesh%5D+AND+%28%22exacerbation%22+OR+%22hospitalization%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Graft Uptake Following Myringoplasty With Adjuvant Autologous Platelet-Rich Plasma: A Prospective, Non-randomized Comparative Cohort Study in Tiruvannamalai District, Tamil Nadu, South India.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42966978/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients undergoing myringoplasty for tympanic membrane perforation
+- Intervention: Myringoplasty with adjunctive autologous platelet-rich plasma (PRP)
+- Comparator: Myringoplasty without PRP
+- Outcome: Graft uptake (intact tympanic membrane) at 3 months and hearing improvement (pure-tone audiometry gain)
+- Study design: Prospective, non-randomized comparative cohort study
+- Notes: The study is non-randomized. The specific surgical approach (e.g., underlay vs. overlay) and the specific type of graft material used are not specified in the abstract.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients undergoing surgical repair for tympanic membrane perforation
+- Intervention: Surgical repair with adjunctive autologous platelet-rich derivatives
+- Outcome: Graft success rate and postoperative hearing outcomes
+- Why widened: Broadened 'myringoplasty' to include 'tympanoplasty' as these terms are often used interchangeably in clinical literature for membrane repair. Broadened 'PRP' to 'platelet-rich derivatives' to capture studies using Platelet-Rich Fibrin (PRF) or other similar autologous concentrates. Removed the specific 3-month time constraint on outcomes to allow for meta-analysis of studies with varying follow-up durations.
+
+**Signal:** WORTH A CLOSER LOOK: ~20 on the narrow PICO, ~64 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~20
+- Broadened PICO pool: ~64
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+undergoing+myringoplasty+for+tympanic+membrane+perforation+Myringoplasty+with+adjunctive+autologous+platelet-rich+plasma+%28PRP%29+Graft+uptake+%28intact+tympanic+membrane%29+at+3+months+and+hearing+improvement+%28pure-tone+audiometry+gain%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+undergoing+myringoplasty+for+tympanic+membrane+perforation+Myringoplasty+with+adjunctive+autologous+platelet-rich+plasma+%28PRP%29+Graft+uptake+%28intact+tympanic+membrane%29+at+3+months+and+hearing+improvement+%28pure-tone+audiometry+gain%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Myringoplasty%22%5BMesh%5D+OR+myringoplasty%29+AND+%22Platelet-Rich+Plasma%22%5BMesh%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28myringoplasty+OR+tympanoplasty%29+AND+%28platelet-rich+plasma+OR+platelet-rich+fibrin+OR+autologous+platelet%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Ultrasound-Guided Intra-articular Prolotherapy Versus Corticosteroid Injection for Sacroiliac Joint Dysfunction: A Prospective Randomized Controlled Trial.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42966974/  
+**Published:** Oct 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with sacroiliac joint dysfunction confirmed by at least 50% pain reduction following a diagnostic intra-articular lignocaine block
+- Intervention: Ultrasound-guided intra-articular 25% dextrose prolotherapy plus a supervised physiotherapy program
+- Comparator: Ultrasound-guided intra-articular triamcinolone acetonide (40 mg) plus a supervised physiotherapy program
+- Outcome: Pain intensity (Numeric Pain Rating Scale) and functional disability (Oswestry Disability Index) at 12 weeks
+- Study design: Prospective randomized controlled trial
+- Notes: The abstract provides specific details on the diagnostic criteria, intervention dosages, and outcome measures. The sample size is small (n=38).
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with chronic sacroiliac joint pain or dysfunction
+- Intervention: Intra-articular dextrose prolotherapy
+- Outcome: Pain intensity and functional disability scores
+- Why widened: Widened the specific 25% dextrose concentration to the general intervention (prolotherapy); widened the specific corticosteroid (triamcinolone) to the drug class; and generalized the outcome measures and timepoints to encompass pain and function more broadly for meta-analytic pooling.
+
+**Signal:** PROBABLY TOO THIN: only ~2 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~2
+- Broadened PICO pool: ~2
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+sacroiliac+joint+dysfunction+confirmed+by+at+least+50%25+pain+reduction+following+a+diagnostic+intra-articular+lignocaine+block+Ultrasound-guided+intra-articular+25%25+dextrose+prolotherapy+plus+a+supervised+physiotherapy+program+Pain+intensity+%28Numeric+Pain+Rating+Scale%29+and+functional+disability+%28Oswestry+Disability+Index%29+at+12+weeks
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+sacroiliac+joint+dysfunction+confirmed+by+at+least+50%25+pain+reduction+following+a+diagnostic+intra-articular+lignocaine+block+Ultrasound-guided+intra-articular+25%25+dextrose+prolotherapy+plus+a+supervised+physiotherapy+program+Pain+intensity+%28Numeric+Pain+Rating+Scale%29+and+functional+disability+%28Oswestry+Disability+Index%29+at+12+weeks+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22sacroiliac+joint%22%29+AND+%22prolotherapy%22+AND+%22triamcinolone%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22sacroiliac+joint%22%29+AND+%22prolotherapy%22+AND+%28%22adrenal+cortex+hormones%22+OR+%22corticosteroids%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Cutaneous Adverse Events With Semaglutide: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42966951/  
 **Published:** Sep 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Male plateletpheresis donors at Dhaka Medical College and Hospital
-- Intervention: Donor and procedural factors (lower BMI, higher ACD-A volume, and lack of pre-procedure oral calcium)
-- Comparator: Donors without clinically identified citrate toxicity
-- Outcome: Clinically identified citrate toxicity (neuromuscular or gastrointestinal symptoms)
-- Study design: Analytical observational cross-sectional study
-- Notes: The study population was exclusively male and the sample size was small (n=60). Calcium administration was non-randomized and biochemical markers (ionized calcium) were not measured.
+- Population: Patients with metabolic disease
+- Intervention: Semaglutide
+- Comparator: Placebo, usual care, or non-semaglutide active treatment
+- Outcome: Alopecia (hair loss) and injection-site reactions
+- Study design: Systematic review and meta-analysis of randomized controlled trials
+- Notes: The abstract uses the general term 'metabolic disease' without specifying the exact conditions (e.g., Type 2 Diabetes vs. Obesity) included in the source trials.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Apheresis donors
-- Intervention: Donor-related and procedure-related risk factors for citrate toxicity
-- Outcome: Citrate toxicity or symptomatic hypocalcemia
-- Why widened: Broadened population from male plateletpheresis donors to all apheresis donors (including females and other apheresis types like plasmapheresis) as the mechanism of citrate toxicity is common across these groups. Broadened outcome to include symptomatic hypocalcemia generally, as this is the clinical manifestation of citrate toxicity.
+- Population: Patients with metabolic or endocrine disorders
+- Intervention: Glucagon-like peptide-1 receptor agonists (GLP-1RAs)
+- Outcome: Dermatologic adverse events
+- Why widened: Intervention was widened from a single drug (semaglutide) to the pharmacological class (GLP-1RAs) to capture class-wide effects. Outcomes were widened from specific events to the broader category of dermatologic adverse events to capture other potential cutaneous safety signals.
 
-**Signal:** WORTH A CLOSER LOOK: ~12 on the narrow PICO, ~48 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~55 on the narrow PICO, ~101 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~12
-- Broadened PICO pool: ~48
+- Narrow PICO pool: ~55
+- Broadened PICO pool: ~101
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Male+plateletpheresis+donors+at+Dhaka+Medical+College+and+Hospital+Donor+and+procedural+factors+%28lower+BMI%2C+higher+ACD-A+volume%2C+and+lack+of+pre-procedure+oral+calcium%29+Clinically+identified+citrate+toxicity+%28neuromuscular+or+gastrointestinal+symptoms%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Male+plateletpheresis+donors+at+Dhaka+Medical+College+and+Hospital+Donor+and+procedural+factors+%28lower+BMI%2C+higher+ACD-A+volume%2C+and+lack+of+pre-procedure+oral+calcium%29+Clinically+identified+citrate+toxicity+%28neuromuscular+or+gastrointestinal+symptoms%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Plateletpheresis%22%5BMesh%5D%29+AND+%28%22Citrates%2Fadverse+effects%22%5BMesh%5D%29+AND+%28%22Toxicity%22+OR+%22Hypocalcemia%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Blood+Component+Removal%22%5BMesh%5D+OR+%22Apheresis%22%29+AND+%28%22Citrates%2Fadverse+effects%22%5BMesh%5D%29+AND+%28%22Hypocalcemia%22+OR+%22Toxicity%22%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+metabolic+disease+Semaglutide+Alopecia+%28hair+loss%29+and+injection-site+reactions
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+metabolic+disease+Semaglutide+Alopecia+%28hair+loss%29+and+injection-site+reactions+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=semaglutide+AND+%28alopecia+OR+%22hair+loss%22+OR+%22injection+site+reactions%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Glucagon-Like+Peptide-1+Receptor+Agonists%22%5BMeSH%5D%29+AND+%28%22Skin+Diseases%22%5BMeSH%5D+OR+%22Drug+Eruptions%22%5BMeSH%5D%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
-**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
-- Donor and Procedural Factors Associated With Citrate Toxicity During Plateletpheresis (2026, Cureus) -- https://www.semanticscholar.org/paper/e8863075630ebbf9ef7de5c0efa6249b346b7073
-- Analysis of Donor Safety in High Yield Plateletpheresis Procedures: An Experience from Tertiary Care Hospital in South India (2020, Indian Journal of Hematology and Blood Transfusion) -- https://www.semanticscholar.org/paper/f6068cb9e4099f6657b05ff95235c041b9bc8954
+---
+
+## Comparison of Conventional Total Knee Arthroplasty Versus Robotic-Assisted Total Knee Arthroplasty in Primary Osteoarthritis of the Knee: A Prospective Comparative Pilot Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42966942/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with primary knee osteoarthritis (Kellgren-Lawrence grade 3 or 4) in an Indian tertiary-care setting
+- Intervention: Robotic-assisted total knee arthroplasty (RA-TKA) with kinematic alignment
+- Comparator: Conventional total knee arthroplasty (C-TKA) with mechanical alignment
+- Outcome: Intraoperative parameters (tourniquet time, drain collection), postoperative pain (VAS), functional outcomes (KSS), range of motion, and complications up to 3 months
+- Study design: Prospective, non-randomised comparative pilot study
+- Notes: The study is a small pilot (n=30) with allocation based on patient choice. Crucially, the intervention and comparator differ in both surgical platform (robotic vs. manual) and alignment philosophy (kinematic vs. mechanical), making it difficult to isolate the effect of the robotic system alone.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with advanced primary knee osteoarthritis undergoing total knee arthroplasty
+- Intervention: Robotic-assisted total knee arthroplasty (RA-TKA)
+- Outcome: Postoperative functional recovery, pain scores, and surgical complications
+- Why widened: The population was broadened from a specific Indian tertiary setting and KL grades to all adults with advanced OA. The intervention was broadened to include any robotic-assisted TKA regardless of alignment philosophy (kinematic vs. mechanical), as meta-analyses often pool these to assess the robotic platform's utility. Outcomes were generalized to standard functional and safety measures without the 3-month time constraint.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~1717 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~1717
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+primary+knee+osteoarthritis+%28Kellgren-Lawrence+grade+3+or+4%29+in+an+Indian+tertiary-care+setting+Robotic-assisted+total+knee+arthroplasty+%28RA-TKA%29+with+kinematic+alignment+Intraoperative+parameters+%28tourniquet+time%2C+drain+collection%29%2C+postoperative+pain+%28VAS%29%2C+functional+outcomes+%28KSS%29%2C+range+of+motion%2C+and+complications+up+to+3+months
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+primary+knee+osteoarthritis+%28Kellgren-Lawrence+grade+3+or+4%29+in+an+Indian+tertiary-care+setting+Robotic-assisted+total+knee+arthroplasty+%28RA-TKA%29+with+kinematic+alignment+Intraoperative+parameters+%28tourniquet+time%2C+drain+collection%29%2C+postoperative+pain+%28VAS%29%2C+functional+outcomes+%28KSS%29%2C+range+of+motion%2C+and+complications+up+to+3+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Robotic-assisted%22+AND+%22Total+Knee+Arthroplasty%22%29+AND+%22kinematic+alignment%22+AND+%22mechanical+alignment%22+AND+%22primary+osteoarthritis%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Arthroplasty%2C+Replacement%2C+Knee%22%5BMeSH%5D+OR+%22Total+Knee+Arthroplasty%22%29+AND+%28%22Robotics%22%5BMeSH%5D+OR+%22Robotic-assisted%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial.
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42965504/  
-**Published:** Oct 2026
+## Early applications of apple vision pro in clinical medicine and medical education: a scoping review.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964997/  
+**Published:** 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Medical professionals and students across multidisciplinary clinical and educational settings
+- Intervention: Apple Vision Pro (AVP) spatial computing device
+- Comparator: Conventional medical models and traditional clinical/educational methodologies
+- Outcome: Feasibility of 3D visualization, surgical planning, anatomy education, and clinical skills development
+- Study design: Scoping review (including feasibility studies, case reports, and Stage 2b studies)
+- Notes: The abstract notes that most evidence is currently limited to feasibility and technical demonstrations rather than established clinical outcomes.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Healthcare providers and medical trainees
+- Intervention: Spatial computing or high-end Mixed Reality (MR) headsets
+- Outcome: Clinical performance, surgical accuracy, and educational learning outcomes
+- Why widened: Widened the specific brand (Apple Vision Pro) to the broader technology class (Spatial Computing/Mixed Reality) as other devices like HoloLens 2 serve similar clinical functions. Grouped specific educational and surgical tasks into general performance and learning outcomes.
+
+**Signal:** WORTH A CLOSER LOOK: ~38 on the narrow PICO, ~89 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~38
+- Broadened PICO pool: ~89
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Medical+professionals+and+students+across+multidisciplinary+clinical+and+educational+settings+Apple+Vision+Pro+%28AVP%29+spatial+computing+device+Feasibility+of+3D+visualization%2C+surgical+planning%2C+anatomy+education%2C+and+clinical+skills+development
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Medical+professionals+and+students+across+multidisciplinary+clinical+and+educational+settings+Apple+Vision+Pro+%28AVP%29+spatial+computing+device+Feasibility+of+3D+visualization%2C+surgical+planning%2C+anatomy+education%2C+and+clinical+skills+development+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22Apple+Vision+Pro%22+AND+%28clinical+OR+%22medical+education%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Spatial+Computing%22+OR+%22Mixed+Reality%22%29+AND+%28%22Education%2C+Medical%22%5BMeSH%5D+OR+%22Clinical+Medicine%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Patient-ventilator asynchrony during critical care transport: evidence and framework.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42964839/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Invasively ventilated patients undergoing critical care transport
+- Intervention: Monitoring and management of patient-ventilator asynchrony (PVA) during transport
+- Comparator: unclear
+- Outcome: Incidence and clinical consequences of patient-ventilator asynchrony (PVA)
+- Study design: Structured narrative review
+- Notes: The abstract identifies a lack of prospective cohort studies; the PICO is derived from the review's scope rather than a specific experimental trial. The comparator is not explicitly defined as the review notes the absence of before/during/after comparisons.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Critically ill patients requiring mechanical ventilation during any clinical transport (intra-hospital or inter-hospital)
+- Intervention: Mechanical ventilation management and monitoring during transport
+- Outcome: Ventilator-related complications and patient-ventilator interaction quality
+- Why widened: Broadened PVA to the family of 'ventilator-related complications and interaction quality' to capture a wider range of safety data. Broadened the specific 'critical care transport' to all clinical transport types to include intra-hospital transfers which share similar physiological risks.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~139 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~139
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Invasively+ventilated+patients+undergoing+critical+care+transport+Monitoring+and+management+of+patient-ventilator+asynchrony+%28PVA%29+during+transport+Incidence+and+clinical+consequences+of+patient-ventilator+asynchrony+%28PVA%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Invasively+ventilated+patients+undergoing+critical+care+transport+Monitoring+and+management+of+patient-ventilator+asynchrony+%28PVA%29+during+transport+Incidence+and+clinical+consequences+of+patient-ventilator+asynchrony+%28PVA%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22patient-ventilator+asynchrony%22+OR+%22PVA%22%29+AND+%22critical+care+transport%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Respiration%2C+Artificial%22%5BMeSH%5D+OR+%22Ventilators%2C+Mechanical%22%5BMeSH%5D%29+AND+%28%22Transportation+of+Patients%22%5BMeSH%5D+OR+%22Patient+Transfer%22%5BMeSH%5D%29+AND+%28%22asynchrony%22+OR+%22safety%22+OR+%22adverse+effects%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
