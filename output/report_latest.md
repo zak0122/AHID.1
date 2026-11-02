@@ -1,6 +1,6 @@
-# Journal Watch Report -- 2026-11-01
+# Journal Watch Report -- 2026-11-02
 
-## 🕐 209 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 206 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
@@ -82,16 +82,13 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Mental health issues among women experiencing domestic violence and their help-seeking behaviour in the WHO South-East Asian Region: a systematic review protocol** -- BMJ Open, 2026-10-29T11:55:19-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e112187?rss=1
 - **Sequential intravesical mitomycin-C and gemcitabine therapy for BCG-unresponsive high-risk non-muscle-invasive bladder cancer: protocol for a prospective, open-label, single-arm, multicentre phase II (IMGeS) study** -- BMJ Open, 2026-10-29T11:55:19-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e117239?rss=1
 - **Implementing a co-designed communication training programme for non-Indigenous mental health professionals working with Aboriginal and/or Torres Strait Islander consumers in Queensland, Australia: protocol** -- BMJ Open, 2026-10-29T11:55:19-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/10/e117447?rss=1
+- **Microvascular Resistance Reserve and Outcomes in ANOCA Disease** -- JAMA Cardiology, Sun, 01 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856180
 - **RNAi Targeting Hepatic AGT to Block RAAS Pathway in Hypertension** -- JAMA Cardiology, Fri, 30 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856139
 - **Intensive vs More Intensive Lipid-Lowering Therapy in Statin-Naive Patients** -- JAMA Cardiology, Fri, 30 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856138
 - **Patient and Hospital Rurality in Heart Failure Care and Outcomes** -- JAMA Cardiology, Fri, 30 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856137
 - **Systemic Hypertension in Pulmonary Hypertension** -- JAMA Cardiology, Fri, 30 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856136
 - **Assessment of Ototoxicity in Patients With Heart Failure Receiving High-Dose IV Loop Diuretics** -- JAMA Cardiology, Fri, 30 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856135
 - **GalNAc-siRNA Targeting Hepatic Angiotensinogen in Hypertension** -- JAMA Cardiology, Fri, 30 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856134
-- **Massive Aortic Root Air Lock During LVAD Implantation** -- JAMA Cardiology, Wed, 28 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2855711
-- **Parental Diabetes and Risk of Cardiovascular Disease in Offspring** -- JAMA Cardiology, Wed, 28 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2855710
-- **Parental Diabetes and Risk of Cardiovascular Disease in Offspring—Reply** -- JAMA Cardiology, Wed, 28 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2855709
-- **The Future of Coronary Interventions** -- JAMA Cardiology, Wed, 28 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2855708
 - **To be or not to be (a biliary cancer): RAS (signalling) is the question** -- Gut, 2026-10-07T00:56:57-07:00 -- http://gut.bmj.com/cgi/content/short/75/11/2077?rss=1
 - **Unravelling the heterogeneous HCC risk in indeterminate chronic hepatitis B** -- Gut, 2026-10-07T00:56:57-07:00 -- http://gut.bmj.com/cgi/content/short/75/11/2078?rss=1
 - **Real-world evidence supports earlier treatment in HBeAg-positive but not HBeAg-negative chronic hepatitis B virus infection** -- Gut, 2026-10-07T00:56:57-07:00 -- http://gut.bmj.com/cgi/content/short/75/11/2080?rss=1
@@ -215,7 +212,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Quantifying Risk Tolerance in Kidney Xenotransplantation** -- JAMA Surgery, Wed, 21 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2855644
 
 
-## ⚠ 98 new systematic review/meta-analysis published in your journals
+## ⚠ 94 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -311,47 +308,43 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Global perspectives on dietary management of small intestinal bacterial overgrowth (SIBO): a systematic review of clinical guidelines, consensus statements and expert recommendations.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42865458/
 - **Perioperative intravenous lidocaine for the prevention of chronic postsurgical pain: a systematic review and meta-analysis of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42865434/
 - **Global landscape and emerging trends in programmable mRNA-based therapeutics for myocardial infarction: a multi-database bibliometric analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42865406/
-- **Prognostic value of NLR, SII, PCT, and PLR in sepsis and septic shock: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42857089/
-- **A scoping review of "nursing-technology collaboration" in home-based rehabilitation for the elderly under the long-term care insurance system.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42856876/
-- **Clinical manifestations and proportions of severe outcomes in pediatric acute post-streptococcal glomerulonephritis: a systematic review and meta-analysis of predominantly hospital-based cohorts.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42856850/
-- **Efficacy and safety of telitacicept in adults with systemic lupus erythematosus: a systematic review and stratified meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42856831/
 - **Chlorella for health: evidence from a GRADE-assessed systematic review and dose-response meta-analysis.** -- Systematic Reviews, Jul 2026 -- https://pubmed.ncbi.nlm.nih.gov/42928353/
 - **Exploring gut microbiome dysbiosis in vasculitis in adults: a systematic review.** -- Systematic Reviews, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888447/
 
 
 1 new RCT-type article(s) found.
 
-## Operational end-of-life trajectory categories among patients who died in the emergency department: associations with resuscitative and palliative care in a five-year retrospective cohort.
-**Journal:** Internal and Emergency Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42967244/  
+## Microvascular Resistance Reserve and Outcomes in Angina and Nonobstructive Coronary Artery Disease.
+**Journal:** JAMA Cardiology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42967827/  
 **Published:** Nov 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults who died in the emergency department (ED decedents).
-- Intervention: Retrospective assignment to five specific end-of-life trajectory categories: acute event/low comorbidity (T1), terminal malignancy or pre-existing palliative care (T2), advanced chronic disease (T3), frailty/dementia or high comorbidity (T4), and unclassified (T5).
-- Comparator: Comparison between the five trajectory categories.
-- Outcome: Rates of CPR, documented initiation of exclusive palliative/comfort-focused care, and documented end-of-life recognition or discussion.
-- Study design: Single-centre retrospective cohort study.
-- Notes: The intervention is a retrospective classification framework rather than a prospective clinical intervention. The 'unclassified' group (T5) was notably large (28.5%).
+- Population: Patients with angina and nonobstructive coronary arteries (ANOCA)
+- Intervention: Abnormal microvascular resistance reserve (MRR < 2.1) or gray zone MRR (2.1 to 2.7) as measured by continuous thermodilution
+- Comparator: Normal microvascular function (MRR >= 2.7)
+- Outcome: Composite of all-cause death, acute coronary syndrome, stroke, clinically indicated revascularization, repeat angiography, and unplanned hospital/ED visits for angina or heart failure; Seattle Angina Questionnaire (SAQ) scores
+- Study design: Prospective multicenter cohort study
+- Notes: The abstract clearly defines the population, the specific index (MRR), and the composite outcome components.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients at the end of life or nearing death presenting to the emergency department.
-- Intervention: Classification by illness trajectory, clinical frailty, or comorbidity patterns.
-- Outcome: End-of-life care processes, including intensity of resuscitation and palliative care utilization.
-- Why widened: Widened the specific 5-category model to general illness trajectories and frailty to capture studies using alternative frameworks (e.g., Lunney's trajectories). Broadened outcomes to general EOL care processes to include related metrics like DNR/DNI orders or hospice referrals.
+- Population: Patients with ischemia or angina and nonobstructive coronary artery disease (INOCA/ANOCA)
+- Intervention: Invasive assessment of coronary microvascular dysfunction (CMD) using thermodilution or doppler-derived indices (e.g., MRR, IMR, or CFR)
+- Outcome: Major adverse cardiovascular events (MACE) and patient-reported quality of life or angina frequency
+- Why widened: Widened the specific MRR index to include other common invasive CMD measures (IMR, CFR) as they are often pooled in meta-analyses of microvascular function. Broadened the specific composite outcome to the standard MACE definition and general symptom burden. Included INOCA alongside ANOCA as these terms are often used interchangeably in clinical literature.
 
-**Signal:** CHECK OVERLAP: 31891 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
+**Signal:** WORTH A CLOSER LOOK: ~18 on the narrow PICO, ~224 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~8
-- Broadened PICO pool: ~36
-- Existing reviews found: 31891
+- Narrow PICO pool: ~18
+- Broadened PICO pool: ~224
+- Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+who+died+in+the+emergency+department+%28ED+decedents%29.+Retrospective+assignment+to+five+specific+end-of-life+trajectory+categories%3A+acute+event%2Flow+comorbidity+%28T1%29%2C+terminal+malignancy+or+pre-existing+palliative+care+%28T2%29%2C+advanced+chronic+disease+%28T3%29%2C+frailty%2Fdementia+or+high+comorbidity+%28T4%29%2C+and+unclassified+%28T5%29.+Rates+of+CPR%2C+documented+initiation+of+exclusive+palliative%2Fcomfort-focused+care%2C+and+documented+end-of-life+recognition+or+discussion.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+who+died+in+the+emergency+department+%28ED+decedents%29.+Retrospective+assignment+to+five+specific+end-of-life+trajectory+categories%3A+acute+event%2Flow+comorbidity+%28T1%29%2C+terminal+malignancy+or+pre-existing+palliative+care+%28T2%29%2C+advanced+chronic+disease+%28T3%29%2C+frailty%2Fdementia+or+high+comorbidity+%28T4%29%2C+and+unclassified+%28T5%29.+Rates+of+CPR%2C+documented+initiation+of+exclusive+palliative%2Fcomfort-focused+care%2C+and+documented+end-of-life+recognition+or+discussion.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Emergency+Service%2C+Hospital%22%5BMeSH%5D%29+AND+%28%22Terminal+Care%22%5BMeSH%5D%29+AND+%28%22illness+trajectory%22+OR+%22frailty%22%29+AND+%28%22CPR%22+OR+%22palliative+care%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Emergency+Service%2C+Hospital%22%5BMeSH%5D%29+AND+%28%22Terminal+Care%22%5BMeSH%5D+OR+%22Palliative+Care%22%5BMeSH%5D%29+AND+%28%22Disease+Progression%22%5BMeSH%5D+OR+%22Trajectory%22%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+angina+and+nonobstructive+coronary+arteries+%28ANOCA%29+Abnormal+microvascular+resistance+reserve+%28MRR+%3C+2.1%29+or+gray+zone+MRR+%282.1+to+2.7%29+as+measured+by+continuous+thermodilution+Composite+of+all-cause+death%2C+acute+coronary+syndrome%2C+stroke%2C+clinically+indicated+revascularization%2C+repeat+angiography%2C+and+unplanned+hospital%2FED+visits+for+angina+or+heart+failure%3B+Seattle+Angina+Questionnaire+%28SAQ%29+scores
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+angina+and+nonobstructive+coronary+arteries+%28ANOCA%29+Abnormal+microvascular+resistance+reserve+%28MRR+%3C+2.1%29+or+gray+zone+MRR+%282.1+to+2.7%29+as+measured+by+continuous+thermodilution+Composite+of+all-cause+death%2C+acute+coronary+syndrome%2C+stroke%2C+clinically+indicated+revascularization%2C+repeat+angiography%2C+and+unplanned+hospital%2FED+visits+for+angina+or+heart+failure%3B+Seattle+Angina+Questionnaire+%28SAQ%29+scores+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Microvascular+Resistance+Reserve%22+OR+%22MRR%22%29+AND+%22ANOCA%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Microvascular+Resistance+Reserve%22+OR+%22Index+of+Microcirculatory+Resistance%22+OR+%22Coronary+Flow+Reserve%22%29+AND+%28%22ANOCA%22+OR+%22INOCA%22+OR+%22Nonobstructive+Coronary+Artery+Disease%22%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
