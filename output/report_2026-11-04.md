@@ -62,6 +62,11 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Preoperative Medicine for the Internal Medicine Clinician** -- JAMA Internal Medicine, Mon, 26 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2855599
 - **Preventing Low-Value Admission for Suspected Osteomyelitis** -- JAMA Internal Medicine, Mon, 26 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2855598
 - **Self-Testing for HIV and Sexually Transmitted Infections—Update for Clinicians in the US** -- JAMA Internal Medicine, Mon, 26 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2855597
+- **International aid dependence and healthcare sustainability in Afghanistan: study protocol for a systematic review** -- BMJ Open, 2026-11-04T03:37:11-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e117725?rss=1
+- **What is known about consumer leadership across healthcare services, research, policy and education? A scoping review to inform change beyond visibility and the 'glass box effect** -- BMJ Open, 2026-11-04T03:37:11-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e120604?rss=1
+- **Measuring the impact of lived experience and caregiver engagement in research on the research conducted: a qualitative study, co-design process and pilot testing of an assessment tool** -- BMJ Open, 2026-11-04T03:37:11-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e121256?rss=1
+- **Study protocol of the SuDHO study: hyperbaric oxygen treatment added to standard care for acute idiopathic sudden sensorineural hearing loss - a multicentre randomised controlled trial** -- BMJ Open, 2026-11-04T03:37:11-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e121315?rss=1
+- **Impact of environmental factors on cardiovascular health in Castilla-La Mancha: the CarVasCLiMa cohort study protocol** -- BMJ Open, 2026-11-04T03:37:11-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e123803?rss=1
 - **Digital endpoints as outcome measures in orthopaedic care and their psychometric properties: a scoping review protocol** -- BMJ Open, 2026-11-03T03:23:52-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e117633?rss=1
 - **Copenhagen Gender Identity Cohort (KIK): a protocol of a prospective cohort of adults with gender incongruence seeking gender-affirming healthcare** -- BMJ Open, 2026-11-03T03:23:52-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e121993?rss=1
 - **Implementing a digitally enabled wound model of care to improve chronic wound outcomes in seven health services in Australia: study protocol for a multisite, hybrid type 2, two-phase effectiveness-implementation trial (the ENABLE study)** -- BMJ Open, 2026-11-03T03:23:52-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e123987?rss=1
@@ -77,11 +82,6 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Association of healthcare access, demographic and psychosocial factors with herbal medicine use: a survey of paediatric and adult outpatients** -- BMJ Open, 2026-11-02T02:41:36-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e118559?rss=1
 - **Randomised controlled trial of SHORT duration antibiotic thERapy for critically ill patients with sepsis (SHORTER trial): protocol for a mixed-methods process evaluation** -- BMJ Open, 2026-11-02T02:41:36-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e119173?rss=1
 - **Organisational learning in hospital systems during the COVID-19 pandemic: a qualitative study** -- BMJ Open, 2026-11-02T02:41:36-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e119626?rss=1
-- **Study protocol for the development of reporting guidelines for intervention adaptation studies: Transparent Reporting of Adaptations, Context and Effects (TRACE) - a multimethod approach using literature review, Delphi, crowdsourcing, webinar and usability testing** -- BMJ Open, 2026-11-02T02:41:36-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e119833?rss=1
-- **Rehabilitation programme for post-stroke lateropulsion including exoskeleton-assisted training: rationale and single-case experimental design protocol** -- BMJ Open, 2026-11-02T02:41:36-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e119942?rss=1
-- **High legal risk perception despite high medicolegal awareness: a cross-sectional survey of haematologists in Tu&#x0308;rkiye** -- BMJ Open, 2026-11-02T02:41:36-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e121044?rss=1
-- **Culturally safe care for Aboriginal and Torres Strait Islander peoples with dementia in Trouwerner/Lutruwita (Tasmania): protocol for a scoping review** -- BMJ Open, 2026-11-02T02:41:36-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e121939?rss=1
-- **Experiences and perspectives of patients visiting Dutch emergency departments on opioid (mis)use: a qualitative interview study** -- BMJ Open, 2026-11-02T02:41:36-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e122049?rss=1
 - **Routine Postdilation to Optimize Balloon-Expandable Valve Expansion** -- JAMA Cardiology, Tue, 03 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856243
 - **Efficacy and Safety of Routine Postdilation in Balloon-Expandable Transcatheter Aortic Valve Implantation Platform** -- JAMA Cardiology, Tue, 03 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856242
 - **Microvascular Resistance Reserve and Outcomes in ANOCA Disease** -- JAMA Cardiology, Sun, 01 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856180
@@ -310,103 +310,364 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Exploring gut microbiome dysbiosis in vasculitis in adults: a systematic review.** -- Systematic Reviews, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888447/
 
 
-5 new RCT-type article(s) found.
+10 new RCT-type article(s) found.
 
-## Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42976899/  
-**Published:** Nov 2026
+## Evaluating Age-Adjusted D-dimer and Clinical Decision-Making in Suspected Pulmonary Embolism: A Retrospective Clinical Audit and Practitioner Survey.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42978928/  
+**Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults (18+) with unprotected left main coronary artery disease (stenosis diameter ≥50% on angiography) in Asian countries (South Korea, India, Japan, Indonesia, and Malaysia)
-- Intervention: Percutaneous coronary intervention (PCI) with drug-eluting stents (DES)
-- Comparator: Isolated coronary artery bypass grafting (CABG)
-- Outcome: All-cause mortality
-- Study design: Prospective multicentre registry analysis using target trial emulation and propensity-score overlap weighting
-- Notes: The abstract clearly defines the population, intervention, and primary outcome. The 'unprotected' status is a standard clinical descriptor for left main disease without prior bypass grafts.
+- Population: Patients who underwent CTPA for suspected pulmonary embolism
+- Intervention: Age-adjusted D-dimer threshold
+- Comparator: Standard D-dimer threshold
+- Outcome: Diagnostic performance (sensitivity, specificity, false-positive and false-negative classifications)
+- Study design: Retrospective clinical audit (diagnostic accuracy study) and cross-sectional practitioner surveys
+- Notes: The diagnostic performance analysis was conducted on a cohort already selected for CTPA, which may introduce selection bias. The study also includes a survey component regarding practitioner knowledge and behavior.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with left main coronary artery disease
-- Intervention: Percutaneous coronary intervention (PCI)
-- Outcome: Long-term mortality and major adverse cardiovascular events (MACE)
-- Why widened: Removed the geographic restriction (Asian patients) and the 'unprotected' qualifier to encompass the general clinical condition of left main disease. Broadened the outcome to include MACE, as meta-analyses in this field frequently pool mortality with other major cardiovascular events. Broadened DES to PCI generally to include various stent generations.
+- Population: Adults with suspected pulmonary embolism
+- Intervention: Age-adjusted D-dimer testing
+- Outcome: Diagnostic accuracy, imaging utilization, and clinical safety (e.g., missed PE rates)
+- Why widened: The population was broadened from a CTPA-selected cohort to all patients with suspected PE to reflect the general clinical decision-making context. Outcomes were broadened to include imaging utilization and safety to allow for pooling with studies that measure the impact on healthcare resources and patient outcomes.
 
-**Signal:** WORTH A CLOSER LOOK: ~18 on the narrow PICO, ~184 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~55 on the narrow PICO, ~158 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~18
-- Broadened PICO pool: ~184
+- Narrow PICO pool: ~55
+- Broadened PICO pool: ~158
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%2818%2B%29+with+unprotected+left+main+coronary+artery+disease+%28stenosis+diameter+%E2%89%A550%25+on+angiography%29+in+Asian+countries+%28South+Korea%2C+India%2C+Japan%2C+Indonesia%2C+and+Malaysia%29+Percutaneous+coronary+intervention+%28PCI%29+with+drug-eluting+stents+%28DES%29+All-cause+mortality
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%2818%2B%29+with+unprotected+left+main+coronary+artery+disease+%28stenosis+diameter+%E2%89%A550%25+on+angiography%29+in+Asian+countries+%28South+Korea%2C+India%2C+Japan%2C+Indonesia%2C+and+Malaysia%29+Percutaneous+coronary+intervention+%28PCI%29+with+drug-eluting+stents+%28DES%29+All-cause+mortality+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Left+Main+Coronary+Artery+Disease%22%5BMesh%5D+OR+%22unprotected+left+main%22%29+AND+%22Drug-Eluting+Stents%22%5BMesh%5D+AND+%22Coronary+Artery+Bypass%22%5BMesh%5D+AND+%22mortality%22+AND+%22registry%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Left+Main+Coronary+Artery+Disease%22%5BMesh%5D+OR+%22unprotected+left+main%22%29+AND+%22Percutaneous+Coronary+Intervention%22%5BMesh%5D+AND+%22Coronary+Artery+Bypass%22%5BMesh%5D+AND+%22mortality%22
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+who+underwent+CTPA+for+suspected+pulmonary+embolism+Age-adjusted+D-dimer+threshold+Diagnostic+performance+%28sensitivity%2C+specificity%2C+false-positive+and+false-negative+classifications%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+who+underwent+CTPA+for+suspected+pulmonary+embolism+Age-adjusted+D-dimer+threshold+Diagnostic+performance+%28sensitivity%2C+specificity%2C+false-positive+and+false-negative+classifications%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22age-adjusted+D-dimer%22%29+AND+%28%22pulmonary+embolism%22%29+AND+%28%22CTPA%22+OR+%22computed+tomography+pulmonary+angiography%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22age-adjusted+D-dimer%22%29+AND+%28%22pulmonary+embolism%22%5BMeSH+Terms%5D+OR+%22pulmonary+embolism%22%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Copenhagen Gender Identity Cohort (KIK): a protocol of a prospective cohort of adults with gender incongruence seeking gender-affirming healthcare.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42977334/  
-**Published:** Nov 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Efficacy and Safety of Routine Postdilation in Balloon-Expandable Transcatheter Aortic Valve Implantation Platform: The DUOTAP Randomized Clinical Trial.
-**Journal:** JAMA Cardiology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42976368/  
-**Published:** Nov 2026
+## Clinical Efficacy of the GentleWave® System Compared to Conventional Irrigation Techniques: A Systematic Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42978872/  
+**Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with severe aortic stenosis suitable for transfemoral TAVI with a balloon-expandable transcatheter heart valve, excluding those with high-risk features on preprocedural CT or coronary angiography.
-- Intervention: Routine postdilation using the original delivery balloon at the identical filling volume.
-- Comparator: No postdilation (sham procedure).
-- Outcome: Primary: Fluoroscopic transcatheter heart valve (THV) asymmetry index. Secondary: CT-derived valve geometry, hypoattenuated leaflet thickening (HALT), paravalvular leak (PVL), THV hemodynamics (Doppler Velocity Index), and freedom from major procedural adverse events.
-- Study design: Single-center, single-blinded randomized clinical trial.
-- Notes: The abstract provides specific details on the device type (balloon-expandable) and the specific postdilation technique (original balloon, same volume), which are clearly stated.
+- Population: Patients undergoing root canal treatment
+- Intervention: GentleWave system (multisonic energy and fluid dynamics irrigation)
+- Comparator: Conventional irrigation techniques (specifically syringe irrigation with ultrasonic activation)
+- Outcome: Postoperative pain, clinical and radiographic healing, and intracanal disinfection
+- Study design: Systematic review of randomized controlled trials and prospective noncomparative cohorts
+- Notes: The abstract does not specify the exact preoperative pulpal or periapical status of the patients. The comparator is described generally as 'conventional' but the results specifically highlight ultrasonic activation.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with severe aortic stenosis undergoing transcatheter aortic valve implantation (TAVI).
-- Intervention: Postdilation of the transcatheter heart valve.
-- Outcome: Prosthetic valve geometry, hemodynamic performance, and procedural safety outcomes.
-- Why widened: The population was broadened from a specific valve type (balloon-expandable) and access route (transfemoral) to all TAVI patients to allow for comparison with self-expanding valves. The intervention was generalized from a specific balloon technique to any postdilation. Outcomes were grouped into broader clinical categories (hemodynamics and safety) to facilitate meta-analysis across studies using different imaging modalities.
+- Population: Patients undergoing endodontic therapy
+- Intervention: Advanced automated or multisonic endodontic irrigation systems
+- Outcome: Clinical success, radiographic healing, and patient-reported outcomes
+- Why widened: The intervention was widened from a specific brand (GentleWave) to the broader category of advanced/multisonic irrigation systems to allow for comparison with similar emerging technologies. Outcomes were grouped into broader clinical and patient-reported categories to capture a wider range of follow-up metrics common in endodontic literature.
 
-**Signal:** PROBABLY TOO THIN: only ~3 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+**Signal:** WORTH A CLOSER LOOK: ~54 on the narrow PICO, ~38 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~4
-- Broadened PICO pool: ~3
+- Narrow PICO pool: ~54
+- Broadened PICO pool: ~38
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+severe+aortic+stenosis+suitable+for+transfemoral+TAVI+with+a+balloon-expandable+transcatheter+heart+valve%2C+excluding+those+with+high-risk+features+on+preprocedural+CT+or+coronary+angiography.+Routine+postdilation+using+the+original+delivery+balloon+at+the+identical+filling+volume.+Primary%3A+Fluoroscopic+transcatheter+heart+valve+%28THV%29+asymmetry+index.+Secondary%3A+CT-derived+valve+geometry%2C+hypoattenuated+leaflet+thickening+%28HALT%29%2C+paravalvular+leak+%28PVL%29%2C+THV+hemodynamics+%28Doppler+Velocity+Index%29%2C+and+freedom+from+major+procedural+adverse+events.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+severe+aortic+stenosis+suitable+for+transfemoral+TAVI+with+a+balloon-expandable+transcatheter+heart+valve%2C+excluding+those+with+high-risk+features+on+preprocedural+CT+or+coronary+angiography.+Routine+postdilation+using+the+original+delivery+balloon+at+the+identical+filling+volume.+Primary%3A+Fluoroscopic+transcatheter+heart+valve+%28THV%29+asymmetry+index.+Secondary%3A+CT-derived+valve+geometry%2C+hypoattenuated+leaflet+thickening+%28HALT%29%2C+paravalvular+leak+%28PVL%29%2C+THV+hemodynamics+%28Doppler+Velocity+Index%29%2C+and+freedom+from+major+procedural+adverse+events.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Transcatheter+Aortic+Valve+Replacement%22%5BMesh%5D+OR+%22TAVI%22%29+AND+%22postdilation%22+AND+%22balloon-expandable%22+AND+%22randomized%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Transcatheter+Aortic+Valve+Replacement%22%5BMesh%5D+OR+%22TAVI%22%29+AND+%28%22post-dilation%22+OR+%22postdilation%22%29+AND+%22randomized+controlled+trial%22%5BPublication+Type%5D
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+undergoing+root+canal+treatment+GentleWave+system+%28multisonic+energy+and+fluid+dynamics+irrigation%29+Postoperative+pain%2C+clinical+and+radiographic+healing%2C+and+intracanal+disinfection
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+undergoing+root+canal+treatment+GentleWave+system+%28multisonic+energy+and+fluid+dynamics+irrigation%29+Postoperative+pain%2C+clinical+and+radiographic+healing%2C+and+intracanal+disinfection+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22GentleWave%22+AND+%22root+canal%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22GentleWave%22+OR+%22multisonic+irrigation%22%29+AND+%28%22Root+Canal+Therapy%22%5BMeSH%5D+OR+%22Endodontics%22%5BMeSH%5D%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Correction: Serum creatinine as both yardstick and predictor: reading chronic kidney disease in the global CLEARED cohort.
-**Journal:** Gut  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42977502/  
-**Published:** Nov 2026
+## Efficacy comparison of neoadjuvant chemotherapy, chemoradiotherapy, and chemoimmunotherapy in resectable esophageal squamous cell carcinoma: short- and long-term outcomes from a propensity score-matched analysis.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42978949/  
+**Published:** 2026
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with resectable locally advanced esophageal squamous cell carcinoma (ESCC)
+- Intervention: Neoadjuvant chemoimmunotherapy (nICT)
+- Comparator: Neoadjuvant chemotherapy (nCT) and neoadjuvant chemoradiotherapy (nCRT)
+- Outcome: 3-year overall survival (OS), recurrence-free survival (RFS), and recurrence patterns
+- Study design: Retrospective propensity score-matched cohort study
+- Notes: The abstract clearly defines the treatment groups and primary endpoints, though specific drug agents and radiotherapy doses are not listed.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with resectable esophageal cancer
+- Intervention: Neoadjuvant immunotherapy-based regimens
+- Outcome: Survival outcomes (OS, RFS, DFS) and recurrence patterns
+- Why widened: Broadened the specific histology (ESCC) to esophageal cancer generally to allow for inclusion of adenocarcinoma studies if appropriate for a meta-analysis. Generalized the specific 3-year timepoint to survival outcomes to capture studies with varying follow-up lengths. Grouped the intervention into a broader class of immunotherapy-based neoadjuvant approaches.
+
+**Signal:** WORTH A CLOSER LOOK: ~43 on the narrow PICO, ~270 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~43
+- Broadened PICO pool: ~270
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+resectable+locally+advanced+esophageal+squamous+cell+carcinoma+%28ESCC%29+Neoadjuvant+chemoimmunotherapy+%28nICT%29+3-year+overall+survival+%28OS%29%2C+recurrence-free+survival+%28RFS%29%2C+and+recurrence+patterns
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+resectable+locally+advanced+esophageal+squamous+cell+carcinoma+%28ESCC%29+Neoadjuvant+chemoimmunotherapy+%28nICT%29+3-year+overall+survival+%28OS%29%2C+recurrence-free+survival+%28RFS%29%2C+and+recurrence+patterns+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22esophageal+squamous+cell+carcinoma%22%29+AND+%28%22neoadjuvant+chemoimmunotherapy%22%29+AND+%28%22neoadjuvant+chemoradiotherapy%22+OR+%22neoadjuvant+chemotherapy%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Esophageal+Neoplasms%22%5BMeSH%5D%29+AND+%28%22Neoadjuvant+Therapy%22%5BMeSH%5D%29+AND+%28%22Immunotherapy%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Presentation, management, and outcomes of ectopic Cushing syndrome: an international, multicentre, retrospective, cohort study.
-**Journal:** The Lancet Diabetes & Endocrinology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42976894/  
+## Clinical outcomes and total IgE changes with omalizumab and dupilumab in moderate-to-severe asthma: a retrospective real-world cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42978889/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults with moderate-to-severe asthma
+- Intervention: Omalizumab
+- Comparator: Dupilumab
+- Outcome: Asthma Control Test (ACT) score, pulmonary function (FEV1), blood eosinophil count, fractional exhaled nitric oxide (FeNO), and serum total IgE at 4 months
+- Study design: Retrospective, single-center, real-world cohort study
+- Notes: The study is a single-center retrospective analysis with a relatively small sample size (n=72), which may limit generalizability.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with severe or uncontrolled asthma
+- Intervention: Anti-IgE therapy (Omalizumab)
+- Outcome: Clinical asthma control and pulmonary function parameters
+- Why widened: Widened population from 'moderate-to-severe' to 'severe or uncontrolled' to capture the broader clinical group typically eligible for biologics. Generalized specific biomarkers and the 4-month timepoint to 'clinical asthma control and pulmonary function' to allow for meta-analysis across different study durations and measurement tools.
+
+**Signal:** WORTH A CLOSER LOOK: ~524 on the narrow PICO, ~40 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~524
+- Broadened PICO pool: ~40
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+moderate-to-severe+asthma+Omalizumab+Asthma+Control+Test+%28ACT%29+score%2C+pulmonary+function+%28FEV1%29%2C+blood+eosinophil+count%2C+fractional+exhaled+nitric+oxide+%28FeNO%29%2C+and+serum+total+IgE+at+4+months
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+moderate-to-severe+asthma+Omalizumab+Asthma+Control+Test+%28ACT%29+score%2C+pulmonary+function+%28FEV1%29%2C+blood+eosinophil+count%2C+fractional+exhaled+nitric+oxide+%28FeNO%29%2C+and+serum+total+IgE+at+4+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22omalizumab%22%5BMeSH+Terms%5D+OR+%22omalizumab%22%5BAll+Fields%5D%29+AND+%28%22dupilumab%22%5BMeSH+Terms%5D+OR+%22dupilumab%22%5BAll+Fields%5D%29+AND+%28%22asthma%22%5BMeSH+Terms%5D+OR+%22asthma%22%5BAll+Fields%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Anti-Asthmatic+Agents%22%5BMeSH+Terms%5D+AND+%22Biological+Products%22%5BMeSH+Terms%5D%29+AND+%22Asthma%22%5BMeSH+Terms%5D+AND+%22comparative+study%22%5BPublication+Type%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Association between an ITHBC theory-based nursing pathway and discharge readiness among mothers of preterm infants: a non-randomized controlled study with a historical control group.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42978785/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Mothers of preterm infants
+- Intervention: Integrated Theory of Health Behavior Change (ITHBC)-based nursing pathway
+- Comparator: Historical control group (standard care)
+- Outcome: Discharge readiness, discharge instruction quality, care ability, self-efficacy, resilience, anxiety, depression, infant health outcomes, readmission rates, and satisfaction
+- Study design: Non-randomized controlled study with a historical control group
+- Notes: The specific components of the standard care provided to the historical control group are not detailed. Specific infant health outcomes are mentioned as 'favorable' but not individually listed.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Parents or primary caregivers of preterm infants
+- Intervention: Theory-based nursing pathways or structured transitional care interventions
+- Outcome: Discharge readiness and post-discharge health outcomes (including psychological status and readmission)
+- Why widened: Broadened population from 'mothers' to 'parents/caregivers' to include studies focusing on fathers or family-centered care; broadened intervention from the specific 'ITHBC' theory to any 'theory-based' or 'structured' nursing pathway to allow for pooling with similar conceptual frameworks; grouped specific psychological and clinical metrics into broader outcome families relevant to transitional care.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~23 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~23
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Mothers+of+preterm+infants+Integrated+Theory+of+Health+Behavior+Change+%28ITHBC%29-based+nursing+pathway+Discharge+readiness%2C+discharge+instruction+quality%2C+care+ability%2C+self-efficacy%2C+resilience%2C+anxiety%2C+depression%2C+infant+health+outcomes%2C+readmission+rates%2C+and+satisfaction
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Mothers+of+preterm+infants+Integrated+Theory+of+Health+Behavior+Change+%28ITHBC%29-based+nursing+pathway+Discharge+readiness%2C+discharge+instruction+quality%2C+care+ability%2C+self-efficacy%2C+resilience%2C+anxiety%2C+depression%2C+infant+health+outcomes%2C+readmission+rates%2C+and+satisfaction+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22ITHBC%22+OR+%22Integrated+Theory+of+Health+Behavior+Change%22%29+AND+%22preterm%22+AND+%22discharge+readiness%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Nursing+Process%22%5BMesh%5D+OR+%22Critical+Pathways%22%5BMesh%5D%29+AND+%22Infant%2C+Premature%22%5BMesh%5D+AND+%22Patient+Discharge%22%5BMesh%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Procalcitonin as a prognostic factor in patients with acute exacerbation of COPD without pneumonia: a prospective multicenter cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42978763/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Hospitalized patients with acute exacerbation of COPD (AECOPD) without pneumonia
+- Intervention: Elevated serum procalcitonin (PCT) levels (cutoff ≥0.11 ng/mL)
+- Comparator: Low serum procalcitonin (PCT) levels (<0.11 ng/mL)
+- Outcome: In-hospital mortality
+- Study design: Prospective multicenter cohort study
+- Notes: The procalcitonin cutoff (0.11 ng/mL) was determined post-hoc using the Youden index within this specific cohort. The study specifically excludes patients with pneumonia, which is a key clinical distinction.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with acute exacerbation of COPD (AECOPD) without pneumonia
+- Intervention: Serum procalcitonin (PCT) levels
+- Outcome: Short-term mortality (in-hospital or 30-day)
+- Why widened: Removed the specific post-hoc cutoff (0.11 ng/mL) for procalcitonin to allow for any threshold or continuous measurement used in other studies. Broadened the outcome to include any short-term mortality rather than just in-hospital. Removed geographic (China) and hospital-level (tertiary) constraints from the population to capture the broader clinical group.
+
+**Signal:** WORTH A CLOSER LOOK: ~8 on the narrow PICO, ~89 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~8
+- Broadened PICO pool: ~89
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Hospitalized+patients+with+acute+exacerbation+of+COPD+%28AECOPD%29+without+pneumonia+Elevated+serum+procalcitonin+%28PCT%29+levels+%28cutoff+%E2%89%A50.11+ng%2FmL%29+In-hospital+mortality
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Hospitalized+patients+with+acute+exacerbation+of+COPD+%28AECOPD%29+without+pneumonia+Elevated+serum+procalcitonin+%28PCT%29+levels+%28cutoff+%E2%89%A50.11+ng%2FmL%29+In-hospital+mortality+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22AECOPD%22+OR+%22acute+exacerbation+of+chronic+obstructive+pulmonary+disease%22%29+AND+%22procalcitonin%22+AND+%22mortality%22+AND+%22without+pneumonia%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Pulmonary+Disease%2C+Chronic+Obstructive%22%5BMeSH%5D%29+AND+%22procalcitonin%22+AND+%28%22mortality%22+OR+%22prognosis%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Contrast-enhanced ultrasound-assisted catheter drainage for paravertebral tuberculous abscesses: a retrospective study of procedural safety.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42978745/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with lumbar spinal tuberculosis complicated by paravertebral tuberculous abscess
+- Intervention: Contrast-enhanced ultrasound (CEUS)-assisted catheter drainage
+- Comparator: Conventional ultrasound-guided catheter drainage
+- Outcome: Postprocedural bleeding, catheter occlusion, pericatheter purulent discharge, operative time, length of hospital stay, intraoperative blood loss, inflammatory markers, pain scores, cure rate, and recurrence rate
+- Study design: Retrospective historical-control study
+- Notes: The study specifically focuses on the lumbar region; applicability to cervical or thoracic paravertebral abscesses is not explicitly stated but implied by the clinical context.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with spinal tuberculosis (Pott's disease) and associated paraspinal or paravertebral abscesses
+- Intervention: Contrast-enhanced ultrasound (CEUS)-guided percutaneous drainage or needle intervention
+- Outcome: Procedural safety, complication rates (including hemorrhage), and clinical success
+- Why widened: Population was widened from 'lumbar' to all 'spinal' tuberculosis as the drainage technique is anatomically similar across levels. Intervention was widened to include any CEUS-guided percutaneous intervention for abscesses. Outcomes were grouped into 'procedural safety' and 'clinical success' to allow for pooling of various complication types and efficacy markers.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+lumbar+spinal+tuberculosis+complicated+by+paravertebral+tuberculous+abscess+Contrast-enhanced+ultrasound+%28CEUS%29-assisted+catheter+drainage+Postprocedural+bleeding%2C+catheter+occlusion%2C+pericatheter+purulent+discharge%2C+operative+time%2C+length+of+hospital+stay%2C+intraoperative+blood+loss%2C+inflammatory+markers%2C+pain+scores%2C+cure+rate%2C+and+recurrence+rate
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+lumbar+spinal+tuberculosis+complicated+by+paravertebral+tuberculous+abscess+Contrast-enhanced+ultrasound+%28CEUS%29-assisted+catheter+drainage+Postprocedural+bleeding%2C+catheter+occlusion%2C+pericatheter+purulent+discharge%2C+operative+time%2C+length+of+hospital+stay%2C+intraoperative+blood+loss%2C+inflammatory+markers%2C+pain+scores%2C+cure+rate%2C+and+recurrence+rate+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Tuberculosis%2C+Spinal%22%5BMeSH%5D+OR+%22Pott+disease%22%29+AND+%22Contrast-Enhanced+Ultrasound%22+AND+%22drainage%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Tuberculosis%22%5BMeSH%5D+AND+%22Abscess%22%5BMeSH%5D%29+AND+%22Contrast-Enhanced+Ultrasound%22+AND+%22drainage%22
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Twelve-month outcomes of subretinal tenecteplase-assisted vitrectomy for large submacular hemorrhage secondary to polypoidal choroidal vasculopathy: a retrospective consecutive case series.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42978589/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with polypoidal choroidal vasculopathy (PCV) and large (>5 disc areas) fovea-involving submacular hemorrhage (SMH)
+- Intervention: 25-gauge pars plana vitrectomy (PPV) with subretinal tenecteplase (TNK-tPA) injection (50-100 μg) and C3F8 gas tamponade, followed by pro re nata (PRN) anti-VEGF therapy
+- Comparator: unclear
+- Outcome: Best-corrected visual acuity (BCVA), central macular thickness (CMT), pigment epithelial detachment (PED), anti-VEGF treatment burden, and complications at 12 months
+- Study design: Retrospective consecutive case series
+- Notes: The study is a small retrospective series without a control group. The intervention uses tenecteplase, which is a specific variant of tissue plasminogen activator.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with submacular hemorrhage secondary to neovascular age-related macular degeneration (nAMD) or polypoidal choroidal vasculopathy (PCV)
+- Intervention: Pars plana vitrectomy with subretinal fibrinolytic (tPA or tenecteplase) and gas tamponade
+- Outcome: Visual acuity and anatomical outcomes (hemorrhage displacement, macular thickness) at 6-12 months
+- Why widened: Widened population from PCV to include nAMD as they are clinically similar causes of SMH. Widened intervention from tenecteplase to any subretinal fibrinolytic (tPA) as alteplase is the more common standard. Widened outcome to a standard follow-up range.
+
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~101 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~101
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+polypoidal+choroidal+vasculopathy+%28PCV%29+and+large+%28%3E5+disc+areas%29+fovea-involving+submacular+hemorrhage+%28SMH%29+25-gauge+pars+plana+vitrectomy+%28PPV%29+with+subretinal+tenecteplase+%28TNK-tPA%29+injection+%2850-100+%CE%BCg%29+and+C3F8+gas+tamponade%2C+followed+by+pro+re+nata+%28PRN%29+anti-VEGF+therapy+Best-corrected+visual+acuity+%28BCVA%29%2C+central+macular+thickness+%28CMT%29%2C+pigment+epithelial+detachment+%28PED%29%2C+anti-VEGF+treatment+burden%2C+and+complications+at+12+months
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+polypoidal+choroidal+vasculopathy+%28PCV%29+and+large+%28%3E5+disc+areas%29+fovea-involving+submacular+hemorrhage+%28SMH%29+25-gauge+pars+plana+vitrectomy+%28PPV%29+with+subretinal+tenecteplase+%28TNK-tPA%29+injection+%2850-100+%CE%BCg%29+and+C3F8+gas+tamponade%2C+followed+by+pro+re+nata+%28PRN%29+anti-VEGF+therapy+Best-corrected+visual+acuity+%28BCVA%29%2C+central+macular+thickness+%28CMT%29%2C+pigment+epithelial+detachment+%28PED%29%2C+anti-VEGF+treatment+burden%2C+and+complications+at+12+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22tenecteplase%22+OR+%22TNK-tPA%22%29+AND+%22submacular+hemorrhage%22+AND+%22vitrectomy%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Tissue+Plasminogen+Activator%22%5BMeSH%5D+OR+%22tenecteplase%22+OR+%22alteplase%22%29+AND+%22submacular+hemorrhage%22+AND+%22Vitrectomy%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## The effect of pelvic floor muscle exercise, progressive muscle relaxation exercise, and their combined application on comfort in women with stress urinary incontinence: a four-arm randomized controlled trial.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42978560/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: women diagnosed with stress urinary incontinence (SUI)
+- Intervention: pelvic floor muscle exercise (PFME), progressive muscle relaxation exercise (PMR), and their combined application
+- Comparator: unclear (abstract mentions a four-arm trial but only explicitly names three intervention groups)
+- Outcome: comfort levels
+- Study design: four-arm randomized controlled trial
+- Notes: The fourth arm of the trial is not explicitly described in the provided text. The specific scale or instrument used to measure 'comfort' is not named.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: women with urinary incontinence
+- Intervention: pelvic floor muscle training and relaxation techniques
+- Outcome: patient-reported outcomes and quality of life
+- Why widened: Broadened 'stress urinary incontinence' to 'urinary incontinence' to include studies on mixed incontinence where these conservative therapies are also applied. Broadened specific exercises to their broader therapeutic classes (PFMT and relaxation therapies). Broadened 'comfort' to 'patient-reported outcomes' as comfort is a specific dimension of quality of life often measured in nursing and rehabilitation research.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=women+diagnosed+with+stress+urinary+incontinence+%28SUI%29+pelvic+floor+muscle+exercise+%28PFME%29%2C+progressive+muscle+relaxation+exercise+%28PMR%29%2C+and+their+combined+application+comfort+levels
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=women+diagnosed+with+stress+urinary+incontinence+%28SUI%29+pelvic+floor+muscle+exercise+%28PFME%29%2C+progressive+muscle+relaxation+exercise+%28PMR%29%2C+and+their+combined+application+comfort+levels+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Urinary+Incontinence%2C+Stress%22%5BMeSH%5D%29+AND+%22Pelvic+Floor+Muscle+Training%22%5BMeSH%5D+AND+%22Progressive+Muscle+Relaxation%22+AND+%22comfort%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Urinary+Incontinence%22%5BMeSH%5D%29+AND+%22Pelvic+Floor+Muscle+Training%22%5BMeSH%5D+AND+%22Relaxation+Therapy%22%5BMeSH%5D+AND+%28%22Quality+of+Life%22%5BMeSH%5D+OR+%22Patient+Reported+Outcome+Measures%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Hydralazine-isosorbide dinitrate in chronic heart failure with reduced ejection fraction: the H-HeFT trial.
+**Journal:** European Heart Journal  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42978512/  
 **Published:** Nov 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with chronic heart failure with reduced ejection fraction (HFrEF), NYHA class II-IV, elevated NT-proBNP, and LVEF ≤40%, predominantly White Danish population.
+- Intervention: Hydralazine 75 mg and isosorbide dinitrate 40 mg three times a day (t.i.d).
+- Comparator: Placebo
+- Outcome: Composite of hospitalization for worsening heart failure, urgent outpatient visit requiring IV/metolazone, heart transplantation, LVAD implantation, or death.
+- Study design: Multicentre, randomized, double-blind, placebo-controlled trial.
+- Notes: The abstract clearly defines the population, intervention, and composite outcome. The specific demographic (predominantly White) is noted as it contrasts with historical trials of this drug combination.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with chronic heart failure with reduced ejection fraction (HFrEF).
+- Intervention: Hydralazine-isosorbide dinitrate (H-ISDN) combination therapy.
+- Outcome: Heart failure-related morbidity and all-cause mortality.
+- Why widened: The population was broadened from a specific Danish/White cohort with specific biomarker thresholds to all HFrEF patients to allow for meta-analysis across different racial groups (e.g., A-HeFT). The intervention was broadened from a specific dose to the drug class combination. The outcome was broadened to standard heart failure morbidity/mortality composites.
+
+**Signal:** CHECK OVERLAP: 27887 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~2
+- Broadened PICO pool: ~258
+- Existing reviews found: 27887
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+chronic+heart+failure+with+reduced+ejection+fraction+%28HFrEF%29%2C+NYHA+class+II-IV%2C+elevated+NT-proBNP%2C+and+LVEF+%E2%89%A440%25%2C+predominantly+White+Danish+population.+Hydralazine+75+mg+and+isosorbide+dinitrate+40+mg+three+times+a+day+%28t.i.d%29.+Composite+of+hospitalization+for+worsening+heart+failure%2C+urgent+outpatient+visit+requiring+IV%2Fmetolazone%2C+heart+transplantation%2C+LVAD+implantation%2C+or+death.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+chronic+heart+failure+with+reduced+ejection+fraction+%28HFrEF%29%2C+NYHA+class+II-IV%2C+elevated+NT-proBNP%2C+and+LVEF+%E2%89%A440%25%2C+predominantly+White+Danish+population.+Hydralazine+75+mg+and+isosorbide+dinitrate+40+mg+three+times+a+day+%28t.i.d%29.+Composite+of+hospitalization+for+worsening+heart+failure%2C+urgent+outpatient+visit+requiring+IV%2Fmetolazone%2C+heart+transplantation%2C+LVAD+implantation%2C+or+death.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hydralazine%22+AND+%22Isosorbide+dinitrate%22%29+AND+%22H-HeFT%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hydralazine%22%5BMeSH%5D+AND+%22Isosorbide+Dinitrate%22%5BMeSH%5D%29+AND+%22Heart+Failure%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
