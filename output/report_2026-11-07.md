@@ -1,6 +1,6 @@
 # Journal Watch Report -- 2026-11-07
 
-## 🕐 188 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 179 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
@@ -24,6 +24,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **When Patients Need an Enemy** -- New England Journal of Medicine, 2026-10-31T11:30:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2606011?af=R&rss=currentIssue
 - **The Learning Health System, Made Computable** -- New England Journal of Medicine, 2026-10-31T11:30:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2610734?af=R&rss=currentIssue
 - **Private Health Insurance and Profit — Lessons for the United States** -- New England Journal of Medicine, 2026-10-31T11:30:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2611270?af=R&rss=currentIssue
+- **Percutaneous Coronary Intervention and Long-Term Outcomes in Coronary Artery Disease** -- JAMA, Sat, 07 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856313
 - **Bariatric Surgery Tied to Lower Obesity-Related Cancer Risk** -- JAMA, Fri, 06 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856588
 - **FDA Approves New Over-the-Counter Eye Drops for Minor Irritation** -- JAMA, Fri, 06 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856587
 - **Ultraprocessed Foods Linked With Vascular Brain Injury in Midlife** -- JAMA, Fri, 06 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856586
@@ -33,15 +34,6 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Groundswell Grows for Waist Circumference Measurement** -- JAMA, Fri, 06 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856582
 - **SGLT2 Inhibitors in Older Age and More From Kidney Week** -- JAMA, Fri, 06 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856581
 - **JAMA Editors' Summary Podcast November 6, 2026** -- JAMA, Fri, 06 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856570
-- **Communicating Risk of Intramuscular Vitamin K Declination in the US** -- JAMA, Thu, 05 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856301
-- **Nonreceipt of Newborn Vitamin K and Risk of Bleeding** -- JAMA, Thu, 05 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856300
-- **Sociological Aspects of Aging** -- JAMA, Thu, 05 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856297
-- **Mechanical Thrombectomy in Ischemic Stroke With a Medium or Distal Arterial Occlusion** -- JAMA, Thu, 05 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856296
-- **Mechanical Thrombectomy in Ischemic Stroke With a Medium or Distal Arterial Occlusion—Reply** -- JAMA, Thu, 05 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856295
-- **The Menopause Gap in Medicine** -- JAMA, Thu, 05 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856294
-- **Patient Information: Familial Hypercholesterolemia** -- JAMA, Thu, 05 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856293
-- **They Are So Young** -- JAMA, Thu, 05 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856292
-- **Navigational Health in Health Care** -- JAMA, Thu, 05 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856291
 - **Florida Chapter of ACP works to maintain vaccine mandates for school-aged children** -- Annals of Internal Medicine, Fri, 06 Nov 2026 12:28:00 -0500 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-30-2026/florida-chapter-of-acp-works-to-maintain-vaccine-mandates-for-school-aged-children
 - **ACP: Medicare physician payment cuts threaten patient access to care** -- Annals of Internal Medicine, Thu, 05 Nov 2026 15:54:22 -0500 -- https://www.acponline.org/acp-newsroom/acp-medicare-physician-payment-cuts-threaten-patient-access-to-care
 - **ACP: Blocking of medical frailty a win for patient care** -- Annals of Internal Medicine, Fri, 30 Oct 2026 13:17:41 -0400 -- https://www.acponline.org/acp-newsroom/acp-blocking-of-medical-frailty-a-win-for-patient-care
@@ -79,14 +71,13 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Multicentre randomised controlled trial to evaluate the efficacy of DIALIVE 2.0, a liver dialysis device, for the treatment of acute-on-chronic liver failure: study protocol** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e125155?rss=1
 - **Cognitive function and return to work: protocol for a longitudinal study investigating cognitive endurance in patients with stress-related disorders in primary health care in Sweden** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e125346?rss=1
 - **Psychometric evaluation of the Persian Version of the Postnatal Care Experience Scale (PCES) among Iranian postpartum women: a cross-sectional methodological study** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e125582?rss=1
+- **AI Reasons for Nonescalation of Lipid-Lowering Therapy** -- JAMA Cardiology, Sat, 07 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856385
 - **Ebstein Anomaly With Pre-excited Atrial Fibrillation** -- JAMA Cardiology, Wed, 04 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856219
 - **Man in His 20s With A New Rash and Right Atrial Mass** -- JAMA Cardiology, Wed, 04 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856218
 - **Threshold Optimization Vs Assay Advancement** -- JAMA Cardiology, Wed, 04 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856217
 - **Threshold Optimization Vs Assay Advancement** -- JAMA Cardiology, Wed, 04 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856216
 - **Threshold Optimization Vs Assay Advancement** -- JAMA Cardiology, Wed, 04 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856215
 - **Threshold Optimization Vs Assay Advancement—Reply** -- JAMA Cardiology, Wed, 04 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856214
-- **Routine Postdilation to Optimize Balloon-Expandable Valve Expansion** -- JAMA Cardiology, Tue, 03 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856243
-- **Efficacy and Safety of Routine Postdilation in Balloon-Expandable Transcatheter Aortic Valve Implantation Platform** -- JAMA Cardiology, Tue, 03 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856242
 - **To be or not to be (a biliary cancer): RAS (signalling) is the question** -- Gut, 2026-10-07T00:56:57-07:00 -- http://gut.bmj.com/cgi/content/short/75/11/2077?rss=1
 - **Unravelling the heterogeneous HCC risk in indeterminate chronic hepatitis B** -- Gut, 2026-10-07T00:56:57-07:00 -- http://gut.bmj.com/cgi/content/short/75/11/2078?rss=1
 - **Real-world evidence supports earlier treatment in HBeAg-positive but not HBeAg-negative chronic hepatitis B virus infection** -- Gut, 2026-10-07T00:56:57-07:00 -- http://gut.bmj.com/cgi/content/short/75/11/2080?rss=1
