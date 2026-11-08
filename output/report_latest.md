@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-11-07
+# Journal Watch Report -- 2026-11-08
 
 ## 🕐 179 ahead-of-print item(s) (not yet in PubMed)
 
@@ -185,7 +185,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **The Future of Precision Hepatopancreatobiliary Surgery** -- JAMA Surgery, Wed, 28 Oct 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2855830
 
 
-## ⚠ 94 new systematic review/meta-analysis published in your journals
+## ⚠ 79 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -206,16 +206,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Minocycline in acute stroke: A systematic review and meta-analysis of randomized controlled trials and trial sequential analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42937785/
 - **Comparative efficacy of common adjuvant treatments after resection of colorectal liver metastases: A systematic review and network meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42937757/
 - **The overall effects of virtual reality interventions on ICU patients: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42937747/
-- **Peritoneal catheter fixation versus nonfixation in open surgery: A meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888640/
-- **Effects of blood flow restriction training in adult upper-limb musculoskeletal rehabilitation: A systematic review.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888637/
-- **Effectiveness of kinesio tape in the treatment of patients with plantar fasciitis: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888614/
-- **Repetitive transcranial magnetic stimulation for the treatment of restless legs syndrome: A meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888613/
-- **Effectiveness of traditional mind-body exercises on fall risk test scores and balance in older adults: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888580/
-- **Three traditional Chinese patent medicines combined with transarterial chemoembolization for primary liver cancer: A systematic review and Bayesian network meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888555/
-- **Artificial intelligence empowering the diagnosis and treatment of rotator cuff tears: A systematic review from image optimization to prognosis prediction.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888543/
-- **Neutrophil to lymphocyte ratio for predicting delayed neurologic sequelae caused by carbon monoxide poisoning: A systematic review and meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888538/
-- **A quality appraisal of clinical practice guidelines for herpes zoster and postherpetic neuralgia using the AGREE II instrument: A systematic review.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888535/
-- **Moxibustion for depression: A meta-analysis.** -- Medicine (Baltimore), Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888532/
 - **Efficacy of anti-PD-1/PD-L1 plus chemotherapy in treatment-naïve advanced HER2-negative gastric adenocarcinoma among different PD-L1 intervals: an updated meta-analysis and reconstructed individual patient-level data analysis.** -- BMC Medicine, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42983403/
 - **Pharmacological and procedural strategies to prevent post-ERCP pancreatitis: an umbrella review of meta-analyses of randomized controlled trials.** -- BMC Medicine, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42972564/
 - **Diagnostic accuracy of point-of-care ultrasound in adult non-traumatic emergency medicine: an umbrella review.** -- BMC Medicine, Jul 2026 -- https://pubmed.ncbi.nlm.nih.gov/42907895/
@@ -277,11 +267,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Global research trends and emerging themes of ketamine in perioperative neurocognitive disorders: a bibliometric analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42898612/
 - **Clinical characteristics and mortality risk of sarcopenia in interstitial lung disease: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42898471/
 - **Nurse-led rehabilitation after total hip or knee arthroplasty: a systematic review and meta-analysis of functional recovery, self-efficacy, and quality of life.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42898140/
-- **Research trends in post-ERCP pancreatitis: a dual-database bibliometric analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42890586/
-- **Global trends and knowledge structure of cardiovascular magnetocardiography research: a bibliometric analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42890519/
-- **Mapping the complement-targeted landscape in igA nephropathy: a systematic review with structured descriptive synthesis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42889983/
-- **Air pollution exposure and cataract outcomes: a systematic review and pollutant-specific meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42889176/
 - **Chlorella for health: evidence from a GRADE-assessed systematic review and dose-response meta-analysis.** -- Systematic Reviews, Jul 2026 -- https://pubmed.ncbi.nlm.nih.gov/42928353/
-- **Exploring gut microbiome dysbiosis in vasculitis in adults: a systematic review.** -- Systematic Reviews, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42888447/
 
 No new RCT-type articles found today.
