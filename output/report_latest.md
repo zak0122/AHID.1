@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-11-08
+# Journal Watch Report -- 2026-11-09
 
 ## 🕐 175 ahead-of-print item(s) (not yet in PubMed)
 
@@ -267,229 +267,49 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Chlorella for health: evidence from a GRADE-assessed systematic review and dose-response meta-analysis.** -- Systematic Reviews, Jul 2026 -- https://pubmed.ncbi.nlm.nih.gov/42928353/
 
 
-13 new RCT-type article(s) found.
+2 new RCT-type article(s) found.
 
-## Peripheral Brain-Derived Neurotrophic Factor Changes and Clinical Response to Electroconvulsive Therapy and Repetitive Transcranial Magnetic Stimulation in Major Depressive Disorder: A Systematic Review.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999924/  
+## Implementation of Single-Pill Combination Therapy Through Team-Based Care for Hypertension Control in Resource-Constrained Settings: A Cluster Randomized Clinical Trial.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43000001/  
 **Published:** Nov 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults with Major Depressive Disorder (MDD)
-- Intervention: Electroconvulsive therapy (ECT) and repetitive transcranial magnetic stimulation (rTMS)
-- Comparator: unclear
-- Outcome: Peripheral BDNF concentrations (serum or plasma) and clinical antidepressant response
-- Study design: Systematic review of randomized controlled trials and non-randomized investigations
-- Notes: The abstract does not specify a control group/comparator for the included studies, though it mentions RCTs were included. Specific clinical scales used to measure 'response' are not listed.
+- Population: Adults with uncontrolled hypertension in primary care settings in Colombia and Jamaica
+- Intervention: Single-pill combination therapy implemented via team-based care (including physician/nurse training, health coaching, home blood pressure monitoring, and audit/feedback)
+- Comparator: Standard care (monotherapy or polytherapy with guideline-recommended medications)
+- Outcome: Change in systolic blood pressure from baseline to 18 months
+- Study design: Cluster randomized clinical trial
+- Notes: The abstract is highly detailed regarding the intervention components and study locations; no significant ambiguity noted.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with Major Depressive Disorder
-- Intervention: Brain stimulation therapies
-- Outcome: Peripheral neurotrophic biomarkers and clinical treatment response
-- Why widened: Interventions were broadened from specific modalities (ECT/rTMS) to the general class of brain stimulation therapies to include related techniques like tDCS. The outcome was broadened from BDNF to the family of neurotrophic biomarkers to allow for pooling with related factors (e.g., VEGF, IGF-1) often studied alongside BDNF in depression.
+- Population: Adults with hypertension in resource-constrained or primary care settings
+- Intervention: Single-pill combination (SPC) antihypertensive therapy
+- Outcome: Blood pressure reduction or hypertension control
+- Why widened: Widened population from specific countries to resource-constrained settings generally to capture similar socioeconomic contexts; widened intervention from a specific team-based implementation package to SPC therapy in general to include other implementation strategies; widened outcome from 18-month SBP to general BP reduction/control to allow for meta-analysis of varying study durations and target definitions.
 
-**Signal:** WORTH A CLOSER LOOK: ~31 on the narrow PICO, ~43 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~13 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~31
-- Broadened PICO pool: ~43
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~13
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+Major+Depressive+Disorder+%28MDD%29+Electroconvulsive+therapy+%28ECT%29+and+repetitive+transcranial+magnetic+stimulation+%28rTMS%29+Peripheral+BDNF+concentrations+%28serum+or+plasma%29+and+clinical+antidepressant+response
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+Major+Depressive+Disorder+%28MDD%29+Electroconvulsive+therapy+%28ECT%29+and+repetitive+transcranial+magnetic+stimulation+%28rTMS%29+Peripheral+BDNF+concentrations+%28serum+or+plasma%29+and+clinical+antidepressant+response+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Major+Depressive+Disorder%22%5BMesh%5D%29+AND+%28%22Electroconvulsive+Therapy%22%5BMesh%5D+OR+%22Transcranial+Magnetic+Stimulation%2C+Repetitive%22%5BMesh%5D%29+AND+%28%22Brain-Derived+Neurotrophic+Factor%22%5BMesh%5D%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Depressive+Disorder%22%5BMesh%5D%29+AND+%28%22Electric+Stimulation+Therapy%22%5BMesh%5D+OR+%22Transcranial+Magnetic+Stimulation%22%5BMesh%5D%29+AND+%28%22Nerve+Growth+Factors%22%5BMesh%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+uncontrolled+hypertension+in+primary+care+settings+in+Colombia+and+Jamaica+Single-pill+combination+therapy+implemented+via+team-based+care+%28including+physician%2Fnurse+training%2C+health+coaching%2C+home+blood+pressure+monitoring%2C+and+audit%2Ffeedback%29+Change+in+systolic+blood+pressure+from+baseline+to+18+months
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+uncontrolled+hypertension+in+primary+care+settings+in+Colombia+and+Jamaica+Single-pill+combination+therapy+implemented+via+team-based+care+%28including+physician%2Fnurse+training%2C+health+coaching%2C+home+blood+pressure+monitoring%2C+and+audit%2Ffeedback%29+Change+in+systolic+blood+pressure+from+baseline+to+18+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22single-pill+combination%22+OR+%22fixed-dose+combination%22%29+AND+%22team-based+care%22+AND+hypertension+AND+%28Colombia+OR+Jamaica%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Antihypertensive+Agents%22%5BMesh%5D+AND+%22Drug+Combinations%22%5BMesh%5D%29+AND+%22Developing+Countries%22%5BMesh%5D
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Factors Associated With Extended Resection (Cecal Resection or Right Hemicolectomy) in Patients With Acute Appendicitis at a Tertiary Private Hospital: A Retrospective Cohort Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999913/  
+## Low-Voltage Area Ablation for Persistent Atrial Fibrillation: The COAST-AF Randomized Clinical Trial.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999998/  
 **Published:** Nov 2026
 
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults undergoing surgery for acute appendicitis at a tertiary care hospital
-- Intervention: Clinical factors including older age, longer symptom duration, and advanced appendicitis phases
-- Comparator: Conventional appendectomy (patients not requiring extended resection)
-- Outcome: Extended resection (defined specifically as cecal resection or right hemicolectomy)
-- Study design: Retrospective cohort study
-- Notes: The study is single-center and retrospective; the number of events for the primary outcome is relatively small (n=50).
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults undergoing surgical management for acute appendicitis
-- Intervention: Clinical, demographic, and disease-severity risk factors
-- Outcome: Extended bowel resection (including cecal, partial, or total colectomy)
-- Why widened: Broadened specific risk factors to general clinical/severity predictors and specific surgical procedures to any extended bowel resection to capture studies investigating surgical complexity and deviation from standard appendectomy.
-
-**Signal:** WORTH A CLOSER LOOK: ~20 on the narrow PICO, ~21 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~20
-- Broadened PICO pool: ~21
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+undergoing+surgery+for+acute+appendicitis+at+a+tertiary+care+hospital+Clinical+factors+including+older+age%2C+longer+symptom+duration%2C+and+advanced+appendicitis+phases+Extended+resection+%28defined+specifically+as+cecal+resection+or+right+hemicolectomy%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+undergoing+surgery+for+acute+appendicitis+at+a+tertiary+care+hospital+Clinical+factors+including+older+age%2C+longer+symptom+duration%2C+and+advanced+appendicitis+phases+Extended+resection+%28defined+specifically+as+cecal+resection+or+right+hemicolectomy%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Appendicitis%22%5BMeSH%5D%29+AND+%28%22Cecum%2Fsurgery%22%5BMeSH%5D+OR+%22Colectomy%22%5BMeSH%5D%29+AND+%22Risk+Factors%22%5BMeSH%5D
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Appendicitis%22%5BMeSH%5D%29+AND+%28%22Colectomy%22%5BMeSH%5D+OR+%22resection%22%29+AND+%28%22Risk+Factors%22%5BMeSH%5D+OR+%22Predictors%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Clinical Characteristics, Etiologies, and Outcomes of Adults Presenting With Altered Mental Status to the Emergency Department: A Retrospective Cohort Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999828/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults presenting with altered mental status (AMS) to the emergency department.
-- Intervention: Standard emergency department management and diagnostic evaluation for AMS.
-- Comparator: unclear
-- Outcome: In-hospital mortality, ICU admission, mechanical ventilation, and underlying etiologies.
-- Study design: Retrospective cohort study
-- Notes: The study is observational and descriptive rather than interventional. It compares survivors vs non-survivors to identify prognostic factors, but there is no control group for a specific treatment.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with acute consciousness disorders or encephalopathy in emergency or acute care settings.
-- Intervention: Emergency diagnostic and therapeutic management.
-- Outcome: Short-term mortality and acute care resource utilization.
-- Why widened: Broadened 'Altered Mental Status' to include 'consciousness disorders' and 'encephalopathy' to capture synonymous clinical terminology used in different regions. Generalized the setting from a specific hospital in Pakistan to any acute care setting. Grouped specific outcomes into 'short-term mortality' and 'resource utilization' to facilitate pooling of prognostic data.
-
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~100 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~100
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+presenting+with+altered+mental+status+%28AMS%29+to+the+emergency+department.+Standard+emergency+department+management+and+diagnostic+evaluation+for+AMS.+In-hospital+mortality%2C+ICU+admission%2C+mechanical+ventilation%2C+and+underlying+etiologies.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+presenting+with+altered+mental+status+%28AMS%29+to+the+emergency+department.+Standard+emergency+department+management+and+diagnostic+evaluation+for+AMS.+In-hospital+mortality%2C+ICU+admission%2C+mechanical+ventilation%2C+and+underlying+etiologies.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Altered+Mental+Status%22%29+AND+%22Emergency+Service%2C+Hospital%22%5BMesh%5D+AND+%22Pakistan%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Consciousness+Disorders%22%5BMesh%5D+OR+%22Altered+Mental+Status%22+OR+%22Encephalopathy%22%29+AND+%22Emergency+Service%2C+Hospital%22%5BMesh%5D+AND+%22Mortality%22%5BMesh%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Clinical Characteristics of Children With Precocious Puberty at Al Ahsa: A Retrospective Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999774/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Advances in Digital Physiotherapy and Rehabilitation: A Systematic Review.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999735/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Clinicopathological Analysis of 1,000 Cases of Head and Neck Squamous Cell Carcinoma With Special Emphasis on Histological Variants and p16 Expression.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999734/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with histologically confirmed head and neck squamous cell carcinoma (HNSCC) at a tertiary-care hospital in India.
-- Intervention: Histological variant analysis and p16 immunohistochemistry (IHC).
-- Comparator: Conventional squamous cell carcinoma (for p16 expression) and different histological grades (for nodal metastasis).
-- Outcome: p16 expression status, cervical lymph node metastasis, histological grade, recurrence, and second primary malignancies.
-- Study design: Retrospective observational study (case series).
-- Notes: The study is primarily descriptive and observational. p16 testing was only performed on a subset (109/1000) of the total cohort, which may introduce selection bias.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with head and neck squamous cell carcinoma (HNSCC).
-- Intervention: p16/HPV status assessment and histological subtyping.
-- Outcome: Clinicopathological characteristics and prognostic markers (nodal status, recurrence).
-- Why widened: The population was broadened from a specific regional Indian cohort to all HNSCC patients to allow for meta-analysis across different geographies. The intervention was generalized from specific p16 IHC to include HPV status assessment more broadly, as p16 is often used as a surrogate for HPV. Outcomes were grouped into general clinicopathological characteristics.
-
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~31 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~31
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+histologically+confirmed+head+and+neck+squamous+cell+carcinoma+%28HNSCC%29+at+a+tertiary-care+hospital+in+India.+Histological+variant+analysis+and+p16+immunohistochemistry+%28IHC%29.+p16+expression+status%2C+cervical+lymph+node+metastasis%2C+histological+grade%2C+recurrence%2C+and+second+primary+malignancies.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+histologically+confirmed+head+and+neck+squamous+cell+carcinoma+%28HNSCC%29+at+a+tertiary-care+hospital+in+India.+Histological+variant+analysis+and+p16+immunohistochemistry+%28IHC%29.+p16+expression+status%2C+cervical+lymph+node+metastasis%2C+histological+grade%2C+recurrence%2C+and+second+primary+malignancies.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Head+and+Neck+Squamous+Cell+Carcinoma%22%29+AND+%22p16%22+AND+%22histological+variants%22+AND+%22India%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Head+and+Neck+Neoplasms%22%5BMesh%5D%29+AND+%28%22Genes%2C+p16%22%5BMesh%5D+OR+%22Cyclin-Dependent+Kinase+Inhibitor+p16%22%29+AND+%22Neoplasm+Grading%22
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Association of Caudal-Type Homeobox 2 Immunohistochemical Expression With Pathological Stage, Tumor Grade, and Histological Subtype in Colorectal Malignancies: A Single-Center Observational Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999733/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Microbiome-Derived Metabolites in Multiple Sclerosis: Mechanisms of Immune Regulation and Therapeutic Potential: A Literature Review.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999727/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Long-Term Disease Stability and Radiological Progression in Low-Grade Glioma: A Retrospective MRI-Based Cohort Study of Post-surgical and Observation Groups.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999575/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Influence of Procedure Type on Time to Urethoplasty: A Retrospective Comparison of Urethral Dilatation and Direct Visual Internal Urethrotomy for Anterior Urethral Strictures.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999523/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Insulin Deintensification After Glucagon-Like Peptide-1 (GLP-1)-Based Therapy in Type 2 Diabetes: Evidence and a Practical Clinical Framework.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999457/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Dapagliflozin for Renal Protection in Heart Transplant Recipients: A Randomized Clinical Trial.
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999953/  
-**Published:** Nov 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Iron Repletion in Heart Failure With Preserved Ejection Fraction: The IRONMET-HFpEF Randomized Trial.
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999950/  
-**Published:** Nov 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
