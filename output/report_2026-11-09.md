@@ -1,6 +1,6 @@
 # Journal Watch Report -- 2026-11-09
 
-## 🕐 175 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 177 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
@@ -24,12 +24,15 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **When Patients Need an Enemy** -- New England Journal of Medicine, 2026-10-31T11:30:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2606011?af=R&rss=currentIssue
 - **The Learning Health System, Made Computable** -- New England Journal of Medicine, 2026-10-31T11:30:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2610734?af=R&rss=currentIssue
 - **Private Health Insurance and Profit — Lessons for the United States** -- New England Journal of Medicine, 2026-10-31T11:30:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2611270?af=R&rss=currentIssue
+- **Error in Author Byline** -- JAMA, Mon, 09 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856408
+- **An Oral Incretin for OSA** -- JAMA, Mon, 09 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856407
+- **Orforglipron for Obstructive Sleep Apnea** -- JAMA, Mon, 09 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856406
+- **Orforglipron for Obstructive Sleep Apnea Research Summary** -- JAMA, Mon, 09 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856405
+- **Low-Voltage Area Ablation for Persistent Atrial Fibrillation** -- JAMA, Sun, 08 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856404
+- **Low-Voltage Area Ablation for Persistent Atrial Fibrillation Research Summary** -- JAMA, Sun, 08 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856403
 - **Team-Based, Single-Pill Combination Therapy Strategy for Hypertension Control** -- JAMA, Sun, 08 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856399
 - **Implementation of Single-Pill Combination Therapy Through Team-Based Care for Hypertension Control in Resource-Constrained Settings Research Summary** -- JAMA, Sun, 08 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856398
-- **The ISCHEMIA Trial a Decade Later** -- JAMA, Sat, 07 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856397
-- **Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease** -- JAMA, Sat, 07 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856396
-- **Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease in ISCHEMIA-EXTEND Research Summary** -- JAMA, Sat, 07 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856395
-- **Percutaneous Coronary Intervention and Long-Term Outcomes in Coronary Artery Disease** -- JAMA, Sat, 07 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2856313
+- **ACP and OpenEvidence collaborate to enhance physician access to trusted clinical guidance** -- Annals of Internal Medicine, Mon, 09 Nov 2026 10:00:00 -0500 -- https://www.acponline.org/acp-newsroom/acp-and-openevidence-collaborate-to-enhance-physician-access-to-trusted-clinical-guidance
 - **Florida Chapter of ACP works to maintain vaccine mandates for school-aged children** -- Annals of Internal Medicine, Fri, 06 Nov 2026 12:28:00 -0500 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-30-2026/florida-chapter-of-acp-works-to-maintain-vaccine-mandates-for-school-aged-children
 - **ACP: Medicare physician payment cuts threaten patient access to care** -- Annals of Internal Medicine, Thu, 05 Nov 2026 15:54:22 -0500 -- https://www.acponline.org/acp-newsroom/acp-medicare-physician-payment-cuts-threaten-patient-access-to-care
 - **ACP: Blocking of medical frailty a win for patient care** -- Annals of Internal Medicine, Fri, 30 Oct 2026 13:17:41 -0400 -- https://www.acponline.org/acp-newsroom/acp-blocking-of-medical-frailty-a-win-for-patient-care
@@ -39,7 +42,6 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **ACP joins national and state medical organizations in objecting to proposed changes to Modifier -25 in Medicare Physician Fee Schedule** -- Annals of Internal Medicine, Mon, 12 Oct 2026 12:18:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-joins-national-and-state-medical-organizations-in-objecting-to-proposed-changes-to-modifier-25
 - **ACP joins Utah Medical Licensing Board in calling for reevaluation of the state's AI prescription pilot program** -- Annals of Internal Medicine, Fri, 09 Oct 2026 12:17:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/october-2-2026/acp-joins-utah-medical-licensing-board-in-calling-for-reevaluation-of-the-states-ai-prescription
 - **Applications now open for internship in ACP's Washington, D.C., office** -- Annals of Internal Medicine, Thu, 08 Oct 2026 15:17:00 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20261006-applications-now-open-for-internship-in-acps
-- **ACP announces new MACPs and national award winners for 2026-2027** -- Annals of Internal Medicine, Tue, 06 Oct 2026 15:15:00 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20261006-acp-announces-new-macps-and-national-award
 - **Putting a Rare Vaccine-Related Adverse Event into Context—Shouldering a Small Risk** -- JAMA Internal Medicine, Wed, 04 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2856239
 - **Shoulder Injury Related to COVID-19 and Influenza Vaccinations** -- JAMA Internal Medicine, Wed, 04 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2856238
 - **Atrial Fibrillation With a Most Regular Rhythm** -- JAMA Internal Medicine, Mon, 02 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2855520
@@ -47,26 +49,26 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Robust Oversight of Medicare Advantage Plans—Reply** -- JAMA Internal Medicine, Mon, 02 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2855518
 - **Surveillance Mammography and Second Primary Breast Cancer Diagnosis Among Women With Breast Cancer** -- JAMA Internal Medicine, Mon, 02 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2855517
 - **Dueling Visions to Improve Value in Medicare—Price or Prevention?** -- JAMA Internal Medicine, Mon, 02 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2855516
-- **OviTex versus synthetic graft in robotic prolapse surgery (ProTex): rationale and study protocol of a multicentre, phase II and III, partially randomised patient preference trial** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e108715?rss=1
-- **Primary repair during the neonatal period for tetralogy of Fallot (RIFAN): a multicentre randomised controlled trial protocol in China** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e110340?rss=1
-- **Moving towards integrated people-centred primary healthcare for non-communicable diseases in Bangladesh: a qualitative study** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e115744?rss=1
-- **Health system readiness to deliver integrated early childhood interventions: a scoping review protocol** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e116913?rss=1
-- **Magnitude and associated factors of delayed clinical stability among adult patients with severe community-acquired pneumonia admitted to the University of Gondar Comprehensive Specialized Hospital, Northwest Ethiopia in 2024/2025: a prospective observational study** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e118538?rss=1
-- **Chikungunya seroprevalence and population susceptibility before the large 2025 outbreak: a community-based cohort study in Colombo, Sri Lanka** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e121593?rss=1
-- **Tobacco and alcohol use in Germany: a cross-sectional study about associations with the self-reported ability to find, understand and judge health information** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e121653?rss=1
-- **Validity and Reliability of the Turkish While-In-Bed-Smartphone-Use-Induced Sleep Procrastination Scale** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e122606?rss=1
-- **Association between the use of smoking products and exposure to environmental contaminants derived from their use with early indicators of pulmonary risk in young adults aged 18-24 years: protocol for a systematic review** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e122738?rss=1
-- **Migration, attrition and internal validity in longitudinal study of chronic kidney disease of unknown aetiology in Nicaragua** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e122893?rss=1
-- **Burden and temporal trends of cardiovascular disease among medical inpatients and age-specific and sex-specific risk of CVD-related hospitalisation at a national referral hospital in Uganda: a retrospective cohort study** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e122961?rss=1
-- **Impacts of indoor high temperature on cardiovascular health among community-dwelling adults: a scoping review** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e123980?rss=1
-- **Long-term outcomes of ultrasound-detected hepatic steatosis in primary care: a record linkage study** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e124118?rss=1
-- **Implementation of antimicrobial stewardship programmes in hospitals of the Brazilian public health system: PeGASUS study protocol** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e124811?rss=1
-- **Missed nursing care in postoperative patient education: a qualitative study from the perspective of surgical nurses** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e124855?rss=1
-- **Public willingness to undergo pathological autopsy and autopsy imaging across different death scenarios: a cross-sectional survey in Japan** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e125021?rss=1
-- **Patient experiences of acute medical same day emergency care: a semi-structured interview study across two hospitals in England** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e125048?rss=1
-- **Multicentre randomised controlled trial to evaluate the efficacy of DIALIVE 2.0, a liver dialysis device, for the treatment of acute-on-chronic liver failure: study protocol** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e125155?rss=1
-- **Cognitive function and return to work: protocol for a longitudinal study investigating cognitive endurance in patients with stress-related disorders in primary health care in Sweden** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e125346?rss=1
-- **Psychometric evaluation of the Persian Version of the Postnatal Care Experience Scale (PCES) among Iranian postpartum women: a cross-sectional methodological study** -- BMJ Open, 2026-11-06T04:04:31-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e125582?rss=1
+- **Lived experience preferences for mental health peer support services in Australian primary care: a discrete choice experiment with qualitative analysis** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e112132?rss=1
+- **Is metformin use associated with cognitive, physical and cardiovascular outcomes in older adults with type 2 diabetes? A secondary analysis of the SCOPE multicentre prospective cohort study** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e114393?rss=1
+- **Embedding cognitive behavioural therapy for depression among patients with tuberculosis in Khyber Pakhtunkhwa, Pakistan: insights from a pilot trial process evaluation** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e115224?rss=1
+- **Preferences of community-dwelling older adults with depressive symptoms for key components of a multidomain intervention combining exercise and sleep promotion: a discrete choice experiment** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e118317?rss=1
+- **Patient-reported measures in non-invasive respiratory support for adults presenting with acute respiratory failure: a scoping review protocol** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e119134?rss=1
+- **Magnitude and determinants of husbands involvement in ensuring partners reproductive rights in southern Ethiopia: a cross-sectional study** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e119241?rss=1
+- **Network analysis of association and clustering of adverse experiences, mental health symptoms and help-seeking among adolescents and adults in Ghana** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e121157?rss=1
+- **Temporal trajectories of psychological distress and financial toxicity among young and middle-aged patients with ischaemic stroke: protocol for a multicentre cross-sectional and prospective longitudinal study** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e121813?rss=1
+- **Protocol for a scoping review of the combined use of human-centred design and implementation science in public health research** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e122897?rss=1
+- **Nerve transfer surgery to restore upper limb function in acute cervical spinal cord injury: protocol for a prospective, multicentre, non-randomised study with matched historical controls** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e123415?rss=1
+- **Tonsillectomy postoperative analgesia study: protocol for a double-blinded, randomised controlled trial comparing ropivacaine and lidocaine as local anaesthesia regarding postoperative pain outcome after tonsillectomy** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e123721?rss=1
+- **Exploring anticipated barriers to engagement with Marthas Rule, a patient/family-activated escalation system to support early detection of patient deterioration, among ethnically and culturally diverse groups: a qualitative study** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e123741?rss=1
+- **Post-traumatic stress disorder, depression and anxiety among mpox survivors in central Uganda: a cross-sectional study** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e123876?rss=1
+- **Establishing a national platform to facilitate patient recruitment and advanced diagnostics for cancer immunotherapies (the NHS Cancer Vaccine Launch Pad): a multicentre prospective cohort feasibility study protocol** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e124300?rss=1
+- **Use and implementation of prediction models and clinical decision support tools by Dutch internal medicine physicians in the emergency department: a qualitative focus group study** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e124339?rss=1
+- **Roussouly classification of sagittal spinopelvic alignment in patients with lumbar disc herniation: a retrospective cross-sectional study of 234 patients** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e124371?rss=1
+- **Experiences of sleep problems in people with chronic musculoskeletal pain and their perspectives about its management: a protocol for a systematic review of qualitative studies** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e124383?rss=1
+- **Theoretical frameworks shaping healthcare incident reporting and learning systems: a scoping review** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e124497?rss=1
+- **Psychosocial factors associated with fertility-related quality of life among Iranian women with infertility: protocol for a cross-sectional study** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e124764?rss=1
+- **Associations of clinical frailty and the triglyceride-glucose index with major adverse cardiovascular events in older adults with acute coronary syndrome in southern Vietnam: a prospective multicentre cohort study** -- BMJ Open, 2026-11-09T04:22:49-08:00 -- http://bmjopen.bmj.com/cgi/content/short/16/11/e125052?rss=1
 - **AI Reasons for Nonescalation of Lipid-Lowering Therapy** -- JAMA Cardiology, Sat, 07 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856385
 - **Ebstein Anomaly With Pre-excited Atrial Fibrillation** -- JAMA Cardiology, Wed, 04 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856219
 - **Man in His 20s With A New Rash and Right Atrial Mass** -- JAMA Cardiology, Wed, 04 Nov 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2856218
@@ -266,50 +268,4 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Nurse-led rehabilitation after total hip or knee arthroplasty: a systematic review and meta-analysis of functional recovery, self-efficacy, and quality of life.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42898140/
 - **Chlorella for health: evidence from a GRADE-assessed systematic review and dose-response meta-analysis.** -- Systematic Reviews, Jul 2026 -- https://pubmed.ncbi.nlm.nih.gov/42928353/
 
-
-2 new RCT-type article(s) found.
-
-## Implementation of Single-Pill Combination Therapy Through Team-Based Care for Hypertension Control in Resource-Constrained Settings: A Cluster Randomized Clinical Trial.
-**Journal:** JAMA  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43000001/  
-**Published:** Nov 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults with uncontrolled hypertension in primary care settings in Colombia and Jamaica
-- Intervention: Single-pill combination therapy implemented via team-based care (including physician/nurse training, health coaching, home blood pressure monitoring, and audit/feedback)
-- Comparator: Standard care (monotherapy or polytherapy with guideline-recommended medications)
-- Outcome: Change in systolic blood pressure from baseline to 18 months
-- Study design: Cluster randomized clinical trial
-- Notes: The abstract is highly detailed regarding the intervention components and study locations; no significant ambiguity noted.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with hypertension in resource-constrained or primary care settings
-- Intervention: Single-pill combination (SPC) antihypertensive therapy
-- Outcome: Blood pressure reduction or hypertension control
-- Why widened: Widened population from specific countries to resource-constrained settings generally to capture similar socioeconomic contexts; widened intervention from a specific team-based implementation package to SPC therapy in general to include other implementation strategies; widened outcome from 18-month SBP to general BP reduction/control to allow for meta-analysis of varying study durations and target definitions.
-
-**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~13 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~3
-- Broadened PICO pool: ~13
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+uncontrolled+hypertension+in+primary+care+settings+in+Colombia+and+Jamaica+Single-pill+combination+therapy+implemented+via+team-based+care+%28including+physician%2Fnurse+training%2C+health+coaching%2C+home+blood+pressure+monitoring%2C+and+audit%2Ffeedback%29+Change+in+systolic+blood+pressure+from+baseline+to+18+months
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+uncontrolled+hypertension+in+primary+care+settings+in+Colombia+and+Jamaica+Single-pill+combination+therapy+implemented+via+team-based+care+%28including+physician%2Fnurse+training%2C+health+coaching%2C+home+blood+pressure+monitoring%2C+and+audit%2Ffeedback%29+Change+in+systolic+blood+pressure+from+baseline+to+18+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22single-pill+combination%22+OR+%22fixed-dose+combination%22%29+AND+%22team-based+care%22+AND+hypertension+AND+%28Colombia+OR+Jamaica%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Antihypertensive+Agents%22%5BMesh%5D+AND+%22Drug+Combinations%22%5BMesh%5D%29+AND+%22Developing+Countries%22%5BMesh%5D
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Low-Voltage Area Ablation for Persistent Atrial Fibrillation: The COAST-AF Randomized Clinical Trial.
-**Journal:** JAMA  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42999998/  
-**Published:** Nov 2026
-
-_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
-
----
+No new RCT-type articles found today.
