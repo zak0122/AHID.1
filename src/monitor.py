@@ -379,16 +379,48 @@ def find_new_protocols(days_back: int = DEFAULT_DAYS_BACK) -> List[Dict]:
 
 
 
-def find_recent_topic_seeds(days_back: int = 180,
-                            max_per_journal: int = 15) -> List[Dict]:
-    """Fetch a bounded, recent primary-study sample for topic discovery.
+def _esearch_global(days_back: int, retmax: int = 400) -> List[str]:
+    """High-recall PubMed-wide seed search; not restricted to configured journals."""
+    term = f'("last {int(days_back)} days"[edat]) AND ({PRIMARY_STUDY_FILTER})'
+    params = {
+        "db": "pubmed", "term": term, "retmax": str(int(retmax)),
+        "retmode": "json", "sort": "pub_date",
+    }
+    response = requests.get(
+        f"{NCBI_BASE}/esearch.fcgi", params=_api_params(params),
+        timeout=REQUEST_TIMEOUT,
+    )
+    response.raise_for_status()
+    payload = response.json().get("esearchresult", {})
+    if payload.get("warninglist"):
+        print(f"[warn] PubMed-wide seed search warning: {payload['warninglist']}")
+    time.sleep(REQUEST_PAUSE)
+    return payload.get("idlist", [])
 
-    This is intentionally independent of the 'new since last run' state so
-    topic discovery still works on days when no new journal-watch records
-    have arrived. The per-journal cap keeps the daily workflow bounded.
+
+def find_recent_topic_seeds(days_back: int = 365,
+                            max_per_journal: int = 10,
+                            max_global: int = 400) -> List[Dict]:
+    """Build a bounded, PubMed-wide recent seed pool plus configured-journal coverage.
+
+    The PubMed-wide search removes the previous journal-list discovery bias.
+    A small configured-journal supplement protects coverage of selected
+    journals when global recency ranking is dominated by high-volume fields.
+    This is still a discovery sample, not an exhaustive systematic search.
     """
-    journals = _load_journals()
     journal_by_pmid: Dict[str, str] = {}
+    try:
+        for pmid in _esearch_global(days_back=days_back, retmax=max_global):
+            journal_by_pmid.setdefault(pmid, "PubMed-wide discovery")
+    except Exception as exc:
+        print(f"[warn] PubMed-wide topic seed search failed: {exc}")
+
+    # Add a small curated-journal supplement, preserving all unique PMIDs.
+    try:
+        journals = _load_journals()
+    except Exception as exc:
+        print(f"[warn] configured-journal supplement unavailable: {exc}")
+        journals = []
     for journal in journals:
         try:
             ids = _esearch(journal["issn"], days_back=days_back,
@@ -404,10 +436,11 @@ def find_recent_topic_seeds(days_back: int = 180,
     primary_designs = set(DESIGN_ORDER[:9])
     seeds = []
     for pmid, record in records.items():
-        design = record.get("study_design", "")
-        if design not in primary_designs:
+        if record.get("study_design", "") not in primary_designs:
             continue
-        record["journal_config_name"] = journal_by_pmid.get(pmid, record.get("journal", ""))
+        record["journal_config_name"] = journal_by_pmid.get(
+            pmid, record.get("journal", "")
+        )
         seeds.append(record)
     return seeds
 
