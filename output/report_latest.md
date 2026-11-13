@@ -1,4 +1,4 @@
-# Journal Watch Report -- 2026-11-12
+# Journal Watch Report -- 2026-11-13
 
 ## 🕐 178 ahead-of-print item(s) (not yet in PubMed)
 
@@ -217,7 +217,8 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Acute and long-term effects of repetitive transcranial magnetic stimulation in major depressive episodes: a systematic review and dose-response meta-analysis of randomized sham-controlled trials.** -- BMC Medicine, Jul 2026 -- https://pubmed.ncbi.nlm.nih.gov/43000346/
 - **Efficacy of anti-PD-1/PD-L1 plus chemotherapy in treatment-naïve advanced HER2-negative gastric adenocarcinoma among different PD-L1 intervals: an updated meta-analysis and reconstructed individual patient-level data analysis.** -- BMC Medicine, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42983403/
 - **Pharmacological and procedural strategies to prevent post-ERCP pancreatitis: an umbrella review of meta-analyses of randomized controlled trials.** -- BMC Medicine, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42972564/
-- **Diagnostic accuracy of point-of-care ultrasound in adult non-traumatic emergency medicine: an umbrella review.** -- BMC Medicine, Jul 2026 -- https://pubmed.ncbi.nlm.nih.gov/42907895/
+- **The effect of self-determination interventions on reading outcomes for middle and high school students with learning disabilities: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/43019381/
+- **Systematic review and best evidence summary of patient positioning management in the modified lithotomy position during laparoscopic colorectal surgery.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/43019312/
 - **Intimate partner violence against women in Ethiopia: An umbrella review of systematic reviews and meta-analyses.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/43013531/
 - **Inferences of p-values, statistically significant results, and confidence intervals - A systematic review of empirical studies.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/43013518/
 - **Time-dependent efficacy of seven pharmacological regimens for ulcer healing and delayed bleeding prevention after gastric endoscopic submucosal dissection: A frequentist network meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/43008008/
@@ -239,7 +240,6 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Outdoor risky play and health-related outcomes in children aged 3-12 years: A mixed-methods systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42932333/
 - **The association between e-cigarette use and dyslipidemia: A systematic review and meta-analysis of observational studies.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42932268/
 - **Precancerous cervical lesions and associated factors among HIV-positive women in Southern and Eastern African countries: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42912824/
-- **Dietary context and ethanol-related injury in preclinical models: A contemporary systematic review of predominantly obesogenic diets and liver outcomes.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42905751/
 - **Diagnostic performance and reported diagnostic thresholds of serum and synovial host-response biomarkers for periprosthetic joint infection in patients with inflammatory arthritis: protocol for a systematic review and diagnostic test accuracy meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/43011413/
 - **Research landscape and thematic evolution of venlafaxine and paroxetine discontinuation: a hybrid bibliometric analysis integrating web of science and scopus (2000-2025).** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/43011340/
 - **Stem cells, extracellular vesicles, and cell-free strategies in pulmonary arterial hypertension: a bibliometric study, 2006-2026.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/43011151/
@@ -287,617 +287,452 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Chlorella for health: evidence from a GRADE-assessed systematic review and dose-response meta-analysis.** -- Systematic Reviews, Jul 2026 -- https://pubmed.ncbi.nlm.nih.gov/42928353/
 
 
-35 new RCT-type article(s) found.
+32 new RCT-type article(s) found.
 
-## Rethinking How National Health Programmes Are Taught: Team-Based Decision Learning Versus Mini-Interactive Lectures Among Undergraduate Medical Students.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017708/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Phase III Bachelor of Medicine and Bachelor of Surgery (MBBS) students at Government Medical College, Ernakulam, India
-- Intervention: Team-based decision learning (TBDL), an adaptation of team-based learning
-- Comparator: Small group discussion supplemented by a mini-interactive lecture (SGD-MIL)
-- Outcome: Immediate post-test scores, short-term retention, learner engagement, and student satisfaction
-- Study design: Non-randomised quasi-experimental crossover study
-- Notes: The exact duration for 'short-term retention' is not specified in the abstract. The study is limited to a single institution and specific curriculum topics (National Health Programmes).
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Undergraduate medical students
-- Intervention: Team-based learning (TBL) or its pedagogical adaptations
-- Outcome: Academic performance, knowledge retention, and student engagement/satisfaction
-- Why widened: The population was broadened from a specific year/location to all undergraduate medical students. The intervention was generalized from a specific adaptation (TBDL) to the broader category of Team-Based Learning (TBL). Outcomes were grouped into broader categories (academic performance and engagement) to facilitate pooling across different medical subjects and assessment tools.
-
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~155 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~155
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Phase+III+Bachelor+of+Medicine+and+Bachelor+of+Surgery+%28MBBS%29+students+at+Government+Medical+College%2C+Ernakulam%2C+India+Team-based+decision+learning+%28TBDL%29%2C+an+adaptation+of+team-based+learning+Immediate+post-test+scores%2C+short-term+retention%2C+learner+engagement%2C+and+student+satisfaction
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Phase+III+Bachelor+of+Medicine+and+Bachelor+of+Surgery+%28MBBS%29+students+at+Government+Medical+College%2C+Ernakulam%2C+India+Team-based+decision+learning+%28TBDL%29%2C+an+adaptation+of+team-based+learning+Immediate+post-test+scores%2C+short-term+retention%2C+learner+engagement%2C+and+student+satisfaction+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22team-based+decision+learning%22+OR+%22TBDL%22%29+AND+%22National+Health+Programmes%22+AND+%22MBBS%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Team-based+learning%22%5BMeSH%5D+OR+%22team-based+learning%22%29+AND+%22Students%2C+Medical%22%5BMeSH%5D+AND+%28%22Educational+Measurement%22%5BMeSH%5D+OR+%22engagement%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Association Between Physician Handoffs and Major Adverse Outcomes in the Emergency Department: A Retrospective Cohort Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017676/  
-**Published:** Oct 2026
+## Empirical tuberculosis treatment in infants living with HIV hospitalised with severe pneumonia in Africa (EMPIRICAL): a multicentre, randomised, open-label, 2 × 2 factorial, controlled superiority trial.
+**Journal:** The Lancet  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020097/  
+**Published:** Nov 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adult patients hospitalized following a visit to one of five emergency departments in Québec City, Canada, between April 2016 and March 2017.
-- Intervention: Physician handoffs (at least one handoff during the emergency department stay).
-- Comparator: No physician handoffs during the emergency department stay.
-- Outcome: In-hospital mortality, ICU admission, and hospital length of stay.
-- Study design: Multicenter retrospective cohort study.
-- Notes: The comparator group (no handoffs) is inferred as the reference group for the reported risk ratios. The definition of handoff is based on administrative database records rather than direct observation.
+- Population: Infants (aged 28-365 days) living with HIV hospitalized with severe pneumonia in sub-Saharan Africa (Côte d'Ivoire, Malawi, Mozambique, Uganda, Zambia, and Zimbabwe).
+- Intervention: Empirical tuberculosis treatment (isoniazid, rifampicin, pyrazinamide, and ethambutol for 2 months, plus isoniazid and rifampicin for 4 subsequent months) initiated at admission.
+- Comparator: Standard of care (microbiologically and clinically guided tuberculosis treatment strategy where treatment is only initiated upon positive test results or clinical suspicion during follow-up).
+- Outcome: All-cause mortality at 15 days and 360 days.
+- Study design: Multicentre, randomised, open-label, 2x2 factorial, controlled superiority trial.
+- Notes: The abstract is highly detailed regarding the population, intervention, and primary endpoints. The 2x2 factorial design includes a valganciclovir arm, but the comparison for eTB-T is clearly isolated.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients receiving care in the Emergency Department.
-- Intervention: Physician or clinical handovers.
-- Outcome: Major adverse clinical outcomes (including mortality, ICU transfer, or healthcare utilization metrics).
-- Why widened: Broadened the population from 'hospitalized adults' to all 'ED patients' to capture a wider range of clinical risk. Generalized specific outcomes to 'major adverse clinical outcomes' to allow for pooling with studies using similar safety and efficiency endpoints.
+- Population: Children living with HIV and severe pneumonia.
+- Intervention: Empirical anti-tuberculosis therapy.
+- Outcome: Mortality or clinical treatment failure.
+- Why widened: The population was broadened from infants to children to include older pediatric groups who face similar diagnostic challenges for TB in the context of HIV. The intervention was generalized to any empirical TB regimen rather than the specific 4-drug protocol. The outcome was broadened to include treatment failure to capture a wider range of clinical efficacy data relevant to meta-analysis.
 
-**Signal:** WORTH A CLOSER LOOK: ~22 on the narrow PICO, ~38 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~22
-- Broadened PICO pool: ~38
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+hospitalized+following+a+visit+to+one+of+five+emergency+departments+in+Qu%C3%A9bec+City%2C+Canada%2C+between+April+2016+and+March+2017.+Physician+handoffs+%28at+least+one+handoff+during+the+emergency+department+stay%29.+In-hospital+mortality%2C+ICU+admission%2C+and+hospital+length+of+stay.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+hospitalized+following+a+visit+to+one+of+five+emergency+departments+in+Qu%C3%A9bec+City%2C+Canada%2C+between+April+2016+and+March+2017.+Physician+handoffs+%28at+least+one+handoff+during+the+emergency+department+stay%29.+In-hospital+mortality%2C+ICU+admission%2C+and+hospital+length+of+stay.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Emergency+Service%2C+Hospital%22%5BMeSH%5D%29+AND+%28%22Patient+Handoff%22%5BMeSH%5D%29+AND+%28%22Hospital+Mortality%22%5BMeSH%5D+OR+%22Intensive+Care+Units%22%5BMeSH%5D+OR+%22Length+of+Stay%22%5BMeSH%5D%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Emergency+Service%2C+Hospital%22%5BMeSH%5D%29+AND+%28%22Patient+Handoff%22%5BMeSH%5D%29+AND+%28%22Patient+Safety%22%5BMeSH%5D+OR+%22Outcome+Assessment%2C+Health+Care%22%5BMeSH%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Total Colonic Decompression After Colonoscopy for the Prevention of Post-colonoscopy Abdominal Pain: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017597/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults undergoing colonoscopy with room-air insufflation
-- Intervention: Total colonic decompression (TCD) involving reintubation to the cecum followed by active air aspiration during withdrawal
-- Comparator: Standard colonoscopy withdrawal
-- Outcome: Incidence and severity of early and 24-hour post-colonoscopy abdominal pain
-- Study design: Systematic review and meta-analysis of randomized controlled trials
-- Notes: The abstract specifically limits the scope to room-air insufflation; results may not generalize to CO2 insufflation which is increasingly standard.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults undergoing colonoscopy
-- Intervention: Active colonic gas decompression or aspiration techniques
-- Outcome: Post-procedural abdominal symptoms (pain, bloating, or discomfort)
-- Why widened: Widened population to include all insufflation types (removing the room-air restriction) as the clinical problem of gas retention exists regardless of gas type. Widened intervention to include any active aspiration method beyond the specific TCD reintubation protocol. Widened outcome to include bloating and discomfort as these are the primary drivers of post-procedural pain.
-
-**Signal:** WORTH A CLOSER LOOK: ~4 on the narrow PICO, ~97 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~4
-- Broadened PICO pool: ~97
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+undergoing+colonoscopy+with+room-air+insufflation+Total+colonic+decompression+%28TCD%29+involving+reintubation+to+the+cecum+followed+by+active+air+aspiration+during+withdrawal+Incidence+and+severity+of+early+and+24-hour+post-colonoscopy+abdominal+pain
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+undergoing+colonoscopy+with+room-air+insufflation+Total+colonic+decompression+%28TCD%29+involving+reintubation+to+the+cecum+followed+by+active+air+aspiration+during+withdrawal+Incidence+and+severity+of+early+and+24-hour+post-colonoscopy+abdominal+pain+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22total+colonic+decompression%22+OR+%22reintubation%22%29+AND+%22colonoscopy%22+AND+%22abdominal+pain%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22decompression%22+OR+%22aspiration%22+OR+%22suction%22%29+AND+%22colonoscopy%22+AND+%28%22abdominal+pain%22+OR+%22bloating%22+OR+%22discomfort%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Selective Laser Trabeculoplasty in Advanced-to-Severe Primary Open-Angle Glaucoma: Six-Month Clinical Outcomes.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017585/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with advanced-to-severe primary open-angle glaucoma (POAG)
-- Intervention: VISULAS green Selective Laser Trabeculoplasty (SLT)
-- Comparator: Baseline (pre-treatment) values
-- Outcome: Change in intraocular pressure (IOP) and topical medication burden at six months
-- Study design: Retrospective cohort study
-- Notes: The study has a very small sample size (n=7 patients) and significant loss to follow-up/attrition by the six-month mark (30% of eyes), which the authors acknowledge as a limitation.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with advanced or severe glaucoma
-- Intervention: Selective Laser Trabeculoplasty (SLT)
-- Outcome: Change in intraocular pressure (IOP) and glaucoma medication requirements
-- Why widened: The specific laser brand/model (VISULAS green) was broadened to the general procedure (SLT) because meta-analyses typically group SLT devices together. The population was generalized from POAG to advanced glaucoma to include studies focusing on similar disease severity where the clinical decision-making (laser vs. surgery) is comparable.
-
-**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~53 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** PROBABLY TOO THIN: only ~1 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
 
 **Pool counts (keyword-based, not verified):**
 - Narrow PICO pool: ~0
-- Broadened PICO pool: ~53
+- Broadened PICO pool: ~1
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+advanced-to-severe+primary+open-angle+glaucoma+%28POAG%29+VISULAS+green+Selective+Laser+Trabeculoplasty+%28SLT%29+Change+in+intraocular+pressure+%28IOP%29+and+topical+medication+burden+at+six+months
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+advanced-to-severe+primary+open-angle+glaucoma+%28POAG%29+VISULAS+green+Selective+Laser+Trabeculoplasty+%28SLT%29+Change+in+intraocular+pressure+%28IOP%29+and+topical+medication+burden+at+six+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Selective+Laser+Trabeculoplasty%22+OR+%22SLT%22%29+AND+%22VISULAS%22+AND+%22advanced+glaucoma%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Selective+Laser+Trabeculoplasty%22%5BMeSH%5D+OR+%22SLT%22%29+AND+%28%22advanced%22+OR+%22severe%22%29+AND+%22glaucoma%22
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Infants+%28aged+28-365+days%29+living+with+HIV+hospitalized+with+severe+pneumonia+in+sub-Saharan+Africa+%28C%C3%B4te+d%27Ivoire%2C+Malawi%2C+Mozambique%2C+Uganda%2C+Zambia%2C+and+Zimbabwe%29.+Empirical+tuberculosis+treatment+%28isoniazid%2C+rifampicin%2C+pyrazinamide%2C+and+ethambutol+for+2+months%2C+plus+isoniazid+and+rifampicin+for+4+subsequent+months%29+initiated+at+admission.+All-cause+mortality+at+15+days+and+360+days.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Infants+%28aged+28-365+days%29+living+with+HIV+hospitalized+with+severe+pneumonia+in+sub-Saharan+Africa+%28C%C3%B4te+d%27Ivoire%2C+Malawi%2C+Mozambique%2C+Uganda%2C+Zambia%2C+and+Zimbabwe%29.+Empirical+tuberculosis+treatment+%28isoniazid%2C+rifampicin%2C+pyrazinamide%2C+and+ethambutol+for+2+months%2C+plus+isoniazid+and+rifampicin+for+4+subsequent+months%29+initiated+at+admission.+All-cause+mortality+at+15+days+and+360+days.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28infant%5BMeSH%5D%29+AND+%28HIV%5BMeSH%5D%29+AND+%28pneumonia%5BMeSH%5D%29+AND+%28tuberculosis%5BMeSH%5D%29+AND+%28empirical+treatment%29+AND+%28mortality%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28child%5BMeSH%5D+OR+infant%5BMeSH%5D%29+AND+%28HIV%5BMeSH%5D%29+AND+%28pneumonia%5BMeSH%5D%29+AND+%28tuberculosis%5BMeSH%5D%29+AND+%28empirical%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Diagnostic Accuracy of American College of Radiology Ovarian-Adnexal Reporting and Data System (ACR O-RADS) Ultrasound for Characterizing Adnexal-Ovarian Masses: A Histopathological Correlation Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017543/  
-**Published:** Oct 2026
+## Treatment of Acute Ischemic Stroke: A Review.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018963/  
+**Published:** Nov 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Women with suspected adnexal-ovarian masses
-- Intervention: Transvaginal ultrasonography (TVUS) using the ACR O-RADS classification (categories 4 and 5 as positive)
-- Comparator: Histopathological examination following surgical excision
-- Outcome: Sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) for malignancy (including borderline lesions)
-- Study design: Prospective, single-center, hospital-based observational diagnostic-accuracy study
-- Notes: The study has a very small sample size (n=34), which results in wide confidence intervals for the diagnostic metrics.
+- Population: Patients with acute ischemic stroke, including those with disabling symptoms and those with large vessel occlusion (LVO).
+- Intervention: Intravenous thrombolysis (tenecteplase or alteplase) and/or endovascular thrombectomy.
+- Comparator: Medical management (including intravenous thrombolysis when indicated) or no reperfusion therapy.
+- Outcome: Functional independence and probability of a better functional outcome.
+- Study design: Review of clinical guidelines and pooled randomized trial data.
+- Notes: The abstract describes clinical guidelines rather than a single primary study; specific time windows (4.5h, 6h, 24h) are mentioned as eligibility criteria for different treatments.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with adnexal or ovarian masses
-- Intervention: ACR O-RADS ultrasound risk stratification system
-- Outcome: Diagnostic accuracy for ovarian malignancy
-- Why widened: Broadened the intervention from specifically transvaginal ultrasound (TVUS) to the O-RADS system generally to include other ultrasound approaches (e.g., transabdominal). Broadened the outcome to general diagnostic accuracy for malignancy to allow pooling of various performance metrics across studies.
+- Population: Adults with acute ischemic stroke.
+- Intervention: Acute reperfusion therapy (pharmacological or mechanical).
+- Outcome: Neurological functional status and disability scores.
+- Why widened: Population was generalized to all acute ischemic stroke adults to include varying severities and time windows. Intervention was broadened to the class of 'reperfusion therapy' to include both drug and device-based clot removal. Outcome was widened to include any standardized measure of neurological recovery or disability (e.g., mRS or NIHSS).
 
-**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~105 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** CHECK OVERLAP: 5 existing systematic review/meta-analysis hit(s) on this keyword set. Read them before assuming this is novel.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~993
+- Broadened PICO pool: ~20
+- Existing reviews found: 5
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+acute+ischemic+stroke%2C+including+those+with+disabling+symptoms+and+those+with+large+vessel+occlusion+%28LVO%29.+Intravenous+thrombolysis+%28tenecteplase+or+alteplase%29+and%2For+endovascular+thrombectomy.+Functional+independence+and+probability+of+a+better+functional+outcome.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+acute+ischemic+stroke%2C+including+those+with+disabling+symptoms+and+those+with+large+vessel+occlusion+%28LVO%29.+Intravenous+thrombolysis+%28tenecteplase+or+alteplase%29+and%2For+endovascular+thrombectomy.+Functional+independence+and+probability+of+a+better+functional+outcome.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Ischemic+Stroke%22%5BMeSH%5D%29+AND+%28%22Thrombolytic+Therapy%22%5BMeSH%5D+OR+%22Thrombectomy%22%5BMeSH%5D%29+AND+%22functional+outcome%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Ischemic+Stroke%22%5BMeSH%5D%29+AND+%22Reperfusion%22%5BMeSH%5D+AND+%22Recovery+of+Function%22%5BMeSH%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Izalontamab Brengitecan in Recurrent or Metastatic Esophageal Squamous Cell Carcinoma: The PANKU-Esophagus01 Randomized Clinical Trial.
+**Journal:** JAMA  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018949/  
+**Published:** Nov 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with recurrent or metastatic esophageal squamous cell carcinoma (ESCC) that progressed after first-line PD-1/PD-L1 inhibitor plus platinum-containing chemotherapy
+- Intervention: Izalontamab brengitecan (EGFR/HER3 bispecific antibody-drug conjugate), 2.5 mg/kg on days 1 and 8 every 3 weeks
+- Comparator: Physician-selected chemotherapy (irinotecan, paclitaxel, or docetaxel) every 3 weeks
+- Outcome: Progression-free survival (PFS) and overall survival (OS)
+- Study design: Phase 3, open-label, randomized clinical trial
+- Notes: The abstract is highly detailed; the specific chemotherapy agents and the mechanism of the ADC are clearly defined.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with advanced or metastatic esophageal squamous cell carcinoma (ESCC) who have failed first-line systemic therapy
+- Intervention: EGFR-targeted or HER3-targeted antibody-drug conjugates (ADCs)
+- Outcome: Survival outcomes (PFS, OS, or objective response rate)
+- Why widened: The intervention was broadened from a specific bispecific ADC to the class of EGFR/HER3-targeted ADCs to allow for pooling with similar agents. The population was generalized to any first-line failure to account for variations in standard-of-care across different regions or time periods.
+
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~5 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
 - Narrow PICO pool: ~3
-- Broadened PICO pool: ~105
+- Broadened PICO pool: ~5
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Women+with+suspected+adnexal-ovarian+masses+Transvaginal+ultrasonography+%28TVUS%29+using+the+ACR+O-RADS+classification+%28categories+4+and+5+as+positive%29+Sensitivity%2C+specificity%2C+positive+predictive+value+%28PPV%29%2C+and+negative+predictive+value+%28NPV%29+for+malignancy+%28including+borderline+lesions%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Women+with+suspected+adnexal-ovarian+masses+Transvaginal+ultrasonography+%28TVUS%29+using+the+ACR+O-RADS+classification+%28categories+4+and+5+as+positive%29+Sensitivity%2C+specificity%2C+positive+predictive+value+%28PPV%29%2C+and+negative+predictive+value+%28NPV%29+for+malignancy+%28including+borderline+lesions%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22ACR+O-RADS%22+OR+%22O-RADS%22%29+AND+%22transvaginal%22+AND+%22histopathology%22+AND+%22adnexal+mass%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22O-RADS%22+OR+%22Ovarian-Adnexal+Reporting+and+Data+System%22%29+AND+%22ultrasound%22+AND+%28%22ovarian+neoplasms%22%5BMeSH%5D+OR+%22adnexal+mass%22%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+recurrent+or+metastatic+esophageal+squamous+cell+carcinoma+%28ESCC%29+that+progressed+after+first-line+PD-1%2FPD-L1+inhibitor+plus+platinum-containing+chemotherapy+Izalontamab+brengitecan+%28EGFR%2FHER3+bispecific+antibody-drug+conjugate%29%2C+2.5+mg%2Fkg+on+days+1+and+8+every+3+weeks+Progression-free+survival+%28PFS%29+and+overall+survival+%28OS%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+recurrent+or+metastatic+esophageal+squamous+cell+carcinoma+%28ESCC%29+that+progressed+after+first-line+PD-1%2FPD-L1+inhibitor+plus+platinum-containing+chemotherapy+Izalontamab+brengitecan+%28EGFR%2FHER3+bispecific+antibody-drug+conjugate%29%2C+2.5+mg%2Fkg+on+days+1+and+8+every+3+weeks+Progression-free+survival+%28PFS%29+and+overall+survival+%28OS%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22izalontamab+brengitecan%22+AND+%22esophageal+squamous+cell+carcinoma%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Antibody-Drug+Conjugates%22%5BMeSH%5D+OR+%22ADC%22%29+AND+%28%22Esophageal+Neoplasms%22%5BMeSH%5D+OR+%22ESCC%22%29+AND+%28%22EGFR%22+OR+%22HER3%22+OR+%22ErbB3%22%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Regenerative Medicine in Chronic Inflammatory Dermatoses: A Scoping Review.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017419/  
+## Effect of intensive blood pressure control on cognitive outcomes and brain structures in adults with type 2 diabetes: prespecified analysis of secondary outcomes of BPROAD randomised controlled trial.
+**Journal:** BMJ  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020520/  
 **Published:** Nov 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with chronic inflammatory dermatoses, specifically vitiligo, alopecia, systemic sclerosis, morphea, oral lichen planus, atopic dermatitis, and hidradenitis suppurativa.
-- Intervention: Regenerative medicine products including platelet concentrates (PRP/PRF), cell-based products, exosomes, secretome, and biomaterial-based strategies.
-- Comparator: Standard treatments (e.g., light or laser therapy for vitiligo, corticosteroids for oral lichen planus) or unclear/no treatment.
-- Outcome: Clinical efficacy (e.g., repigmentation in vitiligo), tissue restoration, and mapping of evidence gaps.
-- Study design: Scoping review of clinical trials, observational studies, meta-analyses, and systematic reviews.
-- Notes: The abstract summarizes a scoping review covering multiple distinct PICO questions across different diseases; the extracted PICO is an aggregate of the review's inclusion criteria.
+- Population: Adults aged ≥50 years with type 2 diabetes, raised systolic blood pressure (SBP), and increased cardiovascular risk, without probable dementia at baseline (n=12,434 in China).
+- Intervention: Intensive blood pressure treatment targeting SBP <120 mm Hg.
+- Comparator: Standard blood pressure treatment targeting SBP <140 mm Hg.
+- Outcome: Primary: Composite of all-cause dementia or mild cognitive impairment. Secondary: All-cause dementia, mild cognitive impairment, changes in cognitive functions, and changes in brain MRI characteristics (white matter lesion volume and total brain volume).
+- Study design: Multicentre, open-label, outcome assessor masked, randomized controlled trial (BPROAD trial).
+- Notes: The abstract is highly detailed; the only missing information is the specific pharmacological agents used to achieve the BP targets.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with chronic inflammatory skin diseases.
-- Intervention: Regenerative medicine and tissue engineering therapies.
-- Outcome: Clinical efficacy and tissue repair.
-- Why widened: The population was widened from specific dermatoses to the broader category of chronic inflammatory skin diseases. The intervention was widened from specific products (PRP, exosomes) to the entire field of regenerative medicine and tissue engineering to allow for pooling of related biotechnological approaches.
+- Population: Adults with type 2 diabetes and hypertension.
+- Intervention: Intensive blood pressure control (target SBP <120 mmHg).
+- Outcome: Cognitive decline, dementia, or structural brain changes on imaging.
+- Why widened: Broadened the population by removing the specific age (≥50) and geographic (China) constraints to include all adults with T2D and hypertension. Broadened outcomes to include general cognitive decline and imaging changes to capture similar studies using different cognitive scales or MRI metrics.
 
-**Signal:** WORTH A CLOSER LOOK: ~886 on the narrow PICO, ~135 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** PROBABLY TOO THIN: only ~4 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~886
-- Broadened PICO pool: ~135
+- Narrow PICO pool: ~2
+- Broadened PICO pool: ~4
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+chronic+inflammatory+dermatoses%2C+specifically+vitiligo%2C+alopecia%2C+systemic+sclerosis%2C+morphea%2C+oral+lichen+planus%2C+atopic+dermatitis%2C+and+hidradenitis+suppurativa.+Regenerative+medicine+products+including+platelet+concentrates+%28PRP%2FPRF%29%2C+cell-based+products%2C+exosomes%2C+secretome%2C+and+biomaterial-based+strategies.+Clinical+efficacy+%28e.g.%2C+repigmentation+in+vitiligo%29%2C+tissue+restoration%2C+and+mapping+of+evidence+gaps.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+chronic+inflammatory+dermatoses%2C+specifically+vitiligo%2C+alopecia%2C+systemic+sclerosis%2C+morphea%2C+oral+lichen+planus%2C+atopic+dermatitis%2C+and+hidradenitis+suppurativa.+Regenerative+medicine+products+including+platelet+concentrates+%28PRP%2FPRF%29%2C+cell-based+products%2C+exosomes%2C+secretome%2C+and+biomaterial-based+strategies.+Clinical+efficacy+%28e.g.%2C+repigmentation+in+vitiligo%29%2C+tissue+restoration%2C+and+mapping+of+evidence+gaps.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22vitiligo%22+OR+%22alopecia%22+OR+%22systemic+sclerosis%22+OR+%22oral+lichen+planus%22+OR+%22hidradenitis+suppurativa%22%29+AND+%28%22platelet-rich+plasma%22+OR+%22exosomes%22+OR+%22stem+cell+therapy%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22Skin+Diseases%22%5BMeSH%5D+AND+%22Regenerative+Medicine%22%5BMeSH%5D
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+aged+%E2%89%A550+years+with+type+2+diabetes%2C+raised+systolic+blood+pressure+%28SBP%29%2C+and+increased+cardiovascular+risk%2C+without+probable+dementia+at+baseline+%28n%3D12%2C434+in+China%29.+Intensive+blood+pressure+treatment+targeting+SBP+%3C120+mm+Hg.+Primary%3A+Composite+of+all-cause+dementia+or+mild+cognitive+impairment.+Secondary%3A+All-cause+dementia%2C+mild+cognitive+impairment%2C+changes+in+cognitive+functions%2C+and+changes+in+brain+MRI+characteristics+%28white+matter+lesion+volume+and+total+brain+volume%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+aged+%E2%89%A550+years+with+type+2+diabetes%2C+raised+systolic+blood+pressure+%28SBP%29%2C+and+increased+cardiovascular+risk%2C+without+probable+dementia+at+baseline+%28n%3D12%2C434+in+China%29.+Intensive+blood+pressure+treatment+targeting+SBP+%3C120+mm+Hg.+Primary%3A+Composite+of+all-cause+dementia+or+mild+cognitive+impairment.+Secondary%3A+All-cause+dementia%2C+mild+cognitive+impairment%2C+changes+in+cognitive+functions%2C+and+changes+in+brain+MRI+characteristics+%28white+matter+lesion+volume+and+total+brain+volume%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22BPROAD%22+OR+%22intensive+blood+pressure+control%22%29+AND+%22type+2+diabetes%22+AND+%28%22dementia%22+OR+%22mild+cognitive+impairment%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22intensive+blood+pressure+control%22+OR+%22blood+pressure+targets%22%29+AND+%22diabetes+mellitus%2C+type+2%22%5BMeSH%5D+AND+%28%22cognition%22%5BMeSH%5D+OR+%22dementia%22%5BMeSH%5D+OR+%22brain%22%5BMeSH%5D%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Clinical and Technical Considerations for Low-Level Laser Therapy in Temporomandibular Disorders: A Narrative Review.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017297/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Non-contrast Magnetic Resonance Urography Versus Computed Tomography Urography for the Evaluation of Obstructive Uropathy: A Prospective Paired Comparative Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017264/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Effect of Ultraviolet Photofunctionalization on Implant Stability and Marginal Bone Loss in Early-Loaded Dental Implants: A Triple-Blind Randomized Split-Mouth Clinical Trial.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017259/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Endoscopic Assessment of Membrane Perforation During Osseodensification-Mediated Sinus Elevation in Sites With a Residual Bone Height (RBH) of 4-5 mm: A Pilot Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017224/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients requiring single implant-supported crowns in sites with residual bone height (RBH) of 4-5 mm, flat sinus floor profile, narrow bucco-palatal width, and membrane thickness <2 mm.
-- Intervention: Graftless osseodensification-mediated transcrestal sinus floor elevation (OD-TSFE) with simultaneous 8 mm implant placement performed by a trainee periodontist.
-- Comparator: unclear (intra-study comparison of detection methods: endoscopy vs. tactile evaluation vs. direct visualization)
-- Outcome: Incidence, characteristics, and timing of sinus membrane perforation (SMP); inter-method reliability of detection approaches.
-- Study design: Prospective cohort pilot study
-- Notes: The study is a very small pilot (n=6 procedures) and lacks a traditional control group; it focuses on the feasibility of endoscopic monitoring and the safety of a specific technique in a highly specific anatomical subset.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults requiring transcrestal sinus floor elevation for dental implant placement in sites with reduced residual bone height (RBH < 5 mm).
-- Intervention: Osseodensification-mediated transcrestal sinus floor elevation (OD-TSFE).
-- Outcome: Incidence and detection of sinus membrane perforation.
-- Why widened: The population was broadened by removing specific anatomical constraints (membrane thickness, floor profile) to include all low-RBH cases where this technique is indicated. The intervention was generalized by removing the 'graftless' requirement and the 'trainee' operator status to focus on the OD-TSFE technique itself. The outcome was simplified to general perforation incidence and detection accuracy.
-
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~12 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~12
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+requiring+single+implant-supported+crowns+in+sites+with+residual+bone+height+%28RBH%29+of+4-5+mm%2C+flat+sinus+floor+profile%2C+narrow+bucco-palatal+width%2C+and+membrane+thickness+%3C2+mm.+Graftless+osseodensification-mediated+transcrestal+sinus+floor+elevation+%28OD-TSFE%29+with+simultaneous+8+mm+implant+placement+performed+by+a+trainee+periodontist.+Incidence%2C+characteristics%2C+and+timing+of+sinus+membrane+perforation+%28SMP%29%3B+inter-method+reliability+of+detection+approaches.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+requiring+single+implant-supported+crowns+in+sites+with+residual+bone+height+%28RBH%29+of+4-5+mm%2C+flat+sinus+floor+profile%2C+narrow+bucco-palatal+width%2C+and+membrane+thickness+%3C2+mm.+Graftless+osseodensification-mediated+transcrestal+sinus+floor+elevation+%28OD-TSFE%29+with+simultaneous+8+mm+implant+placement+performed+by+a+trainee+periodontist.+Incidence%2C+characteristics%2C+and+timing+of+sinus+membrane+perforation+%28SMP%29%3B+inter-method+reliability+of+detection+approaches.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22osseodensification%22%29+AND+%28%22sinus+floor+elevation%22%29+AND+%28%22endoscopy%22%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22osseodensification%22%29+AND+%28%22sinus+floor+elevation%22+OR+%22sinus+lift%22%29+AND+%28%22perforation%22+OR+%22complication%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Sedation and Gastrointestinal Adverse Event Reporting for Suzetrigine Versus Traditional Opioids: A Cohort-Restricted Disproportionality Analysis.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017187/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Ultrasound-Guided Peripheral Intravenous Access Using Different Vein-Selection Strategies in Difficult Emergency Department Patients: A Systematic Review.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017066/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Lower Uterine Segment Compression Sutures for Hemorrhage During Cesarean Delivery in Women With Placenta Previa: A Systematic Review of Hemostatic Success and Uterine Preservation.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016938/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Women with placenta previa undergoing cesarean delivery
-- Intervention: Lower uterine segment compression sutures
-- Comparator: Conventional compression sutures, aortic balloon occlusion plus sutures, or other standard hemostatic techniques
-- Outcome: Hemostatic success (estimated blood loss, need for additional procedures) and uterine preservation (hysterectomy rate)
-- Study design: Systematic review of retrospective comparative cohort studies
-- Notes: The abstract explicitly states that techniques and comparators differed across the included studies, and results were synthesized narratively rather than pooled.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Women with placenta previa or placenta accreta spectrum undergoing cesarean delivery
-- Intervention: Uterine compression sutures (including lower segment, B-Lynch, Hayman, or other modified techniques)
-- Outcome: Maternal morbidity related to postpartum hemorrhage (blood loss, hysterectomy, blood transfusion)
-- Why widened: Broadened population to include placenta accreta spectrum as clinical management of hemorrhage is often similar in these high-risk groups. Broadened intervention to all uterine compression sutures to capture technical variations used for the same indication. Broadened outcomes to general PPH morbidity to allow for meta-analysis of related clinical endpoints.
-
-**Signal:** WORTH A CLOSER LOOK: ~6 on the narrow PICO, ~79 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~6
-- Broadened PICO pool: ~79
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Women+with+placenta+previa+undergoing+cesarean+delivery+Lower+uterine+segment+compression+sutures+Hemostatic+success+%28estimated+blood+loss%2C+need+for+additional+procedures%29+and+uterine+preservation+%28hysterectomy+rate%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Women+with+placenta+previa+undergoing+cesarean+delivery+Lower+uterine+segment+compression+sutures+Hemostatic+success+%28estimated+blood+loss%2C+need+for+additional+procedures%29+and+uterine+preservation+%28hysterectomy+rate%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22placenta+previa%22%5BMeSH%5D%29+AND+%28%22lower+uterine+segment%22%29+AND+%28%22compression+sutures%22%29+AND+%28%22cesarean+section%22%5BMeSH%5D%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22placenta+previa%22%5BMeSH%5D+OR+%22placenta+accreta%22%5BMeSH%5D%29+AND+%28%22suture+techniques%22%5BMeSH%5D+OR+%22compression+sutures%22%29+AND+%28%22postpartum+hemorrhage%22%5BMeSH%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
-**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
-- Lower Uterine Segment Compression Sutures for Hemorrhage During Cesarean Delivery in Women With Placenta Previa: A Systematic Review of Hemostatic Success and Uterine Preservation (2026, Cureus) -- https://www.semanticscholar.org/paper/dbaa8a830413109fa354c23f6a0953ddbc80db60
-
----
-
-## Ultrasound-guided infraclavicular axillary vein access for central venous catheterization: an evidence-informed narrative review.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017567/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Maternal safety outcomes following bilateral hypogastric artery ligation in placenta accreta spectrum and severe obstetric hemorrhage: a retrospective tertiary-center cohort.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017535/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## The Duffy-null phenotype in Saudi Arabia: distribution, origins and clinical significance.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017479/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Postoperative hypoalbuminemia, albumin supplementation, and short-term complications after radical gastrectomy in elderly gastric cancer patients.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017430/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Enhancing renal stone detection through artificial intelligence models.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016898/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Regional cingulate metabolite-ratio differences exceed longitudinal changes across an approximately 34-h protocol: a prospective quality-controlled proton magnetic resonance spectroscopy study.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016777/  
-**Published:** 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: University-affiliated and advertisement-recruited participants (n=138)
-- Intervention: 34-hour longitudinal protocol including a night of polysomnography
-- Comparator: Regional differences (Anterior Cingulate Cortex vs. Posterior Cingulate Cortex) and longitudinal change (baseline evening vs. post-34h morning)
-- Outcome: Metabolite-to-creatine ratios (NAA/Cr, GlxT/Cr, Cho/Cr, Glu/Cr) measured via 1H-MRS (MEGA-PRESS and SVS-PRESS)
-- Study design: Prospective single-center observational study
-- Notes: The 'intervention' is a time-based protocol rather than a clinical treatment. The abstract focuses on the stability of MRS measurements versus regional variance.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: General adult population
-- Intervention: Short-term longitudinal monitoring (24-48 hours)
-- Outcome: Brain metabolite levels or ratios measured by proton magnetic resonance spectroscopy (1H-MRS)
-- Why widened: Broadened population to general adults to include similar healthy or heterogeneous cohorts. Broadened the specific 34-hour protocol to short-term longitudinal monitoring to capture circadian or day-to-day stability studies. Broadened specific metabolite ratios to general MRS brain metabolites to capture studies assessing neurochemical variance.
-
-**Signal:** WORTH A CLOSER LOOK: ~4 on the narrow PICO, ~70 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~4
-- Broadened PICO pool: ~70
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=University-affiliated+and+advertisement-recruited+participants+%28n%3D138%29+34-hour+longitudinal+protocol+including+a+night+of+polysomnography+Metabolite-to-creatine+ratios+%28NAA%2FCr%2C+GlxT%2FCr%2C+Cho%2FCr%2C+Glu%2FCr%29+measured+via+1H-MRS+%28MEGA-PRESS+and+SVS-PRESS%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=University-affiliated+and+advertisement-recruited+participants+%28n%3D138%29+34-hour+longitudinal+protocol+including+a+night+of+polysomnography+Metabolite-to-creatine+ratios+%28NAA%2FCr%2C+GlxT%2FCr%2C+Cho%2FCr%2C+Glu%2FCr%29+measured+via+1H-MRS+%28MEGA-PRESS+and+SVS-PRESS%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22proton+magnetic+resonance+spectroscopy%22+OR+%221H-MRS%22%29+AND+%22cingulate+cortex%22+AND+%22longitudinal%22+AND+%22metabolite+ratios%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Magnetic+Resonance+Spectroscopy%22%5BMesh%5D%29+AND+%28%22Cerebral+Cortex%22%5BMesh%5D%29+AND+%28%22longitudinal+studies%22%5BMesh%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Early risk assessment model for sepsis-associated acute kidney injury combining quantitative contrast-enhanced ultrasound and biomarkers: a prospective pilot study.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016749/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Impact of administration timing of subanesthetic doses of esketamine on emergence agitation in patients undergoing nasal endoscopic surgery: a randomized controlled trial.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016697/  
-**Published:** 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adult patients undergoing elective nasal endoscopic surgery
-- Intervention: Subanesthetic intravenous esketamine (0.25 mg/kg) administered 20 minutes before the end of surgery
-- Comparator: Intravenous normal saline (placebo)
-- Outcome: Emergence agitation (EA)
-- Study design: Randomized, double-blind, placebo-controlled trial
-- Notes: The abstract text provided is truncated, omitting the specific details of the second esketamine group (likely induction-time administration) and the numerical results, though the conclusion identifies the 20-minute timing as effective.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients undergoing nasal or otorhinolaryngological (ENT) surgery
-- Intervention: Subanesthetic doses of ketamine or esketamine
-- Outcome: Postoperative emergence agitation or delirium
-- Why widened: Broadened esketamine to include the racemic mixture (ketamine) as they are pharmacologically similar for this indication. Expanded the surgical population to all ENT surgery because airway irritation and nasal packing are common triggers for emergence agitation across these procedures. Removed specific administration timing to capture the general preventive effect of the drug class.
-
-**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~14 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~1
-- Broadened PICO pool: ~14
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adult+patients+undergoing+elective+nasal+endoscopic+surgery+Subanesthetic+intravenous+esketamine+%280.25+mg%2Fkg%29+administered+20+minutes+before+the+end+of+surgery+Emergence+agitation+%28EA%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adult+patients+undergoing+elective+nasal+endoscopic+surgery+Subanesthetic+intravenous+esketamine+%280.25+mg%2Fkg%29+administered+20+minutes+before+the+end+of+surgery+Emergence+agitation+%28EA%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22esketamine%22%29+AND+%22nasal+endoscopic+surgery%22+AND+%22emergence+agitation%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22ketamine%22%5BMeSH+Terms%5D+OR+%22esketamine%22%29+AND+%28%22nasal+surgical+procedures%22%5BMeSH+Terms%5D+OR+%22otorhinolaryngologic+surgical+procedures%22%5BMeSH+Terms%5D%29+AND+%28%22emergence+delirium%22%5BMeSH+Terms%5D+OR+%22emergence+agitation%22%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Comparing survival and clinical features of anti-MDA5 and anti-synthetase idiopathic inflammatory myopathy in a North American cohort.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016685/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Failure mode and effects analysis-guided digital redesign of the intraoperative frozen-section specimen pathway: a before-and-after service improvement study.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016542/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Active bystander training beyond the pilot: evaluation across learner groups, cohort sizes, and educational settings.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016536/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Severity, duration, and pattern of intraoperative hypotension and early postoperative cognitive decline in adults undergoing non-cardiac surgery: a prospective observational cohort study.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016510/  
-**Published:** 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults undergoing elective non-cardiac surgeries under general anaesthesia
-- Intervention: Intraoperative hypotension (defined as mean arterial pressure decrease >20% from baseline) categorized by severity and pattern (prolonged or frequent short episodes)
-- Comparator: Patients with single short (controlled) episodes of intraoperative hypotension or no hypotension
-- Outcome: Early postoperative cognitive decline (ePOCD) measured by MMSE and MoCA scores up to postoperative day 1
-- Study design: Prospective observational cohort study
-- Notes: The 'intervention' is an exposure rather than a randomized treatment. The number of ePOCD events was very small (n=8), and the authors noted significant confounding by age.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults undergoing non-cardiac surgery
-- Intervention: Intraoperative hypotension
-- Outcome: Postoperative cognitive dysfunction or delirium
-- Why widened: The population was widened to all non-cardiac surgery (not just elective/general anesthesia). The intervention was widened from a specific MAP threshold to any intraoperative hypotension definition. The outcome was widened from 'early' (24h) decline to general postoperative cognitive dysfunction to capture studies with longer follow-up or different assessment tools.
-
-**Signal:** WORTH A CLOSER LOOK: ~4 on the narrow PICO, ~2204 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~4
-- Broadened PICO pool: ~2204
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+undergoing+elective+non-cardiac+surgeries+under+general+anaesthesia+Intraoperative+hypotension+%28defined+as+mean+arterial+pressure+decrease+%3E20%25+from+baseline%29+categorized+by+severity+and+pattern+%28prolonged+or+frequent+short+episodes%29+Early+postoperative+cognitive+decline+%28ePOCD%29+measured+by+MMSE+and+MoCA+scores+up+to+postoperative+day+1
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+undergoing+elective+non-cardiac+surgeries+under+general+anaesthesia+Intraoperative+hypotension+%28defined+as+mean+arterial+pressure+decrease+%3E20%25+from+baseline%29+categorized+by+severity+and+pattern+%28prolonged+or+frequent+short+episodes%29+Early+postoperative+cognitive+decline+%28ePOCD%29+measured+by+MMSE+and+MoCA+scores+up+to+postoperative+day+1+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Intraoperative+Hypotension%22%5BMesh%5D+OR+%22intraoperative+hypotension%22%29+AND+%28%22Cognitive+Dysfunction%22%5BMesh%5D+OR+%22postoperative+cognitive+decline%22%29+AND+%22non-cardiac+surgery%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hypotension%22%5BMesh%5D+OR+%22hypotension%22%29+AND+%28%22Anesthesia%22%5BMesh%5D+OR+%22intraoperative%22%29+AND+%28%22Cognition+Disorders%22%5BMesh%5D+OR+%22Postoperative+Complications%22%5BMesh%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Postoperative lateral-wall status and fixation failure after cephalomedullary nailing of extracapsular hip fractures: an ambispective cohort study.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016502/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Hyperphosphatemia-related biochemical profiles and clinical correlates in patients receiving maintenance hemodialysis: a single-center retrospective cross-sectional study.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43016482/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## ASAP-TOO Stopped Too Soon: Right Question, Enormous Effort, and an Incomplete Answer.
-**Journal:** Journal of the American College of Cardiology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018512/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Left Atrial Appendage Closure in Patients Considered Unsuitable for Oral Anticoagulation: Randomized Outcomes Through 5 Years in ASAP-TOO.
-**Journal:** Journal of the American College of Cardiology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018511/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Percutaneous Left Atrial Appendage Closure vs Anticoagulation: More Shared Decision-Making or More Randomized Data?
-**Journal:** Journal of the American College of Cardiology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018509/  
-**Published:** Oct 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Left Atrial Appendage Closure in Atrial Fibrillation Patients With High Risk of Stroke and Bleeding: An Individual Participant Data Meta-Analysis of Randomized Trials.
-**Journal:** Journal of the American College of Cardiology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018508/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation: Navigating Heterogeneity in Clinical Evidence: JACC Evidence Review.
-**Journal:** Journal of the American College of Cardiology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018506/  
+## Effects of Sauna Bathing on NMR-Based Metabolomic Profiles.
+**Journal:** Mayo Clinic Proceedings  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020269/  
 **Published:** Nov 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Comparison of Outcomes Between Men and Women Treated With Left Atrial Appendage Closure or Oral Anticoagulation After Catheter Ablation for Atrial Fibrillation: An OPTION Subanalysis.
-**Journal:** Journal of the American College of Cardiology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018504/  
-**Published:** Oct 2026
+## Blood lipoprotein remodelling after non-severe paediatric burns: A longitudinal analysis beyond the acute phase.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019382/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Paediatric patients with non-severe burn injury
+- Intervention: Non-severe burn injury (acute phase and 1-year post-injury)
+- Comparator: Non-burn controls
+- Outcome: Lipoproteomic changes including lipoprotein fractions, subfractions (LDL, HDL, VLDL, IDL), and particle composition measured by 1H NMR spectroscopy
+- Study design: Longitudinal cohort study
+- Notes: The abstract mentions 'non-severe' burns but does not provide a specific Total Body Surface Area (TBSA) percentage. The exact age range for 'paediatric' is not defined.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Pediatric patients with burn injury
+- Intervention: Burn injury (any severity)
+- Outcome: Lipid profile and lipoprotein metabolism markers
+- Why widened: Widened the population to include all burn severities (not just non-severe) and generalized the outcome from specific NMR-derived subfractions to general lipid metabolism to capture studies using standard clinical lipid panels (e.g., total cholesterol, LDL-C, HDL-C).
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~298 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~298
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Paediatric+patients+with+non-severe+burn+injury+Non-severe+burn+injury+%28acute+phase+and+1-year+post-injury%29+Lipoproteomic+changes+including+lipoprotein+fractions%2C+subfractions+%28LDL%2C+HDL%2C+VLDL%2C+IDL%29%2C+and+particle+composition+measured+by+1H+NMR+spectroscopy
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Paediatric+patients+with+non-severe+burn+injury+Non-severe+burn+injury+%28acute+phase+and+1-year+post-injury%29+Lipoproteomic+changes+including+lipoprotein+fractions%2C+subfractions+%28LDL%2C+HDL%2C+VLDL%2C+IDL%29%2C+and+particle+composition+measured+by+1H+NMR+spectroscopy+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22burns%22%5BMeSH+Terms%5D%29+AND+%28%22child%22%5BMeSH+Terms%5D%29+AND+%28%22lipoproteins%22%5BMeSH+Terms%5D%29+AND+%28%22nuclear+magnetic+resonance+spectroscopy%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22burns%22%5BMeSH+Terms%5D%29+AND+%28%22child%22%5BMeSH+Terms%5D+OR+%22adolescent%22%5BMeSH+Terms%5D%29+AND+%28%22lipids%22%5BMeSH+Terms%5D+OR+%22lipoproteins%22%5BMeSH+Terms%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Body mass index and waist circumference trajectories among midlife women in the United States and their association with incident diabetes: The Study of Women's Health Across the Nation.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019374/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Middle-aged women in the United States (participants in the Study of Women's Health Across the Nation)
+- Intervention: Specific BMI and waist circumference (WC) trajectory groups (e.g., high increasing, medium increasing, very high increasing, very high stable)
+- Comparator: Low stable BMI trajectory group or normal increasing WC trajectory group
+- Outcome: Incident diabetes
+- Study design: Longitudinal cohort study using latent class growth modeling
+- Notes: The specific trajectory labels are study-defined; the comparator is inferred as the reference group used for hazard ratio calculations.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Middle-aged women
+- Intervention: Longitudinal adiposity trajectories (BMI, waist circumference, or body composition changes)
+- Outcome: Incident Type 2 Diabetes Mellitus
+- Why widened: Broadened the population from US-specific to general midlife women. Generalized specific latent class trajectory groups to longitudinal adiposity changes to include studies using different statistical modeling of weight and fat distribution change over time.
+
+**Signal:** WORTH A CLOSER LOOK: ~34 on the narrow PICO, ~517 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~34
+- Broadened PICO pool: ~517
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Middle-aged+women+in+the+United+States+%28participants+in+the+Study+of+Women%27s+Health+Across+the+Nation%29+Specific+BMI+and+waist+circumference+%28WC%29+trajectory+groups+%28e.g.%2C+high+increasing%2C+medium+increasing%2C+very+high+increasing%2C+very+high+stable%29+Incident+diabetes
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Middle-aged+women+in+the+United+States+%28participants+in+the+Study+of+Women%27s+Health+Across+the+Nation%29+Specific+BMI+and+waist+circumference+%28WC%29+trajectory+groups+%28e.g.%2C+high+increasing%2C+medium+increasing%2C+very+high+increasing%2C+very+high+stable%29+Incident+diabetes+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Body+Mass+Index%22%5BMesh%5D+OR+%22Waist+Circumference%22%5BMesh%5D%29+AND+%22Diabetes+Mellitus%22%5BMesh%5D+AND+%22trajectories%22+AND+%22middle+aged%22%5BMesh%5D+AND+%22women%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Adiposity%22%5BMesh%5D+OR+%22Body+Mass+Index%22%5BMesh%5D+OR+%22Waist+Circumference%22%5BMesh%5D%29+AND+%22Diabetes+Mellitus%22%5BMesh%5D+AND+%28%22longitudinal%22+OR+%22trajectories%22%29+AND+%22women%22
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## The effects of dual task training to improve self-efficacy, functional performance, and quality of life in individuals with Parkinson's disease: A study protocol.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019373/  
+**Published:** 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Antithrombotic Therapy Management After Left Atrial Appendage Closure: Current Regimens, Evolving Evidence, and the Control Group Dilemma.
-**Journal:** Journal of the American College of Cardiology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018502/  
-**Published:** Oct 2026
+## Anti-inflammatory effects of metformin in gestational diabetes: Systematic review and meta-analysis of randomized trials and preclinical animal pregnancy models study protocol.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019369/  
+**Published:** 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
 
 ---
 
-## Clinical Features and Management Framework for Refractory Hypophysitis: A Cohort Study.
-**Journal:** Journal of Clinical Endocrinology & Metabolism  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43017889/  
+## A primary study of inverted right-angle configuration cannulated screws fixation of femoral neck fracture based on elaborated 3-dimensional features of the femoral head and neck region.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019351/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Assessing the inclusion of frailty scores in either the methodology or results of clinical intervention trials of heart failure: A scoping review.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019341/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Risk factors associated with in-hospital mortality and a composite of major complications following paediatric congenital cardiac surgery: A systematic review protocol.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019335/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Beyond crying: Protocol for a multimodal assessment of suspected prolonged pain in infants using infrared thermal imaging, behavioral assessment and physiological biomarkers (NEOTHERM).
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019334/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## A prospective longitudinal population-based cohort study of non-communicable diseases (NCDs) in Ghana, India, and Nepal (The GIN NCDs Study): A study protocol.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019331/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Paired neutrophil association and ex vivo perturbation sensitivity define a bounded myeloid activation model in ARDS.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019329/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Shifting patterns in clinical pharmacy interventions associated with the integration of a clinical decision support system: A retrospective pre-post study in Brazil.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019328/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## The effectiveness of compression garments on RRI prevention in half- and full-marathon runners: Emulation of a RCT using data from an observational study.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019321/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Dose-dependent hepatorenal toxicity of polystyrene microplastics in BALB/c mice.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43019317/  
+**Published:** 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Nurse-coordinated multidisciplinary prehabilitation for older adults with frailty undergoing elective transcatheter aortic valve replacement: protocol for a randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020514/  
+**Published:** Nov 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Patterns and determinants of antibiotic exposure during the first 2 years of life: a prospective birth cohort study in Switzerland.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020505/  
+**Published:** Nov 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Acupuncture as an adjunct to non-invasive brain stimulation for post-stroke dysphagia: protocol for a systematic review and meta-analysis of randomised controlled trials.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020503/  
+**Published:** Nov 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## A web-based decision support tool to reduce decision conflict for HIV pre-exposure prophylaxis (PrEP) adoption and adherence: a feasibility randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020501/  
+**Published:** Nov 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Prescribing patterns of topical corticosteroids and ophthalmic management for allergic conjunctivitis in Japan: a retrospective cohort study using the JMDC claims database.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020500/  
+**Published:** Nov 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## 
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020499/  
+**Published:** Nov 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Fracture rate and determinants of fractures and bone loss in women with postmenopausal osteoporosis discontinuing alendronate treatment: protocol for the Alendronate Discontinuation Study (ALEXIS) - a multicentre, randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020496/  
+**Published:** Nov 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Prehospital Reverse Shock Index multiplied by the Glasgow Coma Scale score (rSIG) as a predictor of urgent interventions in trauma patients: a retrospective cohort study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020495/  
+**Published:** Nov 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Infant RSV immunity study (IRIS): protocol for a prospective birth cohort in Vancouver, Canada examining how age at respiratory syncytial virus exposure affects how infants respond to the virus immunologically.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020492/  
+**Published:** Nov 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Effect of ultrasound-guided bilateral external oblique intercostal block on postoperative analgesia after major laparoscopic upper abdominal surgery: protocol for a single-blind randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43020490/  
+**Published:** Nov 2026
+
+_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+
+---
+
+## Early vs Routine Oral Nutritional Supplementation During Concurrent Chemoradiotherapy for Nasopharyngeal Carcinoma: A Randomized Clinical Trial.
+**Journal:** JAMA Oncology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018988/  
+**Published:** Nov 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Perioperative Camrelizumab Plus Chemotherapy in Locally Advanced Head and Neck Squamous Cell Carcinoma: A Randomized Clinical Trial.
+**Journal:** JAMA Oncology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018983/  
+**Published:** Nov 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## A Preoperative Grading System for Endoscopic Sinus Surgery.
+**Journal:** JAMA Otolaryngology-Head & Neck Surgery  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018980/  
+**Published:** Nov 2026
+
+_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+
+---
+
+## Disease Duration and Latent Symptom Phenotypes in Medically Refractory Chronic Rhinosinusitis.
+**Journal:** JAMA Otolaryngology-Head & Neck Surgery  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/43018942/  
 **Published:** Nov 2026
 
 _PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
