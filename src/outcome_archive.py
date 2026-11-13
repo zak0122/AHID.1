@@ -59,7 +59,7 @@ def save_daily_outcome(report: str, root: Optional[Path] = None,
     heading = f"# AHID outcomes — {day:%Y}\n\nDaily immutable run archive. Reports are grouped by month/day.\n\n"
     existing = index_path.read_text(encoding="utf-8") if index_path.exists() else heading
     rel = report_path.relative_to(year_dir).as_posix()
-    entry = f"- {day.isoformat()}: [{report_path.name}]({rel}) · [metadata]( {metadata_path.relative_to(year_dir).as_posix()} )"
+    entry = f"- {day.isoformat()}: [{report_path.name}]({rel}) · [metadata]({metadata_path.relative_to(year_dir).as_posix()})"
     if entry not in existing:
         index_path.write_text(existing.rstrip() + "\n" + entry + "\n", encoding="utf-8")
     return report_path
