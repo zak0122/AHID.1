@@ -28,7 +28,8 @@ from pico_extract import draft_pico
 from topic_discovery import discover_topics
 from rss_watch import find_new_rss_items
 from outcome_archive import save_daily_outcome
-from citation_screen import prepare_screening_rows, write_screening_csv\nfrom evidence_compatibility import write_compatibility_csv
+from citation_screen import prepare_screening_rows, write_screening_csv
+from evidence_compatibility import write_compatibility_csv
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = ROOT / "output"
