@@ -1,97 +1,89 @@
-# Journal Watch
+# AHID — SRMA Topic Discovery
 
-Runs in the cloud (GitHub Actions, free tier is enough for this) and every
-6 hours:
+AHID is a reproducible PubMed-based research surveillance and SRMA topic-triage tool. It is designed to help a research team find clinically relevant emerging questions and inspect the evidence pool before committing to a protocol.
 
-1. Checks each journal's own RSS feed (if configured) for ahead-of-print
-   items PubMed hasn't indexed yet (`src/rss_watch.py`) -- free, no API key
-2. Checks your configured journals on PubMed for anything newly indexed,
-   filtered to RCT/cohort/observational study types (`src/monitor.py`)
-3. Separately checks the same journals for newly indexed systematic
-   reviews/meta-analyses, so you notice early if someone else publishes
-   something close to a topic you're tracking (`src/monitor.py`)
-4. Drafts a narrow + broadened PICO for each new article using an LLM --
-   Gemini by default, free (`src/pico_extract.py`)
-5. Gets real PubMed hit counts for the pool/overlap check, not just links
-   (`src/overlap_check.py`)
-6. Runs a free, no-key similar-papers lookup via Semantic Scholar as an
-   extra net beyond PubMed keyword matching (`src/similar_studies.py`)
-7. Writes it all to a markdown report in `output/` that your team reads
+## What it does
 
-## Cost
+1. **Broad PubMed retrieval.** Uses publication-type tags, MeSH terms and title/abstract text words. This is intentionally not MeSH-only because new records may not have completed MEDLINE indexing.
+2. **Study-design classification.** Classifies RCTs, non-randomized clinical trials, prospective cohorts, retrospective cohorts, cohorts with unclear direction, case-control studies, cross-sectional studies and other observational studies separately. Uncertain records remain labelled as uncertain for manual screening.
+3. **Separate review and protocol alerts.** Systematic reviews/meta-analyses are reported separately from protocols; protocols are not treated as results studies.
+4. **Topic candidate generation.** Samples recent primary studies from the configured journal set, derives co-occurring clinical concepts from MeSH descriptors plus title/abstract terms, and checks them against PubMed.
+5. **Two separate SRMA tracks.** Every candidate gets independent RCT and observational search counts, references and scores. Do not pool those designs together merely because they concern the same topic.
+6. **Existing-review signal.** Searches for systematic reviews/meta-analyses separately and links to a PROSPERO title search.
+7. **Transparent PICO drafts.** Extracts only what simple text rules can identify. It does not call Gemini, Claude or another LLM, and it marks unclear fields rather than fabricating details.
+8. **Evidence references.** Reports PubMed links, available DOI, design label and a cautious abstract-level sample-size signal for retrieved references.
 
-Free with the default setup:
-- **Gemini** (`GEMINI_API_KEY`) -- Google's ongoing free tier for Flash
-  models easily covers this (daily limits like 500-1500 requests/day are
-  far more than a few new articles a day needs), no credit card required.
-  Get a key at https://aistudio.google.com/apikey. Free-tier prompts may
-  be used by Google to improve their products -- worth knowing, though
-  PubMed abstracts are already public.
-- Everything else (GitHub Actions, PubMed E-utilities, RSS, Semantic
-  Scholar) has no per-call cost regardless of provider.
+## Important limitations
 
-If you'd rather use Claude instead: set `PICO_PROVIDER=anthropic` and add
-`ANTHROPIC_API_KEY`. This is NOT an ongoing free tier -- new accounts get
-a one-time ~$5 trial credit, then it's pay-per-token (still cheap for
-this volume, a few cents/day at most, just not $0).
+AHID is a **triage system**, not an automated systematic review. PubMed hit counts are not screened or eligible study counts. The topic score is a transparent heuristic, not a validated model of novelty, feasibility or publication probability. Keyword pairs can retrieve irrelevant studies, and the RCT and observational searches can overlap. Abstract sample-size snippets are not summed because cohorts can overlap and denominators may differ.
 
-## What this tool does NOT do (on purpose)
+Before selecting a topic, researchers must:
+- Export each design-specific search, deduplicate and screen titles/abstracts.
+- Retrieve full texts and confirm eligibility, study design, population, interventions/exposures, comparator, outcomes and follow-up.
+- Check outcome definitions/timepoints, independence of cohorts and whether quantitative pooling is defensible.
+- Assess risk of bias with a design-appropriate tool and assess certainty where relevant.
+- Read existing reviews and check PROSPERO/other registries manually.
+- Select a final question and protocol with a methodologist/statistician.
 
-- It does **not** decide whether the evidence pool is "enough" to justify a
-  meta-analysis. That depends on heterogeneity, study quality, and power --
-  not just a study count. A senior team member / biostatistician should
-  make that call.
-- It does **not** decide whether there's overlapping population with an
-  existing review. Keyword matching can miss real overlap and can also
-  flag false overlap. A person needs to actually read the candidate
-  studies.
-- It does **not** register anything on PROSPERO or submit anything
-  anywhere. It only gets you to the "a person can decide in 5 minutes"
-  stage instead of the "search PubMed manually every day" stage.
+The tool does not promise Q1 publication, impact factor, acceptance or a fixed minimum study count.
 
-Skipping these human checks to move faster is exactly how low-quality,
-rushed meta-analyses end up published and later criticized or retracted --
-the speed advantage isn't worth it if the review doesn't hold up.
+## Data sources and scope
+
+- **PubMed / NCBI E-utilities:** main source of publication metadata, abstracts, PubMed IDs, publication types, MeSH terms and DOI when indexed.
+- **Configured journals:** config/journals.yaml determines the journals used for the recent topic-seed sample and routine journal watch. The design-specific topic searches then run against PubMed as a whole.
+- **Journal RSS feeds:** optional ahead-of-print alerts. RSS items are leads only, not verified indexed records.
+
+Because topic seeds come from the configured journals, this is not an exhaustive global discovery search. Expand and maintain config/journals.yaml for the specialties you actually cover.
 
 ## Setup
 
-1. **Fork/create a new GitHub repo** and push these files to it.
-2. **Add repo secrets** (Settings → Secrets and variables → Actions):
-   - `GEMINI_API_KEY` -- free, from https://aistudio.google.com/apikey
-   - `ANTHROPIC_API_KEY` -- optional, only needed if you set
-     `PICO_PROVIDER=anthropic` to use Claude instead (not free)
-   - `NCBI_API_KEY` -- optional but recommended, free from an NCBI account
-     (raises your rate limit from 3 to 10 requests/sec)
-3. Edit `config/journals.yaml` to add/remove journals. ISSNs matter more
-   than names for the search to work -- double check them against
-   [NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog) if a journal
-   isn't returning results. Optionally add an `rss:` feed URL per journal
-   to catch ahead-of-print items before PubMed indexes them -- check the
-   journal's own site for its RSS link, and verify the URL actually
-   returns entries before relying on it.
-4. The workflow in `.github/workflows/daily_monitor.yml` runs daily at
-   06:00 UTC and commits the report back into `output/`. Adjust the cron
-   schedule for your team's timezone, or trigger it manually from the
-   Actions tab to test it (`workflow_dispatch`).
-5. First run will have no `state/seen_pmids.json` yet -- it'll be created
-   automatically. **The first run will surface everything from the last 7
-   days as "new"** -- that's expected, subsequent runs only show truly new
-   articles.
-
-## Local test run
+Python 3.10+ is recommended.
 
 ```bash
 pip install -r requirements.txt
-export GEMINI_API_KEY=your-key-here
-cd src
-python run_pipeline.py
-cat ../output/report_*.md
 ```
 
-## Extending
+Optional environment variable:
+- NCBI_API_KEY — free NCBI key; increases E-utilities request rate. The pipeline works without it, but runs more slowly.
 
-- Swap the "commit report to repo" step for a Slack webhook or email step
-  if your team prefers notifications over checking the repo.
-- Add a Google Sheet append step so the team has a running log with
-  columns for "reviewed by", "decision", "PROSPERO ID" -- keeps the human
-  decision auditable, which reviewers/editors increasingly expect anyway.
+**No GEMINI_API_KEY, ANTHROPIC_API_KEY, or other generative-AI key is required.**
+
+## Local run
+
+```bash
+cd src
+python run_pipeline.py
+```
+
+The report is written to:
+- output/report_YYYY-MM-DD.md
+- output/report_latest.md
+
+To change the number of candidates assessed, set MAX_TOPIC_CANDIDATES (default 12). More candidates means more PubMed requests and a longer run.
+
+## Tests
+
+Run the rule-based tests without making network requests:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+## GitHub Actions
+
+The workflow in .github/workflows/daily_monitor.yml runs daily on main and can also be started manually from the Actions tab. Pushes to main and feature branches run the same offline tests and discovery pipeline. It:
+- Installs dependencies and runs offline unit tests first.
+- Runs PubMed discovery and writes the Markdown report.
+- Uploads generated reports as a 14-day Actions artifact.
+- Commits updated state and reports only on main; feature-branch runs do not push generated data.
+
+Add NCBI_API_KEY under **Settings → Secrets and variables → Actions** if desired. No Gemini secret is needed.
+
+## State files
+
+- state/seen_pmids.json — newly surfaced primary-study feed.
+- state/seen_review_pmids.json — review/meta-analysis alerts.
+- state/seen_protocol_pmids.json — protocol alerts.
+- state/seen_rss_links.json — RSS item de-duplication.
+
+The topic-discovery seed sample is intentionally re-queried from the preceding 180 days on each run; it is not limited to articles newly seen by the journal watcher.

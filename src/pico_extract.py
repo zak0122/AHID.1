@@ -1,236 +1,181 @@
 """
 pico_extract.py
-----------------
-Drafts a PICO breakdown from an article's abstract using an LLM.
+---------------
+API-key-free, conservative PICO/PECO draft extraction.
 
-Providers:
-- Gemini (default if GEMINI_API_KEY is set): free tier, no credit card.
-  Get a key at https://aistudio.google.com/apikey
-- Anthropic/Claude (used if ANTHROPIC_API_KEY is set instead, or as an
-  automatic fallback when Gemini fails): pay-per-token.
-
-If both keys are present, Gemini is used first. Set PICO_PROVIDER=anthropic
-to force Claude.
-
-Optional env vars:
-- GEMINI_MODEL   : override the Gemini model name without editing code
-- CLAUDE_MODEL   : override the Claude model name without editing code
-
-IMPORTANT: this produces a DRAFT only. Every PICO must be checked against
-the actual abstract by a person before it feeds into any registration
-(e.g. PROSPERO) or write-up decision.
+This module intentionally does not pretend that keyword heuristics are an
+LLM or a full-text screening process. It extracts only explicit signals
+from titles/abstracts, labels uncertainty, and builds reproducible
+title/abstract PubMed search blocks. No Gemini/Anthropic key is required.
 """
 
-import json
-import os
-import time
-from typing import Dict, List
+import re
+from typing import Dict, Optional
 
-import requests
+STOP_WORDS = {
+    "a", "an", "and", "or", "the", "of", "for", "in", "on", "with", "without",
+    "among", "versus", "vs", "compared", "comparison", "effect", "effects",
+    "efficacy", "effectiveness", "safety", "incidence", "prevalence", "risk",
+    "association", "impact", "outcomes", "outcome", "study", "studies",
+    "trial", "trials", "analysis", "analyses", "systematic", "review",
+    "meta", "randomized", "randomised", "prospective", "retrospective",
+    "cohort", "observational", "multicenter", "multicentre", "clinical",
+    "patients", "patient", "adults", "adult", "children", "child",
+    "using", "use", "based", "after", "during", "following", "versus",
+    "new", "updated", "among", "from", "to", "by", "at", "as", "is", "are",
+    "was", "were", "be", "been", "being", "into", "than", "that", "this",
+}
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
-PROVIDER = os.environ.get("PICO_PROVIDER") or ("gemini" if GEMINI_API_KEY else "anthropic")
-
-# Gemini models change often (older ones get shut down and return HTTP 404).
-# The first one is tried first; if it returns 404 the next one is tried.
-# You can also set the GEMINI_MODEL env var to put your own choice first.
-GEMINI_MODELS: List[str] = [
-    m for m in [
-        os.environ.get("GEMINI_MODEL"),
-        "gemini-3-flash-preview",
-        "gemini-3.1-flash-lite-preview",
-    ] if m
+POPULATION_PATTERNS = [
+    r"\b((?:adults?|children|infants?|older adults?|elderly patients?|"
+    r"pregnant women|women|men|patients|participants|individuals|people)"
+    r"\s+(?:with|who have|undergoing|receiving)\s+[^.;:]{3,100})",
+    r"\b(patients?\s+with\s+[^.;:]{3,100})",
 ]
-GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/models"
 
-CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL") or "claude-sonnet-5-5"
+OUTCOME_PATTERNS = [
+    r"\b(?:primary outcome[s]?\s*(?:was|were|:)?\s*)([^.;]{4,120})",
+    r"\b((?:all-cause\s+)?mortality|death|hospitali[sz]ation|recurrence|"
+    r"relapse|disease progression|major adverse cardiovascular events|"
+    r"adverse events|quality of life|treatment response|remission)\b",
+]
 
-PROMPT_TEMPLATE = """You are assisting a physician doing literature surveillance.
-Read the abstract below and extract a draft PICO. Be conservative: if a field
-is not clearly stated, say "unclear" rather than guessing.
-
-Then ALSO draft a "broadened" version of the same PICO -- this is not a
-different question, it is the same question generalized just enough that a
-meta-analyst could plausibly pool studies under it. For example: widen a
-narrow drug dose/formulation to the drug class, widen a single outcome
-timepoint to the outcome family, widen an over-specific population (e.g.
-"elderly Japanese men with HFrEF and eGFR<30") to the clinically meaningful
-population (e.g. "adults with HFrEF and advanced CKD"). Do NOT broaden so far
-that it becomes a different clinical question -- note in
-"broadening_notes" what you widened and why, so a human can sanity check it.
-
-Also suggest two short PubMed search strings (using MeSH-style terms where
-sensible):
-- "narrow_pool_search": estimates studies on the exact PICO as reported
-- "broad_pool_search": estimates studies on the broadened PICO
-These are only rough pool-size proxies, not real search strategies -- a
-human still has to look at what comes back.
-
-Return ONLY valid JSON, no markdown fences, no preamble, in this exact shape:
-{{
-  "population": "...",
-  "intervention": "...",
-  "comparator": "...",
-  "outcome": "...",
-  "study_design": "...",
-  "confidence_notes": "any caveats about ambiguity in the abstract",
-  "broadened_population": "...",
-  "broadened_intervention": "...",
-  "broadened_outcome": "...",
-  "broadening_notes": "what was widened and why, so a human can sanity check it",
-  "narrow_pool_search": "a PubMed search string",
-  "broad_pool_search": "a PubMed search string"
-}}
-
-Title: {title}
-
-Abstract: {abstract}
-"""
+INTERVENTION_PATTERNS = [
+    r"\b(?:effect|efficacy|effectiveness|safety|impact)\s+of\s+([^.;:]{3,100}?)"
+    r"\s+(?:on|in|among|for)\s+",
+    r"\b(?:treated|treatment|therapy|received|receiving|exposed to)\s+"
+    r"([^.;:]{3,90}?)(?:\s+(?:compared with|versus|vs\.?|and)\s+|[,.;])",
+]
 
 
-def _clean_json_text(text: str) -> str:
-    """Strip markdown fences / a leading 'json' label, and trim to the outer {...}."""
-    text = text.strip()
-    if text.startswith("```"):
-        text = text.strip("`").strip()
-    if text.lower().startswith("json"):
-        text = text[4:].strip()
-    start = text.find("{")
-    end = text.rfind("}")
-    if start != -1 and end != -1 and end > start:
-        text = text[start:end + 1]
-    return text
+def _clean(value: str) -> str:
+    value = re.sub(r"\s+", " ", value or "").strip(" \t\r\n,;:.()[]")
+    return value[:180] if value else ""
 
 
-def _extract_gemini_text(data: Dict) -> str:
-    """Join all normal text parts (skips 'thought' parts that newer models may return)."""
-    parts = data["candidates"][0]["content"]["parts"]
-    return "".join(p.get("text", "") for p in parts if not p.get("thought"))
+def _first_match(patterns, text: str) -> str:
+    for pattern in patterns:
+        match = re.search(pattern, text, flags=re.IGNORECASE)
+        if match:
+            value = _clean(match.group(1))
+            if value:
+                return value
+    return ""
 
 
-def _draft_pico_gemini(prompt: str, max_retries: int = 3) -> Dict:
-    # NOTE: never put the API key in an error message. Errors here can end up
-    # committed to the public output report.
-    params = {"key": GEMINI_API_KEY}
-    body = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            # Newer Gemini models "think" first and thinking tokens count
-            # toward this limit, so keep it generous or the JSON gets cut off.
-            "maxOutputTokens": 4096,
-            "temperature": 0.2,
-            "responseMimeType": "application/json",
-        },
-    }
-
-    last_error = "Gemini request failed."
-
-    for model in GEMINI_MODELS:
-        url = f"{GEMINI_BASE_URL}/{model}:generateContent"
-
-        for attempt in range(max_retries):
-            try:
-                r = requests.post(url, params=params, json=body, timeout=90)
-            except requests.RequestException as e:
-                return {"error": f"Gemini request failed: {type(e).__name__}"}
-
-            if r.status_code == 429:
-                if attempt < max_retries - 1:
-                    time.sleep(2 ** attempt * 5)  # 5s, 10s
-                    continue
-                return {
-                    "error": (
-                        "Gemini free-tier quota/rate limit exceeded (HTTP 429) "
-                        "after retries. Check quota at https://aistudio.google.com/apikey, "
-                        "or add ANTHROPIC_API_KEY to use Claude as a fallback."
-                    )
-                }
-
-            if r.status_code == 404:
-                # Model name retired or wrong -> try the next model in the list.
-                last_error = (
-                    f"Gemini model '{model}' returned HTTP 404 (model retired or "
-                    "name wrong). Update GEMINI_MODELS in pico_extract.py."
-                )
-                break
-
-            if not r.ok:
-                return {"error": f"Gemini request failed with HTTP {r.status_code} (model {model})."}
-
-            try:
-                text = _extract_gemini_text(r.json())
-            except (KeyError, IndexError, ValueError):
-                return {"error": "Gemini response had no usable text (possibly blocked or empty)."}
-
-            try:
-                return json.loads(_clean_json_text(text))
-            except json.JSONDecodeError:
-                return {"error": "Could not parse Gemini output as JSON (output may be cut off)."}
-
-    return {"error": last_error}
+def _search_terms(value: str) -> str:
+    words = re.findall(r"[A-Za-z0-9][A-Za-z0-9'-]{2,}", value or "")
+    # Keep clinically meaningful terms; avoid broad generic words.
+    kept = []
+    for word in words:
+        if word.lower() not in STOP_WORDS and word.lower() not in {x.lower() for x in kept}:
+            kept.append(word)
+    return " AND ".join(f'"{word}"[tiab]' for word in kept[:5])
 
 
-def _draft_pico_anthropic(prompt: str) -> Dict:
-    import anthropic  # imported lazily so Gemini-only setups don't need this package
+def draft_pico(title: str, abstract: str, study_design: Optional[str] = None) -> Dict:
+    """Return an explicitly heuristic PICO/PECO draft with uncertainty notes."""
+    title = _clean(title)
+    abstract = (abstract or "").strip()
+    text = f"{title}. {abstract}"
+    lower = text.lower()
 
-    try:
-        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-        msg = client.messages.create(
-            model=CLAUDE_MODEL,
-            max_tokens=1500,
-            messages=[{"role": "user", "content": prompt}],
+    population = _first_match(POPULATION_PATTERNS, text)
+    if population:
+        population = re.split(
+            r"\b(?:were|are|was|is|have|had|underwent|received|randomized|randomised|assigned|enrolled|included)\b",
+            population, maxsplit=1, flags=re.IGNORECASE,
+        )[0].strip()
+    intervention = _first_match(INTERVENTION_PATTERNS, text)
+
+    # Detect explicit head-to-head comparisons without guessing the arms.
+    comparator = ""
+    comparison = re.search(
+        r"\b(?:trial of|effect of|efficacy of|safety of|treatment with|comparison of)\s+"
+        r"([^,;:.]{2,60}?)\s+(?:versus|vs\.?|compared with|compared to)\s+"
+        r"([^,;:.]{2,60}?)(?=\s+(?:in|among|for|with)\b|[,.;:]|$)",
+        title, flags=re.IGNORECASE,
+    )
+    if not comparison:
+        comparison = re.search(
+            r"^([^,;:.]{2,60}?)\s+(?:versus|vs\.?|compared with|compared to)\s+"
+            r"([^,;:.]{2,60}?)(?=\s+(?:in|among|for|with)\b|[,.;:]|$)",
+            title, flags=re.IGNORECASE,
         )
-    except Exception as e:
-        return {"error": f"Claude request failed: {type(e).__name__}"}
+    if comparison:
+        intervention = _clean(comparison.group(1))
+        comparator = _clean(comparison.group(2))
+    else:
+        comparator_match = re.search(
+            r"\b(?:versus|vs\.?|compared with|compared to)\s+([^.;,:]{2,80})",
+            text, flags=re.IGNORECASE,
+        )
+        if comparator_match:
+            comparator = _clean(comparator_match.group(1))
 
-    text = "".join(block.text for block in msg.content if block.type == "text")
-    try:
-        return json.loads(_clean_json_text(text))
-    except json.JSONDecodeError:
-        return {"error": "Could not parse Claude output as JSON."}
+    outcome = _first_match(OUTCOME_PATTERNS, abstract or title)
+    if not outcome:
+        outcome = _first_match(OUTCOME_PATTERNS, title)
 
+    if not population:
+        # Conservative fallback: a population may be implied in a title,
+        # but is not inferred from disease terms alone.
+        population = "unclear from title/abstract"
+    if not intervention:
+        intervention = "exposure/intervention unclear; inspect abstract"
+    if not comparator:
+        comparator = "not clearly reported in title/abstract"
+    if not outcome:
+        outcome = "outcome unclear; inspect full abstract"
 
-def draft_pico(title: str, abstract: str) -> Dict:
-    if not abstract or len(abstract.strip()) < 40:
-        return {"error": "Abstract too short or missing -- cannot draft PICO reliably."}
+    design = study_design or "Not classified; inspect PubMed publication types"
+    notes = [
+        "Automated rule-based draft; not an LLM extraction.",
+        "Verify population, exposure/intervention, comparator, outcome and design against the full text.",
+    ]
+    found = sum([
+        population != "unclear from title/abstract",
+        intervention != "exposure/intervention unclear; inspect abstract",
+        outcome != "outcome unclear; inspect full abstract",
+    ])
+    confidence = "low" if found <= 1 else ("moderate" if found == 2 else "moderate; verify manually")
+    notes.append(f"Extraction signal: {found}/3 core fields explicit ({confidence} confidence).")
 
-    prompt = PROMPT_TEMPLATE.format(title=title, abstract=abstract)
+    search_blocks = [_search_terms(x) for x in (population, intervention, outcome)
+                     if x and "unclear" not in x and "inspect" not in x]
+    narrow_search = " AND ".join(f"({block})" for block in search_blocks)
+    if not narrow_search:
+        narrow_search = _search_terms(title)
 
-    if PROVIDER == "gemini":
-        if not GEMINI_API_KEY:
-            return {"error": "PICO_PROVIDER=gemini but GEMINI_API_KEY is not set."}
+    # Broaden using a shorter title/abstract keyword set, never by inventing a
+    # MeSH heading. Add MeSH terms only after a human verifies the descriptor.
+    broad_terms = _search_terms(title + " " + (abstract[:700] if abstract else ""))
+    broad_search = broad_terms or narrow_search
 
-        result = _draft_pico_gemini(prompt)
-
-        # If Gemini failed for ANY reason and a Claude key exists, fall back
-        # automatically instead of failing every article.
-        if "error" in result and ANTHROPIC_API_KEY:
-            fallback = _draft_pico_anthropic(prompt)
-            if "error" not in fallback:
-                fallback["confidence_notes"] = (
-                    fallback.get("confidence_notes", "")
-                    + f" [Note: drafted by Claude fallback -- Gemini error: {result['error']}]"
-                ).strip()
-                return fallback
-        return result
-
-    elif PROVIDER == "anthropic":
-        if not ANTHROPIC_API_KEY:
-            return {"error": "PICO_PROVIDER=anthropic but ANTHROPIC_API_KEY is not set."}
-        return _draft_pico_anthropic(prompt)
-
-    return {"error": f"Unknown PICO_PROVIDER '{PROVIDER}' -- use 'gemini' or 'anthropic'."}
+    return {
+        "population": population,
+        "intervention": intervention,
+        "comparator": comparator,
+        "outcome": outcome,
+        "study_design": design,
+        "confidence_notes": " ".join(notes),
+        "extraction_confidence": confidence,
+        "broadened_population": population,
+        "broadened_intervention": intervention,
+        "broadened_outcome": outcome,
+        "broadening_notes": "No automatic clinical broadening was made; this avoids changing the research question without evidence.",
+        "narrow_pool_search": narrow_search,
+        "broad_pool_search": broad_search,
+        "method": "rule_based_no_external_ai",
+    }
 
 
 if __name__ == "__main__":
-    # quick manual test
-    sample_title = "Example RCT of Drug X vs placebo in heart failure"
-    sample_abstract = (
-        "Background: Drug X has shown promise in small trials. Methods: We "
-        "randomized 400 adults with HFrEF to Drug X or placebo for 12 months. "
-        "Results: Drug X reduced hospitalization for heart failure (HR 0.78). "
-        "Conclusion: Drug X reduces HF hospitalization in HFrEF patients."
+    import json
+    sample = draft_pico(
+        "Randomized trial of Drug X versus placebo in adults with heart failure",
+        "Methods: Adults with heart failure were randomized to Drug X or placebo. "
+        "The primary outcome was all-cause mortality.",
+        "Randomized controlled trial (RCT)",
     )
-    print(f"Using provider: {PROVIDER}")
-    print(json.dumps(draft_pico(sample_title, sample_abstract), indent=2))
+    print(json.dumps(sample, indent=2))

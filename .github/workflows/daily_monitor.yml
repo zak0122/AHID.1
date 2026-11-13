@@ -1,69 +1,62 @@
-name: Daily Journal Watch
+name: AHID SRMA Topic Discovery
 
 on:
+  push:
+    branches: ["main", "feature/**"]
   schedule:
-    # Runs every 6 hours -- PubMed's own indexing lag (often 1-3 days from
-    # publication) is the real bottleneck, so checking more than a few
-    # times a day won't surface things any faster than that, but this
-    # keeps you close to that lag instead of losing extra time to a
-    # once-a-day check. Adjust to your team's timezone/quota needs.
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+    # Daily run: topic discovery samples the previous 180 days of configured journals.
+    - cron: "17 3 * * *"
+  workflow_dispatch: {}
 
 permissions:
-  contents: write  # needed to commit state.json / report back to the repo
+  contents: write
+
+concurrency:
+  group: ahid-topic-discovery
+  cancel-in-progress: false
 
 jobs:
-  monitor:
+  discover:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Run pipeline
+      - name: Run offline unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Run PubMed discovery and topic ranking
         working-directory: src
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          # Optional: only needed if you set PICO_PROVIDER=anthropic instead
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          MAX_TOPIC_CANDIDATES: "12"
         run: python run_pipeline.py
 
-      - name: Commit updated state and report
-        run: |
-          git config user.name "journal-watch-bot"
-          git config user.email "actions@github.com"
-          git add state/seen_pmids.json output/*.md
-          git diff --cached --quiet || git commit -m "Daily journal watch update"
-          git push
+      - name: Upload generated report
+        uses: actions/upload-artifact@v4
+        with:
+          name: ahid-srma-report-${{ github.run_number }}
+          path: output/report_latest.md
+          if-no-files-found: error
+          retention-days: 14
 
-      # Emails the report to your team every run. To enable:
-      # 1. Use a Gmail (or other SMTP) account. For Gmail: turn on 2-Step
-      #    Verification, then create an "App Password" at
-      #    https://myaccount.google.com/apppasswords -- use THAT, not your
-      #    normal Gmail password.
-      # 2. In this repo: Settings -> Secrets and variables -> Actions, add:
-      #    EMAIL_USERNAME = your Gmail address
-      #    EMAIL_APP_PASSWORD = the 16-char app password from step 1
-      # 3. Replace the "to:" line below with your team's real email
-      #    addresses (comma-separated), then remove the leading "#" from
-      #    every line in this step.
-      #
-      # - name: Email report to team
-      #   uses: dawidd6/action-send-mail@v3
-      #   with:
-      #     server_address: smtp.gmail.com
-      #     server_port: 465
-      #     username: ${{ secrets.EMAIL_USERNAME }}
-      #     password: ${{ secrets.EMAIL_APP_PASSWORD }}
-      #     subject: "Journal Watch Report"
-      #     to: teammate1@example.com,teammate2@example.com
-      #     from: Journal Watch Bot
-      #     body: file://output/report_latest.md
-      #     convert_markdown: true
+      - name: Commit state and report (main branch only)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "ahid-topic-discovery[bot]"
+          git config user.email "ahid-topic-discovery[bot]@users.noreply.github.com"
+          git add -A state output
+          git diff --cached --quiet || git commit -m "Daily AHID SRMA topic discovery report"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
