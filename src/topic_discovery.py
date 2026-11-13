@@ -203,7 +203,7 @@ def _assess_candidate(candidate: Dict) -> Dict:
         item = details.get(pmid)
         if item and item.get("study_design") == DESIGN_ORDER[0]:
             rct_refs.append(item)
-    observational_designs = set(DESIGN_ORDER[2:8])
+    observational_designs = set(DESIGN_ORDER[3:9])
     for pmid in obs_ids:
         item = details.get(pmid)
         if item and item.get("study_design") in observational_designs:
