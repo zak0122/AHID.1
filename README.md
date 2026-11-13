@@ -7,7 +7,7 @@ AHID is a reproducible PubMed-based research surveillance and SRMA topic-triage 
 1. **Broad PubMed retrieval.** Uses publication-type tags, MeSH terms and title/abstract text words. This is intentionally not MeSH-only because new records may not have completed MEDLINE indexing.
 2. **Study-design classification.** Classifies RCTs, non-randomized clinical trials, prospective cohorts, retrospective cohorts, cohorts with unclear direction, case-control studies, cross-sectional studies and other observational studies separately. Uncertain records remain labelled as uncertain for manual screening.
 3. **Separate review and protocol alerts.** Systematic reviews/meta-analyses are reported separately from protocols; protocols are not treated as results studies.
-4. **Topic candidate generation.** Samples recent primary studies from the configured journal set, derives title-keyword candidates and checks them against PubMed.
+4. **Topic candidate generation.** Samples recent primary studies from the configured journal set, derives co-occurring clinical concepts from MeSH descriptors plus title/abstract terms, and checks them against PubMed.
 5. **Two separate SRMA tracks.** Every candidate gets independent RCT and observational search counts, references and scores. Do not pool those designs together merely because they concern the same topic.
 6. **Existing-review signal.** Searches for systematic reviews/meta-analyses separately and links to a PROSPERO title search.
 7. **Transparent PICO drafts.** Extracts only what simple text rules can identify. It does not call Gemini, Claude or another LLM, and it marks unclear fields rather than fabricating details.
