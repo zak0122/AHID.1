@@ -58,6 +58,9 @@ python run_pipeline.py
 The report is written to:
 - output/report_YYYY-MM-DD.md
 - output/report_latest.md
+- outcomes/YYYY/MM/DD/report_run-N.md — immutable daily archive
+- outcomes/YYYY/MM/DD/metadata_run-N.json — run provenance and report checksum
+- outcomes/YYYY/README.md — yearly chronological index
 
 To change the number of candidates assessed, set MAX_TOPIC_CANDIDATES (default 12). More candidates means more PubMed requests and a longer run.
 
@@ -86,4 +89,26 @@ Add NCBI_API_KEY under **Settings → Secrets and variables → Actions** if des
 - state/seen_protocol_pmids.json — protocol alerts.
 - state/seen_rss_links.json — RSS item de-duplication.
 
-The topic-discovery seed sample is intentionally re-queried from the preceding 180 days on each run; it is not limited to articles newly seen by the journal watcher.
+Topic discovery now starts from a bounded PubMed-wide primary-study sample from the preceding 365 days, then adds a small configured-journal supplement. It is not limited to the journal list, but it is still a bounded discovery sample rather than an exhaustive systematic search. The sample is independent of the newly-seen journal watcher.
+
+## Daily outcomes archive
+
+Every successful pipeline run saves an immutable snapshot under `outcomes/YYYY/MM/DD/`:
+- `report_run-N.md`: the complete human-readable report for that workflow run.
+- `metadata_run-N.json`: date, UTC save time, Git commit, workflow run identifiers and SHA-256 report checksum.
+- `outcomes/YYYY/README.md`: chronological index for year-end review.
+
+Multiple runs on one date are preserved separately. The archive is committed only by scheduled/manual runs on `main`; feature-branch runs upload test artifacts without changing the historical archive. Keep the archive in Git so it can be searched, compared and amended through normal pull requests. Future pipeline changes should record their rationale in the repository changelog and preserve prior daily snapshots.
+
+
+## Citation-level screening outputs
+
+For each discovered candidate, the daily pipeline exports separate RCT, observational and review CSVs under `output/screening/YYYY-MM-DD/`. The exports contain PMID, DOI, title, design label, abstract, PubMed link and a conservative triage label.
+
+- Duplicate records are removed by PMID, DOI and normalized title.
+- Reviews are marked as secondary evidence rather than primary-study records.
+- Clear protocols/editorials/letters are flagged out of the results pool.
+- Other citations remain `unclear_human_screen` or `manual_check`; the tool does not claim final eligibility without topic-specific criteria and full-text review.
+- Screening CSVs are uploaded as GitHub Actions artifacts and committed with daily outputs on main.
+
+The current PICO/PECO extraction is a seed-article draft, not a validated protocol. Before screening, the research team must refine the question, define inclusion/exclusion criteria and check the search strategy across relevant databases.

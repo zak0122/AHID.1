@@ -262,9 +262,20 @@ def _priority(count: int, reviews: int, is_rct: bool) -> str:
     return "EARLY SIGNAL — insufficient evidence count so far"
 
 
+def _search_variants(term_a: str, term_b: str) -> Dict[str, str]:
+    """Return broad and focused discovery variants; human review is required."""
+    a = _concept_query(term_a)
+    b = _concept_query(term_b)
+    broad = f"(({a}) OR ({b}))"
+    clean_a = term_a.replace(chr(34), "")
+    clean_b = term_b.replace(chr(34), "")
+    focused = f'("{clean_a}"[tiab]) AND ("{clean_b}"[tiab])'
+    return {"broad": broad, "focused": focused}
+
 def _assess_candidate(candidate: Dict) -> Dict:
     term_a, term_b = candidate["terms"]
     topic_query = f'({_concept_query(term_a)}) AND ({_concept_query(term_b)})'
+    variants = _search_variants(term_a, term_b)
     rct_search = f"({topic_query}) AND ({RCT_QUERY})"
     obs_search = f"({topic_query}) AND ({OBSERVATIONAL_QUERY})"
     review_search = f"({topic_query}) AND ({REVIEW_QUERY})"
@@ -329,7 +340,9 @@ def _assess_candidate(candidate: Dict) -> Dict:
                 "sample_size": _sample_size(item.get("abstract", "")),
                 "link": item.get("link", ""),
                 "doi_link": item.get("doi_link", ""),
-            } for item in rct_refs[:8]
+                "abstract": item.get("abstract", ""),
+                "publication_types": item.get("publication_types", []),
+            } for item in rct_refs[:20]
         ],
         "observational_refs": [
             {
@@ -340,9 +353,13 @@ def _assess_candidate(candidate: Dict) -> Dict:
                 "sample_size": _sample_size(item.get("abstract", "")),
                 "link": item.get("link", ""),
                 "doi_link": item.get("doi_link", ""),
-            } for item in obs_refs[:8]
+                "abstract": item.get("abstract", ""),
+                "publication_types": item.get("publication_types", []),
+            } for item in obs_refs[:20]
         ],
         "search_query": topic_query,
+        "broad_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(variants["broad"]),
+        "focused_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(variants["focused"]),
         "rct_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(rct_search),
         "observational_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(obs_search),
         "pubmed_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(topic_query),
