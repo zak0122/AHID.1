@@ -45,13 +45,13 @@ def _ref_lines(refs):
     return lines
 
 
-def _topic_section(topics, design_key, priority_key, heading):
+def _topic_section(topics, design_key, priority_key, title_key, heading):
     lines = [f"\n## {heading}\n"]
     if not topics:
         return lines + ["No topic candidates could be assessed in this run.\n"]
     ranked = sorted(topics, key=lambda x: x[design_key], reverse=True)[:5]
     for index, topic in enumerate(ranked, 1):
-        lines.append(f"### {index}. {topic['provisional_title']}")
+        lines.append(f"### {index}. {topic[title_key]}")
         lines.append(
             f"**Candidate source:** {topic.get('candidate_source', 'title/abstract')}  \n"
             f"**Seed records sharing concepts:** {topic['seed_count']}  \n"
@@ -196,11 +196,11 @@ def build_report() -> str:
         lines.append(f"\n**Topic discovery warning:** {type(exc).__name__}: {exc}")
 
     lines.extend(_topic_section(
-        topics, "rct_score", "rct_priority",
+        topics, "rct_score", "rct_priority", "rct_title",
         "6. Ranked topics for RCT-only SRMA consideration",
     ))
     lines.extend(_topic_section(
-        topics, "observational_score", "observational_priority",
+        topics, "observational_score", "observational_priority", "observational_title",
         "7. Ranked topics for observational-study SRMA consideration",
     ))
 
