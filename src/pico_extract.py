@@ -81,6 +81,11 @@ def draft_pico(title: str, abstract: str, study_design: Optional[str] = None) ->
     lower = text.lower()
 
     population = _first_match(POPULATION_PATTERNS, text)
+    if population:
+        population = re.split(
+            r"\\b(?:were|are|was|is|have|had|underwent|received|randomized|randomised|assigned|enrolled|included)\\b",
+            population, maxsplit=1, flags=re.IGNORECASE,
+        )[0].strip()
     intervention = _first_match(INTERVENTION_PATTERNS, text)
 
     # Detect explicit head-to-head comparisons without guessing the arms.
