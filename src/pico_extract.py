@@ -83,7 +83,7 @@ def draft_pico(title: str, abstract: str, study_design: Optional[str] = None) ->
     population = _first_match(POPULATION_PATTERNS, text)
     if population:
         population = re.split(
-            r"\\b(?:were|are|was|is|have|had|underwent|received|randomized|randomised|assigned|enrolled|included)\\b",
+            r"\b(?:were|are|was|is|have|had|underwent|received|randomized|randomised|assigned|enrolled|included)\b",
             population, maxsplit=1, flags=re.IGNORECASE,
         )[0].strip()
     intervention = _first_match(INTERVENTION_PATTERNS, text)
@@ -91,8 +91,10 @@ def draft_pico(title: str, abstract: str, study_design: Optional[str] = None) ->
     # Detect explicit head-to-head comparisons without guessing the arms.
     comparator = ""
     comparison = re.search(
-        r"\b([A-Z][A-Za-z0-9+®™./ -]{1,55}?)\s+(?:versus|vs\.?|compared with|compared to)\s+"
-        r"([A-Z][A-Za-z0-9+®™./ -]{1,55}?)(?=[,.;:]|$)",
+        r"\b([A-Z][A-Za-z0-9+®™./-]*(?:\s+[A-Z][A-Za-z0-9+®™./-]*){0,4})"
+        r"\s+(?:versus|vs\.?|compared with|compared to)\s+"
+        r"([A-Za-z][A-Za-z0-9+®™./-]*(?:\s+[A-Za-z][A-Za-z0-9+®™./-]*){0,4})"
+        r"(?=\s+(?:in|among|for|with)\b|[,.;:]|$)",
         title,
     )
     if comparison:
