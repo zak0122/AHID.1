@@ -165,17 +165,12 @@ def _sample_size(abstract: str) -> str:
     return "not reported in abstract"
 
 
-def _score(evidence_count: int, review_count: int, seed_count: int,
-           is_rct: bool, has_both_designs: bool) -> int:
-    """Transparent heuristic score (not a validated prediction model)."""
-    evidence = min(50.0, 13.0 * math.log2(max(evidence_count, 0) + 1))
-    novelty = max(0.0, 25.0 - 8.0 * min(review_count, 3))
-    seed_signal = min(10.0, 3.0 + 3.0 * math.log2(max(seed_count, 1)))
-    design_balance = 5.0 if has_both_designs else 0.0
-    # Small penalty when the requested design stream has no evidence.
-    if evidence_count == 0:
-        evidence = 0.0
-    return int(round(min(100.0, evidence + novelty + seed_signal + design_balance)))
+def _score(evidence_count: int, review_count: int, seed_count: int) -> int:
+    """Transparent per-design heuristic score (not a validated prediction model)."""
+    evidence = min(55.0, 14.0 * math.log2(max(evidence_count, 0) + 1))
+    novelty = max(0.0, 30.0 - 10.0 * min(review_count, 3))
+    seed_signal = min(15.0, 4.0 + 4.0 * math.log2(max(seed_count, 1)))
+    return int(round(min(100.0, evidence + novelty + seed_signal)))
 
 
 def _priority(count: int, reviews: int, is_rct: bool) -> str:
@@ -192,33 +187,37 @@ def _priority(count: int, reviews: int, is_rct: bool) -> str:
 def _assess_candidate(candidate: Dict) -> Dict:
     term_a, term_b = candidate["terms"]
     topic_query = f'"{term_a}"[tiab] AND "{term_b}"[tiab]'
-    rct_count, rct_ids = _pubmed_search(f"({topic_query}) AND ({RCT_QUERY})")
-    obs_count, obs_ids = _pubmed_search(
-        f"({topic_query}) AND ({OBSERVATIONAL_QUERY})"
-    )
-    review_count, review_ids = _pubmed_search(
-        f"({topic_query}) AND ({REVIEW_QUERY})"
-    )
+    rct_search = f"({topic_query}) AND ({RCT_QUERY})"
+    obs_search = f"({topic_query}) AND ({OBSERVATIONAL_QUERY})"
+    review_search = f"({topic_query}) AND ({REVIEW_QUERY})"
+    rct_count, rct_ids = _pubmed_search(rct_search)
+    obs_count, obs_ids = _pubmed_search(obs_search)
+    review_count, review_ids = _pubmed_search(review_search)
 
-    all_ids = list(dict.fromkeys(rct_ids + obs_ids))[:40]
+    all_ids = list(dict.fromkeys(rct_ids + obs_ids + review_ids))[:75]
     details = _efetch_abstracts(all_ids)
     rct_refs = []
     obs_refs = []
+    review_refs = []
     for pmid in rct_ids:
         item = details.get(pmid)
-        if item:
+        if item and item.get("study_design") == DESIGN_ORDER[0]:
             rct_refs.append(item)
+    observational_designs = set(DESIGN_ORDER[2:8])
     for pmid in obs_ids:
         item = details.get(pmid)
-        if item:
+        if item and item.get("study_design") in observational_designs:
             obs_refs.append(item)
+    for pmid in review_ids:
+        item = details.get(pmid)
+        if item and item.get("study_design") == "Systematic review / meta-analysis":
+            review_refs.append(item)
 
     seeds = candidate["seed_records"]
     seed = seeds[0]
     pico = draft_pico(seed.get("title", ""), seed.get("abstract", ""),
                       seed.get("study_design", ""))
     total = rct_count + obs_count
-    has_both = rct_count > 0 and obs_count > 0
     phrase = f"{term_a} {term_b}"
     return {
         "topic": phrase,
@@ -233,8 +232,8 @@ def _assess_candidate(candidate: Dict) -> Dict:
         "observational_count": obs_count,
         "total_primary_hits": total,
         "review_count": review_count,
-        "rct_score": _score(rct_count, review_count, candidate["seed_count"], True, has_both),
-        "observational_score": _score(obs_count, review_count, candidate["seed_count"], False, has_both),
+        "rct_score": _score(rct_count, review_count, candidate["seed_count"]),
+        "observational_score": _score(obs_count, review_count, candidate["seed_count"]),
         "rct_priority": _priority(rct_count, review_count, True),
         "observational_priority": _priority(obs_count, review_count, False),
         "pico": pico,
@@ -261,10 +260,22 @@ def _assess_candidate(candidate: Dict) -> Dict:
             } for item in obs_refs[:8]
         ],
         "search_query": topic_query,
+        "rct_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(rct_search),
+        "observational_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(obs_search),
         "pubmed_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(topic_query),
-        "review_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(
-            f"({topic_query}) AND ({REVIEW_QUERY})"
-        ),
+        "review_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(review_search),
+        "review_refs": [
+            {
+                "title": item.get("title", ""),
+                "pmid": item.get("pmid", ""),
+                "doi": item.get("doi", ""),
+                "link": item.get("link", ""),
+            } for item in review_refs[:8]
+        ],
+        "observational_design_counts": {
+            design: sum(1 for item in obs_refs if item.get("study_design") == design)
+            for design in observational_designs
+        },
         "prospero_search_url": "https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch="
         + quote_plus(phrase),
         "limitations": (
