@@ -91,12 +91,17 @@ def draft_pico(title: str, abstract: str, study_design: Optional[str] = None) ->
     # Detect explicit head-to-head comparisons without guessing the arms.
     comparator = ""
     comparison = re.search(
-        r"\b([A-Z][A-Za-z0-9+®™./-]*(?:\s+[A-Z][A-Za-z0-9+®™./-]*){0,4})"
-        r"\s+(?:versus|vs\.?|compared with|compared to)\s+"
-        r"([A-Za-z][A-Za-z0-9+®™./-]*(?:\s+[A-Za-z][A-Za-z0-9+®™./-]*){0,4})"
-        r"(?=\s+(?:in|among|for|with)\b|[,.;:]|$)",
-        title,
+        r"\b(?:trial of|effect of|efficacy of|safety of|treatment with|comparison of)\s+"
+        r"([^,;:.]{2,60}?)\s+(?:versus|vs\.?|compared with|compared to)\s+"
+        r"([^,;:.]{2,60}?)(?=\s+(?:in|among|for|with)\b|[,.;:]|$)",
+        title, flags=re.IGNORECASE,
     )
+    if not comparison:
+        comparison = re.search(
+            r"^([^,;:.]{2,60}?)\s+(?:versus|vs\.?|compared with|compared to)\s+"
+            r"([^,;:.]{2,60}?)(?=\s+(?:in|among|for|with)\b|[,.;:]|$)",
+            title, flags=re.IGNORECASE,
+        )
     if comparison:
         intervention = _clean(comparison.group(1))
         comparator = _clean(comparison.group(2))
