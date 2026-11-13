@@ -53,6 +53,8 @@ def _topic_section(topics, design_key, priority_key, heading):
     for index, topic in enumerate(ranked, 1):
         lines.append(f"### {index}. {topic['provisional_title']}")
         lines.append(
+            f"**Candidate source:** {topic.get('candidate_source', 'title/abstract')}  \n"
+            f"**Seed records sharing concepts:** {topic['seed_count']}  \n"
             f"**Score:** {topic[design_key]}/100 (heuristic triage, not a validated model)  \n"
             f"**Decision signal:** {topic[priority_key]}  \n"
             f"**Recent journal seed records:** {topic['seed_count']}  \n"
