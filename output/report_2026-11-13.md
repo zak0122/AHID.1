@@ -41,22 +41,22 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - **Brain Magnetic Resonance Imaging (observational):** 9 retrieved; 0 duplicates removed; 9 unique; 9 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/brain-magnetic-resonance-imaging_observational.csv`
 - **Brain Magnetic Resonance Imaging (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 1 unclear for human screening; 0 manual checks; 7 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/brain-magnetic-resonance-imaging_reviews.csv`
 - **Risk Factors Sweden (rct):** 17 retrieved; 0 duplicates removed; 17 unique; 17 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/risk-factors-sweden_rct.csv`
-- **Risk Factors Sweden (observational):** 16 retrieved; 0 duplicates removed; 16 unique; 16 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/risk-factors-sweden_observational.csv`
-- **Risk Factors Sweden (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 5 unclear for human screening; 0 manual checks; 3 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/risk-factors-sweden_reviews.csv`
-- **Depression Longitudinal Studies (rct):** 4 retrieved; 0 duplicates removed; 4 unique; 4 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/depression-longitudinal-studies_rct.csv`
+- **Risk Factors Sweden (observational):** 15 retrieved; 0 duplicates removed; 15 unique; 15 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/risk-factors-sweden_observational.csv`
+- **Risk Factors Sweden (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 6 unclear for human screening; 0 manual checks; 2 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/risk-factors-sweden_reviews.csv`
+- **Depression Longitudinal Studies (rct):** 5 retrieved; 0 duplicates removed; 5 unique; 5 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/depression-longitudinal-studies_rct.csv`
 - **Depression Longitudinal Studies (observational):** 15 retrieved; 0 duplicates removed; 15 unique; 15 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/depression-longitudinal-studies_observational.csv`
-- **Depression Longitudinal Studies (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 1 unclear for human screening; 0 manual checks; 7 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/depression-longitudinal-studies_reviews.csv`
-- **artery coronary (rct):** 19 retrieved; 0 duplicates removed; 19 unique; 19 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/artery-coronary_rct.csv`
+- **Depression Longitudinal Studies (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 0 unclear for human screening; 0 manual checks; 8 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/depression-longitudinal-studies_reviews.csv`
+- **artery coronary (rct):** 20 retrieved; 0 duplicates removed; 20 unique; 20 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/artery-coronary_rct.csv`
 - **artery coronary (observational):** 16 retrieved; 0 duplicates removed; 16 unique; 16 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/artery-coronary_observational.csv`
 - **artery coronary (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 0 unclear for human screening; 0 manual checks; 8 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/artery-coronary_reviews.csv`
-- **Machine Learning Predictive Learning Models (rct):** 13 retrieved; 0 duplicates removed; 13 unique; 13 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/machine-learning-predictive-learning-models_rct.csv`
-- **Machine Learning Predictive Learning Models (observational):** 17 retrieved; 0 duplicates removed; 17 unique; 17 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/machine-learning-predictive-learning-models_observational.csv`
+- **Machine Learning Predictive Learning Models (rct):** 12 retrieved; 0 duplicates removed; 12 unique; 12 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/machine-learning-predictive-learning-models_rct.csv`
+- **Machine Learning Predictive Learning Models (observational):** 18 retrieved; 0 duplicates removed; 18 unique; 18 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/machine-learning-predictive-learning-models_observational.csv`
 - **Machine Learning Predictive Learning Models (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 2 unclear for human screening; 0 manual checks; 6 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/machine-learning-predictive-learning-models_reviews.csv`
 - **Incidence Risk Factors (rct):** 20 retrieved; 0 duplicates removed; 20 unique; 20 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/incidence-risk-factors_rct.csv`
 - **Incidence Risk Factors (observational):** 17 retrieved; 0 duplicates removed; 17 unique; 17 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/incidence-risk-factors_observational.csv`
 - **Incidence Risk Factors (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 0 unclear for human screening; 0 manual checks; 8 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/incidence-risk-factors_reviews.csv`
-- **Registries Risk Factors (rct):** 16 retrieved; 0 duplicates removed; 16 unique; 16 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/registries-risk-factors_rct.csv`
-- **Registries Risk Factors (observational):** 18 retrieved; 0 duplicates removed; 18 unique; 18 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/registries-risk-factors_observational.csv`
+- **Registries Risk Factors (rct):** 15 retrieved; 0 duplicates removed; 15 unique; 15 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/registries-risk-factors_rct.csv`
+- **Registries Risk Factors (observational):** 19 retrieved; 0 duplicates removed; 19 unique; 19 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/registries-risk-factors_observational.csv`
 - **Registries Risk Factors (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 0 unclear for human screening; 0 manual checks; 8 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/registries-risk-factors_reviews.csv`
 - **double-blind placebo-controlled (rct):** 20 retrieved; 0 duplicates removed; 20 unique; 20 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/double-blind-placebo-controlled_rct.csv`
 - **double-blind placebo-controlled (observational):** 1 retrieved; 0 duplicates removed; 1 unique; 1 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/double-blind-placebo-controlled_observational.csv`
@@ -65,7 +65,7 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - **failure heart (observational):** 17 retrieved; 0 duplicates removed; 17 unique; 17 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/failure-heart_observational.csv`
 - **failure heart (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 0 unclear for human screening; 0 manual checks; 8 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/failure-heart_reviews.csv`
 - **Antihypertensive Agents Hypertension (rct):** 20 retrieved; 0 duplicates removed; 20 unique; 20 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/antihypertensive-agents-hypertension_rct.csv`
-- **Antihypertensive Agents Hypertension (observational):** 15 retrieved; 0 duplicates removed; 15 unique; 15 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/antihypertensive-agents-hypertension_observational.csv`
+- **Antihypertensive Agents Hypertension (observational):** 17 retrieved; 0 duplicates removed; 17 unique; 17 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/antihypertensive-agents-hypertension_observational.csv`
 - **Antihypertensive Agents Hypertension (reviews):** 8 retrieved; 0 duplicates removed; 8 unique; 0 unclear for human screening; 0 manual checks; 8 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/antihypertensive-agents-hypertension_reviews.csv`
 - **Cognition Neuropsychological Tests (rct):** 20 retrieved; 0 duplicates removed; 20 unique; 20 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/cognition-neuropsychological-tests_rct.csv`
 - **Cognition Neuropsychological Tests (observational):** 15 retrieved; 0 duplicates removed; 15 unique; 15 unclear for human screening; 0 manual checks; 0 secondary reviews; 0 non-results records. File: `output/screening/2026-11-13/cognition-neuropsychological-tests_observational.csv`
@@ -96,26 +96,26 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 **Searches:** [PubMed candidate pool](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%22diabetes%22%5BMesh%5D+OR+%22diabetes%22%5Btiab%5D%29%29+AND+%28%28%22type%22%5BMesh%5D+OR+%22type%22%5Btiab%5D%29%29) | [Existing reviews](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%28%22diabetes%22%5BMesh%5D+OR+%22diabetes%22%5Btiab%5D%29%29+AND+%28%28%22type%22%5BMesh%5D+OR+%22type%22%5Btiab%5D%29%29%29+AND+%28%0A%28%0A++%22Systematic+Review%22%5Bpt%5D+OR+%22Meta-Analysis%22%5Bpt%5D%0A++OR+%22systematic+review%22%5Btiab%5D+OR+%22meta-analysis%22%5Btiab%5D%0A++OR+%22meta+analysis%22%5Btiab%5D%0A%29%0ANOT+%28protocol%5Bti%5D+OR+editorial%5Bpt%5D+OR+letter%5Bpt%5D+OR+comment%5Bpt%5D%29%0A%29) | [PROSPERO title search](https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=diabetes+type)
 
 **RCT evidence references (separate track):**
+- [Semaglutide 2·4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2): a randomised, double-blind, double-dummy, placebo-controlled, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/33667417/) — Randomized controlled trial (RCT); abstract sample-size signal: 404 | [DOI](https://doi.org/10.1016/S0140-6736(21)00213-0)
 - [Efficacy and safety of a novel dual GIP and GLP-1 receptor agonist tirzepatide in patients with type 2 diabetes (SURPASS-1): a double-blind, randomised, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/34186022/) — Randomized controlled trial (RCT); abstract sample-size signal: 121 | [DOI](https://doi.org/10.1016/S0140-6736(21)01324-6)
 - [Efficacy and safety of tirzepatide in children and adolescents with type 2 diabetes (SURPASS-PEDS): a randomised, double-blind, placebo-controlled, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/40975112/) — Randomized controlled trial (RCT); abstract sample-size signal: 32 | [DOI](https://doi.org/10.1016/S0140-6736(25)01774-X)
-- [Semaglutide 2·4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2): a randomised, double-blind, double-dummy, placebo-controlled, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/33667417/) — Randomized controlled trial (RCT); abstract sample-size signal: 404 | [DOI](https://doi.org/10.1016/S0140-6736(21)00213-0)
 - [Effect of Finerenone on Chronic Kidney Disease Outcomes in Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/33264825/) — Randomized controlled trial (RCT); abstract sample-size signal: 5734 | [DOI](https://doi.org/10.1056/NEJMoa2025845)
+- [Efficacy and safety of once weekly semaglutide 2·4 mg for weight management in a predominantly east Asian population with overweight or obesity (STEP 7): a double-blind, multicentre, randomised controlled trial.](https://pubmed.ncbi.nlm.nih.gov/38330988/) — Randomized controlled trial (RCT); abstract sample-size signal: 249 | [DOI](https://doi.org/10.1016/S2213-8587(23)00388-1)
 - [Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/27295427/) — Randomized controlled trial (RCT); abstract sample-size signal: 9340 | [DOI](https://doi.org/10.1056/NEJMoa1603827)
 - [Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/31189511/) — Randomized controlled trial (RCT); abstract sample-size signal: 4949 | [DOI](https://doi.org/10.1016/S0140-6736(19)31149-3)
 - [Orforglipron, an Oral Small-Molecule GLP-1 Receptor Agonist, in Early Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/40544435/) — Randomized controlled trial (RCT); abstract sample-size signal: 559 | [DOI](https://doi.org/10.1056/NEJMoa2505669)
 - [Efficacy and safety of dapagliflozin in patients with heart failure with mildly reduced or preserved ejection fraction by baseline glycaemic status (DELIVER): a subgroup analysis from an international, multicentre, double-blind, randomised, placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/36372069/) — Randomized controlled trial (RCT); abstract sample-size signal: 3131 | [DOI](https://doi.org/10.1016/S2213-8587(22)00308-4)
 - [Oral semaglutide 50 mg taken once per day in adults with overweight or obesity (OASIS 1): a randomised, double-blind, placebo-controlled, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/37385278/) — Randomized controlled trial (RCT); abstract sample-size signal: 334 | [DOI](https://doi.org/10.1016/S0140-6736(23)01185-6)
-- [Effects of alirocumab on cardiovascular and metabolic outcomes after acute coronary syndrome in patients with or without diabetes: a prespecified analysis of the ODYSSEY OUTCOMES randomised controlled trial.](https://pubmed.ncbi.nlm.nih.gov/31272931/) — Randomized controlled trial (RCT); abstract sample-size signal: 5444 | [DOI](https://doi.org/10.1016/S2213-8587(19)30158-5)
-- [Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/42810372/) — Randomized controlled trial (RCT); abstract sample-size signal: 292 | [DOI](https://doi.org/10.1016/S0140-6736(26)01861-1)
 - [Semaglutide and walking capacity in people with symptomatic peripheral artery disease and type 2 diabetes (STRIDE): a phase 3b, double-blind, randomised, placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/40169145/) — Randomized controlled trial (RCT); abstract sample-size signal: 396 | [DOI](https://doi.org/10.1016/S0140-6736(25)00509-4)
-- [An Anti-CD3 Antibody, Teplizumab, in Relatives at Risk for Type 1 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/31180194/) — Randomized controlled trial (RCT); abstract sample-size signal: 76 | [DOI](https://doi.org/10.1056/NEJMoa1902226)
-- [Efficacy and safety of once-weekly semaglutide monotherapy versus placebo in patients with type 2 diabetes (SUSTAIN 1): a double-blind, randomised, placebo-controlled, parallel-group, multinational, multicentre phase 3a trial.](https://pubmed.ncbi.nlm.nih.gov/28110911/) — Randomized controlled trial (RCT); abstract sample-size signal: , | [DOI](https://doi.org/10.1016/S2213-8587(17)30013-X)
+- [Cagrilintide-semaglutide (CagriSema) versus semaglutide or cagrilintide in people with type 2 diabetes (REIMAGINE 2): a double-blind, randomised, controlled, phase 3 study.](https://pubmed.ncbi.nlm.nih.gov/42251859/) — Randomized controlled trial (RCT); abstract sample-size signal: 603 | [DOI](https://doi.org/10.1016/S2213-8587(26)00125-7)
 - [Cardiovascular Events with Finerenone in Kidney Disease and Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/34449181/) — Randomized controlled trial (RCT); abstract sample-size signal: 7437 | [DOI](https://doi.org/10.1056/NEJMoa2110956)
 - [Efficacy and safety of once-weekly semaglutide 2·4 mg in Chinese adults with overweight or obesity (STEP 12): a randomised, double-blind, placebo-controlled, multicentre, phase 3b trial.](https://pubmed.ncbi.nlm.nih.gov/42575111/) — Randomized controlled trial (RCT); abstract sample-size signal: 242 | [DOI](https://doi.org/10.1016/S2213-8587(26)00133-6)
 - [Cagrilintide-Semaglutide in Adults with Overweight or Obesity and Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/40544432/) — Randomized controlled trial (RCT); abstract sample-size signal: 1206 | [DOI](https://doi.org/10.1056/NEJMoa2502082)
+- [Oral Semaglutide and Change in Cardiovascular Risk Factors in High-Risk Type 2 Diabetes: A Post Hoc Secondary Analysis of the SOUL Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/41879791/) — Randomized controlled trial (RCT); abstract sample-size signal: 9495 | [DOI](https://doi.org/10.1001/jamacardio.2026.0245)
+- [Efficacy and safety of once-weekly semaglutide monotherapy versus placebo in patients with type 2 diabetes (SUSTAIN 1): a double-blind, randomised, placebo-controlled, parallel-group, multinational, multicentre phase 3a trial.](https://pubmed.ncbi.nlm.nih.gov/28110911/) — Randomized controlled trial (RCT); abstract sample-size signal: , | [DOI](https://doi.org/10.1016/S2213-8587(17)30013-X)
+- [Teplizumab for treatment of type 1 diabetes (Protégé study): 1-year results from a randomised, placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/21719095/) — Randomized controlled trial (RCT); abstract sample-size signal: 209 | [DOI](https://doi.org/10.1016/S0140-6736(11)60931-8)
 - [Effects of subcutaneous tirzepatide versus placebo or semaglutide on pancreatic islet function and insulin sensitivity in adults with type 2 diabetes: a multicentre, randomised, double-blind, parallel-arm, phase 1 clinical trial.](https://pubmed.ncbi.nlm.nih.gov/35468322/) — Randomized controlled trial (RCT); abstract sample-size signal: 117 | [DOI](https://doi.org/10.1016/S2213-8587(22)00085-7)
-- [Finerenone in Persons with Chronic Kidney Disease without Diabetes.](https://pubmed.ncbi.nlm.nih.gov/42246672/) — Randomized controlled trial (RCT); abstract sample-size signal: 1584 | [DOI](https://doi.org/10.1056/NEJMoa2604625)
-- [Semaglutide in Patients with Obesity-Related Heart Failure and Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/38587233/) — Randomized controlled trial (RCT); abstract sample-size signal: 616 | [DOI](https://doi.org/10.1056/NEJMoa2313917)
+- [Efficacy and safety of retatrutide, a GIP, GLP-1, and glucagon receptor agonist, in people with type 2 diabetes and inadequate glycaemic control with diet and exercise (TRANSCEND-T2D-1): a double-blind, randomised, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/42250575/) — Randomized controlled trial (RCT); abstract sample-size signal: 930 | [DOI](https://doi.org/10.1016/S0140-6736(26)00967-0)
 
 **Observational evidence references (separate track):**
 - [A literature-derived dataset on risk factors for dry eye disease.](https://pubmed.ncbi.nlm.nih.gov/36631463/) — Case-control; abstract sample-size signal: 92 | [DOI](https://doi.org/10.1038/s41597-023-01931-8)
@@ -126,19 +126,19 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Gain-of-function variants in NLRP1 protect against the development of diabetic kidney disease: NLRP1 inflammasome role in metabolic stress sensing?](https://pubmed.ncbi.nlm.nih.gov/29031829/) — Cohort (direction unclear); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.clim.2017.10.003)
 - [Association of GLP-1 Receptor Agonists with Chronic Obstructive Pulmonary Disease Exacerbations among Patients with Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/37647574/) — Cohort (direction unclear); abstract sample-size signal: 1,642 | [DOI](https://doi.org/10.1164/rccm.202303-0491OC)
 - [Impact of bodyweight-adjusted antimicrobial prophylaxis on surgical-site infection rates.](https://pubmed.ncbi.nlm.nih.gov/33688947/) — Other observational study; abstract sample-size signal: , | [DOI](https://doi.org/10.1093/bjsopen/zraa027)
-- [Age at type 2 diabetes diagnosis and prevalence of obesity, hypertension, anxiety, and depression: a retrospective observational study.](https://pubmed.ncbi.nlm.nih.gov/41539917/) — Cross-sectional; abstract sample-size signal: 108,061 | [DOI](https://doi.org/10.1016/j.numecd.2025.104522)
+- [Diabetes Device Downloading: Benefits and Barriers Among Youth With Type 1 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/34809477/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1177/19322968211059537)
+- [Association of Myocardial Infarction with CDKN2B Antisense RNA 1 (CDKN2B-AS1) rs1333049 Polymorphism in Slovenian Subjects with Type 2 Diabetes Mellitus.](https://pubmed.ncbi.nlm.nih.gov/35328079/) — Case-control; abstract sample-size signal: 1071 | [DOI](https://doi.org/10.3390/genes13030526)
 - [Impact of Preoperative Psychiatric Profile in Bariatric Surgery on Long-term Weight Outcome.](https://pubmed.ncbi.nlm.nih.gov/37145292/) — Cohort (direction unclear); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1007/s11695-023-06595-2)
 - [Nursing interventions in autologous stem cell transplantation for autoimmune diseases.](https://pubmed.ncbi.nlm.nih.gov/32989824/) — Cross-sectional; abstract sample-size signal: 23 | [DOI](https://doi.org/10.1111/jan.14559)
 - [A Suture-less Underlay Ventral Herniorrhaphy Technique for High-Risk Complex Abdominal Wall Reconstruction.](https://pubmed.ncbi.nlm.nih.gov/35445608/) — Other observational study; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1177/00031348221086803)
 - [[Estimation of body fat in a diabetic population from a health area using the Clínica Universitaria de Navarra-Body Adiposity Estimator formula [CUN-BAE]].](https://pubmed.ncbi.nlm.nih.gov/40700844/) — Cross-sectional; abstract sample-size signal: 1,3705 | [DOI](https://doi.org/10.1016/j.semerg.2025.102548)
-- [The rs3825807 Polymorphism of ADAMTS7 as a Potential Genetic Marker for Myocardial Infarction in Slovenian Subjects with Type 2 Diabetes Mellitus.](https://pubmed.ncbi.nlm.nih.gov/36833435/) — Case-control; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.3390/genes14020508)
 
 **Observational design subtypes in the fetched citation sample (not whole-pool counts):**
-- Prospective cohort: 0
 - Cohort (direction unclear): 4
-- Cross-sectional: 6
+- Prospective cohort: 0
 - Case-control: 2
 - Retrospective cohort: 0
+- Cross-sectional: 6
 - Other observational study: 2
 
 **Existing review/meta-analysis references:**
@@ -147,9 +147,9 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Red meat consumption, cardiovascular diseases, and diabetes: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/37264855/) | [DOI](https://doi.org/10.1093/eurheartj/ehad336)
 - [The effect of cinnamon supplementation on glycemic control in patients with type 2 diabetes mellitus: An updated systematic review and dose-response meta-analysis of randomized controlled trials.](https://pubmed.ncbi.nlm.nih.gov/37818728/) | [DOI](https://doi.org/10.1002/ptr.8026)
 - [Effectiveness of Continuous Glucose Monitoring on Metrics of Glycemic Control in Type 2 Diabetes Mellitus: A Systematic Review and Meta-analysis of Randomized Controlled Trials.](https://pubmed.ncbi.nlm.nih.gov/37987208/) | [DOI](https://doi.org/10.1210/clinem/dgad652)
+- [The association between smoking and diabetic neuropathy: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/41444672/) | [DOI](https://doi.org/10.1186/s13643-025-02995-w)
 - [Smoking and diabetic nephropathy: An updated systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/39728025/) | [DOI](https://doi.org/10.1111/jdi.14385)
 - [Type 2 diabetes mellitus after gestational diabetes: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/19465232/) | [DOI](https://doi.org/10.1016/S0140-6736(09)60731-5)
-- [Built environment and cardio-metabolic health: systematic review and meta-analysis of longitudinal studies.](https://pubmed.ncbi.nlm.nih.gov/30253075/) | [DOI](https://doi.org/10.1111/obr.12759)
 
 > **Interpretation:** PubMed hit counts are candidate retrieval counts, not screened or eligible studies. RCT and observational searches are separate and can overlap. Sample sizes are abstract-only signals and must not be summed because cohorts may overlap. PROSPERO overlap and outcome compatibility have not been adjudicated.
 
@@ -191,10 +191,10 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [A double-blind trial of decoded neurofeedback intervention for specific phobias.](https://pubmed.ncbi.nlm.nih.gov/39221769/) — Randomized controlled trial (RCT); abstract sample-size signal: 23 | [DOI](https://doi.org/10.1111/pcn.13726)
 - [Safety and efficacy of rituximab in neuromyelitis optica spectrum disorders (RIN-1 study): a multicentre, randomised, double-blind, placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/32199095/) — Randomized controlled trial (RCT); abstract sample-size signal: 19 | [DOI](https://doi.org/10.1016/S1474-4422(20)30066-1)
 - [Methamphetamine alters nucleus accumbens neural activation to monetary loss in healthy young adults.](https://pubmed.ncbi.nlm.nih.gov/37530883/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1007/s00213-023-06398-4)
-- [Causal effects of psychostimulants on neural connectivity: a mechanistic, randomized clinical trial.](https://pubmed.ncbi.nlm.nih.gov/35141898/) — Randomized controlled trial (RCT); abstract sample-size signal: 46 | [DOI](https://doi.org/10.1111/jcpp.13585)
 - [Baclofen Modulates Neural Intrinsic Functional Connectivity in Treatment-Seeking Individuals With Alcohol Use Disorder.](https://pubmed.ncbi.nlm.nih.gov/42246466/) — Randomized controlled trial (RCT); abstract sample-size signal: 10 | [DOI](https://doi.org/10.1111/acer.70332)
 - [Little Change in Functional Brain Networks Following Acute Levodopa in Drug-Naïve Parkinson's Disease.](https://pubmed.ncbi.nlm.nih.gov/31854465/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1002/mds.27942)
 - [Brain volume increase after discontinuing natalizumab therapy: Evidence for reversible pseudoatrophy.](https://pubmed.ncbi.nlm.nih.gov/37976981/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.msard.2023.105123)
+- [Cortisol modifies extinction learning of recently acquired fear in men.](https://pubmed.ncbi.nlm.nih.gov/23945999/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1093/scan/nst137)
 
 **Observational evidence references (separate track):**
 - [Magnetic Resonance Imaging Characteristics of LGI1-Antibody and CASPR2-Antibody Encephalitis.](https://pubmed.ncbi.nlm.nih.gov/38497971/) — Cross-sectional; abstract sample-size signal: 87 | [DOI](https://doi.org/10.1001/jamaneurol.2024.0126)
@@ -208,11 +208,11 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Disentangling Neurodegeneration From Aging in Multiple Sclerosis Using Deep Learning: The Brain-Predicted Disease Duration Gap.](https://pubmed.ncbi.nlm.nih.gov/39496109/) — Cross-sectional; abstract sample-size signal: 252 | [DOI](https://doi.org/10.1212/WNL.0000000000209976)
 
 **Observational design subtypes in the fetched citation sample (not whole-pool counts):**
-- Prospective cohort: 0
 - Cohort (direction unclear): 0
-- Cross-sectional: 7
+- Prospective cohort: 0
 - Case-control: 2
 - Retrospective cohort: 0
+- Cross-sectional: 7
 - Other observational study: 0
 
 **Existing review/meta-analysis references:**
@@ -221,9 +221,9 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [The effect of adverse childhood experiences on chronic pain and major depression in adulthood: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/37087334/) | [DOI](https://doi.org/10.1016/j.bja.2023.03.008)
 - [Systematic review and meta-analysis of automated methods for quantifying enlarged perivascular spaces in the brain.](https://pubmed.ncbi.nlm.nih.gov/38914212/) | [DOI](https://doi.org/10.1016/j.neuroimage.2024.120685)
 - [A meta-analytic investigation of grey matter differences in anorexia nervosa and autism spectrum disorder.](https://pubmed.ncbi.nlm.nih.gov/35526083/) | [DOI](https://doi.org/10.1002/erv.2915)
-- [Characteristics of MRI lesions in AQP4 antibody-positive NMOSD, MOGAD, and multiple sclerosis: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/40773034/) | [DOI](https://doi.org/10.1007/s00415-025-13303-w)
 - [Brain-regional characteristics and neuroinflammation in ME/CFS patients from neuroimaging: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/38016575/) | [DOI](https://doi.org/10.1016/j.autrev.2023.103484)
-- [Systematic review with meta-analysis: neuroimaging in hepatitis C chronic infection.](https://pubmed.ncbi.nlm.nih.gov/29536563/) | [DOI](https://doi.org/10.1111/apt.14594)
+- [Resting-state network alterations in depression: a comprehensive meta-analysis of functional connectivity.](https://pubmed.ncbi.nlm.nih.gov/40008424/) | [DOI](https://doi.org/10.1017/S0033291725000303)
+- [Characteristics of MRI lesions in AQP4 antibody-positive NMOSD, MOGAD, and multiple sclerosis: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/40773034/) | [DOI](https://doi.org/10.1007/s00415-025-13303-w)
 
 > **Interpretation:** PubMed hit counts are candidate retrieval counts, not screened or eligible studies. RCT and observational searches are separate and can overlap. Sample sizes are abstract-only signals and must not be summed because cohorts may overlap. PROSPERO overlap and outcome compatibility have not been adjudicated.
 
@@ -283,21 +283,20 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Cardiovascular risk factors and the risk of Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/25514902/) — Case-control; abstract sample-size signal: 101 | [DOI](https://doi.org/10.1038/ejcn.2014.259)
 - [Maternal Risk Factors and Perinatal Characteristics for Hirschsprung Disease.](https://pubmed.ncbi.nlm.nih.gov/27307146/) — Case-control; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1542/peds.2015-4608)
 - [Reexploration for Bleeding and Its Association With Mortality After Cardiac Surgery.](https://pubmed.ncbi.nlm.nih.gov/27021031/) — Other observational study; abstract sample-size signal: 320 | [DOI](https://doi.org/10.1016/j.athoracsur.2016.01.006)
-- [Drug-coated balloons versus drug-eluting stents for small non-complex de novo coronary artery lesions: A segment-level propensity score matched analysis from SCAAR.](https://pubmed.ncbi.nlm.nih.gov/40274484/) — Other observational study; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.carrev.2025.04.006)
 
 **Observational design subtypes in the fetched citation sample (not whole-pool counts):**
-- Prospective cohort: 0
 - Cohort (direction unclear): 0
-- Cross-sectional: 2
+- Prospective cohort: 0
 - Case-control: 5
 - Retrospective cohort: 4
-- Other observational study: 5
+- Cross-sectional: 2
+- Other observational study: 4
 
 **Existing review/meta-analysis references:**
-- [Parental mental illness and the risk of offspring cancer in childhood: a pooled meta-analysis of English and Swedish national cohorts.](https://pubmed.ncbi.nlm.nih.gov/41146054/) | [DOI](https://doi.org/10.1186/s12888-025-07520-w)
 - [Work-related psychosocial risk factors for stress-related mental disorders: an updated systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/32624469/) | [DOI](https://doi.org/10.1136/bmjopen-2019-034849)
 - [Glucagon-Like Peptide 1 Receptor Agonists and Risk of Thyroid Cancer: An International Multisite Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/39772758/) | [DOI](https://doi.org/10.1089/thy.2024.0387)
 - [Is there still a social gradient in respiratory symptoms? A population-based Nordic EpiLung-study.](https://pubmed.ncbi.nlm.nih.gov/38340905/) | [DOI](https://doi.org/10.1016/j.rmed.2024.107561)
+- [Alcohol consumption and mortality. I. Characteristics of drinking groups.](https://pubmed.ncbi.nlm.nih.gov/9624721/) | [DOI](https://doi.org/10.1046/j.1360-0443.1998.9321834.x)
 - [Suicides in Mood Disorders in Psychiatric Settings in Nordic National Register-Based Studies.](https://pubmed.ncbi.nlm.nih.gov/32848909/) | [DOI](https://doi.org/10.3389/fpsyt.2020.00721)
 - [Low birth weight in the offspring of women with anorexia nervosa.](https://pubmed.ncbi.nlm.nih.gov/24025351/) | [DOI](https://doi.org/10.1093/epirev/mxt004)
 - [Alcohol consumption and risk of stomach cancer: A meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/33412155/) | [DOI](https://doi.org/10.1016/j.cbi.2021.109365)
@@ -331,13 +330,13 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Exercise and well-being: a review of mental and physical health benefits associated with physical activity.](https://pubmed.ncbi.nlm.nih.gov/16639173/) — Randomized controlled trial (RCT); abstract sample-size signal: , | [DOI](https://doi.org/10.1097/00001504-200503000-00013)
 - [Is It Possible to Delay or Prevent Age-Related Cognitive Decline?](https://pubmed.ncbi.nlm.nih.gov/27688858/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.4082/kjfm.2016.37.5.263)
 - [Intimate Partner Violence and Food Insecurity Predict Early Behavior Problems Among South African Children over 5-years Post-Birth.](https://pubmed.ncbi.nlm.nih.gov/32683574/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1007/s10578-020-01025-1)
+- [Effect of selective serotonin reuptake inhibitors on platelet activation: can they prevent acute myocardial infarction?](https://pubmed.ncbi.nlm.nih.gov/14727927/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.2165/00129784-200303030-00001)
 
 **Observational evidence references (separate track):**
 - [A machine-learning-derived online prediction model for depression risk in COPD patients: A retrospective cohort study from CHARLS.](https://pubmed.ncbi.nlm.nih.gov/39988142/) — Retrospective cohort; abstract sample-size signal: 2921 | [DOI](https://doi.org/10.1016/j.jad.2025.02.063)
 - [Depressive Symptoms and Cognitive Improvement in Patients with Dementia with Lewy Bodies.](https://pubmed.ncbi.nlm.nih.gov/31476162/) — Other observational study; abstract sample-size signal: 28 | [DOI](https://doi.org/10.3233/JAD-190685)
 - [Longitudinal Psychiatric Symptoms in Prodromal Huntington's Disease: A Decade of Data.](https://pubmed.ncbi.nlm.nih.gov/26472629/) — Case-control; abstract sample-size signal: 1,305 | [DOI](https://doi.org/10.1176/appi.ajp.2015.14121551)
 - [Investigating social cognition in epilepsy using a naturalistic task.](https://pubmed.ncbi.nlm.nih.gov/27461072/) — Other observational study; abstract sample-size signal: 43 | [DOI](https://doi.org/10.1111/epi.13477)
-- [Sleep quality and levels of stress, anxiety, and depression in patients treated with homeopathy: a prospective study in the Brazilian public healthcare service.](https://pubmed.ncbi.nlm.nih.gov/41172402/) — Prospective cohort; abstract sample-size signal: 26 | [DOI](https://doi.org/10.1590/1516-3180.2025.3033.06082025)
 - [The development and validation of the Children's Hope Scale.](https://pubmed.ncbi.nlm.nih.gov/9212556/) — Case-control; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1093/jpepsy/22.3.399)
 - [Stability of symptoms across major depressive episodes in bipolar disorder.](https://pubmed.ncbi.nlm.nih.gov/19922555/) — Cohort (direction unclear); abstract sample-size signal: 583 | [DOI](https://doi.org/10.1111/j.1399-5618.2009.00764.x)
 - [Individual and neighborhood characteristics as predictors of depression symptom response.](https://pubmed.ncbi.nlm.nih.gov/30829408/) — Retrospective cohort; abstract sample-size signal: 4,269 | [DOI](https://doi.org/10.1111/1475-6773.13127)
@@ -348,13 +347,14 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [A longitudinal study of hypomania and depression symptoms in pregnancy and the postpartum period.](https://pubmed.ncbi.nlm.nih.gov/19500094/) — Retrospective cohort; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1111/j.1399-5618.2009.00685.x)
 - [Increased BMI Velocity is Associated with Elevated Patient Health Questionnaire-9 Scores in Adolescents with Obesity.](https://pubmed.ncbi.nlm.nih.gov/39655563/) — Retrospective cohort; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1089/chi.2024.0323)
 - [A multisite, longitudinal study assessing prevalence of depression in student pharmacists.](https://pubmed.ncbi.nlm.nih.gov/38141954/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.ajpe.2023.100634)
+- [Breastfeeding and later depression and anxiety in mothers in Ireland: a 10-year prospective observational study.](https://pubmed.ncbi.nlm.nih.gov/41506748/) — Prospective cohort; abstract sample-size signal: 122 | [DOI](https://doi.org/10.1136/bmjopen-2024-097323)
 
 **Observational design subtypes in the fetched citation sample (not whole-pool counts):**
-- Prospective cohort: 1
 - Cohort (direction unclear): 1
-- Cross-sectional: 1
+- Prospective cohort: 1
 - Case-control: 3
 - Retrospective cohort: 7
+- Cross-sectional: 1
 - Other observational study: 2
 
 **Existing review/meta-analysis references:**
@@ -365,7 +365,7 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Risk factors and protective factors of depression in older people 65+. A systematic review.](https://pubmed.ncbi.nlm.nih.gov/33983995/) | [DOI](https://doi.org/10.1371/journal.pone.0251326)
 - [Clinical predictors of suicidal ideation, suicide attempts and suicide death in depressive disorder: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/38015265/) | [DOI](https://doi.org/10.1007/s00406-023-01716-5)
 - [The risk of depression in the menopausal stages: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/38642901/) | [DOI](https://doi.org/10.1016/j.jad.2024.04.041)
-- [Insomnia as a predictor of depression: a meta-analytic evaluation of longitudinal epidemiological studies.](https://pubmed.ncbi.nlm.nih.gov/21300408/) | [DOI](https://doi.org/10.1016/j.jad.2011.01.011)
+- [Impact of periodontal disease on cognitive disorders, dementia, and depression: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/38943006/) | [DOI](https://doi.org/10.1007/s11357-024-01243-8)
 
 > **Interpretation:** PubMed hit counts are candidate retrieval counts, not screened or eligible studies. RCT and observational searches are separate and can overlap. Sample sizes are abstract-only signals and must not be summed because cohorts may overlap. PROSPERO overlap and outcome compatibility have not been adjudicated.
 
@@ -410,6 +410,7 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Changes in non-culprit coronary lesions with PCSK9 inhibitors: the randomised, placebo-controlled FITTER trial.](https://pubmed.ncbi.nlm.nih.gov/40828313/) — Randomized controlled trial (RCT); abstract sample-size signal: 74 | [DOI](https://doi.org/10.4244/EIJ-D-24-01065)
 - [Endoscopic or Open Radial Artery Harvest in Coronary Artery Bypass Surgery.](https://pubmed.ncbi.nlm.nih.gov/41432491/) — Randomized controlled trial (RCT); abstract sample-size signal: 300 | [DOI](https://doi.org/10.1056/EVIDoa2500199)
 - [Apolipoprotein A1 Infusions and Cardiovascular Outcomes after Acute Myocardial Infarction.](https://pubmed.ncbi.nlm.nih.gov/38587254/) — Randomized controlled trial (RCT); abstract sample-size signal: 18,219 | [DOI](https://doi.org/10.1056/NEJMoa2400969)
+- [Effect of vitamin K1 supplementation on coronary calcifications in hemodialysis patients: a randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/39680321/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1007/s40620-024-02154-9)
 
 **Observational evidence references (separate track):**
 - [Morphological and histopathological evaluation of autopsied patients with hypertensive cardiopathy.](https://pubmed.ncbi.nlm.nih.gov/31146181/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.anndiagpath.2019.04.012)
@@ -424,20 +425,21 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Correlation analysis of coronary artery tortuosity and calcification score.](https://pubmed.ncbi.nlm.nih.gov/35197040/) — Cross-sectional; abstract sample-size signal: 1280 | [DOI](https://doi.org/10.1186/s12893-022-01470-w)
 - [Identifying Kawasaki Disease With a Low Coronary Artery Aneurysm Risk.](https://pubmed.ncbi.nlm.nih.gov/37053581/) — Cohort (direction unclear); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1097/INF.0000000000003912)
 - [Relationship of coronary collateral circulation with eosinophils in patients with unstable angina pectoris.](https://pubmed.ncbi.nlm.nih.gov/26889082/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.2147/CIA.S95363)
-- [The rs3825807 Polymorphism of ADAMTS7 as a Potential Genetic Marker for Myocardial Infarction in Slovenian Subjects with Type 2 Diabetes Mellitus.](https://pubmed.ncbi.nlm.nih.gov/36833435/) — Case-control; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.3390/genes14020508)
 - [Persistent median artery on computed tomographic arteriovenous fistulograms in patients on haemodialysis.](https://pubmed.ncbi.nlm.nih.gov/37277645/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1111/1754-9485.13544)
 - [Octanoyl-carnitine predicts post operative complications following coronary artery bypass surgery.](https://pubmed.ncbi.nlm.nih.gov/41034608/) — Cohort (direction unclear); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1038/s41598-025-16552-x)
 - [Management of spontaneous coronary artery dissection: Trends over time.](https://pubmed.ncbi.nlm.nih.gov/37025021/) — Cross-sectional; abstract sample-size signal: 157 | [DOI](https://doi.org/10.1177/1358863X231155305)
+- [The association between liver fat and systemic calcified atherosclerosis.](https://pubmed.ncbi.nlm.nih.gov/31153702/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.jvs.2019.03.044)
 
 **Observational design subtypes in the fetched citation sample (not whole-pool counts):**
-- Prospective cohort: 0
 - Cohort (direction unclear): 6
-- Cross-sectional: 7
-- Case-control: 1
+- Prospective cohort: 0
+- Case-control: 0
 - Retrospective cohort: 0
+- Cross-sectional: 8
 - Other observational study: 2
 
 **Existing review/meta-analysis references:**
+- [Benefits of aquatic exercise in adults with and without chronic disease-A systematic review with meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/34913530/) | [DOI](https://doi.org/10.1111/sms.14112)
 - [Accuracy of Machine Learning in Discriminating Kawasaki Disease and Other Febrile Illnesses: Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/39556821/) | [DOI](https://doi.org/10.2196/57641)
 - [Pericardial fat and cardiovascular diseases: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/37332179/) | [DOI](https://doi.org/10.1111/jebm.12542)
 - [Opium use and cardiovascular diseases: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/32228217/) | [DOI](https://doi.org/10.1080/10408444.2020.1740972)
@@ -445,7 +447,6 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Cardiovascular consequences of financial stress: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/37979897/) | [DOI](https://doi.org/10.1016/j.cpcardiol.2023.102153)
 - [Prevalence and Risk Factors of Poststroke Cognitive Impairment: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/39702976/) | [DOI](https://doi.org/10.1111/phn.13503)
 - [CT-derived epicardial adipose tissue density: Systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/34482178/) | [DOI](https://doi.org/10.1016/j.ejrad.2021.109902)
-- [Orbital atherectomy versus rotational atherectomy: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/31898984/) | [DOI](https://doi.org/10.1016/j.ijcard.2019.12.037)
 
 > **Interpretation:** PubMed hit counts are candidate retrieval counts, not screened or eligible studies. RCT and observational searches are separate and can overlap. Sample sizes are abstract-only signals and must not be summed because cohorts may overlap. PROSPERO overlap and outcome compatibility have not been adjudicated.
 
@@ -474,26 +475,26 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 **Searches:** [PubMed candidate pool](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%22diabetes%22%5BMesh%5D+OR+%22diabetes%22%5Btiab%5D%29%29+AND+%28%28%22type%22%5BMesh%5D+OR+%22type%22%5Btiab%5D%29%29) | [Existing reviews](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%28%22diabetes%22%5BMesh%5D+OR+%22diabetes%22%5Btiab%5D%29%29+AND+%28%28%22type%22%5BMesh%5D+OR+%22type%22%5Btiab%5D%29%29%29+AND+%28%0A%28%0A++%22Systematic+Review%22%5Bpt%5D+OR+%22Meta-Analysis%22%5Bpt%5D%0A++OR+%22systematic+review%22%5Btiab%5D+OR+%22meta-analysis%22%5Btiab%5D%0A++OR+%22meta+analysis%22%5Btiab%5D%0A%29%0ANOT+%28protocol%5Bti%5D+OR+editorial%5Bpt%5D+OR+letter%5Bpt%5D+OR+comment%5Bpt%5D%29%0A%29) | [PROSPERO title search](https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=diabetes+type)
 
 **RCT evidence references (separate track):**
+- [Semaglutide 2·4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2): a randomised, double-blind, double-dummy, placebo-controlled, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/33667417/) — Randomized controlled trial (RCT); abstract sample-size signal: 404 | [DOI](https://doi.org/10.1016/S0140-6736(21)00213-0)
 - [Efficacy and safety of a novel dual GIP and GLP-1 receptor agonist tirzepatide in patients with type 2 diabetes (SURPASS-1): a double-blind, randomised, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/34186022/) — Randomized controlled trial (RCT); abstract sample-size signal: 121 | [DOI](https://doi.org/10.1016/S0140-6736(21)01324-6)
 - [Efficacy and safety of tirzepatide in children and adolescents with type 2 diabetes (SURPASS-PEDS): a randomised, double-blind, placebo-controlled, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/40975112/) — Randomized controlled trial (RCT); abstract sample-size signal: 32 | [DOI](https://doi.org/10.1016/S0140-6736(25)01774-X)
-- [Semaglutide 2·4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2): a randomised, double-blind, double-dummy, placebo-controlled, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/33667417/) — Randomized controlled trial (RCT); abstract sample-size signal: 404 | [DOI](https://doi.org/10.1016/S0140-6736(21)00213-0)
 - [Effect of Finerenone on Chronic Kidney Disease Outcomes in Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/33264825/) — Randomized controlled trial (RCT); abstract sample-size signal: 5734 | [DOI](https://doi.org/10.1056/NEJMoa2025845)
+- [Efficacy and safety of once weekly semaglutide 2·4 mg for weight management in a predominantly east Asian population with overweight or obesity (STEP 7): a double-blind, multicentre, randomised controlled trial.](https://pubmed.ncbi.nlm.nih.gov/38330988/) — Randomized controlled trial (RCT); abstract sample-size signal: 249 | [DOI](https://doi.org/10.1016/S2213-8587(23)00388-1)
 - [Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/27295427/) — Randomized controlled trial (RCT); abstract sample-size signal: 9340 | [DOI](https://doi.org/10.1056/NEJMoa1603827)
 - [Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/31189511/) — Randomized controlled trial (RCT); abstract sample-size signal: 4949 | [DOI](https://doi.org/10.1016/S0140-6736(19)31149-3)
 - [Orforglipron, an Oral Small-Molecule GLP-1 Receptor Agonist, in Early Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/40544435/) — Randomized controlled trial (RCT); abstract sample-size signal: 559 | [DOI](https://doi.org/10.1056/NEJMoa2505669)
 - [Efficacy and safety of dapagliflozin in patients with heart failure with mildly reduced or preserved ejection fraction by baseline glycaemic status (DELIVER): a subgroup analysis from an international, multicentre, double-blind, randomised, placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/36372069/) — Randomized controlled trial (RCT); abstract sample-size signal: 3131 | [DOI](https://doi.org/10.1016/S2213-8587(22)00308-4)
 - [Oral semaglutide 50 mg taken once per day in adults with overweight or obesity (OASIS 1): a randomised, double-blind, placebo-controlled, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/37385278/) — Randomized controlled trial (RCT); abstract sample-size signal: 334 | [DOI](https://doi.org/10.1016/S0140-6736(23)01185-6)
-- [Effects of alirocumab on cardiovascular and metabolic outcomes after acute coronary syndrome in patients with or without diabetes: a prespecified analysis of the ODYSSEY OUTCOMES randomised controlled trial.](https://pubmed.ncbi.nlm.nih.gov/31272931/) — Randomized controlled trial (RCT); abstract sample-size signal: 5444 | [DOI](https://doi.org/10.1016/S2213-8587(19)30158-5)
-- [Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/42810372/) — Randomized controlled trial (RCT); abstract sample-size signal: 292 | [DOI](https://doi.org/10.1016/S0140-6736(26)01861-1)
 - [Semaglutide and walking capacity in people with symptomatic peripheral artery disease and type 2 diabetes (STRIDE): a phase 3b, double-blind, randomised, placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/40169145/) — Randomized controlled trial (RCT); abstract sample-size signal: 396 | [DOI](https://doi.org/10.1016/S0140-6736(25)00509-4)
-- [An Anti-CD3 Antibody, Teplizumab, in Relatives at Risk for Type 1 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/31180194/) — Randomized controlled trial (RCT); abstract sample-size signal: 76 | [DOI](https://doi.org/10.1056/NEJMoa1902226)
-- [Efficacy and safety of once-weekly semaglutide monotherapy versus placebo in patients with type 2 diabetes (SUSTAIN 1): a double-blind, randomised, placebo-controlled, parallel-group, multinational, multicentre phase 3a trial.](https://pubmed.ncbi.nlm.nih.gov/28110911/) — Randomized controlled trial (RCT); abstract sample-size signal: , | [DOI](https://doi.org/10.1016/S2213-8587(17)30013-X)
+- [Cagrilintide-semaglutide (CagriSema) versus semaglutide or cagrilintide in people with type 2 diabetes (REIMAGINE 2): a double-blind, randomised, controlled, phase 3 study.](https://pubmed.ncbi.nlm.nih.gov/42251859/) — Randomized controlled trial (RCT); abstract sample-size signal: 603 | [DOI](https://doi.org/10.1016/S2213-8587(26)00125-7)
 - [Cardiovascular Events with Finerenone in Kidney Disease and Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/34449181/) — Randomized controlled trial (RCT); abstract sample-size signal: 7437 | [DOI](https://doi.org/10.1056/NEJMoa2110956)
 - [Efficacy and safety of once-weekly semaglutide 2·4 mg in Chinese adults with overweight or obesity (STEP 12): a randomised, double-blind, placebo-controlled, multicentre, phase 3b trial.](https://pubmed.ncbi.nlm.nih.gov/42575111/) — Randomized controlled trial (RCT); abstract sample-size signal: 242 | [DOI](https://doi.org/10.1016/S2213-8587(26)00133-6)
 - [Cagrilintide-Semaglutide in Adults with Overweight or Obesity and Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/40544432/) — Randomized controlled trial (RCT); abstract sample-size signal: 1206 | [DOI](https://doi.org/10.1056/NEJMoa2502082)
+- [Oral Semaglutide and Change in Cardiovascular Risk Factors in High-Risk Type 2 Diabetes: A Post Hoc Secondary Analysis of the SOUL Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/41879791/) — Randomized controlled trial (RCT); abstract sample-size signal: 9495 | [DOI](https://doi.org/10.1001/jamacardio.2026.0245)
+- [Efficacy and safety of once-weekly semaglutide monotherapy versus placebo in patients with type 2 diabetes (SUSTAIN 1): a double-blind, randomised, placebo-controlled, parallel-group, multinational, multicentre phase 3a trial.](https://pubmed.ncbi.nlm.nih.gov/28110911/) — Randomized controlled trial (RCT); abstract sample-size signal: , | [DOI](https://doi.org/10.1016/S2213-8587(17)30013-X)
+- [Teplizumab for treatment of type 1 diabetes (Protégé study): 1-year results from a randomised, placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/21719095/) — Randomized controlled trial (RCT); abstract sample-size signal: 209 | [DOI](https://doi.org/10.1016/S0140-6736(11)60931-8)
 - [Effects of subcutaneous tirzepatide versus placebo or semaglutide on pancreatic islet function and insulin sensitivity in adults with type 2 diabetes: a multicentre, randomised, double-blind, parallel-arm, phase 1 clinical trial.](https://pubmed.ncbi.nlm.nih.gov/35468322/) — Randomized controlled trial (RCT); abstract sample-size signal: 117 | [DOI](https://doi.org/10.1016/S2213-8587(22)00085-7)
-- [Finerenone in Persons with Chronic Kidney Disease without Diabetes.](https://pubmed.ncbi.nlm.nih.gov/42246672/) — Randomized controlled trial (RCT); abstract sample-size signal: 1584 | [DOI](https://doi.org/10.1056/NEJMoa2604625)
-- [Semaglutide in Patients with Obesity-Related Heart Failure and Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/38587233/) — Randomized controlled trial (RCT); abstract sample-size signal: 616 | [DOI](https://doi.org/10.1056/NEJMoa2313917)
+- [Efficacy and safety of retatrutide, a GIP, GLP-1, and glucagon receptor agonist, in people with type 2 diabetes and inadequate glycaemic control with diet and exercise (TRANSCEND-T2D-1): a double-blind, randomised, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/42250575/) — Randomized controlled trial (RCT); abstract sample-size signal: 930 | [DOI](https://doi.org/10.1016/S0140-6736(26)00967-0)
 
 **Observational evidence references (separate track):**
 - [A literature-derived dataset on risk factors for dry eye disease.](https://pubmed.ncbi.nlm.nih.gov/36631463/) — Case-control; abstract sample-size signal: 92 | [DOI](https://doi.org/10.1038/s41597-023-01931-8)
@@ -504,19 +505,19 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Gain-of-function variants in NLRP1 protect against the development of diabetic kidney disease: NLRP1 inflammasome role in metabolic stress sensing?](https://pubmed.ncbi.nlm.nih.gov/29031829/) — Cohort (direction unclear); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.clim.2017.10.003)
 - [Association of GLP-1 Receptor Agonists with Chronic Obstructive Pulmonary Disease Exacerbations among Patients with Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/37647574/) — Cohort (direction unclear); abstract sample-size signal: 1,642 | [DOI](https://doi.org/10.1164/rccm.202303-0491OC)
 - [Impact of bodyweight-adjusted antimicrobial prophylaxis on surgical-site infection rates.](https://pubmed.ncbi.nlm.nih.gov/33688947/) — Other observational study; abstract sample-size signal: , | [DOI](https://doi.org/10.1093/bjsopen/zraa027)
-- [Age at type 2 diabetes diagnosis and prevalence of obesity, hypertension, anxiety, and depression: a retrospective observational study.](https://pubmed.ncbi.nlm.nih.gov/41539917/) — Cross-sectional; abstract sample-size signal: 108,061 | [DOI](https://doi.org/10.1016/j.numecd.2025.104522)
+- [Diabetes Device Downloading: Benefits and Barriers Among Youth With Type 1 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/34809477/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1177/19322968211059537)
+- [Association of Myocardial Infarction with CDKN2B Antisense RNA 1 (CDKN2B-AS1) rs1333049 Polymorphism in Slovenian Subjects with Type 2 Diabetes Mellitus.](https://pubmed.ncbi.nlm.nih.gov/35328079/) — Case-control; abstract sample-size signal: 1071 | [DOI](https://doi.org/10.3390/genes13030526)
 - [Impact of Preoperative Psychiatric Profile in Bariatric Surgery on Long-term Weight Outcome.](https://pubmed.ncbi.nlm.nih.gov/37145292/) — Cohort (direction unclear); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1007/s11695-023-06595-2)
 - [Nursing interventions in autologous stem cell transplantation for autoimmune diseases.](https://pubmed.ncbi.nlm.nih.gov/32989824/) — Cross-sectional; abstract sample-size signal: 23 | [DOI](https://doi.org/10.1111/jan.14559)
 - [A Suture-less Underlay Ventral Herniorrhaphy Technique for High-Risk Complex Abdominal Wall Reconstruction.](https://pubmed.ncbi.nlm.nih.gov/35445608/) — Other observational study; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1177/00031348221086803)
 - [[Estimation of body fat in a diabetic population from a health area using the Clínica Universitaria de Navarra-Body Adiposity Estimator formula [CUN-BAE]].](https://pubmed.ncbi.nlm.nih.gov/40700844/) — Cross-sectional; abstract sample-size signal: 1,3705 | [DOI](https://doi.org/10.1016/j.semerg.2025.102548)
-- [The rs3825807 Polymorphism of ADAMTS7 as a Potential Genetic Marker for Myocardial Infarction in Slovenian Subjects with Type 2 Diabetes Mellitus.](https://pubmed.ncbi.nlm.nih.gov/36833435/) — Case-control; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.3390/genes14020508)
 
 **Observational design subtypes in the fetched citation sample (not whole-pool counts):**
-- Prospective cohort: 0
 - Cohort (direction unclear): 4
-- Cross-sectional: 6
+- Prospective cohort: 0
 - Case-control: 2
 - Retrospective cohort: 0
+- Cross-sectional: 6
 - Other observational study: 2
 
 **Existing review/meta-analysis references:**
@@ -525,9 +526,9 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Red meat consumption, cardiovascular diseases, and diabetes: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/37264855/) | [DOI](https://doi.org/10.1093/eurheartj/ehad336)
 - [The effect of cinnamon supplementation on glycemic control in patients with type 2 diabetes mellitus: An updated systematic review and dose-response meta-analysis of randomized controlled trials.](https://pubmed.ncbi.nlm.nih.gov/37818728/) | [DOI](https://doi.org/10.1002/ptr.8026)
 - [Effectiveness of Continuous Glucose Monitoring on Metrics of Glycemic Control in Type 2 Diabetes Mellitus: A Systematic Review and Meta-analysis of Randomized Controlled Trials.](https://pubmed.ncbi.nlm.nih.gov/37987208/) | [DOI](https://doi.org/10.1210/clinem/dgad652)
+- [The association between smoking and diabetic neuropathy: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/41444672/) | [DOI](https://doi.org/10.1186/s13643-025-02995-w)
 - [Smoking and diabetic nephropathy: An updated systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/39728025/) | [DOI](https://doi.org/10.1111/jdi.14385)
 - [Type 2 diabetes mellitus after gestational diabetes: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/19465232/) | [DOI](https://doi.org/10.1016/S0140-6736(09)60731-5)
-- [Built environment and cardio-metabolic health: systematic review and meta-analysis of longitudinal studies.](https://pubmed.ncbi.nlm.nih.gov/30253075/) | [DOI](https://doi.org/10.1111/obr.12759)
 
 > **Interpretation:** PubMed hit counts are candidate retrieval counts, not screened or eligible studies. RCT and observational searches are separate and can overlap. Sample sizes are abstract-only signals and must not be summed because cohorts may overlap. PROSPERO overlap and outcome compatibility have not been adjudicated.
 
@@ -569,10 +570,10 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [A double-blind trial of decoded neurofeedback intervention for specific phobias.](https://pubmed.ncbi.nlm.nih.gov/39221769/) — Randomized controlled trial (RCT); abstract sample-size signal: 23 | [DOI](https://doi.org/10.1111/pcn.13726)
 - [Safety and efficacy of rituximab in neuromyelitis optica spectrum disorders (RIN-1 study): a multicentre, randomised, double-blind, placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/32199095/) — Randomized controlled trial (RCT); abstract sample-size signal: 19 | [DOI](https://doi.org/10.1016/S1474-4422(20)30066-1)
 - [Methamphetamine alters nucleus accumbens neural activation to monetary loss in healthy young adults.](https://pubmed.ncbi.nlm.nih.gov/37530883/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1007/s00213-023-06398-4)
-- [Causal effects of psychostimulants on neural connectivity: a mechanistic, randomized clinical trial.](https://pubmed.ncbi.nlm.nih.gov/35141898/) — Randomized controlled trial (RCT); abstract sample-size signal: 46 | [DOI](https://doi.org/10.1111/jcpp.13585)
 - [Baclofen Modulates Neural Intrinsic Functional Connectivity in Treatment-Seeking Individuals With Alcohol Use Disorder.](https://pubmed.ncbi.nlm.nih.gov/42246466/) — Randomized controlled trial (RCT); abstract sample-size signal: 10 | [DOI](https://doi.org/10.1111/acer.70332)
 - [Little Change in Functional Brain Networks Following Acute Levodopa in Drug-Naïve Parkinson's Disease.](https://pubmed.ncbi.nlm.nih.gov/31854465/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1002/mds.27942)
 - [Brain volume increase after discontinuing natalizumab therapy: Evidence for reversible pseudoatrophy.](https://pubmed.ncbi.nlm.nih.gov/37976981/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.msard.2023.105123)
+- [Cortisol modifies extinction learning of recently acquired fear in men.](https://pubmed.ncbi.nlm.nih.gov/23945999/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1093/scan/nst137)
 
 **Observational evidence references (separate track):**
 - [Magnetic Resonance Imaging Characteristics of LGI1-Antibody and CASPR2-Antibody Encephalitis.](https://pubmed.ncbi.nlm.nih.gov/38497971/) — Cross-sectional; abstract sample-size signal: 87 | [DOI](https://doi.org/10.1001/jamaneurol.2024.0126)
@@ -586,11 +587,11 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Disentangling Neurodegeneration From Aging in Multiple Sclerosis Using Deep Learning: The Brain-Predicted Disease Duration Gap.](https://pubmed.ncbi.nlm.nih.gov/39496109/) — Cross-sectional; abstract sample-size signal: 252 | [DOI](https://doi.org/10.1212/WNL.0000000000209976)
 
 **Observational design subtypes in the fetched citation sample (not whole-pool counts):**
-- Prospective cohort: 0
 - Cohort (direction unclear): 0
-- Cross-sectional: 7
+- Prospective cohort: 0
 - Case-control: 2
 - Retrospective cohort: 0
+- Cross-sectional: 7
 - Other observational study: 0
 
 **Existing review/meta-analysis references:**
@@ -599,9 +600,9 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [The effect of adverse childhood experiences on chronic pain and major depression in adulthood: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/37087334/) | [DOI](https://doi.org/10.1016/j.bja.2023.03.008)
 - [Systematic review and meta-analysis of automated methods for quantifying enlarged perivascular spaces in the brain.](https://pubmed.ncbi.nlm.nih.gov/38914212/) | [DOI](https://doi.org/10.1016/j.neuroimage.2024.120685)
 - [A meta-analytic investigation of grey matter differences in anorexia nervosa and autism spectrum disorder.](https://pubmed.ncbi.nlm.nih.gov/35526083/) | [DOI](https://doi.org/10.1002/erv.2915)
-- [Characteristics of MRI lesions in AQP4 antibody-positive NMOSD, MOGAD, and multiple sclerosis: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/40773034/) | [DOI](https://doi.org/10.1007/s00415-025-13303-w)
 - [Brain-regional characteristics and neuroinflammation in ME/CFS patients from neuroimaging: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/38016575/) | [DOI](https://doi.org/10.1016/j.autrev.2023.103484)
-- [Systematic review with meta-analysis: neuroimaging in hepatitis C chronic infection.](https://pubmed.ncbi.nlm.nih.gov/29536563/) | [DOI](https://doi.org/10.1111/apt.14594)
+- [Resting-state network alterations in depression: a comprehensive meta-analysis of functional connectivity.](https://pubmed.ncbi.nlm.nih.gov/40008424/) | [DOI](https://doi.org/10.1017/S0033291725000303)
+- [Characteristics of MRI lesions in AQP4 antibody-positive NMOSD, MOGAD, and multiple sclerosis: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/40773034/) | [DOI](https://doi.org/10.1007/s00415-025-13303-w)
 
 > **Interpretation:** PubMed hit counts are candidate retrieval counts, not screened or eligible studies. RCT and observational searches are separate and can overlap. Sample sizes are abstract-only signals and must not be summed because cohorts may overlap. PROSPERO overlap and outcome compatibility have not been adjudicated.
 
@@ -661,21 +662,20 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Cardiovascular risk factors and the risk of Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/25514902/) — Case-control; abstract sample-size signal: 101 | [DOI](https://doi.org/10.1038/ejcn.2014.259)
 - [Maternal Risk Factors and Perinatal Characteristics for Hirschsprung Disease.](https://pubmed.ncbi.nlm.nih.gov/27307146/) — Case-control; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1542/peds.2015-4608)
 - [Reexploration for Bleeding and Its Association With Mortality After Cardiac Surgery.](https://pubmed.ncbi.nlm.nih.gov/27021031/) — Other observational study; abstract sample-size signal: 320 | [DOI](https://doi.org/10.1016/j.athoracsur.2016.01.006)
-- [Drug-coated balloons versus drug-eluting stents for small non-complex de novo coronary artery lesions: A segment-level propensity score matched analysis from SCAAR.](https://pubmed.ncbi.nlm.nih.gov/40274484/) — Other observational study; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.carrev.2025.04.006)
 
 **Observational design subtypes in the fetched citation sample (not whole-pool counts):**
-- Prospective cohort: 0
 - Cohort (direction unclear): 0
-- Cross-sectional: 2
+- Prospective cohort: 0
 - Case-control: 5
 - Retrospective cohort: 4
-- Other observational study: 5
+- Cross-sectional: 2
+- Other observational study: 4
 
 **Existing review/meta-analysis references:**
-- [Parental mental illness and the risk of offspring cancer in childhood: a pooled meta-analysis of English and Swedish national cohorts.](https://pubmed.ncbi.nlm.nih.gov/41146054/) | [DOI](https://doi.org/10.1186/s12888-025-07520-w)
 - [Work-related psychosocial risk factors for stress-related mental disorders: an updated systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/32624469/) | [DOI](https://doi.org/10.1136/bmjopen-2019-034849)
 - [Glucagon-Like Peptide 1 Receptor Agonists and Risk of Thyroid Cancer: An International Multisite Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/39772758/) | [DOI](https://doi.org/10.1089/thy.2024.0387)
 - [Is there still a social gradient in respiratory symptoms? A population-based Nordic EpiLung-study.](https://pubmed.ncbi.nlm.nih.gov/38340905/) | [DOI](https://doi.org/10.1016/j.rmed.2024.107561)
+- [Alcohol consumption and mortality. I. Characteristics of drinking groups.](https://pubmed.ncbi.nlm.nih.gov/9624721/) | [DOI](https://doi.org/10.1046/j.1360-0443.1998.9321834.x)
 - [Suicides in Mood Disorders in Psychiatric Settings in Nordic National Register-Based Studies.](https://pubmed.ncbi.nlm.nih.gov/32848909/) | [DOI](https://doi.org/10.3389/fpsyt.2020.00721)
 - [Low birth weight in the offspring of women with anorexia nervosa.](https://pubmed.ncbi.nlm.nih.gov/24025351/) | [DOI](https://doi.org/10.1093/epirev/mxt004)
 - [Alcohol consumption and risk of stomach cancer: A meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/33412155/) | [DOI](https://doi.org/10.1016/j.cbi.2021.109365)
@@ -709,13 +709,13 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Exercise and well-being: a review of mental and physical health benefits associated with physical activity.](https://pubmed.ncbi.nlm.nih.gov/16639173/) — Randomized controlled trial (RCT); abstract sample-size signal: , | [DOI](https://doi.org/10.1097/00001504-200503000-00013)
 - [Is It Possible to Delay or Prevent Age-Related Cognitive Decline?](https://pubmed.ncbi.nlm.nih.gov/27688858/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.4082/kjfm.2016.37.5.263)
 - [Intimate Partner Violence and Food Insecurity Predict Early Behavior Problems Among South African Children over 5-years Post-Birth.](https://pubmed.ncbi.nlm.nih.gov/32683574/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1007/s10578-020-01025-1)
+- [Effect of selective serotonin reuptake inhibitors on platelet activation: can they prevent acute myocardial infarction?](https://pubmed.ncbi.nlm.nih.gov/14727927/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.2165/00129784-200303030-00001)
 
 **Observational evidence references (separate track):**
 - [A machine-learning-derived online prediction model for depression risk in COPD patients: A retrospective cohort study from CHARLS.](https://pubmed.ncbi.nlm.nih.gov/39988142/) — Retrospective cohort; abstract sample-size signal: 2921 | [DOI](https://doi.org/10.1016/j.jad.2025.02.063)
 - [Depressive Symptoms and Cognitive Improvement in Patients with Dementia with Lewy Bodies.](https://pubmed.ncbi.nlm.nih.gov/31476162/) — Other observational study; abstract sample-size signal: 28 | [DOI](https://doi.org/10.3233/JAD-190685)
 - [Longitudinal Psychiatric Symptoms in Prodromal Huntington's Disease: A Decade of Data.](https://pubmed.ncbi.nlm.nih.gov/26472629/) — Case-control; abstract sample-size signal: 1,305 | [DOI](https://doi.org/10.1176/appi.ajp.2015.14121551)
 - [Investigating social cognition in epilepsy using a naturalistic task.](https://pubmed.ncbi.nlm.nih.gov/27461072/) — Other observational study; abstract sample-size signal: 43 | [DOI](https://doi.org/10.1111/epi.13477)
-- [Sleep quality and levels of stress, anxiety, and depression in patients treated with homeopathy: a prospective study in the Brazilian public healthcare service.](https://pubmed.ncbi.nlm.nih.gov/41172402/) — Prospective cohort; abstract sample-size signal: 26 | [DOI](https://doi.org/10.1590/1516-3180.2025.3033.06082025)
 - [The development and validation of the Children's Hope Scale.](https://pubmed.ncbi.nlm.nih.gov/9212556/) — Case-control; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1093/jpepsy/22.3.399)
 - [Stability of symptoms across major depressive episodes in bipolar disorder.](https://pubmed.ncbi.nlm.nih.gov/19922555/) — Cohort (direction unclear); abstract sample-size signal: 583 | [DOI](https://doi.org/10.1111/j.1399-5618.2009.00764.x)
 - [Individual and neighborhood characteristics as predictors of depression symptom response.](https://pubmed.ncbi.nlm.nih.gov/30829408/) — Retrospective cohort; abstract sample-size signal: 4,269 | [DOI](https://doi.org/10.1111/1475-6773.13127)
@@ -726,13 +726,14 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [A longitudinal study of hypomania and depression symptoms in pregnancy and the postpartum period.](https://pubmed.ncbi.nlm.nih.gov/19500094/) — Retrospective cohort; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1111/j.1399-5618.2009.00685.x)
 - [Increased BMI Velocity is Associated with Elevated Patient Health Questionnaire-9 Scores in Adolescents with Obesity.](https://pubmed.ncbi.nlm.nih.gov/39655563/) — Retrospective cohort; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1089/chi.2024.0323)
 - [A multisite, longitudinal study assessing prevalence of depression in student pharmacists.](https://pubmed.ncbi.nlm.nih.gov/38141954/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.ajpe.2023.100634)
+- [Breastfeeding and later depression and anxiety in mothers in Ireland: a 10-year prospective observational study.](https://pubmed.ncbi.nlm.nih.gov/41506748/) — Prospective cohort; abstract sample-size signal: 122 | [DOI](https://doi.org/10.1136/bmjopen-2024-097323)
 
 **Observational design subtypes in the fetched citation sample (not whole-pool counts):**
-- Prospective cohort: 1
 - Cohort (direction unclear): 1
-- Cross-sectional: 1
+- Prospective cohort: 1
 - Case-control: 3
 - Retrospective cohort: 7
+- Cross-sectional: 1
 - Other observational study: 2
 
 **Existing review/meta-analysis references:**
@@ -743,7 +744,7 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Risk factors and protective factors of depression in older people 65+. A systematic review.](https://pubmed.ncbi.nlm.nih.gov/33983995/) | [DOI](https://doi.org/10.1371/journal.pone.0251326)
 - [Clinical predictors of suicidal ideation, suicide attempts and suicide death in depressive disorder: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/38015265/) | [DOI](https://doi.org/10.1007/s00406-023-01716-5)
 - [The risk of depression in the menopausal stages: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/38642901/) | [DOI](https://doi.org/10.1016/j.jad.2024.04.041)
-- [Insomnia as a predictor of depression: a meta-analytic evaluation of longitudinal epidemiological studies.](https://pubmed.ncbi.nlm.nih.gov/21300408/) | [DOI](https://doi.org/10.1016/j.jad.2011.01.011)
+- [Impact of periodontal disease on cognitive disorders, dementia, and depression: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/38943006/) | [DOI](https://doi.org/10.1007/s11357-024-01243-8)
 
 > **Interpretation:** PubMed hit counts are candidate retrieval counts, not screened or eligible studies. RCT and observational searches are separate and can overlap. Sample sizes are abstract-only signals and must not be summed because cohorts may overlap. PROSPERO overlap and outcome compatibility have not been adjudicated.
 
@@ -788,6 +789,7 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Changes in non-culprit coronary lesions with PCSK9 inhibitors: the randomised, placebo-controlled FITTER trial.](https://pubmed.ncbi.nlm.nih.gov/40828313/) — Randomized controlled trial (RCT); abstract sample-size signal: 74 | [DOI](https://doi.org/10.4244/EIJ-D-24-01065)
 - [Endoscopic or Open Radial Artery Harvest in Coronary Artery Bypass Surgery.](https://pubmed.ncbi.nlm.nih.gov/41432491/) — Randomized controlled trial (RCT); abstract sample-size signal: 300 | [DOI](https://doi.org/10.1056/EVIDoa2500199)
 - [Apolipoprotein A1 Infusions and Cardiovascular Outcomes after Acute Myocardial Infarction.](https://pubmed.ncbi.nlm.nih.gov/38587254/) — Randomized controlled trial (RCT); abstract sample-size signal: 18,219 | [DOI](https://doi.org/10.1056/NEJMoa2400969)
+- [Effect of vitamin K1 supplementation on coronary calcifications in hemodialysis patients: a randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/39680321/) — Randomized controlled trial (RCT); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1007/s40620-024-02154-9)
 
 **Observational evidence references (separate track):**
 - [Morphological and histopathological evaluation of autopsied patients with hypertensive cardiopathy.](https://pubmed.ncbi.nlm.nih.gov/31146181/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.anndiagpath.2019.04.012)
@@ -802,20 +804,21 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Correlation analysis of coronary artery tortuosity and calcification score.](https://pubmed.ncbi.nlm.nih.gov/35197040/) — Cross-sectional; abstract sample-size signal: 1280 | [DOI](https://doi.org/10.1186/s12893-022-01470-w)
 - [Identifying Kawasaki Disease With a Low Coronary Artery Aneurysm Risk.](https://pubmed.ncbi.nlm.nih.gov/37053581/) — Cohort (direction unclear); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1097/INF.0000000000003912)
 - [Relationship of coronary collateral circulation with eosinophils in patients with unstable angina pectoris.](https://pubmed.ncbi.nlm.nih.gov/26889082/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.2147/CIA.S95363)
-- [The rs3825807 Polymorphism of ADAMTS7 as a Potential Genetic Marker for Myocardial Infarction in Slovenian Subjects with Type 2 Diabetes Mellitus.](https://pubmed.ncbi.nlm.nih.gov/36833435/) — Case-control; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.3390/genes14020508)
 - [Persistent median artery on computed tomographic arteriovenous fistulograms in patients on haemodialysis.](https://pubmed.ncbi.nlm.nih.gov/37277645/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1111/1754-9485.13544)
 - [Octanoyl-carnitine predicts post operative complications following coronary artery bypass surgery.](https://pubmed.ncbi.nlm.nih.gov/41034608/) — Cohort (direction unclear); abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1038/s41598-025-16552-x)
 - [Management of spontaneous coronary artery dissection: Trends over time.](https://pubmed.ncbi.nlm.nih.gov/37025021/) — Cross-sectional; abstract sample-size signal: 157 | [DOI](https://doi.org/10.1177/1358863X231155305)
+- [The association between liver fat and systemic calcified atherosclerosis.](https://pubmed.ncbi.nlm.nih.gov/31153702/) — Cross-sectional; abstract sample-size signal: not reported in abstract | [DOI](https://doi.org/10.1016/j.jvs.2019.03.044)
 
 **Observational design subtypes in the fetched citation sample (not whole-pool counts):**
-- Prospective cohort: 0
 - Cohort (direction unclear): 6
-- Cross-sectional: 7
-- Case-control: 1
+- Prospective cohort: 0
+- Case-control: 0
 - Retrospective cohort: 0
+- Cross-sectional: 8
 - Other observational study: 2
 
 **Existing review/meta-analysis references:**
+- [Benefits of aquatic exercise in adults with and without chronic disease-A systematic review with meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/34913530/) | [DOI](https://doi.org/10.1111/sms.14112)
 - [Accuracy of Machine Learning in Discriminating Kawasaki Disease and Other Febrile Illnesses: Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/39556821/) | [DOI](https://doi.org/10.2196/57641)
 - [Pericardial fat and cardiovascular diseases: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/37332179/) | [DOI](https://doi.org/10.1111/jebm.12542)
 - [Opium use and cardiovascular diseases: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/32228217/) | [DOI](https://doi.org/10.1080/10408444.2020.1740972)
@@ -823,7 +826,6 @@ CSV files are preliminary triage aids. Records labelled unclear/manual_check req
 - [Cardiovascular consequences of financial stress: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/37979897/) | [DOI](https://doi.org/10.1016/j.cpcardiol.2023.102153)
 - [Prevalence and Risk Factors of Poststroke Cognitive Impairment: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/39702976/) | [DOI](https://doi.org/10.1111/phn.13503)
 - [CT-derived epicardial adipose tissue density: Systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/34482178/) | [DOI](https://doi.org/10.1016/j.ejrad.2021.109902)
-- [Orbital atherectomy versus rotational atherectomy: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/31898984/) | [DOI](https://doi.org/10.1016/j.ijcard.2019.12.037)
 
 > **Interpretation:** PubMed hit counts are candidate retrieval counts, not screened or eligible studies. RCT and observational searches are separate and can overlap. Sample sizes are abstract-only signals and must not be summed because cohorts may overlap. PROSPERO overlap and outcome compatibility have not been adjudicated.
 
