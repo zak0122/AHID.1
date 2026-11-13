@@ -1,0 +1,314 @@
+{
+  "run_date": "2026-11-13",
+  "saved_at_utc": "2026-11-13T13:11:03.802954+00:00",
+  "git_sha": "ad769ddd91f522f2311b5085eda3101c8a63e8b8",
+  "workflow": "AHID SRMA Topic Discovery",
+  "workflow_run_id": "43431168517",
+  "workflow_run_number": "290",
+  "report_file": "report_run-290.md",
+  "report_sha256": "33e606608420bd3a59ed3656261d218a12ac7d922682035c4fe13402c4fd6c61",
+  "archived_screening_files": [
+    {
+      "file": "screening/antihypertensive-agents-hypertension_observational.csv",
+      "sha256": "6fff3c112c92b52e3ba6e5b215c2c27269c01edb69c8ed56df15b2d2dddf08d0",
+      "bytes": 31103
+    },
+    {
+      "file": "screening/antihypertensive-agents-hypertension_observational_compatibility.csv",
+      "sha256": "559a222cbdc7103692c1373f3d7ee62693cfedb14fe3eada821a05d9ece301cc",
+      "bytes": 29345
+    },
+    {
+      "file": "screening/antihypertensive-agents-hypertension_rct.csv",
+      "sha256": "f1d27ab33c2cee31564ef5954ac2149bebc960d4f3849b8bae4f3c5b15eb21dd",
+      "bytes": 49262
+    },
+    {
+      "file": "screening/antihypertensive-agents-hypertension_rct_compatibility.csv",
+      "sha256": "fb6f0647592bf2c2da32ecbe6e85e36215325d84c05ec7f971d52ba684d82e9f",
+      "bytes": 46985
+    },
+    {
+      "file": "screening/antihypertensive-agents-hypertension_reviews.csv",
+      "sha256": "047d2f258d73dea56119e40cb1ba86a162ac470def443bbf950ff10b200bc95e",
+      "bytes": 2306
+    },
+    {
+      "file": "screening/artery-coronary_observational.csv",
+      "sha256": "4f44772e7981e737d06824e6382355027c423e0426c3e0e049d5b7797dc758f5",
+      "bytes": 36329
+    },
+    {
+      "file": "screening/artery-coronary_observational_compatibility.csv",
+      "sha256": "065ecff1434dfb2822fe558a4f3101f94ac0c73db0b0fb61ab17d052d7ac4983",
+      "bytes": 34439
+    },
+    {
+      "file": "screening/artery-coronary_rct.csv",
+      "sha256": "b9a9c4b332d0d722acdba4cb392f696f9d124ed4904338e77302811d785e4ad9",
+      "bytes": 51984
+    },
+    {
+      "file": "screening/artery-coronary_rct_compatibility.csv",
+      "sha256": "e5850f8392363f73c358ce321ddbff453ece505a199c902ff3b966dc3ad3c7d1",
+      "bytes": 49669
+    },
+    {
+      "file": "screening/artery-coronary_reviews.csv",
+      "sha256": "870da7ecd851fd64553972001a7f71513cdd46500f1d109b0bf7c6a16b2b2dae",
+      "bytes": 2084
+    },
+    {
+      "file": "screening/brain-magnetic-resonance-imaging_observational.csv",
+      "sha256": "bb831a04c88f76e823a4b91741d04523a26301346b7f75bcfeaa85498ecb073d",
+      "bytes": 21861
+    },
+    {
+      "file": "screening/brain-magnetic-resonance-imaging_observational_compatibility.csv",
+      "sha256": "804c807eee3383d4fcccfc6a7db9031aeff14d25b25ce494f7d7717cf4974c32",
+      "bytes": 20890
+    },
+    {
+      "file": "screening/brain-magnetic-resonance-imaging_rct.csv",
+      "sha256": "beaba2f0180cff82382a9d465060f773c166f362be4fb75bbc390e5c2b5b3ec3",
+      "bytes": 49887
+    },
+    {
+      "file": "screening/brain-magnetic-resonance-imaging_rct_compatibility.csv",
+      "sha256": "ed54ba04fef85adc541bd3124918e575a6fcc5f81ea8ca6e53831da77ab8895b",
+      "bytes": 47524
+    },
+    {
+      "file": "screening/brain-magnetic-resonance-imaging_reviews.csv",
+      "sha256": "b58fca2fd36f98a67d05b14384ccf70b2b4f6129ddd88c97a74475d34a692f16",
+      "bytes": 2270
+    },
+    {
+      "file": "screening/cognition-neuropsychological-tests_observational.csv",
+      "sha256": "0f4706d74595ad8323d75f9ef890f7cb30837136b5d06e625c18c3573495979c",
+      "bytes": 32050
+    },
+    {
+      "file": "screening/cognition-neuropsychological-tests_observational_compatibility.csv",
+      "sha256": "208b19b8ca8ea1bbe04909ef2c91c54ea263408502e33b67c5adf5bf1b9f930e",
+      "bytes": 30386
+    },
+    {
+      "file": "screening/cognition-neuropsychological-tests_rct.csv",
+      "sha256": "ab5ef84e4ff727d01942943b2649e9eb9b5c37d716accf02444908446fb62f33",
+      "bytes": 45703
+    },
+    {
+      "file": "screening/cognition-neuropsychological-tests_rct_compatibility.csv",
+      "sha256": "1d0c6eb1d95f7768afcde51077cb63c7d6d53470a51f26711cd07f9e8d5fbd6a",
+      "bytes": 43340
+    },
+    {
+      "file": "screening/cognition-neuropsychological-tests_reviews.csv",
+      "sha256": "9fa2efc2c20cb741dca47de80d32d98ae5b5c51868b02219e7a6b955dbfdd488",
+      "bytes": 2250
+    },
+    {
+      "file": "screening/depression-longitudinal-studies_observational.csv",
+      "sha256": "4dd026ab3df84480cd1e78075ba01e12c680e85a12d326a2e2cec2021ff777f1",
+      "bytes": 29004
+    },
+    {
+      "file": "screening/depression-longitudinal-studies_observational_compatibility.csv",
+      "sha256": "63a9a2a1f6a1f10114f337e8d82927724ebe0e7451ea5338da65bc0c7ff023c5",
+      "bytes": 27203
+    },
+    {
+      "file": "screening/depression-longitudinal-studies_rct.csv",
+      "sha256": "f118806a9930f2135936e0c416428ba9b59cddaed4355e0405cd5b887257b470",
+      "bytes": 86
+    },
+    {
+      "file": "screening/depression-longitudinal-studies_rct_compatibility.csv",
+      "sha256": "4ec3ae36b20aadd9b31769d77d50c127b4c64f55b4909da28cc518f2f7643cb9",
+      "bytes": 305
+    },
+    {
+      "file": "screening/depression-longitudinal-studies_reviews.csv",
+      "sha256": "9cfe5826bb1f078098ccb1bc48b88024cd5d1dda2479ceba1554144839180520",
+      "bytes": 2314
+    },
+    {
+      "file": "screening/diabetes-type_observational.csv",
+      "sha256": "5684343d9c69b37e0a3f640817fe86612528af24fe3e590037204233f51881cd",
+      "bytes": 25263
+    },
+    {
+      "file": "screening/diabetes-type_observational_compatibility.csv",
+      "sha256": "d29c9ce9c196f58be2ed3f321430ab3d43fee7a18b31f880fcebefc2e3a606ec",
+      "bytes": 23769
+    },
+    {
+      "file": "screening/diabetes-type_rct.csv",
+      "sha256": "e3a08f12eaaf93f9777f24aaca8d42f1e53e49793fcb0fd7e8876f8c10d3a1c4",
+      "bytes": 62436
+    },
+    {
+      "file": "screening/diabetes-type_rct_compatibility.csv",
+      "sha256": "1206b8bcb31aaf0e6010a9b9b330c306ce017b7aa321892f6ed2633e068c2a95",
+      "bytes": 60190
+    },
+    {
+      "file": "screening/diabetes-type_reviews.csv",
+      "sha256": "aec208ed941c4f40b463163d8b93f48a339024a360bdcd697b0a978f10005eb5",
+      "bytes": 2459
+    },
+    {
+      "file": "screening/double-blind-placebo-controlled_observational.csv",
+      "sha256": "6e90daed7c84f877dc306e3676ef48e5cbc2502d1dcd0cf959e308fc0335184b",
+      "bytes": 1861
+    },
+    {
+      "file": "screening/double-blind-placebo-controlled_observational_compatibility.csv",
+      "sha256": "81b00e350a6c2fcb8a951bbab0d01bbfefcbbaf23a5b8b0bbd3757480fa77c92",
+      "bytes": 1957
+    },
+    {
+      "file": "screening/double-blind-placebo-controlled_rct.csv",
+      "sha256": "cc15712a776143733fb582fc37af73a84098671f40b2e793b04947c2345ecc9e",
+      "bytes": 61947
+    },
+    {
+      "file": "screening/double-blind-placebo-controlled_rct_compatibility.csv",
+      "sha256": "1c44f313e01f1bc8ce0a8941e3d189824ed486fcadd888b4b143774d89056cf5",
+      "bytes": 59668
+    },
+    {
+      "file": "screening/double-blind-placebo-controlled_reviews.csv",
+      "sha256": "92b23206af1cbde6a54958ee572a758bc0ef3049cf9e79060bf5c72390a9aa4d",
+      "bytes": 2568
+    },
+    {
+      "file": "screening/failure-heart_observational.csv",
+      "sha256": "658f9c639ada4fdf67d005885cd047b6bc50ac35c7696e56633daaf2daaa5890",
+      "bytes": 37559
+    },
+    {
+      "file": "screening/failure-heart_observational_compatibility.csv",
+      "sha256": "1b26c237cd999e07a98fb7e5207df3a92de7160682bbf3e3b95e3243907af8c7",
+      "bytes": 35612
+    },
+    {
+      "file": "screening/failure-heart_rct.csv",
+      "sha256": "69759eeb35c9de8ad53e555bdbab54c8760aa9a8abbcf25c901fc5ca56d62694",
+      "bytes": 49861
+    },
+    {
+      "file": "screening/failure-heart_rct_compatibility.csv",
+      "sha256": "0e2bb75e4b853e4aea154ad7065593fbcdf6544833c20bf89ae932c6cbfdb17d",
+      "bytes": 47539
+    },
+    {
+      "file": "screening/failure-heart_reviews.csv",
+      "sha256": "dbd3c3afca327f3ab2f4334b1fda65dd280d5651232992ec94d70c029373c56e",
+      "bytes": 2193
+    },
+    {
+      "file": "screening/incidence-risk-factors_observational.csv",
+      "sha256": "0ee97dd122285fdf7b1ccffabc9c1ff8d8f46a79b0e5d451207bd63bcc36ae95",
+      "bytes": 34238
+    },
+    {
+      "file": "screening/incidence-risk-factors_observational_compatibility.csv",
+      "sha256": "a858a335f39c1d5cfc1ebbf1fee932d4658d220621aeeafa81c0c9273e568748",
+      "bytes": 32177
+    },
+    {
+      "file": "screening/incidence-risk-factors_rct.csv",
+      "sha256": "f175c0bbcdd7b8a6b7edd4e59c159617172c6dc38567a013165aba1f036d64f6",
+      "bytes": 51575
+    },
+    {
+      "file": "screening/incidence-risk-factors_rct_compatibility.csv",
+      "sha256": "51fa94f6d0cb375d1783467d9421c02097ecd09a8f25c6531c763d0217a9462e",
+      "bytes": 49144
+    },
+    {
+      "file": "screening/incidence-risk-factors_reviews.csv",
+      "sha256": "b49da92d0847589b5966ec6eb1c2459490dc35c0f2e6d3b14be0d74cb7b010e8",
+      "bytes": 2297
+    },
+    {
+      "file": "screening/machine-learning-predictive-learning-models_observational.csv",
+      "sha256": "8c7353893cea950c2345163c6a8f3bdde98367cc050782691daea7820f1081cb",
+      "bytes": 42099
+    },
+    {
+      "file": "screening/machine-learning-predictive-learning-models_observational_compatibility.csv",
+      "sha256": "64d8b1062af563f1de77d3ac9b5321904f50917db0f81ce54ccbcfcad673553b",
+      "bytes": 39942
+    },
+    {
+      "file": "screening/machine-learning-predictive-learning-models_rct.csv",
+      "sha256": "3222dbc575d58903b48534bc020ca010871950c203456febf5bf50b2ff5d0adb",
+      "bytes": 31070
+    },
+    {
+      "file": "screening/machine-learning-predictive-learning-models_rct_compatibility.csv",
+      "sha256": "c1d727d120666011535befb9e582569e68ce132633ff36ac8a0c471c46e6a41b",
+      "bytes": 29578
+    },
+    {
+      "file": "screening/machine-learning-predictive-learning-models_reviews.csv",
+      "sha256": "b1abe3018db7a0cecc26b6caf6887036e26407932869f50ff2c90539544b0b8e",
+      "bytes": 2341
+    },
+    {
+      "file": "screening/registries-risk-factors_observational.csv",
+      "sha256": "8e8e538f1e8d51216e3bb1647278a28947d137c21b6cd4f8b021af24b4945c5b",
+      "bytes": 38948
+    },
+    {
+      "file": "screening/registries-risk-factors_observational_compatibility.csv",
+      "sha256": "474aa2bee5ce4238c42636ff80d10dbc190d7b813c5c8a65ccc32fb91f89e21d",
+      "bytes": 36850
+    },
+    {
+      "file": "screening/registries-risk-factors_rct.csv",
+      "sha256": "26d919938d69342d34c7323160a8c7fea0a440557f4b4c4f6e3ca3cd1d491465",
+      "bytes": 31130
+    },
+    {
+      "file": "screening/registries-risk-factors_rct_compatibility.csv",
+      "sha256": "58e7bf130c6699c6f13fe03d8fd6554cf2caa2f4de5d2e16064e750489dc46d1",
+      "bytes": 29224
+    },
+    {
+      "file": "screening/registries-risk-factors_reviews.csv",
+      "sha256": "0659089b6c4d4a2dce614b26463627cf505d1ae6e626d427f22ca5f294214bd3",
+      "bytes": 2426
+    },
+    {
+      "file": "screening/risk-factors-sweden_observational.csv",
+      "sha256": "d51d300454c28f203620e4adac613fdf396bdedab90792ac1d7489be7e63b969",
+      "bytes": 35890
+    },
+    {
+      "file": "screening/risk-factors-sweden_observational_compatibility.csv",
+      "sha256": "eb19a703a6902e832d37e3b08f2f08352908d83faaa1aab4094cf306c2e25085",
+      "bytes": 33898
+    },
+    {
+      "file": "screening/risk-factors-sweden_rct.csv",
+      "sha256": "95b13eae92d65127765bb36bb6c8622898cca22f9b8b25eeb703310e1d399cc8",
+      "bytes": 40342
+    },
+    {
+      "file": "screening/risk-factors-sweden_rct_compatibility.csv",
+      "sha256": "8c0e02fa5276efb4ca84fe5d1116fa9144975e5e9f6ec87b72fc2426d9c2f4ce",
+      "bytes": 38429
+    },
+    {
+      "file": "screening/risk-factors-sweden_reviews.csv",
+      "sha256": "44de1bf5cf4ec1d35f02253c0428732e84bb2fe7e9d7e14b8e8e492220363821",
+      "bytes": 2398
+    }
+  ],
+  "archive_schema_version": 1,
+  "note": "PubMed retrieval and heuristic triage are not full-text eligibility decisions."
+}
