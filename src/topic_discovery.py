@@ -73,7 +73,19 @@ STOP = {
     "multicenter", "multicentre", "international", "national", "global",
     "new", "updated", "experience", "characteristics", "factors",
     "determinants", "patterns", "burden", "risk", "risks", "predictors",
-    "patients", "among", "versus", "based", "data", "evidence",
+    "data", "evidence",
+}
+
+GENERIC_MESH = {
+    "humans", "male", "female", "adult", "aged", "middle aged",
+    "aged, 80 and over", "young adult", "adolescent", "child", "infant",
+    "child, preschool", "newborn", "pregnancy", "animals", "mice",
+    "rats", "time factors", "treatment outcome", "retrospective studies",
+    "prospective studies", "cohort studies", "clinical trial",
+    "randomized controlled trial", "observational study",
+    "case-control studies", "cross-sectional studies", "follow-up studies",
+    "comparative study", "multicenter study", "multicentre study",
+    "female", "male", "humans",
 }
 
 MAX_CANDIDATES = int(os.environ.get("MAX_TOPIC_CANDIDATES", "12"))
@@ -93,45 +105,96 @@ def _tokens(title: str) -> List[str]:
 
 
 def _candidate_pairs(records: List[Dict], limit: int) -> List[Dict]:
-    """Choose medically specific pairs; avoid common generic title language."""
-    token_docs = [_tokens(record.get("title", "")) for record in records]
-    df = Counter(token for tokens in token_docs for token in set(tokens))
-    n_docs = max(len(records), 1)
-    grouped = defaultdict(list)
+    """Build co-occurring medical concepts from MeSH and title words.
 
-    for record, tokens in zip(records, token_docs):
-        if len(tokens) < 2:
-            continue
-        pairs = list(zip(tokens, tokens[1:]))
-        if not pairs:
-            continue
-        # Prefer informative but not ultra-rare terms. IDF helps prevent
-        # generic words from dominating; preserve original word order.
-        def pair_score(pair):
-            a, b = pair
-            idf = math.log((n_docs + 1) / (df[a] + 1)) + math.log((n_docs + 1) / (df[b] + 1))
-            commonness_penalty = 0.0 if df[a] > 1 and df[b] > 1 else 0.35
-            return idf - commonness_penalty
-        pair = max(pairs, key=pair_score)
-        grouped[pair].append(record)
+    MeSH descriptors contribute multi-word clinical concepts; title/abstract
+    terms provide a fallback for newly indexed records with incomplete
+    MEDLINE indexing. A candidate is retained only when both concepts occur
+    in the same seed record. These remain discovery leads, not finalized PICO.
+    """
+    token_docs = []
+    pair_sources = defaultdict(set)
+    grouped = defaultdict(list)
+    n_docs = max(len(records), 1)
+
+    for index, record in enumerate(records):
+        mesh_concepts = []
+        for raw in record.get("mesh_terms", []) or []:
+            phrase = re.sub(r"\s+", " ", str(raw)).strip()
+            key = phrase.lower()
+            if not phrase or key in GENERIC_MESH or len(phrase) < MIN_SEARCH_TERM_LENGTH:
+                continue
+            if key not in {x.lower() for x in mesh_concepts}:
+                mesh_concepts.append(phrase)
+
+        title_tokens = _tokens(record.get("title", ""))
+        token_docs.append(set(title_tokens))
+
+        pairs = set()
+        # MeSH-MeSH pairs represent two indexed clinical concepts that
+        # co-occurred in one primary study.
+        if len(mesh_concepts) >= 2:
+            concepts = mesh_concepts[:7]
+            for i, first in enumerate(concepts):
+                for second in concepts[i + 1:]:
+                    if first.lower() != second.lower():
+                        pairs.add(tuple(sorted((first, second), key=str.lower)))
+        # Mixed MeSH/title pairs add specificity when only one useful
+        # descriptor exists, and keep early/incompletely indexed articles.
+        if mesh_concepts and title_tokens:
+            for concept in mesh_concepts[:4]:
+                for token in title_tokens[:4]:
+                    if token.lower() not in concept.lower():
+                        pairs.add(tuple(sorted((concept, token), key=str.lower)))
+        # No useful MeSH concepts? Use adjacent non-generic title terms.
+        if not mesh_concepts and len(title_tokens) >= 2:
+            for first, second in zip(title_tokens, title_tokens[1:]):
+                pairs.add(tuple(sorted((first, second), key=str.lower)))
+
+        for pair in pairs:
+            grouped[pair].append(record)
+            pair_sources[pair].add("MeSH + title" if any(
+                len(term.split()) > 1 or term in mesh_concepts for term in pair
+            ) else "title/abstract")
+
+    df = Counter()
+    for tokens in token_docs:
+        df.update(tokens)
+    for pair, seed_records in grouped.items():
+        df[pair[0]] += len(seed_records)
+        df[pair[1]] += len(seed_records)
 
     candidates = []
     for pair, seeds in grouped.items():
+        a, b = pair
+        # Higher score means more informative but not vanishingly rare.
+        specificity = (
+            math.log((n_docs + 1) / (df[a] / 2 + 1))
+            + math.log((n_docs + 1) / (df[b] / 2 + 1))
+        )
         candidates.append({
             "terms": pair,
             "seed_records": seeds,
-            "seed_count": len(seeds),
-            "specificity": round(
-                math.log((n_docs + 1) / (df[pair[0]] + 1))
-                + math.log((n_docs + 1) / (df[pair[1]] + 1)), 2
-            ),
+            "seed_count": len({x.get("pmid") or id(x) for x in seeds}),
+            "specificity": round(specificity, 2),
+            "candidate_source": ", ".join(sorted(pair_sources[pair])),
         })
+
     candidates.sort(
-        key=lambda c: (c["seed_count"], c["specificity"],
-                       max((r.get("pubdate", "") for r in c["seed_records"]), default="")),
+        key=lambda candidate: (
+            candidate["seed_count"],
+            candidate["specificity"],
+            max((record.get("pubdate", "") for record in candidate["seed_records"]), default=""),
+        ),
         reverse=True,
     )
     return candidates[:limit]
+
+
+def _concept_query(term: str) -> str:
+    """Search a candidate concept in indexed MeSH and free-text fields."""
+    escaped = term.replace('"', "")
+    return f'("{escaped}"[Mesh] OR "{escaped}"[tiab])'
 
 
 def _pubmed_search(query: str, retmax: int = 30) -> Tuple[int, List[str]]:
@@ -186,7 +249,7 @@ def _priority(count: int, reviews: int, is_rct: bool) -> str:
 
 def _assess_candidate(candidate: Dict) -> Dict:
     term_a, term_b = candidate["terms"]
-    topic_query = f'"{term_a}"[tiab] AND "{term_b}"[tiab]'
+    topic_query = f'({_concept_query(term_a)}) AND ({_concept_query(term_b)})'
     rct_search = f"({topic_query}) AND ({RCT_QUERY})"
     obs_search = f"({topic_query}) AND ({OBSERVATIONAL_QUERY})"
     review_search = f"({topic_query}) AND ({REVIEW_QUERY})"
@@ -221,6 +284,8 @@ def _assess_candidate(candidate: Dict) -> Dict:
     phrase = f"{term_a} {term_b}"
     return {
         "topic": phrase,
+        "candidate_source": candidate.get("candidate_source", "title/abstract"),
+        "candidate_specificity": candidate.get("specificity", 0),
         "provisional_title": (
             f"{phrase.title()}: a systematic review and meta-analysis of "
             "randomized and observational evidence"
