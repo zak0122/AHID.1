@@ -56,7 +56,7 @@ jobs:
         run: |
           git config user.name "ahid-topic-discovery[bot]"
           git config user.email "ahid-topic-discovery[bot]@users.noreply.github.com"
-          git add -A state output
+          git add -A state output outcomes
           git diff --cached --quiet || git commit -m "Daily AHID SRMA topic discovery report"
           git pull --rebase origin "$GITHUB_REF_NAME"
           git push origin "HEAD:$GITHUB_REF_NAME"
