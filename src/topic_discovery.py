@@ -329,7 +329,9 @@ def _assess_candidate(candidate: Dict) -> Dict:
                 "sample_size": _sample_size(item.get("abstract", "")),
                 "link": item.get("link", ""),
                 "doi_link": item.get("doi_link", ""),
-            } for item in rct_refs[:8]
+                "abstract": item.get("abstract", ""),
+                "publication_types": item.get("publication_types", []),
+            } for item in rct_refs[:20]
         ],
         "observational_refs": [
             {
@@ -340,7 +342,9 @@ def _assess_candidate(candidate: Dict) -> Dict:
                 "sample_size": _sample_size(item.get("abstract", "")),
                 "link": item.get("link", ""),
                 "doi_link": item.get("doi_link", ""),
-            } for item in obs_refs[:8]
+                "abstract": item.get("abstract", ""),
+                "publication_types": item.get("publication_types", []),
+            } for item in obs_refs[:20]
         ],
         "search_query": topic_query,
         "rct_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(rct_search),
