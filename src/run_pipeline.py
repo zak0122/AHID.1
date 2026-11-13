@@ -64,6 +64,8 @@ def _topic_section(topics, design_key, priority_key, title_key, heading):
             f"**PubMed candidate hits:** {topic['rct_count']} RCT-search hits; "
             f"{topic['observational_count']} observational-search hits; "
             f"{topic['review_count']} existing-review-search hits\n"
+            f"**Search refinement:** [Broad concept search]({topic['broad_search_url']}) | "
+            f"[Focused exact-phrase search]({topic['focused_search_url']})  \\n"
             f"**Separate searches:** [RCT-only]({topic['rct_search_url']}) | "
             f"[Observational-only]({topic['observational_search_url']}) | "
             f"[Existing reviews]({topic['review_search_url']})\n"
