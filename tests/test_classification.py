@@ -33,13 +33,31 @@ class StudyDesignClassificationTests(unittest.TestCase):
             DESIGN_ORDER[0],
         )
 
+    def test_nonrandomized_is_not_misread_as_rct(self):
+        self.assertEqual(
+            self.classify(
+                "Non-randomized trial of treatment X",
+                "A non-randomized controlled trial was performed.",
+            ),
+            DESIGN_ORDER[1],
+        )
+
+    def test_generic_clinical_trial_is_unclassified_for_randomization(self):
+        self.assertEqual(
+            self.classify(
+                "Treatment X in chronic disease",
+                pub_types=["Clinical Trial"],
+            ),
+            DESIGN_ORDER[2],
+        )
+
     def test_prospective_cohort(self):
         self.assertEqual(
             self.classify(
                 "Antibiotic exposure in infancy",
                 "We conducted a prospective cohort study of 500 children.",
             ),
-            DESIGN_ORDER[2],
+            DESIGN_ORDER[3],
         )
 
     def test_retrospective_cohort(self):
@@ -48,19 +66,19 @@ class StudyDesignClassificationTests(unittest.TestCase):
                 "Outcomes after surgery",
                 "A retrospective cohort study of hospital records.",
             ),
-            DESIGN_ORDER[3],
+            DESIGN_ORDER[4],
         )
 
     def test_case_control(self):
         self.assertEqual(
             self.classify("Risk factors for disease", "A matched case-control study."),
-            DESIGN_ORDER[5],
+            DESIGN_ORDER[6],
         )
 
     def test_cross_sectional(self):
         self.assertEqual(
             self.classify("Prevalence of disease", "A cross-sectional survey was conducted."),
-            DESIGN_ORDER[6],
+            DESIGN_ORDER[7],
         )
 
     def test_systematic_review_separate(self):
@@ -78,7 +96,7 @@ class StudyDesignClassificationTests(unittest.TestCase):
     def test_uncertain_not_guessed_as_rct(self):
         self.assertEqual(
             self.classify("Clinical outcomes in patients with condition X", "We analysed records."),
-            DESIGN_ORDER[8],
+            DESIGN_ORDER[9],
         )
 
 
