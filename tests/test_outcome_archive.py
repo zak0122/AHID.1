@@ -1,9 +1,11 @@
 import datetime as dt
 import json
+import os
 import pathlib
 import sys
 import tempfile
 import unittest
+from unittest.mock import patch
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
@@ -13,7 +15,7 @@ from outcome_archive import save_daily_outcome  # noqa: E402
 
 class DailyOutcomeArchiveTests(unittest.TestCase):
     def test_saves_dated_report_metadata_and_year_index(self):
-        with tempfile.TemporaryDirectory() as temp:
+        with tempfile.TemporaryDirectory() as temp, patch.dict(os.environ, {"GITHUB_RUN_NUMBER": ""}):
             day = dt.date(2026, 11, 13)
             path = save_daily_outcome("# Daily report\n", root=pathlib.Path(temp), run_date=day)
             self.assertEqual(path.relative_to(pathlib.Path(temp)).as_posix(),
@@ -25,7 +27,7 @@ class DailyOutcomeArchiveTests(unittest.TestCase):
             self.assertIn("2026-11-13", index.read_text(encoding="utf-8"))
 
     def test_second_run_does_not_overwrite_first(self):
-        with tempfile.TemporaryDirectory() as temp:
+        with tempfile.TemporaryDirectory() as temp, patch.dict(os.environ, {"GITHUB_RUN_NUMBER": ""}):
             root = pathlib.Path(temp)
             day = dt.date(2026, 11, 13)
             first = save_daily_outcome("first", root=root, run_date=day)
