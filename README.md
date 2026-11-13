@@ -39,9 +39,9 @@ Because topic seeds come from the configured journals, this is not an exhaustive
 
 Python 3.10+ is recommended.
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 Optional environment variable:
 - NCBI_API_KEY — free NCBI key; increases E-utilities request rate. The pipeline works without it, but runs more slowly.
@@ -50,10 +50,10 @@ Optional environment variable:
 
 ## Local run
 
-\`\`\`bash
+```bash
 cd src
 python run_pipeline.py
-\`\`\`
+```
 
 The report is written to:
 - output/report_YYYY-MM-DD.md
@@ -65,9 +65,9 @@ To change the number of candidates assessed, set MAX_TOPIC_CANDIDATES (default 1
 
 Run the rule-based tests without making network requests:
 
-\`\`\`bash
+```bash
 python -m unittest discover -s tests -v
-\`\`\`
+```
 
 ## GitHub Actions
 
