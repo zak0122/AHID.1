@@ -1,5 +1,8 @@
 # AHID — SRMA Topic Discovery
 
+> **Start here for the curated shortlist:** [VIABLE TOPICS MASTER](VIABLE_TOPICS_MASTER.md) — one document containing only evidence-screened viable topics, daily updates and monthly summaries.
+
+
 AHID is a reproducible PubMed-based research surveillance and SRMA topic-triage tool. It is designed to help a research team find clinically relevant emerging questions and inspect the evidence pool before committing to a protocol.
 
 ## What it does
