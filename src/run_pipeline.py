@@ -1,125 +1,184 @@
 """
 run_pipeline.py
-----------------
-Daily entry point (called by GitHub Actions):
-  1. Find new articles across configured journals (monitor.py)
-  2. Draft a PICO for each (pico_extract.py)
-  3. Build human-review links for pool/overlap checks (overlap_check.py)
-  4. Write a single markdown report to output/report_<date>.md
+---------------
+Daily entry point:
+  1. Monitor newly indexed primary studies, reviews and protocols.
+  2. Classify primary studies by design (RCT vs observational subtypes).
+  3. Discover recent evidence-informed SRMA topic candidates.
+  4. Run separate PubMed RCT / observational / existing-review searches.
+  5. Produce a transparent ranked shortlist and article-level PICO drafts.
 
-Nothing here auto-registers anything or auto-decides feasibility.
-The report is meant to be read by your team each morning.
+All extraction is API-key-free and rule-based. Counts are retrieval signals,
+not final eligible study counts or automatic PROSPERO decisions.
 """
 
 import datetime as dt
+from collections import Counter
 from pathlib import Path
 
-from monitor import find_new_articles, find_new_reviews
+from monitor import (
+    DESIGN_ORDER,
+    find_new_articles,
+    find_new_reviews,
+    find_new_protocols,
+    find_recent_topic_seeds,
+)
 from pico_extract import draft_pico
-from overlap_check import build_review_links
-from rss_watch import find_new_rss_items
-from similar_studies import find_similar_papers
+from topic_discovery import discover_topics
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = ROOT / "output"
 
 
+def _ref_lines(refs):
+    lines = []
+    for ref in refs:
+        doi = f" | [DOI](https://doi.org/{ref['doi']})" if ref.get("doi") else ""
+        lines.append(
+            f"- [{ref.get('title', 'Untitled')}]({ref.get('link', '')}) "
+            f"— {ref.get('design', 'design unclear')}; abstract sample-size signal: "
+            f"{ref.get('sample_size', 'not reported')}{doi}"
+        )
+    if not lines:
+        lines.append("- No reference details returned in the first PubMed sample; open the search link.")
+    return lines
+
+
+def _topic_section(topics, design_key, priority_key, refs_key, heading):
+    lines = [f"\n## {heading}\n"]
+    if not topics:
+        return lines + ["No topic candidates could be assessed in this run.\n"]
+    ranked = sorted(topics, key=lambda x: x[design_key], reverse=True)[:5]
+    for index, topic in enumerate(ranked, 1):
+        lines.append(f"### {index}. {topic['provisional_title']}")
+        lines.append(
+            f"**Score:** {topic[design_key]}/100 (heuristic triage, not a validated model)  \n"
+            f"**Decision signal:** {topic[priority_key]}  \n"
+            f"**Recent journal seed records:** {topic['seed_count']}  \n"
+            f"**PubMed candidate hits:** {topic['rct_count']} RCT-search hits; "
+            f"{topic['observational_count']} observational-search hits; "
+            f"{topic['review_count']} existing-review-search hits\n"
+        )
+        pico = topic["pico"]
+        lines.append("**Seed-study PICO/PECO draft (rule-based; verify):**")
+        lines.append(f"- Population: {pico['population']}")
+        lines.append(f"- Intervention/exposure: {pico['intervention']}")
+        lines.append(f"- Comparator: {pico['comparator']}")
+        lines.append(f"- Outcome: {pico['outcome']}")
+        lines.append(f"- Seed design: {pico['study_design']}")
+        lines.append(f"- Extraction notes: {pico['confidence_notes']}\n")
+        lines.append(
+            f"**Searches:** [PubMed candidate pool]({topic['pubmed_search_url']}) | "
+            f"[Existing reviews]({topic['review_search_url']}) | "
+            f"[PROSPERO title search]({topic['prospero_search_url']})\n"
+        )
+        lines.append("**RCT evidence references (separate track):**")
+        lines.extend(_ref_lines(topic["rct_refs"]))
+        lines.append("\n**Observational evidence references (separate track):**")
+        lines.extend(_ref_lines(topic["observational_refs"]))
+        lines.append(f"\n> **Interpretation:** {topic['limitations']}\n")
+        lines.append("---")
+    return lines
+
+
 def build_report() -> str:
-    # 21 days, not 7 -- PubMed's RCT/cohort publication-type tags lag
-    # behind an article's entry date, often by weeks. A 7-day window
-    # combined with a [pt] filter mostly returns nothing even when new
-    # RCTs exist. Widening this is safe: seen_pmids.json still prevents
-    # re-reporting anything already surfaced in a prior run.
-    articles = find_new_articles(days_back=21)
-    reviews = find_new_reviews(days_back=21)
-    rss_items = find_new_rss_items()
     today = dt.date.today().isoformat()
+    lines = [
+        f"# AHID — SRMA Topic Discovery & Journal Watch ({today})",
+        "",
+        "> Automated evidence triage, not a substitute for duplicate removal, "
+        "title/abstract screening, full-text eligibility, outcome harmonisation, "
+        "risk-of-bias assessment or protocol registration.",
+        "",
+    ]
 
-    lines = [f"# Journal Watch Report -- {today}"]
+    try:
+        articles = find_new_articles(days_back=30)
+    except Exception as exc:
+        articles = []
+        lines.append(f"**New-article monitor warning:** {type(exc).__name__}: {exc}\n")
 
-    if rss_items:
-        lines.append(
-            f"\n## 🕐 {len(rss_items)} ahead-of-print item(s) (not yet in PubMed)\n"
-        )
-        lines.append(
-            "_From each journal's own RSS feed -- usually appears before PubMed "
-            "indexing catches up. No PMID yet and often no full abstract, so "
-            "treat these as an early heads-up, not a finished PICO source._\n"
-        )
-        for it in rss_items:
-            lines.append(f"- **{it['title']}** -- {it['journal_config_name']}, {it['pubdate']} -- {it['link']}")
-        lines.append("")
+    try:
+        reviews = find_new_reviews(days_back=30)
+    except Exception as exc:
+        reviews = []
+        lines.append(f"**Review monitor warning:** {type(exc).__name__}: {exc}\n")
 
-    if reviews:
-        lines.append(
-            f"\n## ⚠ {len(reviews)} new systematic review/meta-analysis published in your journals\n"
-        )
-        lines.append(
-            "_Heads up only -- read these before assuming they overlap with a topic "
-            "you're tracking or considering. A shared journal/keyword doesn't mean a "
-            "shared population._\n"
-        )
-        for r in reviews:
-            lines.append(f"- **{r['title']}** -- {r['journal_config_name']}, {r['pubdate']} -- {r['link']}")
-        lines.append("")
+    try:
+        protocols = find_new_protocols(days_back=30)
+    except Exception as exc:
+        protocols = []
+        lines.append(f"**Protocol monitor warning:** {type(exc).__name__}: {exc}\n")
 
+    lines.append("## 1. New primary-study signals")
+    lines.append(f"**Records retrieved for this run:** {len(articles)}\n")
+    design_counts = Counter(record.get("study_design", "Other / unclear") for record in articles)
+    for design in DESIGN_ORDER:
+        lines.append(f"- {design}: **{design_counts.get(design, 0)}**")
     if not articles:
-        lines.append("No new RCT-type articles found today.\n")
-        return "\n".join(lines)
+        lines.append("- No new primary-study signals this run (this does not mean no research exists).")
+    for record in articles[:100]:
+        doi = f" | [DOI](https://doi.org/{record['doi']})" if record.get("doi") else ""
+        lines.append(
+            f"- [{record['title']}]({record['link']}) — "
+            f"**{record['study_design']}**; {record.get('journal_config_name', '')}; "
+            f"{record.get('pubdate', '')}{doi}"
+        )
 
-    lines.append(f"\n{len(articles)} new RCT-type article(s) found.\n")
+    lines.append("\n## 2. Newly indexed systematic reviews / meta-analyses")
+    lines.append(f"**Records:** {len(reviews)}")
+    for record in reviews[:100]:
+        lines.append(f"- [{record['title']}]({record['link']}) — {record.get('journal_config_name', '')}")
 
-    for a in articles:
-        lines.append(f"## {a['title']}")
-        lines.append(f"**Journal:** {a['journal_config_name']}  ")
-        lines.append(f"**PubMed:** {a['link']}  ")
-        lines.append(f"**Published:** {a['pubdate']}\n")
+    lines.append("\n## 3. Protocol publications (not results studies)")
+    lines.append(f"**Records:** {len(protocols)}")
+    for record in protocols[:100]:
+        lines.append(f"- [{record['title']}]({record['link']}) — {record.get('journal_config_name', '')}")
 
-        pico = draft_pico(a["title"], a["abstract"])
-        if "error" in pico:
-            lines.append(f"_PICO draft failed: {pico['error']}_\n")
-            lines.append("---\n")
-            continue
+    lines.append("\n## 4. Topic discovery method")
+    lines.append(
+        "The topic engine samples up to 15 primary-study records per configured journal "
+        "from the preceding 180 days, derives title-keyword candidates, and checks each "
+        "candidate in PubMed with separate RCT, observational and review searches. "
+        "The rankings below are heuristic triage scores; they do not prove novelty or "
+        "meta-analysis feasibility."
+    )
+    topics = []
+    try:
+        seeds = find_recent_topic_seeds(days_back=180, max_per_journal=15)
+        lines.append(f"\n**Recent primary-study seed sample:** {len(seeds)} records.")
+        topics = discover_topics(seeds)
+        lines.append(f"**Candidates assessed:** {len(topics)}.")
+    except Exception as exc:
+        lines.append(f"\n**Topic discovery warning:** {type(exc).__name__}: {exc}")
 
-        lines.append("**Draft PICO (unverified -- confirm against abstract):**")
-        lines.append(f"- Population: {pico.get('population')}")
-        lines.append(f"- Intervention: {pico.get('intervention')}")
-        lines.append(f"- Comparator: {pico.get('comparator')}")
-        lines.append(f"- Outcome: {pico.get('outcome')}")
-        lines.append(f"- Study design: {pico.get('study_design')}")
-        if pico.get("confidence_notes"):
-            lines.append(f"- Notes: {pico.get('confidence_notes')}")
+    lines.extend(_topic_section(
+        topics, "rct_score", "rct_priority", "rct_refs",
+        "5. Ranked topics for RCT-only SRMA consideration",
+    ))
+    lines.extend(_topic_section(
+        topics, "observational_score", "observational_priority",
+        "observational_refs", "6. Ranked topics for observational-study SRMA consideration",
+    ))
 
-        if pico.get("broadened_population") or pico.get("broadened_intervention"):
-            lines.append("\n**Broadened PICO (for pooling purposes -- sanity check this):**")
-            lines.append(f"- Population: {pico.get('broadened_population')}")
-            lines.append(f"- Intervention: {pico.get('broadened_intervention')}")
-            lines.append(f"- Outcome: {pico.get('broadened_outcome')}")
-            if pico.get("broadening_notes"):
-                lines.append(f"- Why widened: {pico.get('broadening_notes')}")
-
-        links = build_review_links(pico)
-        if "error" not in links:
-            lines.append(f"\n**Signal:** {links['signal']}")
-            lines.append("\n**Pool counts (keyword-based, not verified):**")
-            lines.append(f"- Narrow PICO pool: ~{links['narrow_pool_count']}")
-            lines.append(f"- Broadened PICO pool: ~{links['broad_pool_count']}")
-            lines.append(f"- Existing reviews found: {links['existing_review_count']}")
-            lines.append("\n**Before doing anything else, check:**")
-            lines.append(f"- Existing registered reviews: {links['check_existing_registered_reviews']}")
-            lines.append(f"- Existing published reviews: {links['check_existing_published_reviews']}")
-            lines.append(f"- Narrow pool search: {links['estimate_narrow_pool']}")
-            lines.append(f"- Broadened pool search: {links['estimate_broad_pool']}")
-            lines.append(f"\n_{links['human_review_required']}_")
-
-        similar = find_similar_papers(a["title"])
-        if similar:
-            lines.append("\n**Also similar, via Semantic Scholar (free, broader net -- title-level only):**")
-            for s in similar:
-                lines.append(f"- {s['title']} ({s.get('year', '?')}, {s.get('venue', '?')}) -- {s.get('url', '')}")
-
-        lines.append("\n---\n")
-
+    lines.extend([
+        "\n## 7. Important interpretation rules",
+        "- RCT and observational evidence counts are separate search results. Do not combine them into one pooled estimate.",
+        "- Prospective cohorts, retrospective cohorts, case-control and cross-sectional studies remain distinct in the underlying metadata and are listed separately in the new-study feed.",
+        "- PubMed counts are candidate hits, not the number of included studies. Screen every citation against prespecified eligibility criteria.",
+        "- Abstract sample-size snippets are not summed: cohorts may overlap and abstracts may report different denominators.",
+        "- A review hit is an overlap warning, not proof that the proposed PICO is already covered. Read its population, dates, interventions, outcomes and included studies.",
+        "- Check PROSPERO and other registries manually; a search link is provided but registration status is not programmatically adjudicated.",
+        "- No automatic impact factor, Q1/Q2, acceptance probability or publication guarantee is assigned.",
+        "",
+        "## 8. Next human steps",
+        "1. Export each shortlisted RCT and observational search separately to RIS/CSV.",
+        "2. Deduplicate PMIDs/DOIs and perform two-reviewer title/abstract screening.",
+        "3. Retrieve full texts; confirm population, design, interventions/exposures, comparators, outcomes, follow-up and overlap.",
+        "4. Assess design-appropriate risk of bias and whether outcomes/timepoints are sufficiently compatible for pooling.",
+        "5. Check PROSPERO and recent reviews before selecting/registering a final protocol.",
+        "",
+    ])
     return "\n".join(lines)
 
 
@@ -127,11 +186,7 @@ if __name__ == "__main__":
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     report = build_report()
     dated_path = OUTPUT_DIR / f"report_{dt.date.today().isoformat()}.md"
-    dated_path.write_text(report)
-    # Also write a stable-named copy so a notification step (email/Slack)
-    # always has a fixed filename to point to, instead of needing to know
-    # today's date.
     latest_path = OUTPUT_DIR / "report_latest.md"
-    latest_path.write_text(report)
+    dated_path.write_text(report, encoding="utf-8")
+    latest_path.write_text(report, encoding="utf-8")
     print(f"Wrote report to {dated_path} (and {latest_path})")
-
