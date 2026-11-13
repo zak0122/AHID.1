@@ -4,7 +4,7 @@
 
 **Last reviewed:** 2026-11-13  
 **Current shortlist:** 0 topics have passed the evidence-based screening in this new master list.  
-**Daily update:** the existing AHID daily review is being configured to check candidates and update this document; it will also send a brief daily summary.
+**Daily update:** the existing AHID review is active and scheduled daily around 6 PM Pakistan time; it checks candidates, updates this document when warranted, and sends a brief summary.
 
 ---
 
