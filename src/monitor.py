@@ -369,6 +369,40 @@ def find_new_protocols(days_back: int = DEFAULT_DAYS_BACK) -> List[Dict]:
     )
 
 
+
+def find_recent_topic_seeds(days_back: int = 180,
+                            max_per_journal: int = 15) -> List[Dict]:
+    """Fetch a bounded, recent primary-study sample for topic discovery.
+
+    This is intentionally independent of the 'new since last run' state so
+    topic discovery still works on days when no new journal-watch records
+    have arrived. The per-journal cap keeps the daily workflow bounded.
+    """
+    journals = _load_journals()
+    journal_by_pmid: Dict[str, str] = {}
+    for journal in journals:
+        try:
+            ids = _esearch(journal["issn"], days_back=days_back,
+                           extra_filter=PRIMARY_STUDY_FILTER)
+            for pmid in ids[:max_per_journal]:
+                journal_by_pmid.setdefault(pmid, journal["name"])
+        except Exception as exc:
+            print(f"[warn] topic-seed search failed for {journal['name']}: {exc}")
+
+    if not journal_by_pmid:
+        return []
+    records = _efetch_abstracts(list(journal_by_pmid))
+    primary_designs = set(DESIGN_ORDER[:8])
+    seeds = []
+    for pmid, record in records.items():
+        design = record.get("study_design", "")
+        if design not in primary_designs:
+            continue
+        record["journal_config_name"] = journal_by_pmid.get(pmid, record.get("journal", ""))
+        seeds.append(record)
+    return seeds
+
+
 if __name__ == "__main__":
     articles = find_new_articles()
     print(f"Found {len(articles)} new primary-study signal(s).")
