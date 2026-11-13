@@ -35,7 +35,11 @@ RCT_QUERY = """
   OR randomized[tiab] OR randomised[tiab] OR randomization[tiab] OR randomisation[tiab]
   OR "randomly assigned"[tiab] OR placebo[tiab]
 )
-NOT (protocol[ti] OR editorial[pt] OR letter[pt] OR comment[pt])
+NOT (
+  protocol[ti] OR editorial[pt] OR letter[pt] OR comment[pt]
+  OR "Observational Study"[pt] OR "Cohort Studies"[mh]
+  OR "Case-Control Studies"[mh] OR "Cross-Sectional Studies"[mh]
+)
 """
 
 OBSERVATIONAL_QUERY = """
@@ -47,7 +51,10 @@ OBSERVATIONAL_QUERY = """
   OR "cross-sectional"[tiab] OR registry[tiab]
   OR prospective[tiab] OR retrospective[tiab]
 )
-NOT (protocol[ti] OR editorial[pt] OR letter[pt] OR comment[pt])
+NOT (
+  protocol[ti] OR editorial[pt] OR letter[pt] OR comment[pt]
+  OR "Randomized Controlled Trial"[pt] OR "Controlled Clinical Trial"[pt]
+)
 """
 
 REVIEW_QUERY = """
@@ -286,9 +293,12 @@ def _assess_candidate(candidate: Dict) -> Dict:
         "topic": phrase,
         "candidate_source": candidate.get("candidate_source", "title/abstract"),
         "candidate_specificity": candidate.get("specificity", 0),
-        "provisional_title": (
-            f"{phrase.title()}: a systematic review and meta-analysis of "
-            "randomized and observational evidence"
+        "rct_title": (
+            f"{phrase.title()}: a systematic review and meta-analysis of randomized "
+            "controlled trials"
+        ),
+        "observational_title": (
+            f"{phrase.title()}: a systematic review and meta-analysis of observational studies"
         ),
         "seed_count": candidate["seed_count"],
         "seed_titles": [x.get("title", "") for x in seeds[:5]],
