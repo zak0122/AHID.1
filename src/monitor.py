@@ -77,6 +77,7 @@ PROTOCOL_FILTER = """
 DESIGN_ORDER = [
     "Randomized controlled trial (RCT)",
     "Non-randomized interventional / clinical trial",
+    "Clinical trial (randomization unclear)",
     "Prospective cohort",
     "Retrospective cohort",
     "Cohort (direction unclear)",
@@ -172,7 +173,15 @@ def _classify_study_design(title: str, abstract: str,
     if re.search(r"\b(protocol|study protocol|trial protocol)\b", title_text):
         return PROTOCOL_DESIGN
 
-    # RCT must be detected before generic clinical trial / cohort wording.
+    # Explicit non-randomized labels must be checked first: the word
+    # "randomized" is itself contained in "non-randomized".
+    nonrandomized = bool(re.search(
+        r"\b(non[- ]randomi[sz]ed|nonrandomi[sz]ed|quasi[- ]experimental|"
+        r"single[- ]arm trial|open[- ]label trial)\b", text
+    ))
+    if nonrandomized:
+        return DESIGN_ORDER[1]
+
     randomized_pt = "randomized controlled trial" in pub or "controlled clinical trial" in pub
     randomized_words = bool(re.search(
         r"\b(randomi[sz]ed|randomi[sz]ation|randomly assigned|random allocation)\b",
@@ -181,21 +190,20 @@ def _classify_study_design(title: str, abstract: str,
     if randomized_pt or (randomized_words and re.search(r"\b(trial|participants|patients)\b", text)):
         return DESIGN_ORDER[0]
 
-    nonrandomized = bool(re.search(
-        r"\b(non[- ]randomi[sz]ed|nonrandomi[sz]ed|quasi[- ]experimental|"
-        r"single[- ]arm trial|open[- ]label trial)\b", text
-    ))
+    # Generic clinical-trial tags do not prove randomization. Keep them
+    # separate for manual verification rather than guessing RCT/non-RCT.
     clinical_trial_pt = "clinical trial" in pub or "clinical trial" in mesh
-    if nonrandomized or (clinical_trial_pt and not randomized_words):
-        return DESIGN_ORDER[1]
+    generic_trial_words = bool(re.search(r"\bclinical trial\b", text))
+    if clinical_trial_pt or generic_trial_words:
+        return DESIGN_ORDER[2]
 
     if ("case-control studies" in mesh or "case-control" in pub
             or re.search(r"\b(case[- ]control|matched controls?)\b", text)):
-        return DESIGN_ORDER[5]
+        return DESIGN_ORDER[6]
 
     if ("cross-sectional studies" in mesh or "cross-sectional" in pub
             or re.search(r"\b(cross[- ]sectional|prevalence survey)\b", text)):
-        return DESIGN_ORDER[6]
+        return DESIGN_ORDER[7]
 
     prospective = (
         "prospective studies" in mesh
@@ -209,11 +217,11 @@ def _classify_study_design(title: str, abstract: str,
         re.search(r"\b(cohort|longitudinal|follow[- ]up study)\b", text)
     )
     if cohort and prospective and not retrospective:
-        return DESIGN_ORDER[2]
-    if cohort and retrospective and not prospective:
         return DESIGN_ORDER[3]
-    if cohort:
+    if cohort and retrospective and not prospective:
         return DESIGN_ORDER[4]
+    if cohort:
+        return DESIGN_ORDER[5]
 
     observational_pt = "observational study" in pub
     observational_words = bool(re.search(
@@ -221,11 +229,11 @@ def _classify_study_design(title: str, abstract: str,
         text,
     ))
     if observational_pt or observational_words:
-        return DESIGN_ORDER[7]
+        return DESIGN_ORDER[8]
 
     if any(x in pub for x in ("case reports", "case report")):
         return "Case report / case series (usually exclude from SRMA pooling)"
-    return DESIGN_ORDER[8]
+    return DESIGN_ORDER[9]
 
 
 def _efetch_abstracts(pmids: List[str]) -> Dict[str, Dict]:
@@ -392,7 +400,7 @@ def find_recent_topic_seeds(days_back: int = 180,
     if not journal_by_pmid:
         return []
     records = _efetch_abstracts(list(journal_by_pmid))
-    primary_designs = set(DESIGN_ORDER[:8])
+    primary_designs = set(DESIGN_ORDER[:9])
     seeds = []
     for pmid, record in records.items():
         design = record.get("study_design", "")
