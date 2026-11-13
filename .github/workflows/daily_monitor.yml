@@ -47,7 +47,9 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ahid-srma-report-${{ github.run_number }}
-          path: output/report_latest.md
+          path: |
+            output/report_latest.md
+            output/screening/
           if-no-files-found: error
           retention-days: 14
 
