@@ -191,7 +191,7 @@ def build_report() -> str:
     ))
 
     lines.extend([
-        "\n## 7. Important interpretation rules",
+        "\n## 8. Important interpretation rules",
         "- RCT and observational evidence counts are separate search results. Do not combine them into one pooled estimate.",
         "- Prospective cohorts, retrospective cohorts, case-control and cross-sectional studies remain distinct in the underlying metadata and are listed separately in the new-study feed.",
         "- PubMed counts are candidate hits, not the number of included studies. Screen every citation against prespecified eligibility criteria.",
@@ -200,7 +200,7 @@ def build_report() -> str:
         "- Check PROSPERO and other registries manually; a search link is provided but registration status is not programmatically adjudicated.",
         "- No automatic impact factor, Q1/Q2, acceptance probability or publication guarantee is assigned.",
         "",
-        "## 8. Next human steps",
+        "## 9. Next human steps",
         "1. Export each shortlisted RCT and observational search separately to RIS/CSV.",
         "2. Deduplicate PMIDs/DOIs and perform two-reviewer title/abstract screening.",
         "3. Retrieve full texts; confirm population, design, interventions/exposures, comparators, outcomes, follow-up and overlap.",
