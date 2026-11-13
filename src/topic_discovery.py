@@ -32,7 +32,7 @@ from pico_extract import draft_pico
 RCT_QUERY = """
 (
   "Randomized Controlled Trial"[pt] OR "Controlled Clinical Trial"[pt]
-  OR randomized[tiab] OR randomised[tiab] OR randomi?ation[tiab]
+  OR randomized[tiab] OR randomised[tiab] OR randomization[tiab] OR randomisation[tiab]
   OR "randomly assigned"[tiab] OR placebo[tiab]
 )
 NOT (protocol[ti] OR editorial[pt] OR letter[pt] OR comment[pt])
