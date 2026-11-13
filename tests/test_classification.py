@@ -12,6 +12,7 @@ from monitor import (  # noqa: E402
     _classify_study_design,
 )
 from pico_extract import draft_pico  # noqa: E402
+from topic_discovery import _candidate_pairs, _concept_query  # noqa: E402
 
 
 class StudyDesignClassificationTests(unittest.TestCase):
@@ -98,6 +99,36 @@ class StudyDesignClassificationTests(unittest.TestCase):
             self.classify("Clinical outcomes in patients with condition X", "We analysed records."),
             DESIGN_ORDER[9],
         )
+
+
+class TopicCandidateTests(unittest.TestCase):
+    def test_mesh_concepts_generate_research_candidates(self):
+        records = [
+            {
+                "pmid": "1",
+                "title": "Biologic therapy outcomes in Crohn disease",
+                "mesh_terms": ["Crohn Disease", "Biological Therapy", "Humans", "Adult"],
+            },
+            {
+                "pmid": "2",
+                "title": "Biological therapy among patients with Crohn disease",
+                "mesh_terms": ["Crohn Disease", "Biological Therapy", "Humans"],
+            },
+        ]
+        candidates = _candidate_pairs(records, 10)
+        pairs = [set(candidate["terms"]) for candidate in candidates]
+        self.assertIn({"Crohn Disease", "Biological Therapy"}, pairs)
+        matching = next(
+            candidate for candidate in candidates
+            if set(candidate["terms"]) == {"Crohn Disease", "Biological Therapy"}
+        )
+        self.assertEqual(matching["seed_count"], 2)
+        self.assertIn("MeSH", matching["candidate_source"])
+
+    def test_concept_query_uses_mesh_and_text(self):
+        query = _concept_query("Crohn Disease")
+        self.assertIn('"Crohn Disease"[Mesh]', query)
+        self.assertIn('"Crohn Disease"[tiab]', query)
 
 
 class LocalPicoTests(unittest.TestCase):
