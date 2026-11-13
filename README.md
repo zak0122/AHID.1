@@ -71,11 +71,11 @@ python -m unittest discover -s tests -v
 
 ## GitHub Actions
 
-The workflow in .github/workflows/daily_monitor.yml runs daily and can also be started manually from the Actions tab. It:
-- Installs dependencies.
-- Runs offline unit tests first.
+The workflow in .github/workflows/daily_monitor.yml runs daily on main and can also be started manually from the Actions tab. Pushes to main and feature branches run the same offline tests and discovery pipeline. It:
+- Installs dependencies and runs offline unit tests first.
 - Runs PubMed discovery and writes the Markdown report.
-- Commits updated state and reports back to the repository.
+- Uploads generated reports as a 14-day Actions artifact.
+- Commits updated state and reports only on main; feature-branch runs do not push generated data.
 
 Add NCBI_API_KEY under **Settings → Secrets and variables → Actions** if desired. No Gemini secret is needed.
 
