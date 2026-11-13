@@ -44,7 +44,7 @@ def _ref_lines(refs):
     return lines
 
 
-def _topic_section(topics, design_key, priority_key, refs_key, heading):
+def _topic_section(topics, design_key, priority_key, heading):
     lines = [f"\n## {heading}\n"]
     if not topics:
         return lines + ["No topic candidates could be assessed in this run.\n"]
@@ -58,6 +58,9 @@ def _topic_section(topics, design_key, priority_key, refs_key, heading):
             f"**PubMed candidate hits:** {topic['rct_count']} RCT-search hits; "
             f"{topic['observational_count']} observational-search hits; "
             f"{topic['review_count']} existing-review-search hits\n"
+            f"**Separate searches:** [RCT-only]({topic['rct_search_url']}) | "
+            f"[Observational-only]({topic['observational_search_url']}) | "
+            f"[Existing reviews]({topic['review_search_url']})\n"
         )
         pico = topic["pico"]
         lines.append("**Seed-study PICO/PECO draft (rule-based; verify):**")
@@ -76,6 +79,17 @@ def _topic_section(topics, design_key, priority_key, refs_key, heading):
         lines.extend(_ref_lines(topic["rct_refs"]))
         lines.append("\n**Observational evidence references (separate track):**")
         lines.extend(_ref_lines(topic["observational_refs"]))
+        lines.append("\n**Observational design subtypes in the fetched citation sample (not whole-pool counts):**")
+        for design, n in topic.get("observational_design_counts", {}).items():
+            lines.append(f"- {design}: {n}")
+        lines.append("\n**Existing review/meta-analysis references:**")
+        if topic.get("review_refs"):
+            for review in topic["review_refs"]:
+                doi = f" | [DOI](https://doi.org/{review['doi']})" if review.get("doi") else ""
+                lines.append(f"- [{review['title']}]({review['link']}){doi}")
+        else:
+            lines.append("- No review references in the first PubMed sample; open the complete review search.")
+
         lines.append(f"\n> **Interpretation:** {topic['limitations']}\n")
         lines.append("---")
     return lines
@@ -153,12 +167,12 @@ def build_report() -> str:
         lines.append(f"\n**Topic discovery warning:** {type(exc).__name__}: {exc}")
 
     lines.extend(_topic_section(
-        topics, "rct_score", "rct_priority", "rct_refs",
+        topics, "rct_score", "rct_priority",
         "5. Ranked topics for RCT-only SRMA consideration",
     ))
     lines.extend(_topic_section(
         topics, "observational_score", "observational_priority",
-        "observational_refs", "6. Ranked topics for observational-study SRMA consideration",
+        "6. Ranked topics for observational-study SRMA consideration",
     ))
 
     lines.extend([
