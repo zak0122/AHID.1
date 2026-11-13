@@ -203,8 +203,12 @@ def build_report() -> str:
                 write_screening_csv(rows, csv_path)
                 screening_files.append(csv_path)
                 screening_summaries.append((topic.get("topic", ""), track, counts, csv_path))
+                if track != "reviews":
+                    worksheet_path = screening_dir / f"{slug}_{track}_compatibility.csv"
+                    write_compatibility_csv(refs, worksheet_path)
+                    screening_files.append(worksheet_path)
         lines.append("\n### Citation-level screening exports")
-        lines.append("CSV files are preliminary triage aids. Records labelled unclear/manual_check require human title/abstract review; no citation is declared finally eligible without a protocol and full-text assessment.")
+        lines.append("CSV files are preliminary triage aids. Records labelled unclear/manual_check require human title/abstract review; no citation is declared finally eligible without a protocol and full-text assessment. Separate blank outcome compatibility worksheets accompany each primary-study track; complete them from full texts before deciding poolability.")
         for topic_name, track, counts, csv_path in screening_summaries:
             lines.append(
                 f"- **{topic_name} ({track}):** {counts['retrieved']} retrieved; "
