@@ -3,14 +3,15 @@ import datetime as dt
 import hashlib
 import json
 import os
+import shutil
 from pathlib import Path
-from typing import Optional
+from typing import Iterable, Optional
 
 ROOT = Path(__file__).resolve().parent.parent
 
 
 def save_daily_outcome(report: str, root: Optional[Path] = None,
-                       run_date: Optional[dt.date] = None) -> Path:
+                       run_date: Optional[dt.date] = None, files: Optional[Iterable[Path]] = None) -> Path:
     """Save report + provenance metadata under outcomes/YYYY/MM/DD.
 
     Existing dated reports are never silently overwritten. Repeated workflow
@@ -39,6 +40,21 @@ def save_daily_outcome(report: str, root: Optional[Path] = None,
         metadata_path = day_dir / f"metadata{suffix}.json"
 
     report_path.write_text(report, encoding="utf-8")
+    archived_files = []
+    for source in files or []:
+        source = Path(source)
+        if not source.exists() or not source.is_file():
+            continue
+        destination = day_dir / "screening" / source.name
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source, destination)
+        payload = destination.read_bytes()
+        archived_files.append({
+            "file": destination.relative_to(day_dir).as_posix(),
+            "sha256": hashlib.sha256(payload).hexdigest(),
+            "bytes": len(payload),
+        })
+
     metadata = {
         "run_date": day.isoformat(),
         "saved_at_utc": dt.datetime.now(dt.timezone.utc).isoformat(),
@@ -48,6 +64,7 @@ def save_daily_outcome(report: str, root: Optional[Path] = None,
         "workflow_run_number": run_number,
         "report_file": report_path.name,
         "report_sha256": hashlib.sha256(report.encode("utf-8")).hexdigest(),
+        "archived_screening_files": archived_files,
         "archive_schema_version": 1,
         "note": "PubMed retrieval and heuristic triage are not full-text eligibility decisions.",
     }
