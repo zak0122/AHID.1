@@ -13,6 +13,7 @@ not final eligible study counts or automatic PROSPERO decisions.
 """
 
 import datetime as dt
+import re
 from collections import Counter
 from pathlib import Path
 
@@ -27,6 +28,7 @@ from pico_extract import draft_pico
 from topic_discovery import discover_topics
 from rss_watch import find_new_rss_items
 from outcome_archive import save_daily_outcome
+from citation_screen import prepare_screening_rows, write_screening_csv
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = ROOT / "output"
@@ -181,6 +183,34 @@ def build_report() -> str:
         lines.append(f"\n**Recent primary-study seed sample:** {len(seeds)} records.")
         topics = discover_topics(seeds)
         lines.append(f"**Candidates assessed:** {len(topics)}.")
+
+        # Export citation-level screening files per candidate and evidence track.
+        screening_dir = OUTPUT_DIR / "screening" / dt.date.today().isoformat()
+        screening_summaries = []
+        for topic in topics:
+            slug = re.sub(r"[^a-z0-9]+", "-", topic.get("topic", "").lower()).strip("-")[:70] or "candidate"
+            for track, refs in (
+                ("rct", topic.get("rct_refs", [])),
+                ("observational", topic.get("observational_refs", [])),
+                ("reviews", topic.get("review_refs", [])),
+            ):
+                rows, counts = prepare_screening_rows(refs)
+                csv_path = screening_dir / f"{slug}_{track}.csv"
+                write_screening_csv(rows, csv_path)
+                screening_summaries.append((topic.get("topic", ""), track, counts, csv_path))
+        lines.append("\n### Citation-level screening exports")
+        lines.append("CSV files are preliminary triage aids. Records labelled unclear/manual_check require human title/abstract review; no citation is declared finally eligible without a protocol and full-text assessment.")
+        for topic_name, track, counts, csv_path in screening_summaries:
+            lines.append(
+                f"- **{topic_name} ({track}):** {counts['retrieved']} retrieved; "
+                f"{counts['duplicates_removed']} duplicates removed; "
+                f"{counts['unique_records']} unique; "
+                f"{counts.get('unclear_human_screen', 0)} unclear for human screening; "
+                f"{counts.get('manual_check', 0)} manual checks; "
+                f"{counts.get('exclude_from_primary_pool', 0)} secondary reviews; "
+                f"{counts.get('exclude_from_results_pool', 0)} non-results records. "
+                f"File: `{csv_path.relative_to(ROOT).as_posix()}`"
+            )
         lines.append(
             "**Score formula (heuristic, not validated):** design-specific evidence term "
             "min(55, 14 × log2(search hits + 1)) + review-overlap term "
