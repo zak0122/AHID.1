@@ -160,9 +160,17 @@ def _candidate_pairs(records: List[Dict], limit: int) -> List[Dict]:
 
         for pair in pairs:
             grouped[pair].append(record)
-            pair_sources[pair].add("MeSH + title" if any(
-                len(term.split()) > 1 or term in mesh_concepts for term in pair
-            ) else "title/abstract")
+            mesh_keys = {term.lower() for term in mesh_concepts}
+            title_keys = {term.lower() for term in title_tokens}
+            if pair[0].lower() in mesh_keys and pair[1].lower() in mesh_keys:
+                pair_sources[pair].add("MeSH co-occurrence")
+            elif (
+                (pair[0].lower() in mesh_keys and pair[1].lower() in title_keys)
+                or (pair[1].lower() in mesh_keys and pair[0].lower() in title_keys)
+            ):
+                pair_sources[pair].add("MeSH + title")
+            else:
+                pair_sources[pair].add("title/abstract")
 
     df = Counter()
     for tokens in token_docs:
