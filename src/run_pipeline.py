@@ -178,6 +178,18 @@ def build_report() -> str:
         lines.append(f"\n**Recent primary-study seed sample:** {len(seeds)} records.")
         topics = discover_topics(seeds)
         lines.append(f"**Candidates assessed:** {len(topics)}.")
+        lines.append(
+            "**Score formula (heuristic, not validated):** design-specific evidence term "
+            "min(55, 14 × log2(search hits + 1)) + review-overlap term "
+            "max(0, 30 − 10 × min(review hits, 3)) + recent-seed term "
+            "min(15, 4 + 4 × log2(seed records)). The RCT score uses RCT hits only; "
+            "the observational score uses observational hits only."
+        )
+        lines.append(
+            "**TOP PRIORITY label:** at least 3 RCT-search hits or 5 observational-search "
+            "hits, and no more than 1 review-search hit. This is a manual-screening "
+            "threshold, not proof that the studies are eligible or poolable."
+        )
     except Exception as exc:
         lines.append(f"\n**Topic discovery warning:** {type(exc).__name__}: {exc}")
 
