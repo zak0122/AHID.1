@@ -154,9 +154,9 @@ def build_report() -> str:
         rss_items = find_new_rss_items()
     except Exception as exc:
         rss_items = []
-        lines.append(f"\\n**RSS monitor warning:** {type(exc).__name__}: {exc}")
+        lines.append(f"\n**RSS monitor warning:** {type(exc).__name__}: {exc}")
 
-    lines.append("\\n## 4. Ahead-of-print RSS alerts (unindexed leads)")
+    lines.append("\n## 4. Ahead-of-print RSS alerts (unindexed leads)")
     lines.append(f"**Items:** {len(rss_items)}")
     for item in rss_items[:100]:
         lines.append(
@@ -164,7 +164,7 @@ def build_report() -> str:
             f"{item.get('journal_config_name', '')}; {item.get('pubdate', '')}"
         )
 
-    lines.append("\\n## 5. Topic discovery method")
+    lines.append("\n## 5. Topic discovery method")
     lines.append(
         "The topic engine samples up to 15 primary-study records per configured journal "
         "from the preceding 180 days, derives title-keyword candidates, and checks each "
