@@ -26,6 +26,7 @@ from monitor import (
 from pico_extract import draft_pico
 from topic_discovery import discover_topics
 from rss_watch import find_new_rss_items
+from outcome_archive import save_daily_outcome
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = ROOT / "output"
@@ -168,15 +169,15 @@ def build_report() -> str:
 
     lines.append("\n## 5. Topic discovery method")
     lines.append(
-        "The topic engine samples up to 15 primary-study records per configured journal "
-        "from the preceding 180 days, derives title-keyword candidates, and checks each "
-        "candidate in PubMed with separate RCT, observational and review searches. "
+        "The topic engine starts with a PubMed-wide primary-study sample from the preceding "
+        "365 days, supplements it with configured-journal coverage, derives MeSH/title concepts, and checks each "
+        "candidate in PubMed with separate RCT, observational and review searches. This is broad discovery, not an exhaustive systematic search. "
         "The rankings below are heuristic triage scores; they do not prove novelty or "
         "meta-analysis feasibility."
     )
     topics = []
     try:
-        seeds = find_recent_topic_seeds(days_back=180, max_per_journal=15)
+        seeds = find_recent_topic_seeds(days_back=365, max_per_journal=10, max_global=400)
         lines.append(f"\n**Recent primary-study seed sample:** {len(seeds)} records.")
         topics = discover_topics(seeds)
         lines.append(f"**Candidates assessed:** {len(topics)}.")
@@ -232,4 +233,5 @@ if __name__ == "__main__":
     latest_path = OUTPUT_DIR / "report_latest.md"
     dated_path.write_text(report, encoding="utf-8")
     latest_path.write_text(report, encoding="utf-8")
-    print(f"Wrote report to {dated_path} (and {latest_path})")
+    archived_path = save_daily_outcome(report, root=ROOT)
+    print(f"Wrote report to {dated_path}, {latest_path}, and immutable archive {archived_path}")
