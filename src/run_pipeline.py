@@ -25,6 +25,7 @@ from monitor import (
 )
 from pico_extract import draft_pico
 from topic_discovery import discover_topics
+from rss_watch import find_new_rss_items
 
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = ROOT / "output"
@@ -149,7 +150,21 @@ def build_report() -> str:
     for record in protocols[:100]:
         lines.append(f"- [{record['title']}]({record['link']}) — {record.get('journal_config_name', '')}")
 
-    lines.append("\n## 4. Topic discovery method")
+    try:
+        rss_items = find_new_rss_items()
+    except Exception as exc:
+        rss_items = []
+        lines.append(f"\\n**RSS monitor warning:** {type(exc).__name__}: {exc}")
+
+    lines.append("\\n## 4. Ahead-of-print RSS alerts (unindexed leads)")
+    lines.append(f"**Items:** {len(rss_items)}")
+    for item in rss_items[:100]:
+        lines.append(
+            f"- [{item.get('title', 'Untitled')}]({item.get('link', '')}) — "
+            f"{item.get('journal_config_name', '')}; {item.get('pubdate', '')}"
+        )
+
+    lines.append("\\n## 5. Topic discovery method")
     lines.append(
         "The topic engine samples up to 15 primary-study records per configured journal "
         "from the preceding 180 days, derives title-keyword candidates, and checks each "
@@ -168,11 +183,11 @@ def build_report() -> str:
 
     lines.extend(_topic_section(
         topics, "rct_score", "rct_priority",
-        "5. Ranked topics for RCT-only SRMA consideration",
+        "6. Ranked topics for RCT-only SRMA consideration",
     ))
     lines.extend(_topic_section(
         topics, "observational_score", "observational_priority",
-        "6. Ranked topics for observational-study SRMA consideration",
+        "7. Ranked topics for observational-study SRMA consideration",
     ))
 
     lines.extend([
