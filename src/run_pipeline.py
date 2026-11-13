@@ -265,5 +265,7 @@ if __name__ == "__main__":
     latest_path = OUTPUT_DIR / "report_latest.md"
     dated_path.write_text(report, encoding="utf-8")
     latest_path.write_text(report, encoding="utf-8")
+    screening_dir = OUTPUT_DIR / "screening" / dt.date.today().isoformat()
+    screening_files = sorted(screening_dir.glob("*.csv")) if screening_dir.exists() else []
     archived_path = save_daily_outcome(report, root=ROOT, files=screening_files)
     print(f"Wrote report to {dated_path}, {latest_path}, and immutable archive {archived_path}")
