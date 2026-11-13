@@ -26,6 +26,7 @@ from pathlib import Path
 from typing import Dict, List
 
 import feedparser
+import requests
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -71,7 +72,13 @@ def find_new_rss_items(max_per_feed: int = 20) -> List[Dict]:
 
     for j in journals:
         try:
-            feed = feedparser.parse(j["rss"])
+            response = requests.get(
+                j["rss"],
+                headers={"User-Agent": "AHID-PubMed-Research-Monitor/1.0"},
+                timeout=(5, 15),
+            )
+            response.raise_for_status()
+            feed = feedparser.parse(response.content)
         except Exception as e:
             print(f"[warn] rss parse failed for {j['name']} ({j['rss']}): {e}")
             continue
