@@ -178,6 +178,7 @@ def build_report() -> str:
         "meta-analysis feasibility."
     )
     topics = []
+    screening_files = []
     try:
         seeds = find_recent_topic_seeds(days_back=365, max_per_journal=10, max_global=400)
         lines.append(f"\n**Recent primary-study seed sample:** {len(seeds)} records.")
@@ -197,6 +198,7 @@ def build_report() -> str:
                 rows, counts = prepare_screening_rows(refs)
                 csv_path = screening_dir / f"{slug}_{track}.csv"
                 write_screening_csv(rows, csv_path)
+                screening_files.append(csv_path)
                 screening_summaries.append((topic.get("topic", ""), track, counts, csv_path))
         lines.append("\n### Citation-level screening exports")
         lines.append("CSV files are preliminary triage aids. Records labelled unclear/manual_check require human title/abstract review; no citation is declared finally eligible without a protocol and full-text assessment.")
@@ -263,5 +265,5 @@ if __name__ == "__main__":
     latest_path = OUTPUT_DIR / "report_latest.md"
     dated_path.write_text(report, encoding="utf-8")
     latest_path.write_text(report, encoding="utf-8")
-    archived_path = save_daily_outcome(report, root=ROOT)
+    archived_path = save_daily_outcome(report, root=ROOT, files=screening_files)
     print(f"Wrote report to {dated_path}, {latest_path}, and immutable archive {archived_path}")
