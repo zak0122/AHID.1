@@ -50,17 +50,25 @@ This log makes the daily process visible without making you read the raw discove
 | Date | Candidates reviewed | New viable topics | Existing topics updated | Daily outcome |
 |---|---:|---:|---:|---|
 | 2026-11-13 | Setup only | 0 | 0 | Master list created; no fresh topic feasibility review was performed |
+| 2026-11-12 | Not verifiable | Not assessed | Not assessed | Historical backfill check: no dated AHID outcome/worklog archive found |
+| 2026-11-11 | Not verifiable | Not assessed | Not assessed | Historical backfill check: no dated AHID outcome/worklog archive found |
+| 2026-11-10 | Not verifiable | Not assessed | Not assessed | Historical backfill check: no dated AHID outcome/worklog archive found |
+| 2026-11-09 | Not verifiable | Not assessed | Not assessed | Historical backfill check: no dated AHID outcome/worklog archive found |
+| 2026-11-08 | Not verifiable | Not assessed | Not assessed | Historical backfill check: no dated AHID outcome/worklog archive found |
+| 2026-11-07 | Not verifiable | Not assessed | Not assessed | Historical backfill check: no dated AHID outcome/worklog archive found |
+| 2026-11-06 | Not verifiable | Not assessed | Not assessed | Historical backfill check: no dated AHID outcome/worklog archive found |
 
-Future daily entries will be appended here. “Candidates reviewed” must not be confused with eligible studies.
+**Historical backfill note (2026-11-13):** The repository archive was checked for 2026-11-06 through 2026-11-12. The available `outcomes/` and `chatgpt_worklog/` archives contain no dated records for those seven days; the first archived automated outcome files are dated 2026-11-13. Therefore, these rows document missing historical evidence only. They do **not** mean that seven daily topic reviews were completed, and no candidate counts or topic decisions have been invented.
 
 ## Monthly summaries
 
 ### November 2026
-- Days recorded: 1 (setup only)
+- Dated rows in the log: 8 (1 setup entry + 7 historical archive checks)
+- Completed topic-assessment days verified: 0
 - New viable topics: 0
 - Existing topics updated: 0
 - Current shortlist: 0
-- Note: the first entry establishes the register; it is not a completed topic-screening day.
+- Note: the seven dates from 2026-11-06 to 2026-11-12 are historical archive checks only. No AHID daily outcome or ChatGPT worklog was found for those dates, so they are not counted as completed reviews. The 2026-11-13 entry is setup only.
 
 Future month-end summaries will be added here using only dated daily records and verified changes in this document.
 
