@@ -137,6 +137,7 @@ def _esearch(issn: str, days_back: int = DEFAULT_DAYS_BACK,
     params = {
         "db": "pubmed", "term": term, "retmax": str(RETMAX),
         "retmode": "json",
+        "sort": "pub_date",
     }
     response = requests.get(
         f"{NCBI_BASE}/esearch.fcgi", params=_api_params(params),
