@@ -194,7 +194,7 @@ def _assess_candidate(candidate: Dict) -> Dict:
     obs_count, obs_ids = _pubmed_search(obs_search)
     review_count, review_ids = _pubmed_search(review_search)
 
-    all_ids = list(dict.fromkeys(rct_ids + obs_ids + review_ids))[:75]
+    all_ids = list(dict.fromkeys(rct_ids[:20] + obs_ids[:20] + review_ids[:20]))
     details = _efetch_abstracts(all_ids)
     rct_refs = []
     obs_refs = []
