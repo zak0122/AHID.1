@@ -43,10 +43,20 @@ jobs:
           MAX_TOPIC_CANDIDATES: "12"
         run: python run_pipeline.py
 
-      - name: Commit state and report
+      - name: Upload generated report
+        uses: actions/upload-artifact@v4
+        with:
+          name: ahid-srma-report-${{ github.run_number }}
+          path: output/report_*.md
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Commit state and report (main branch only)
+        if: github.ref == 'refs/heads/main'
         run: |
           git config user.name "ahid-topic-discovery[bot]"
           git config user.email "ahid-topic-discovery[bot]@users.noreply.github.com"
           git add -A state output
           git diff --cached --quiet || git commit -m "Daily AHID SRMA topic discovery report"
-          git push
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
