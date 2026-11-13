@@ -1,6 +1,8 @@
 name: AHID SRMA Topic Discovery
 
 on:
+  push:
+    branches: ["main", "feature/**"]
   schedule:
     # Daily run: topic discovery samples the previous 180 days of configured journals.
     - cron: "17 3 * * *"
@@ -37,7 +39,7 @@ jobs:
       - name: Run PubMed discovery and topic ranking
         working-directory: src
         env:
-          NCBI_API_KEY: \${{ secrets.NCBI_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
           MAX_TOPIC_CANDIDATES: "12"
         run: python run_pipeline.py
 
