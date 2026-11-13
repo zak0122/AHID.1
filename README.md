@@ -99,3 +99,16 @@ Every successful pipeline run saves an immutable snapshot under `outcomes/YYYY/M
 - `outcomes/YYYY/README.md`: chronological index for year-end review.
 
 Multiple runs on one date are preserved separately. The archive is committed only by scheduled/manual runs on `main`; feature-branch runs upload test artifacts without changing the historical archive. Keep the archive in Git so it can be searched, compared and amended through normal pull requests. Future pipeline changes should record their rationale in the repository changelog and preserve prior daily snapshots.
+
+
+## Citation-level screening outputs
+
+For each discovered candidate, the daily pipeline exports separate RCT, observational and review CSVs under `output/screening/YYYY-MM-DD/`. The exports contain PMID, DOI, title, design label, abstract, PubMed link and a conservative triage label.
+
+- Duplicate records are removed by PMID, DOI and normalized title.
+- Reviews are marked as secondary evidence rather than primary-study records.
+- Clear protocols/editorials/letters are flagged out of the results pool.
+- Other citations remain `unclear_human_screen` or `manual_check`; the tool does not claim final eligibility without topic-specific criteria and full-text review.
+- Screening CSVs are uploaded as GitHub Actions artifacts and committed with daily outputs on main.
+
+The current PICO/PECO extraction is a seed-article draft, not a validated protocol. Before screening, the research team must refine the question, define inclusion/exclusion criteria and check the search strategy across relevant databases.
