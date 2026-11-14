@@ -151,5 +151,86 @@ class LocalPicoTests(unittest.TestCase):
         self.assertIn("unclear", result["outcome"])
 
 
+class StudyDesignContextTests(unittest.TestCase):
+    def classify(self, title, abstract="", pub_types=None, mesh=None):
+        return _classify_study_design(title, abstract, pub_types or [], mesh or [])
+
+    def test_future_randomized_recommendation_does_not_override_retrospective_comparison(self):
+        self.assertEqual(
+            self.classify(
+                "Suprascapular nerve block: A retrospective comparative study",
+                "This retrospective comparative study included 84 patients. "
+                "Prospective randomized, dose-matched studies are needed to confirm the findings.",
+                ["Journal Article", "Comparative Study"],
+                ["Retrospective Studies"],
+            ),
+            DESIGN_ORDER[8],
+        )
+
+    def test_future_randomized_recommendation_does_not_override_single_group_prepost(self):
+        self.assertEqual(
+            self.classify(
+                "Exercise performance after treatment: An exploratory single-group pre-post study",
+                "Participants completed pre- and post-treatment testing. "
+                "Randomized controlled trials are needed to confirm these findings.",
+            ),
+            DESIGN_ORDER[1],
+        )
+
+    def test_bibliometric_keyword_does_not_create_rct(self):
+        self.assertEqual(
+            self.classify(
+                "Global trends in clinical trials: A bibliometric study",
+                "Bibliometric analysis of trial literature. Keywords included "
+                "randomized controlled trial and coronary artery disease.",
+            ),
+            DESIGN_ORDER[9],
+        )
+
+    def test_nonrandomized_retrospective_cohort_is_not_interventional_trial(self):
+        self.assertEqual(
+            self.classify(
+                "Long-term recurrence after surgery: A retrospective cohort study",
+                "In this retrospective cohort, groups were defined by calendar period. "
+                "The nonrandomized design may be affected by secular confounding.",
+                ["Journal Article"],
+                ["Retrospective Studies"],
+            ),
+            DESIGN_ORDER[4],
+        )
+
+    def test_nonrandomized_observational_study_stays_observational(self):
+        self.assertEqual(
+            self.classify(
+                "Postoperative recovery: A prospective observational study",
+                "This prospective, non-randomized observational study included adults. "
+                "Randomized studies are warranted.",
+                ["Journal Article", "Observational Study", "Comparative Study"],
+                ["Prospective Studies"],
+            ),
+            DESIGN_ORDER[8],
+        )
+
+    def test_explicit_nonrandomized_controlled_trial_is_nonrandomized(self):
+        self.assertEqual(
+            self.classify(
+                "Non-randomized controlled trial of treatment X",
+                "This non-randomized clinical trial compared treatment X with usual care.",
+            ),
+            DESIGN_ORDER[1],
+        )
+
+    def test_open_label_randomized_trial_is_still_rct(self):
+        self.assertEqual(
+            self.classify(
+                "Randomized, open-label, active-controlled trial of treatment X",
+                "Methods: Patients were randomly assigned to treatment X or control. "
+                "Results: The primary outcome was improved.",
+                ["Journal Article", "Randomized Controlled Trial"],
+            ),
+            DESIGN_ORDER[0],
+        )
+
+
 if __name__ == "__main__":
     unittest.main()
