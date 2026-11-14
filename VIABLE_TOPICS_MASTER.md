@@ -2,7 +2,7 @@
 
 > **Your one-page starting point:** this is the single, curated list of SRMA / umbrella-review questions worth taking forward. Raw automated discoveries, weak leads and rejected ideas are kept out of this shortlist.
 
-**Last reviewed:** 2026-11-13  
+**Last reviewed:** 2026-11-14  
 **Current shortlist:** 0 topics have passed the evidence-based screening in this new master list.  
 **Daily update:** the existing AHID review is active and scheduled daily around 6 PM Pakistan time; it checks candidates, updates this document when warranted, and sends a brief summary.
 
@@ -18,7 +18,7 @@ You only need to follow this file. Each day, any topic that passes the viability
 
 ## Current viable topics
 
-_No topic has yet passed this new master list's verification criteria. This is deliberate: the setup work on 2026-11-13 did not independently re-assess earlier candidate topics, so none is being labelled viable without evidence._
+_No topic has yet passed this master list's verification criteria. On 2026-11-14, five priority candidates were manually triaged; none had a sufficiently specific, reliable PICO/PECO, a compatible primary-outcome set and a defensible novelty gap. The other automated leads were not advanced._
 
 ### Topic entry format
 
@@ -49,6 +49,7 @@ This log makes the daily process visible without making you read the raw discove
 
 | Date | Candidates reviewed | New viable topics | Existing topics updated | Daily outcome |
 |---|---:|---:|---:|---|
+| 2026-11-14 | 5 priority candidates (12 AHID leads surfaced) | 0 | 0 | None passed: generic concept pairs, low-confidence PICO drafts, existing-review overlap and no verified outcome/timepoint compatibility. PROSPERO was not adjudicated. Study-design classification issue found; focused PR #5 opened |
 | 2026-11-13 | Setup only | 0 | 0 | Master list created; no fresh topic feasibility review was performed |
 | 2026-11-12 | Not verifiable | Not assessed | Not assessed | Historical backfill check: no dated AHID outcome/worklog archive found |
 | 2026-11-11 | Not verifiable | Not assessed | Not assessed | Historical backfill check: no dated AHID outcome/worklog archive found |
@@ -63,12 +64,12 @@ This log makes the daily process visible without making you read the raw discove
 ## Monthly summaries
 
 ### November 2026
-- Dated rows in the log: 8 (1 setup entry + 7 historical archive checks)
-- Completed topic-assessment days verified: 0
+- Dated rows in the log: 9 (1 setup entry + 7 historical archive checks + 1 completed assessment)
+- Completed topic-assessment days verified: 1 (2026-11-14)
 - New viable topics: 0
 - Existing topics updated: 0
 - Current shortlist: 0
-- Note: the seven dates from 2026-11-06 to 2026-11-12 are historical archive checks only. No AHID daily outcome or ChatGPT worklog was found for those dates, so they are not counted as completed reviews. The 2026-11-13 entry is setup only.
+- Note: the seven dates from 2026-11-06 to 2026-11-12 remain historical archive checks only; 2026-11-13 remains setup only. On 2026-11-14, five priority candidates were manually assessed from 12 automated leads; none passed the evidence/novelty/compatibility criteria. PR #5 addresses a verified study-design classification defect.
 
 Future month-end summaries will be added here using only dated daily records and verified changes in this document.
 
