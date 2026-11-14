@@ -233,7 +233,15 @@ def _classify_study_design(title: str, abstract: str,
 
     # Generic clinical-trial tags do not prove randomization. Keep them
     # separate for manual verification rather than guessing RCT/non-RCT.
-    clinical_trial_pt = "clinical trial" in pub or "clinical trial" in mesh
+    clinical_trial_types = {
+        "clinical trial", "clinical trial, phase i", "clinical trial, phase ii",
+        "clinical trial, phase iii", "clinical trial, phase iv",
+        "controlled clinical trial",
+    }
+    clinical_trial_pt = (
+        any(item.strip().lower() in clinical_trial_types for item in publication_types)
+        or any(item.strip().lower() == "clinical trial" for item in mesh_terms)
+    )
     generic_trial_words = bool(re.search(r"\bclinical trial\b", text))
     if clinical_trial_pt or generic_trial_words:
         return DESIGN_ORDER[2]
