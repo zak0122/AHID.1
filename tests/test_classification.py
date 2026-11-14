@@ -183,6 +183,8 @@ class StudyDesignContextTests(unittest.TestCase):
                 "Global trends in clinical trials: A bibliometric study",
                 "Bibliometric analysis of trial literature. Keywords included "
                 "randomized controlled trial and coronary artery disease.",
+                [],
+                ["Clinical Trials as Topic"],
             ),
             DESIGN_ORDER[9],
         )
