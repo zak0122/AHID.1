@@ -234,5 +234,27 @@ class StudyDesignContextTests(unittest.TestCase):
         )
 
 
+    def test_future_randomized_recommendation_does_not_make_prediction_model_an_rct(self):
+        self.assertEqual(
+            self.classify(
+                "Multicenter development of an interpretable machine learning model for prognosis of acute pancreatitis with acute kidney injury",
+                "Future multi-center, prospective randomized controlled studies are urgently needed "
+                "to further validate its real-world clinical utility.",
+            ),
+            DESIGN_ORDER[9],
+        )
+
+    def test_registry_cross_sectional_study_mentioning_randomized_trials_stays_observational(self):
+        self.assertEqual(
+            self.classify(
+                "Evidence gaps in total hip arthroplasty: A registry-based study of trial discontinuation",
+                "Methods: A registry-based cross-sectional analysis of randomized phase III and IV "
+                "THA clinical trials registered on ClinicalTrials.gov was performed. Results: "
+                "Trial discontinuation and nonpublication were assessed.",
+            ),
+            DESIGN_ORDER[7],
+        )
+
+
 if __name__ == "__main__":
     unittest.main()
