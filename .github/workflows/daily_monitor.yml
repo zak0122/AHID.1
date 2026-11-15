@@ -3,6 +3,8 @@ name: AHID SRMA Topic Discovery
 on:
   push:
     branches: ["main", "feature/**", "strategy/**"]
+  pull_request:
+    branches: ["main"]
   schedule:
     # Daily run: topic discovery samples the previous 180 days of configured journals.
     - cron: "17 3 * * *"
