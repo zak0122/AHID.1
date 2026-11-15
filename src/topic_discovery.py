@@ -77,6 +77,7 @@ STOP = {
     "treatment", "versus", "using", "with", "without", "within", "during",
     "first", "years", "year", "adults", "adult", "children", "child",
     "women", "men", "care", "health", "hospital", "hospital-based",
+    "heart", "failure", "artery", "coronary", "type", "sweden",
     "multicenter", "multicentre", "international", "national", "global",
     "new", "updated", "experience", "characteristics", "factors",
     "determinants", "patterns", "burden", "risk", "risks", "predictors",
@@ -91,6 +92,7 @@ GENERIC_MESH = {
     "prospective studies", "cohort studies", "clinical trial",
     "randomized controlled trial", "observational study",
     "case-control studies", "cross-sectional studies", "follow-up studies",
+    "risk factors", "risk factor", "incidence", "sweden",
     "comparative study", "multicenter study", "multicentre study",
     "female", "male", "humans",
 }
@@ -206,6 +208,39 @@ def _candidate_pairs(records: List[Dict], limit: int) -> List[Dict]:
     return candidates[:limit]
 
 
+def _seed_match_score(record: Dict, terms: Tuple[str, str]) -> int:
+    """Score how directly a seed record represents both candidate concepts."""
+    title = (record.get("title") or "").lower()
+    abstract = (record.get("abstract") or "").lower()
+    mesh = " | ".join(str(x) for x in (record.get("mesh_terms") or [])).lower()
+    score = 0
+    for raw_term in terms:
+        term = re.sub(r"\\s+", " ", str(raw_term)).strip().lower()
+        if not term:
+            continue
+        if term in title:
+            score += 4
+        elif term in mesh:
+            score += 3
+        elif term in abstract:
+            score += 2
+    return score
+
+
+def _representative_seed(records: List[Dict], term_a: str, term_b: str) -> Dict:
+    """Choose the seed with the strongest title/MeSH/abstract match to the pair."""
+    if not records:
+        return {}
+    return max(
+        records,
+        key=lambda record: (
+            _seed_match_score(record, (term_a, term_b)),
+            str(record.get("pubdate", "")),
+            str(record.get("pmid", "")),
+        ),
+    )
+
+
 def _concept_query(term: str) -> str:
     """Search a candidate concept in indexed MeSH and free-text fields."""
     escaped = term.replace('"', "")
@@ -303,7 +338,7 @@ def _assess_candidate(candidate: Dict) -> Dict:
             review_refs.append(item)
 
     seeds = candidate["seed_records"]
-    seed = seeds[0]
+    seed = _representative_seed(seeds, term_a, term_b)
     pico = draft_pico(seed.get("title", ""), seed.get("abstract", ""),
                       seed.get("study_design", ""))
     total = rct_count + obs_count
@@ -331,6 +366,10 @@ def _assess_candidate(candidate: Dict) -> Dict:
         "rct_priority": _priority(rct_count, review_count, True),
         "observational_priority": _priority(obs_count, review_count, False),
         "pico": pico,
+        "pico_seed_title": seed.get("title", ""),
+        "pico_seed_pmid": seed.get("pmid", ""),
+        "pico_seed_link": seed.get("link", ""),
+        "pico_seed_match_score": _seed_match_score(seed, (term_a, term_b)),
         "rct_refs": [
             {
                 "title": item.get("title", ""),
