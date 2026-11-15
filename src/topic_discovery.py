@@ -208,21 +208,34 @@ def _candidate_pairs(records: List[Dict], limit: int) -> List[Dict]:
     return candidates[:limit]
 
 
+def _concept_matches_text(term: str, text: str) -> bool:
+    """Match a MeSH phrase to reordered title wording without loose single-word matches."""
+    if term in text:
+        return True
+    term_tokens = set(re.findall(r"[a-z0-9]+", term))
+    text_tokens = set(re.findall(r"[a-z0-9]+", text))
+    return bool(term_tokens) and (
+        len(term_tokens & text_tokens) / len(term_tokens) >= 0.75
+    )
+
+
 def _seed_match_score(record: Dict, terms: Tuple[str, str]) -> int:
     """Score how directly a seed record represents both candidate concepts."""
     title = (record.get("title") or "").lower()
     abstract = (record.get("abstract") or "").lower()
-    mesh = " | ".join(str(x) for x in (record.get("mesh_terms") or [])).lower()
+    mesh_terms = [
+        str(x).lower() for x in (record.get("mesh_terms") or [])
+    ]
     score = 0
     for raw_term in terms:
         term = re.sub(r"\s+", " ", str(raw_term)).strip().lower()
         if not term:
             continue
-        if term in title:
+        if _concept_matches_text(term, title):
             score += 4
-        elif term in mesh:
+        elif any(_concept_matches_text(term, item) for item in mesh_terms):
             score += 3
-        elif term in abstract:
+        elif _concept_matches_text(term, abstract):
             score += 2
     return score
 
