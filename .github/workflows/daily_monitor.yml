@@ -2,7 +2,9 @@ name: AHID SRMA Topic Discovery
 
 on:
   push:
-    branches: ["main", "feature/**"]
+    branches: ["main", "feature/**", "strategy/**"]
+  pull_request:
+    branches: ["main"]
   schedule:
     # Daily run: topic discovery samples the previous 180 days of configured journals.
     - cron: "17 3 * * *"
@@ -40,7 +42,7 @@ jobs:
         working-directory: src
         env:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
-          MAX_TOPIC_CANDIDATES: "12"
+          MAX_TOPIC_CANDIDATES: "18"
         run: python run_pipeline.py
 
       - name: Upload generated report
