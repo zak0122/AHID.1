@@ -2,7 +2,7 @@
 
 > **Your one-page starting point:** this is the single, curated list of SRMA / umbrella-review questions worth taking forward. Raw automated discoveries, weak leads and rejected ideas are kept out of this shortlist.
 
-**Last reviewed:** 2026-11-14  
+**Last reviewed:** 2026-11-15  
 **Current shortlist:** 0 topics have passed the evidence-based screening in this new master list.  
 **Daily update:** the existing AHID review is active and scheduled daily around 6 PM Pakistan time; it checks candidates, updates this document when warranted, and sends a brief summary.
 
@@ -18,7 +18,7 @@ You only need to follow this file. Each day, any topic that passes the viability
 
 ## Current viable topics
 
-_No topic has yet passed this master list's verification criteria. On 2026-11-14, five priority AHID candidates were manually triaged. The new “Failure Heart” lead may support a focused review of persistent versus recovered worsening renal function after acute decompensated heart failure, but only two cohorts currently provide a direct prognostic contrast and definitions/follow-up differ; it remains on hold pending fuller study retrieval and outcome harmonisation._
+_No topic has yet passed this master list's verification criteria. On 2026-11-15, 12 AHID candidate concepts were generated and the five highest-priority unique concepts were manually triaged across separate RCT-only and observational tracks. The generated concepts remained generic or had weak PICO/outcome alignment; automated PubMed hit counts were not eligible-study counts. New GLP-1/AUD, CagriSema and angiography-derived FFR leads were not added because multiple recent reviews/meta-analyses and registered reviews already overlap. The persistent-versus-recovered WRF/ADHF lead from 2026-11-14 remains on hold; no new compatible evidence justified updating it.
 
 ### Topic entry format
 
@@ -49,6 +49,7 @@ This log makes the daily process visible without making you read the raw discove
 
 | Date | Candidates reviewed | New viable topics | Existing topics updated | Daily outcome |
 |---|---:|---:|---:|---|
+| 2026-11-15 | 5 priority unique candidates manually assessed (12 AHID concepts generated; RCT/observational rankings overlap) | 0 | 0 | No new viable topic. The five highest-ranked concepts were generic or lacked a coherent, compatible PICO; raw PubMed hits were not eligible studies. Fresh GLP-1/AUD, CagriSema and angiography-derived FFR leads were rejected as redundant after recent reviews/meta-analyses and registry checks. WRF/ADHF remains on hold. Classifier PR #5 CI passed (run 318); candidate-specificity/PICO-provenance PR #6 is open, with offline tests passing and PubMed discovery still running |
 | 2026-11-14 | 5 priority candidates (12 AHID leads surfaced; latest run 313 had 0 new primary signals) | 0 | 0 | No new viable topic. “Failure Heart” needs verification: persistent vs recovered WRF after ADHF has four relevant cohorts surfaced, but only two direct prognostic contrasts and incompatible definitions/follow-up so far; existing WRF/decongestion reviews partially overlap. No exact PROSPERO match surfaced in a targeted search. Classifier defect found; PR #5 opened and CI passed |
 | 2026-11-13 | Setup only | 0 | 0 | Master list created; no fresh topic feasibility review was performed |
 | 2026-11-12 | Not verifiable | Not assessed | Not assessed | Historical backfill check: no dated AHID outcome/worklog archive found |
@@ -64,12 +65,12 @@ This log makes the daily process visible without making you read the raw discove
 ## Monthly summaries
 
 ### November 2026
-- Dated rows in the log: 9 (1 setup entry + 7 historical archive checks + 1 completed assessment)
-- Completed topic-assessment days verified: 1 (2026-11-14)
+- Dated rows in the log: 10 (1 setup entry + 7 historical archive checks + 2 completed assessments)
+- Completed topic-assessment days verified: 2 (2026-11-14 and 2026-11-15)
 - New viable topics: 0
 - Existing topics updated: 0
 - Current shortlist: 0
-- Note: the seven dates from 2026-11-06 to 2026-11-12 remain historical archive checks only; 2026-11-13 remains setup only. On 2026-11-14, five priority candidates were manually assessed from 12 automated leads; none passed. The persistent-versus-recovered WRF/ADHF lead remains on hold because only two cohorts currently provide direct prognostic contrasts and definitions/follow-up differ. PR #5 fixes a verified study-design classification defect; feature-branch CI passed.
+- Note: the seven dates from 2026-11-06 to 2026-11-12 remain historical archive checks only; 2026-11-13 remains setup only. On 2026-11-14, five priority candidates were manually assessed from 12 automated leads; none passed. On 2026-11-15, 12 AHID concepts were generated and five highest-priority unique concepts were manually triaged across separate RCT and observational tracks; none passed because the concepts/PICO drafts were too generic or insufficiently aligned. Four recent CagriSema SRMAs, multiple GLP-1/AUD reviews, and several angiography-derived FFR meta-analyses plus PROSPERO registrations made those adjacent leads redundant. The persistent-versus-recovered WRF/ADHF lead remains on hold because direct prognostic contrasts and definitions/follow-up are still limited. PR #5 classifier fix is open and CI run 318 passed; PR #6 candidate-specificity/PICO-provenance fix is open, with offline tests passed but PubMed discovery still in progress.
 
 Future month-end summaries will be added here using only dated daily records and verified changes in this document.
 
