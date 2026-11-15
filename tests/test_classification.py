@@ -8,8 +8,10 @@ sys.path.insert(0, str(ROOT / "src"))
 from monitor import (  # noqa: E402
     DESIGN_ORDER,
     REVIEW_DESIGN,
+    OTHER_REVIEW_DESIGN,
     PROTOCOL_DESIGN,
     _classify_study_design,
+    find_new_articles,
 )
 from pico_extract import draft_pico  # noqa: E402
 from topic_discovery import _candidate_pairs, _concept_query  # noqa: E402
@@ -254,6 +256,52 @@ class StudyDesignContextTests(unittest.TestCase):
             ),
             DESIGN_ORDER[7],
         )
+
+
+class OtherReviewClassificationTests(unittest.TestCase):
+    def classify(self, title, abstract="", pub_types=None, mesh=None):
+        return _classify_study_design(title, abstract, pub_types or [], mesh or [])
+
+    def test_literature_review_about_randomized_trials_is_not_an_rct(self):
+        self.assertEqual(
+            self.classify(
+                "Outcome Reporting Bias in Randomized Clinical Trials: A Literature Review",
+                "This literature review examines reporting bias in randomized clinical trials.",
+                ["Journal Article", "Review"],
+            ),
+            OTHER_REVIEW_DESIGN,
+        )
+
+    def test_narrative_review_is_not_a_primary_observational_study(self):
+        self.assertEqual(
+            self.classify(
+                "Beyond Orbital Volume: A Narrative Review of Reconstruction Outcomes",
+                "A small randomized trial supports improved volumetric accuracy.",
+                ["Journal Article", "Review"],
+            ),
+            OTHER_REVIEW_DESIGN,
+        )
+
+    def test_narrative_review_without_pubmed_review_type_is_not_primary(self):
+        self.assertEqual(
+            self.classify(
+                "A Narrative Review of Emerging Treatment Strategies",
+                "This narrative review summarizes the published literature.",
+            ),
+            OTHER_REVIEW_DESIGN,
+        )
+
+    def test_find_new_articles_excludes_other_reviews(self):
+        records = [
+            {"study_design": OTHER_REVIEW_DESIGN},
+            {"study_design": REVIEW_DESIGN},
+            {"study_design": PROTOCOL_DESIGN},
+            {"study_design": DESIGN_ORDER[0]},
+        ]
+        from unittest.mock import patch
+        with patch("monitor._find_new_records", return_value=records):
+            result = find_new_articles()
+        self.assertEqual(result, [{"study_design": DESIGN_ORDER[0]}])
 
 
 if __name__ == "__main__":
