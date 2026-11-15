@@ -2,7 +2,7 @@ name: AHID SRMA Topic Discovery
 
 on:
   push:
-    branches: ["main", "feature/**"]
+    branches: ["main", "feature/**", "fix/**"]
     # Data-only master/archive updates must not launch another same-day report.
     paths-ignore:
       - "VIABLE_TOPICS_MASTER.md"
