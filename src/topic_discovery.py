@@ -95,7 +95,7 @@ GENERIC_MESH = {
     "female", "male", "humans", "risk factors", "incidence", "prevalence", "sweden",
 }
 
-MAX_CANDIDATES = int(os.environ.get("MAX_TOPIC_CANDIDATES", "12"))
+MAX_CANDIDATES = int(os.environ.get("MAX_TOPIC_CANDIDATES", "18"))
 MIN_SEARCH_TERM_LENGTH = 4
 
 
@@ -195,10 +195,11 @@ def _candidate_pairs(records: List[Dict], limit: int) -> List[Dict]:
             "candidate_source": ", ".join(sorted(pair_sources[pair])),
         })
 
+    # Novelty-oriented discovery: favour clinically specific concepts first.
+    # Seed frequency is a supporting signal, not the primary ranking driver.
     candidates.sort(
         key=lambda candidate: (
-            candidate["seed_count"],
-            candidate["specificity"],
+            candidate["specificity"] + 2.0 * math.log2(candidate["seed_count"] + 1),
             max((record.get("pubdate", "") for record in candidate["seed_records"]), default=""),
         ),
         reverse=True,
@@ -244,22 +245,48 @@ def _sample_size(abstract: str) -> str:
 
 
 def _score(evidence_count: int, review_count: int, seed_count: int) -> int:
-    """Transparent per-design heuristic score (not a validated prediction model)."""
-    evidence = min(55.0, 14.0 * math.log2(max(evidence_count, 0) + 1))
-    novelty = max(0.0, 30.0 - 10.0 * min(review_count, 3))
-    seed_signal = min(15.0, 4.0 + 4.0 * math.log2(max(seed_count, 1)))
-    return int(round(min(100.0, evidence + novelty + seed_signal)))
+    """Evidence-volume triage only; review-hit volume is not a novelty verdict.
+
+    Broad review searches can retrieve weak/topic-only overlap. Novelty must be
+    adjudicated by reading review PICO, dates, outcomes and included studies.
+    """
+    evidence = min(70.0, 16.0 * math.log2(max(evidence_count, 0) + 1))
+    seed_signal = min(20.0, 4.0 + 3.0 * math.log2(max(seed_count, 1)))
+    return int(round(min(90.0, evidence + seed_signal)))
 
 
 def _priority(count: int, reviews: int, is_rct: bool) -> str:
     minimum = 3 if is_rct else 5
-    if count >= minimum and reviews <= 1:
-        return "TOP PRIORITY — manual screening required"
-    if count >= minimum and reviews > 1:
-        return "MODIFY / CHECK OVERLAP — existing reviews detected"
+    if count >= minimum:
+        return "EVIDENCE SIGNAL — screen primary records; assess review overlap manually"
     if count >= 2:
-        return "PROMISING SIGNAL — verify eligible studies"
-    return "EARLY SIGNAL — insufficient evidence count so far"
+        return "PROMISING SIGNAL — verify eligible studies and review overlap"
+    return "EARLY SIGNAL — insufficient evidence signal so far"
+
+
+OBSERVATIONAL_ARCHETYPES = {
+    "prognosis": (
+        '("Prognosis"[Mesh] OR prognosis[tiab] OR prognostic[tiab] '
+        'OR mortality[tiab] OR survival[tiab] OR readmission[tiab] '
+        'OR recurrence[tiab] OR progression[tiab])'
+    ),
+    "incidence_prevalence": (
+        '("Incidence"[Mesh] OR "Prevalence"[Mesh] OR incidence[tiab] '
+        'OR prevalence[tiab] OR epidemiology[tiab] OR "person-years"[tiab])'
+    ),
+    "predictors_risk_factors": (
+        '("Risk Factors"[Mesh] OR predictor*[tiab] OR "risk factor"[tiab] '
+        'OR "prognostic factor"[tiab] OR determinant*[tiab])'
+    ),
+}
+
+
+def _observational_archetype_queries(topic_query: str) -> Dict[str, str]:
+    """Create distinct observational question searches; never combine designs."""
+    return {
+        name: f"({topic_query}) AND ({OBSERVATIONAL_QUERY}) AND ({block})"
+        for name, block in OBSERVATIONAL_ARCHETYPES.items()
+    }
 
 
 def _search_variants(term_a: str, term_b: str) -> Dict[str, str]:
