@@ -12,7 +12,7 @@ from monitor import (  # noqa: E402
     _classify_study_design,
 )
 from pico_extract import draft_pico  # noqa: E402
-from topic_discovery import _candidate_pairs, _concept_query  # noqa: E402
+from topic_discovery import _candidate_pairs, _concept_query, _representative_seed  # noqa: E402
 
 
 class StudyDesignClassificationTests(unittest.TestCase):
@@ -129,6 +129,58 @@ class TopicCandidateTests(unittest.TestCase):
         query = _concept_query("Crohn Disease")
         self.assertIn('"Crohn Disease"[Mesh]', query)
         self.assertIn('"Crohn Disease"[tiab]', query)
+
+    def test_generic_meSH_and_title_terms_do_not_generate_candidates(self):
+        records = [
+            {
+                "pmid": "1",
+                "title": "Risk factors and incidence in Sweden",
+                "mesh_terms": ["Risk Factors", "Incidence", "Sweden", "Humans"],
+            },
+            {
+                "pmid": "2",
+                "title": "Incidence and risk factors in Sweden",
+                "mesh_terms": ["Risk Factors", "Incidence", "Humans"],
+            },
+        ]
+        self.assertEqual(_candidate_pairs(records, 10), [])
+
+    def test_specific_multword_disease_mesh_concepts_are_retained(self):
+        records = [
+            {
+                "pmid": "3",
+                "title": "Heart failure in adults with type 2 diabetes",
+                "mesh_terms": [
+                    "Heart Failure", "Diabetes Mellitus, Type 2",
+                    "Risk Factors", "Humans",
+                ],
+            }
+        ]
+        candidates = _candidate_pairs(records, 10)
+        pairs = [set(candidate["terms"]) for candidate in candidates]
+        self.assertIn({"Heart Failure", "Diabetes Mellitus, Type 2"}, pairs)
+
+    def test_representative_seed_prefers_direct_title_match_to_both_concepts(self):
+        records = [
+            {
+                "pmid": "4",
+                "title": "General cardiometabolic outcomes",
+                "abstract": "We studied heart failure and diabetes outcomes.",
+                "mesh_terms": ["Heart Failure", "Diabetes Mellitus, Type 2"],
+                "pubdate": "2026-10",
+            },
+            {
+                "pmid": "5",
+                "title": "Heart failure in adults with type 2 diabetes",
+                "abstract": "A cohort study of adults.",
+                "mesh_terms": [],
+                "pubdate": "2025-01",
+            },
+        ]
+        selected = _representative_seed(
+            records, "Heart Failure", "Diabetes Mellitus, Type 2"
+        )
+        self.assertEqual(selected["pmid"], "5")
 
 
 class LocalPicoTests(unittest.TestCase):
