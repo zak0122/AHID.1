@@ -62,9 +62,10 @@ def _topic_section(topics, design_key, priority_key, title_key, heading):
             f"**Score:** {topic[design_key]}/100 (heuristic triage, not a validated model)  \n"
             f"**Decision signal:** {topic[priority_key]}  \n"
             f"**Recent journal seed records:** {topic['seed_count']}  \n"
-            f"**PubMed candidate hits:** {topic['rct_count']} RCT-search hits; "
-            f"{topic['observational_count']} observational-search hits; "
-            f"{topic['review_count']} existing-review-search hits\n"
+            f"**PubMed retrieval signals:** {topic['rct_count']} RCT-search hits; "
+            f"{topic['observational_count']} broad observational-search hits; "
+            f"{topic['review_count']} broad review-search hits; "
+            f"{topic.get('focused_review_count', 0)} focused review-search hits\n"
             f"**Search refinement:** [Broad concept search]({topic['broad_search_url']}) | "
             f"[Focused exact-phrase search]({topic['focused_search_url']})  \n"
             f"**Separate searches:** [RCT-only]({topic['rct_search_url']}) | "
@@ -234,9 +235,10 @@ def build_report() -> str:
             "adjudicated by comparing review PICO, dates, outcomes and included studies."
         )
         lines.append(
-            "**TOP PRIORITY label:** at least 3 RCT-search hits or 5 observational-search "
-            "hits, and no more than 1 review-search hit. This is a manual-screening "
-            "threshold, not proof that the studies are eligible or poolable."
+            "**Evidence-signal label:** at least 3 RCT-search hits or 5 broad observational-search "
+            "hits triggers human screening. Review-search hits are reported as broad and focused "
+            "overlap signals but do not automatically reject a candidate. This is not proof "
+            "that records are eligible, novel or poolable."
         )
     except Exception as exc:
         lines.append(f"\n**Topic discovery warning:** {type(exc).__name__}: {exc}")
