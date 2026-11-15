@@ -78,7 +78,7 @@ def _topic_section(topics, design_key, priority_key, title_key, heading):
         if source_title:
             source_label = f"[{source_title}]({source_link})" if source_link else source_title
             source_id = f" (PMID {source_pmid})" if source_pmid else ""
-            lines.append(f"**PICO source record:** {source_label}{source_id}  \\n")
+            lines.append(f"**PICO source record:** {source_label}{source_id}  \n")
         lines.append("**Seed-study PICO/PECO draft (rule-based; verify):**")
         lines.append(f"- Population: {pico['population']}")
         lines.append(f"- Intervention/exposure: {pico['intervention']}")
