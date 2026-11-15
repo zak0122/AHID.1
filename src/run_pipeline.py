@@ -72,6 +72,13 @@ def _topic_section(topics, design_key, priority_key, title_key, heading):
             f"[Existing reviews]({topic['review_search_url']})\n"
         )
         pico = topic["pico"]
+        source_title = topic.get("pico_seed_title", "")
+        source_pmid = topic.get("pico_seed_pmid", "")
+        source_link = topic.get("pico_seed_link", "")
+        if source_title:
+            source_label = f"[{source_title}]({source_link})" if source_link else source_title
+            source_id = f" (PMID {source_pmid})" if source_pmid else ""
+            lines.append(f"**PICO source record:** {source_label}{source_id}  \\n")
         lines.append("**Seed-study PICO/PECO draft (rule-based; verify):**")
         lines.append(f"- Population: {pico['population']}")
         lines.append(f"- Intervention/exposure: {pico['intervention']}")
