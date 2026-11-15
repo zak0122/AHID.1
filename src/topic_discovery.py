@@ -279,11 +279,20 @@ def _assess_candidate(candidate: Dict) -> Dict:
     rct_search = f"({topic_query}) AND ({RCT_QUERY})"
     obs_search = f"({topic_query}) AND ({OBSERVATIONAL_QUERY})"
     review_search = f"({topic_query}) AND ({REVIEW_QUERY})"
+    focused_review_search = f"({variants['focused']}) AND ({REVIEW_QUERY})"
     rct_count, rct_ids = _pubmed_search(rct_search)
     obs_count, obs_ids = _pubmed_search(obs_search)
     review_count, review_ids = _pubmed_search(review_search)
+    focused_review_count, focused_review_ids = _pubmed_search(focused_review_search)
 
-    all_ids = list(dict.fromkeys(rct_ids[:20] + obs_ids[:20] + review_ids[:20]))
+    archetype_queries = _observational_archetype_queries(topic_query)
+    archetype_searches = {
+        name: _pubmed_search(query) for name, query in archetype_queries.items()
+    }
+    all_ids = list(dict.fromkeys(
+        rct_ids[:20] + obs_ids[:20] + review_ids[:20] + focused_review_ids[:10]
+        + [pmid for _, ids in archetype_searches.values() for pmid in ids[:10]]
+    ))
     details = _efetch_abstracts(all_ids)
     rct_refs = []
     obs_refs = []
@@ -303,7 +312,14 @@ def _assess_candidate(candidate: Dict) -> Dict:
             review_refs.append(item)
 
     seeds = candidate["seed_records"]
-    seed = seeds[0]
+    term_a, term_b = candidate["terms"]
+    def _seed_relevance(record):
+        text = " ".join([
+            record.get("title", ""), record.get("abstract", ""),
+            " ".join(record.get("mesh_terms", []) or []),
+        ]).lower()
+        return int(term_a.lower() in text) + int(term_b.lower() in text)
+    seed = max(seeds, key=_seed_relevance)
     pico = draft_pico(seed.get("title", ""), seed.get("abstract", ""),
                       seed.get("study_design", ""))
     total = rct_count + obs_count
@@ -326,6 +342,9 @@ def _assess_candidate(candidate: Dict) -> Dict:
         "observational_count": obs_count,
         "total_primary_hits": total,
         "review_count": review_count,
+        "focused_review_count": focused_review_count,
+        "pico_seed_title": seed.get("title", ""),
+        "pico_seed_pmid": seed.get("pmid", ""),
         "rct_score": _score(rct_count, review_count, candidate["seed_count"]),
         "observational_score": _score(obs_count, review_count, candidate["seed_count"]),
         "rct_priority": _priority(rct_count, review_count, True),
@@ -364,6 +383,26 @@ def _assess_candidate(candidate: Dict) -> Dict:
         "observational_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(obs_search),
         "pubmed_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(topic_query),
         "review_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(review_search),
+        "focused_review_search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(focused_review_search),
+        "observational_archetypes": {
+            name: {
+                "count": count,
+                "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=" + quote_plus(archetype_queries[name]),
+                "refs": [
+                    {
+                        "title": details[pmid].get("title", ""),
+                        "pmid": details[pmid].get("pmid", pmid),
+                        "doi": details[pmid].get("doi", ""),
+                        "design": details[pmid].get("study_design", ""),
+                        "sample_size": _sample_size(details[pmid].get("abstract", "")),
+                        "link": details[pmid].get("link", ""),
+                    }
+                    for pmid in ids[:10]
+                    if pmid in details and details[pmid].get("study_design") in observational_designs
+                ],
+            }
+            for name, (count, ids) in archetype_searches.items()
+        },
         "review_refs": [
             {
                 "title": item.get("title", ""),
@@ -382,7 +421,10 @@ def _assess_candidate(candidate: Dict) -> Dict:
             "PubMed hit counts are candidate retrieval counts, not screened or eligible studies. "
             "RCT and observational searches are separate and can overlap. Sample sizes are "
             "abstract-only signals and must not be summed because cohorts may overlap. "
-            "PROSPERO overlap and outcome compatibility have not been adjudicated."
+            "Broad and focused review-search hits are overlap signals, not proof of duplication. "
+            "PROSPERO overlap and outcome compatibility have not been adjudicated. "
+            "Prognosis, incidence/prevalence and predictor searches are separate observational "
+            "question tracks; their counts are retrieval signals only."
         ),
     }
 
