@@ -53,7 +53,7 @@ def _topic_section(topics, design_key, priority_key, title_key, heading):
     lines = [f"\n## {heading}\n"]
     if not topics:
         return lines + ["No topic candidates could be assessed in this run.\n"]
-    ranked = sorted(topics, key=lambda x: x[design_key], reverse=True)[:5]
+    ranked = sorted(topics, key=lambda x: x[design_key], reverse=True)[:8]
     for index, topic in enumerate(ranked, 1):
         lines.append(f"### {index}. {topic[title_key]}")
         lines.append(
@@ -78,10 +78,12 @@ def _topic_section(topics, design_key, priority_key, title_key, heading):
         lines.append(f"- Comparator: {pico['comparator']}")
         lines.append(f"- Outcome: {pico['outcome']}")
         lines.append(f"- Seed design: {pico['study_design']}")
-        lines.append(f"- Extraction notes: {pico['confidence_notes']}\n")
+        lines.append(f"- Extraction notes: {pico['confidence_notes']}")
+        lines.append(f"- PICO seed provenance: PMID {topic.get('pico_seed_pmid') or 'not available'} — {topic.get('pico_seed_title', 'not available')}\n")
         lines.append(
             f"**Searches:** [PubMed candidate pool]({topic['pubmed_search_url']}) | "
-            f"[Existing reviews]({topic['review_search_url']}) | "
+            f"[Broad existing reviews]({topic['review_search_url']}) | "
+            f"[Focused title/abstract reviews]({topic['focused_review_search_url']}) | "
             f"[PROSPERO title search]({topic['prospero_search_url']})\n"
         )
         lines.append("**RCT evidence references (separate track):**")
@@ -99,6 +101,10 @@ def _topic_section(topics, design_key, priority_key, title_key, heading):
         else:
             lines.append("- No review references in the first PubMed sample; open the complete review search.")
 
+        lines.append("\n**Observational question tracks (separate searches; retrieval counts only):**")
+        for archetype, result in topic.get("observational_archetypes", {}).items():
+            lines.append(f"- **{archetype.replace('_', ' ').title()}:** {result['count']} PubMed retrieval hits | [search]({result['search_url']})")
+            lines.extend(_ref_lines(result.get("refs", [])))
         lines.append(f"\n> **Interpretation:** {topic['limitations']}\n")
         lines.append("---")
     return lines
@@ -174,11 +180,11 @@ def build_report() -> str:
 
     lines.append("\n## 5. Topic discovery method")
     lines.append(
-        "The topic engine starts with a PubMed-wide primary-study sample from the preceding "
-        "365 days, supplements it with configured-journal coverage, derives MeSH/title concepts, and checks each "
-        "candidate in PubMed with separate RCT, observational and review searches. This is broad discovery, not an exhaustive systematic search. "
-        "The rankings below are heuristic triage scores; they do not prove novelty or "
-        "meta-analysis feasibility."
+        "The topic engine starts with a bounded recent PubMed primary-study sample, supplements it "
+        "with configured-journal coverage, and ranks clinically specific concepts rather than raw seed frequency. "
+        "Each candidate is checked in separate RCT and observational searches, with dedicated observational "
+        "prognosis, incidence/prevalence and predictor/risk-factor tracks plus broad and focused review searches. "
+        "These are discovery signals, not exhaustive searches, eligible-study counts or proof of novelty."
     )
     topics = []
     screening_files = []
@@ -221,11 +227,11 @@ def build_report() -> str:
                 f"File: `{csv_path.relative_to(ROOT).as_posix()}`"
             )
         lines.append(
-            "**Score formula (heuristic, not validated):** design-specific evidence term "
-            "min(55, 14 × log2(search hits + 1)) + review-overlap term "
-            "max(0, 30 − 10 × min(review hits, 3)) + recent-seed term "
-            "min(15, 4 + 4 × log2(seed records)). The RCT score uses RCT hits only; "
-            "the observational score uses observational hits only."
+            "**Score formula (heuristic, not validated):** evidence-volume signal "
+            "min(70, 16 × log2(search hits + 1)) plus a capped seed-support signal. "
+            "Broad review-hit volume is not subtracted as a novelty penalty because "
+            "topic-only overlap is not a redundancy decision. Exact/close overlap must be "
+            "adjudicated by comparing review PICO, dates, outcomes and included studies."
         )
         lines.append(
             "**TOP PRIORITY label:** at least 3 RCT-search hits or 5 observational-search "
@@ -241,7 +247,7 @@ def build_report() -> str:
     ))
     lines.extend(_topic_section(
         topics, "observational_score", "observational_priority", "observational_title",
-        "7. Ranked topics for observational-study SRMA consideration",
+        "7. Observational SRMA opportunities: prognosis, incidence/prevalence and predictors",
     ))
 
     lines.extend([
@@ -256,7 +262,7 @@ def build_report() -> str:
         "",
         "## 9. Next human steps",
         "1. Export each shortlisted RCT and observational search separately to RIS/CSV.",
-        "2. Deduplicate PMIDs/DOIs and perform two-reviewer title/abstract screening.",
+        "2. Screen RCT, cohort, case-control and cross-sectional records separately; do not merge designs to inflate counts.",
         "3. Retrieve full texts; confirm population, design, interventions/exposures, comparators, outcomes, follow-up and overlap.",
         "4. Assess design-appropriate risk of bias and whether outcomes/timepoints are sufficiently compatible for pooling.",
         "5. Check PROSPERO and recent reviews before selecting/registering a final protocol.",
