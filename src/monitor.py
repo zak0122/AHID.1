@@ -88,6 +88,7 @@ DESIGN_ORDER = [
 ]
 
 REVIEW_DESIGN = "Systematic review / meta-analysis"
+OTHER_REVIEW_DESIGN = "Other review / secondary publication (not a primary study)"
 PROTOCOL_DESIGN = "Protocol (not an included results study)"
 DEFAULT_DAYS_BACK = 30
 
@@ -173,6 +174,13 @@ def _classify_study_design(title: str, abstract: str,
         return REVIEW_DESIGN
     if re.search(r"\b(protocol|study protocol|trial protocol)\b", title_text):
         return PROTOCOL_DESIGN
+    # PubMed uses the generic publication type "Review" for narrative and other
+    # secondary reviews too. Keep these out of the primary-study feed, without
+    # mislabelling them as systematic reviews/meta-analyses.
+    if any(item.strip().lower() == "review" for item in publication_types):
+        return OTHER_REVIEW_DESIGN
+    if re.search(r"\b(?:literature|narrative|traditional|critical|scoping|integrative) review\b", title_text):
+        return OTHER_REVIEW_DESIGN
 
     # A non-randomized observational/cohort study is not a non-randomized
     # interventional trial. Require an explicit intervention/trial design.
@@ -399,7 +407,7 @@ def _find_new_records(days_back: int, query_filter: str, state_path: Path,
 def find_new_articles(days_back: int = DEFAULT_DAYS_BACK) -> List[Dict]:
     """Return new primary-study signals, with RCT and observational designs classified separately."""
     records = _find_new_records(days_back, PRIMARY_STUDY_FILTER, STATE_PATH)
-    reviews_and_protocols = {REVIEW_DESIGN, PROTOCOL_DESIGN}
+    reviews_and_protocols = {REVIEW_DESIGN, OTHER_REVIEW_DESIGN, PROTOCOL_DESIGN}
     excluded = reviews_and_protocols
     # Keep uncertain records visible: excluding them automatically would
     # recreate the false-negative problem this high-recall search is designed to avoid.
