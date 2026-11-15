@@ -80,7 +80,7 @@ STOP = {
     "multicenter", "multicentre", "international", "national", "global",
     "new", "updated", "experience", "characteristics", "factors",
     "determinants", "patterns", "burden", "risk", "risks", "predictors",
-    "data", "evidence",
+    "data", "evidence", "type", "heart", "failure", "artery", "coronary", "sweden",
 }
 
 GENERIC_MESH = {
@@ -92,7 +92,7 @@ GENERIC_MESH = {
     "randomized controlled trial", "observational study",
     "case-control studies", "cross-sectional studies", "follow-up studies",
     "comparative study", "multicenter study", "multicentre study",
-    "female", "male", "humans",
+    "female", "male", "humans", "risk factors", "incidence", "prevalence", "sweden",
 }
 
 MAX_CANDIDATES = int(os.environ.get("MAX_TOPIC_CANDIDATES", "12"))
