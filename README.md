@@ -11,14 +11,14 @@ AHID is a reproducible PubMed-based research surveillance and SRMA topic-triage 
 2. **Study-design classification.** Classifies RCTs, non-randomized clinical trials, prospective cohorts, retrospective cohorts, cohorts with unclear direction, case-control studies, cross-sectional studies and other observational studies separately. Uncertain records remain labelled as uncertain for manual screening.
 3. **Separate review and protocol alerts.** Systematic reviews/meta-analyses are reported separately from protocols; protocols are not treated as results studies.
 4. **Topic candidate generation.** Samples recent primary studies from the configured journal set, derives co-occurring clinical concepts from MeSH descriptors plus title/abstract terms, and checks them against PubMed.
-5. **Two separate SRMA tracks.** Every candidate gets independent RCT and observational search counts, references and scores. Do not pool those designs together merely because they concern the same topic.
+5. **Design-separated review tracks.** RCT evidence remains separate. Observational candidates are additionally searched as prognosis, incidence/prevalence and predictors/risk-factor questions; cohorts, case-control and cross-sectional studies are not merged just to increase counts.
 6. **Existing-review signal.** Searches for systematic reviews/meta-analyses separately and links to a PROSPERO title search.
 7. **Transparent PICO drafts.** Extracts only what simple text rules can identify. It does not call Gemini, Claude or another LLM, and it marks unclear fields rather than fabricating details.
 8. **Evidence references.** Reports PubMed links, available DOI, design label and a cautious abstract-level sample-size signal for retrieved references.
 
 ## Important limitations
 
-AHID is a **triage system**, not an automated systematic review. PubMed hit counts are not screened or eligible study counts. The topic score is a transparent heuristic, not a validated model of novelty, feasibility or publication probability. Keyword pairs can retrieve irrelevant studies, and the RCT and observational searches can overlap. Abstract sample-size snippets are not summed because cohorts can overlap and denominators may differ.
+AHID is a **triage system**, not an automated systematic review. PubMed hit counts are not screened or eligible study counts. The evidence-volume score is a transparent heuristic, not a validated model of novelty, feasibility or publication probability. Broad review-hit counts are overlap signals only: topic-only overlap must not automatically reject a candidate. Novelty requires comparing review PICO, dates, outcomes and included studies. Keyword pairs can retrieve irrelevant studies, and the RCT and observational searches can overlap. Abstract sample-size snippets are not summed because cohorts can overlap and denominators may differ.
 
 Before selecting a topic, researchers must:
 - Export each design-specific search, deduplicate and screen titles/abstracts.
@@ -92,7 +92,7 @@ Add NCBI_API_KEY under **Settings → Secrets and variables → Actions** if des
 - state/seen_protocol_pmids.json — protocol alerts.
 - state/seen_rss_links.json — RSS item de-duplication.
 
-Topic discovery now starts from a bounded PubMed-wide primary-study sample from the preceding 365 days, then adds a small configured-journal supplement. It is not limited to the journal list, but it is still a bounded discovery sample rather than an exhaustive systematic search. The sample is independent of the newly-seen journal watcher.
+Topic discovery starts from a bounded PubMed-wide primary-study sample from the preceding 365 days, then adds a small configured-journal supplement. It favours clinically specific concepts over raw seed frequency and runs dedicated observational prognosis, incidence/prevalence and predictor/risk-factor searches. It is not limited to the journal list, but it is still a bounded discovery sample rather than an exhaustive systematic search. The sample is independent of the newly-seen journal watcher.
 
 ## Daily outcomes archive
 
