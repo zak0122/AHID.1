@@ -215,7 +215,7 @@ def _seed_match_score(record: Dict, terms: Tuple[str, str]) -> int:
     mesh = " | ".join(str(x) for x in (record.get("mesh_terms") or [])).lower()
     score = 0
     for raw_term in terms:
-        term = re.sub(r"\\s+", " ", str(raw_term)).strip().lower()
+        term = re.sub(r"\s+", " ", str(raw_term)).strip().lower()
         if not term:
             continue
         if term in title:
