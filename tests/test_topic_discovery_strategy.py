@@ -10,6 +10,7 @@ from topic_discovery import (
     OBSERVATIONAL_QUERY,
     _observational_archetype_queries,
     _priority,
+    _tokens,
     _score,
 )
 
@@ -30,6 +31,12 @@ class ObservationalArchetypeTests(unittest.TestCase):
                 self.assertIn(topic, query)
                 self.assertIn(OBSERVATIONAL_QUERY.strip(), query)
                 self.assertNotIn("Randomized Controlled Trial", query.split("AND")[-1])
+
+    def test_generic_title_tokens_are_not_candidate_concepts(self):
+        self.assertEqual(
+            _tokens("Heart failure coronary artery Sweden diabetes type"),
+            ["diabetes"],
+        )
 
     def test_broad_review_hits_do_not_automatically_reduce_score(self):
         self.assertEqual(_score(25, 0, 4), _score(25, 1000, 4))
