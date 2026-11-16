@@ -100,6 +100,28 @@ class StudyDesignClassificationTests(unittest.TestCase):
             DESIGN_ORDER[9],
         )
 
+    def test_case_report_with_cross_sectional_imaging_language_is_not_cross_sectional(self):
+        self.assertEqual(
+            self.classify(
+                "Late-presenting myocardial infarction with anomalous coronary artery origins: a case report",
+                "We present a case with coronary anomalies. Cross-sectional imaging was used "
+                "to define the anatomy and guide clinical management.",
+                ["Journal Article", "Case Reports"],
+                ["Humans"],
+            ),
+            "Case report / case series (usually exclude from SRMA pooling)",
+        )
+
+    def test_case_series_title_is_not_misclassified_by_randomized_trial_mention(self):
+        self.assertEqual(
+            self.classify(
+                "Clinical outcomes in a case series of rare vascular anomalies",
+                "The discussion notes that future randomized trials are needed.",
+                ["Journal Article"],
+            ),
+            "Case report / case series (usually exclude from SRMA pooling)",
+        )
+
 
 class TopicCandidateTests(unittest.TestCase):
     def test_mesh_concepts_generate_research_candidates(self):
