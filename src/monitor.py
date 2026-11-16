@@ -88,6 +88,7 @@ DESIGN_ORDER = [
 ]
 
 REVIEW_DESIGN = "Systematic review / meta-analysis"
+OTHER_REVIEW_DESIGN = "Other review / secondary publication (not a primary study)"
 PROTOCOL_DESIGN = "Protocol (not an included results study)"
 DEFAULT_DAYS_BACK = 30
 
@@ -160,7 +161,7 @@ def _node_text(node: Optional[ET.Element]) -> str:
 def _classify_study_design(title: str, abstract: str,
                            publication_types: List[str],
                            mesh_terms: List[str]) -> str:
-    """Classify from publication metadata first, then conservative text rules."""
+    """Classify from publication metadata and study-method evidence, not recommendations."""
     title_text = (title or "").lower()
     abstract_text = (abstract or "").lower()
     text = f"{title_text} {abstract_text}"
@@ -173,27 +174,82 @@ def _classify_study_design(title: str, abstract: str,
         return REVIEW_DESIGN
     if re.search(r"\b(protocol|study protocol|trial protocol)\b", title_text):
         return PROTOCOL_DESIGN
+    # PubMed uses the generic publication type "Review" for narrative and other
+    # secondary reviews too. Keep these out of the primary-study feed, without
+    # mislabelling them as systematic reviews/meta-analyses.
+    if any(item.strip().lower() == "review" for item in publication_types):
+        return OTHER_REVIEW_DESIGN
+    if re.search(r"\b(?:literature|narrative|traditional|critical|scoping|integrative) review\b", title_text):
+        return OTHER_REVIEW_DESIGN
 
-    # Explicit non-randomized labels must be checked first: the word
-    # "randomized" is itself contained in "non-randomized".
-    nonrandomized = bool(re.search(
-        r"\b(non[- ]randomi[sz]ed|nonrandomi[sz]ed|quasi[- ]experimental|"
-        r"single[- ]arm trial|open[- ]label trial)\b", text
-    ))
-    if nonrandomized:
-        return DESIGN_ORDER[1]
-
-    randomized_pt = "randomized controlled trial" in pub or "controlled clinical trial" in pub
-    randomized_words = bool(re.search(
-        r"\b(randomi[sz]ed|randomi[sz]ation|randomly assigned|random allocation)\b",
+    # A non-randomized observational/cohort study is not a non-randomized
+    # interventional trial. Require an explicit intervention/trial design.
+    nonrandomized_interventional = bool(re.search(
+        r"\bnon[- ]randomi[sz]ed\s+(?:(?:controlled|clinical)\s+){0,2}trial\b"
+        r"|\bquasi[- ]experimental\b"
+        r"|\bsingle[- ]arm trial\b"
+        r"|\bsingle[- ]group pre[- ]post (?:study|design)\b"
+        r"|\bnon[- ]randomi[sz]ed interventional (?:study|design)\b",
         text,
     ))
-    if randomized_pt or (randomized_words and re.search(r"\b(trial|participants|patients)\b", text)):
+    if nonrandomized_interventional:
+        return DESIGN_ORDER[1]
+
+    # Randomization must be part of the study itself. A conclusion saying that
+    # randomized trials are needed, or a keyword mentioning RCTs, is not enough.
+    methods_match = re.search(r"\bmethods?\s*:\s*", abstract_text)
+    if methods_match:
+        method_text = abstract_text[methods_match.end():]
+        method_end = re.search(
+            r"\b(?:results?|findings?|conclusions?|discussion|interpretation)\s*:",
+            method_text,
+        )
+        if method_end:
+            method_text = method_text[:method_end.start()]
+    else:
+        # For unstructured abstracts, use allocation language rather than a
+        # bare occurrence of "randomized" anywhere in the abstract.
+        method_text = abstract_text
+
+    randomized_title = bool(re.search(r"\brandomi[sz]ed\b", title_text))
+    randomized_method = bool(re.search(
+        r"\b(?:participants?|patients?|subjects?|individuals?|clusters?|centers?|centres?)"
+        r"\s+(?:were|was)\s+(?:randomly\s+)?(?:assigned|allocated|randomized|randomised)\b"
+        r"|\b(?:randomly\s+assigned|randomly\s+allocated)\s+(?:to|into)\b"
+        r"|\b(?:randomized|randomised)\s+to\s+(?:receive|either|the|a|an|one|two|groups?|arms?)\b"
+        r"|\brandomi[sz]ation\s+(?:was|were)\s+(?:used|performed|conducted|implemented)\b",
+        method_text,
+    ))
+
+    # Clear observational design wording overrides an RCT publication-type
+    # tag when the title/methods identify a cohort or observational study.
+    design_context = f"{title_text} {method_text}"
+    clear_observational = bool(re.search(
+        r"\b(?:retrospective|prospective)\s+(?:observational|cohort|comparative)\b"
+        r"|\b(?:case[- ]control|cross[- ]sectional|observational)\s+(?:study|analysis)\b"
+        r"|\bcohort study\b",
+        design_context,
+    ))
+    randomized_pt = (
+        "randomized controlled trial" in pub
+        or "controlled clinical trial" in pub
+    )
+    if randomized_title or randomized_method or (
+        randomized_pt and not clear_observational and "observational study" not in pub
+    ):
         return DESIGN_ORDER[0]
 
     # Generic clinical-trial tags do not prove randomization. Keep them
     # separate for manual verification rather than guessing RCT/non-RCT.
-    clinical_trial_pt = "clinical trial" in pub or "clinical trial" in mesh
+    clinical_trial_types = {
+        "clinical trial", "clinical trial, phase i", "clinical trial, phase ii",
+        "clinical trial, phase iii", "clinical trial, phase iv",
+        "controlled clinical trial",
+    }
+    clinical_trial_pt = (
+        any(item.strip().lower() in clinical_trial_types for item in publication_types)
+        or any(item.strip().lower() == "clinical trial" for item in mesh_terms)
+    )
     generic_trial_words = bool(re.search(r"\bclinical trial\b", text))
     if clinical_trial_pt or generic_trial_words:
         return DESIGN_ORDER[2]
@@ -226,7 +282,8 @@ def _classify_study_design(title: str, abstract: str,
 
     observational_pt = "observational study" in pub
     observational_words = bool(re.search(
-        r"\b(observational|registry-based|population-based study|database study)\b",
+        r"\b(observational|registry-based|population-based study|database study|"
+        r"retrospective comparative study|prospective comparative study)\b",
         text,
     ))
     if observational_pt or observational_words:
@@ -235,7 +292,6 @@ def _classify_study_design(title: str, abstract: str,
     if any(x in pub for x in ("case reports", "case report")):
         return "Case report / case series (usually exclude from SRMA pooling)"
     return DESIGN_ORDER[9]
-
 
 def _efetch_abstracts(pmids: List[str]) -> Dict[str, Dict]:
     """Fetch rich PubMed metadata; preserve abstract labels, publication types and DOI."""
@@ -351,7 +407,7 @@ def _find_new_records(days_back: int, query_filter: str, state_path: Path,
 def find_new_articles(days_back: int = DEFAULT_DAYS_BACK) -> List[Dict]:
     """Return new primary-study signals, with RCT and observational designs classified separately."""
     records = _find_new_records(days_back, PRIMARY_STUDY_FILTER, STATE_PATH)
-    reviews_and_protocols = {REVIEW_DESIGN, PROTOCOL_DESIGN}
+    reviews_and_protocols = {REVIEW_DESIGN, OTHER_REVIEW_DESIGN, PROTOCOL_DESIGN}
     excluded = reviews_and_protocols
     # Keep uncertain records visible: excluding them automatically would
     # recreate the false-negative problem this high-recall search is designed to avoid.
