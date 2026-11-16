@@ -174,6 +174,19 @@ def _classify_study_design(title: str, abstract: str,
     if re.search(r"\b(protocol|study protocol|trial protocol)\b", title_text):
         return PROTOCOL_DESIGN
 
+    # Case reports/series can mention cross-sectional imaging or randomized
+    # trials in their narrative. Identify them before text-based design
+    # keywords so they cannot enter analytic study tracks.
+    case_report_publication = any(
+        item.strip().lower() in {"case report", "case reports"}
+        for item in publication_types
+    )
+    case_report_title = bool(
+        re.search(r"\b(case report|case series)\b", title_text)
+    )
+    if case_report_publication or case_report_title:
+        return "Case report / case series (usually exclude from SRMA pooling)"
+
     # Explicit non-randomized labels must be checked first: the word
     # "randomized" is itself contained in "non-randomized".
     nonrandomized = bool(re.search(
