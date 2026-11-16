@@ -14,3 +14,4 @@ Daily immutable run archive. Reports are grouped by month/day.
 - 2026-11-15: [report_run-337.md](11/15/report_run-337.md) · [metadata](11/15/metadata_run-337.json)
 - 2026-11-16: [report_run-338.md](11/16/report_run-338.md) · [metadata](11/16/metadata_run-338.json)
 - 2026-11-16: [report_run-339.md](11/16/report_run-339.md) · [metadata](11/16/metadata_run-339.json)
+- 2026-11-16: [report_run-341.md](11/16/report_run-341.md) · [metadata](11/16/metadata_run-341.json)
