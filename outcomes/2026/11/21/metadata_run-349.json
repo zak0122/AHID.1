@@ -1,0 +1,464 @@
+{
+  "run_date": "2026-11-21",
+  "saved_at_utc": "2026-11-21T11:21:46.161258+00:00",
+  "git_sha": "0862a622d4e6262f260ea46007aa33b53bc5b10f",
+  "workflow": "AHID SRMA Topic Discovery",
+  "workflow_run_id": "44898535116",
+  "workflow_run_number": "349",
+  "report_file": "report_run-349.md",
+  "report_sha256": "9977823bdf6b5f1a466bc8a71b15cdb3206183dcda0732d28d78f43e16ae89ac",
+  "archived_screening_files": [
+    {
+      "file": "screening/aberrations-corneal_observational.csv",
+      "sha256": "b49fefce081e26186f9651197df405b2321953af9f5f3ca673afd629d054de70",
+      "bytes": 8166
+    },
+    {
+      "file": "screening/aberrations-corneal_observational_compatibility.csv",
+      "sha256": "3dbb4947f1aff9b0cee97c40b65b460ffe637431a6fbaf3909027cd9cc652630",
+      "bytes": 7896
+    },
+    {
+      "file": "screening/aberrations-corneal_rct.csv",
+      "sha256": "4e45ce7cdf185294b1a6f1bc552f3023519b1062eccb939a9758c563b75c2af8",
+      "bytes": 19170
+    },
+    {
+      "file": "screening/aberrations-corneal_rct_compatibility.csv",
+      "sha256": "8bfbdf1fd5dc14d42493c50c42c795d20b7b1d5365e9bd40a6ed9e6143ac885e",
+      "bytes": 18181
+    },
+    {
+      "file": "screening/aberrations-corneal_reviews.csv",
+      "sha256": "e566a30706b2a385fa12ac1b382af10a1bf8593983581214d43b8e2d793c711d",
+      "bytes": 2466
+    },
+    {
+      "file": "screening/administrative-linked_observational.csv",
+      "sha256": "0d06df110e2219888b961cacd63590658027697e41df25c61446e3c670bac631",
+      "bytes": 41329
+    },
+    {
+      "file": "screening/administrative-linked_observational_compatibility.csv",
+      "sha256": "c67b7b98d818dc888d5a04a4e3a024e39218170143a9d2e4a50edf34e078c5fd",
+      "bytes": 39033
+    },
+    {
+      "file": "screening/administrative-linked_rct.csv",
+      "sha256": "52bbd629c1210a018b474c804bb7b387f9a393aebf88cab77df5947cb31266c5",
+      "bytes": 40080
+    },
+    {
+      "file": "screening/administrative-linked_rct_compatibility.csv",
+      "sha256": "cf6fb3144692524bdb3a06b45d98e58fbffbe7105c1dd43e23f3e2c812871de9",
+      "bytes": 37990
+    },
+    {
+      "file": "screening/administrative-linked_reviews.csv",
+      "sha256": "43f3a7a7c9bb0d0fc8a4f7b6d24cc9c8712315065754e0198dfd6ddc2488d4c0",
+      "bytes": 2591
+    },
+    {
+      "file": "screening/as-oct-based-scheimpflug_observational.csv",
+      "sha256": "1ac88a21481ecdc6c4ab5df78ce5eb891f8ef28205292d2602255bf97ab52420",
+      "bytes": 6584
+    },
+    {
+      "file": "screening/as-oct-based-scheimpflug_observational_compatibility.csv",
+      "sha256": "8dcc6b036a9d5e5b02f46663d23d70b2a6c184518e73862a13fd69ed4801810d",
+      "bytes": 6394
+    },
+    {
+      "file": "screening/as-oct-based-scheimpflug_rct.csv",
+      "sha256": "f118806a9930f2135936e0c416428ba9b59cddaed4355e0405cd5b887257b470",
+      "bytes": 86
+    },
+    {
+      "file": "screening/as-oct-based-scheimpflug_rct_compatibility.csv",
+      "sha256": "4ec3ae36b20aadd9b31769d77d50c127b4c64f55b4909da28cc518f2f7643cb9",
+      "bytes": 305
+    },
+    {
+      "file": "screening/as-oct-based-scheimpflug_reviews.csv",
+      "sha256": "f118806a9930f2135936e0c416428ba9b59cddaed4355e0405cd5b887257b470",
+      "bytes": 86
+    },
+    {
+      "file": "screening/clarification-further_observational.csv",
+      "sha256": "f118806a9930f2135936e0c416428ba9b59cddaed4355e0405cd5b887257b470",
+      "bytes": 86
+    },
+    {
+      "file": "screening/clarification-further_observational_compatibility.csv",
+      "sha256": "4ec3ae36b20aadd9b31769d77d50c127b4c64f55b4909da28cc518f2f7643cb9",
+      "bytes": 305
+    },
+    {
+      "file": "screening/clarification-further_rct.csv",
+      "sha256": "f118806a9930f2135936e0c416428ba9b59cddaed4355e0405cd5b887257b470",
+      "bytes": 86
+    },
+    {
+      "file": "screening/clarification-further_rct_compatibility.csv",
+      "sha256": "4ec3ae36b20aadd9b31769d77d50c127b4c64f55b4909da28cc518f2f7643cb9",
+      "bytes": 305
+    },
+    {
+      "file": "screening/clarification-further_reviews.csv",
+      "sha256": "f118806a9930f2135936e0c416428ba9b59cddaed4355e0405cd5b887257b470",
+      "bytes": 86
+    },
+    {
+      "file": "screening/computed-tomography_observational.csv",
+      "sha256": "95f2ce0f83945eaf365e360c2b11e2ce043ec3d1ead2c17d8591bed45471874e",
+      "bytes": 27595
+    },
+    {
+      "file": "screening/computed-tomography_observational_compatibility.csv",
+      "sha256": "dcf0ec9e0f88db900958d53c4487e86529a3b2af69fcbce2abf19aa52944e210",
+      "bytes": 26090
+    },
+    {
+      "file": "screening/computed-tomography_rct.csv",
+      "sha256": "738b1b97e2431a78ab5b848a16e4cc7612b917f8cc4acf31e62d980ee7039c4a",
+      "bytes": 49761
+    },
+    {
+      "file": "screening/computed-tomography_rct_compatibility.csv",
+      "sha256": "f1386c06b7b0aa2394f2e0045d6887a93ff1ae82addd20a6c0d19abe6941761c",
+      "bytes": 47371
+    },
+    {
+      "file": "screening/computed-tomography_reviews.csv",
+      "sha256": "aee37597bc265ae67b588f966ca74d5e5aec11bf6ef42e354765c3f419522c85",
+      "bytes": 2149
+    },
+    {
+      "file": "screening/confounding-inferior_observational.csv",
+      "sha256": "267cd53ae1b86d3961df7793daf1aca1cd6f5846b6a12720a8806fc3b50bebad",
+      "bytes": 16795
+    },
+    {
+      "file": "screening/confounding-inferior_observational_compatibility.csv",
+      "sha256": "10ee918fdd321c5edebf2a915f4972bf8ccf48df72fbe1db1a8d160805b2f82f",
+      "bytes": 16009
+    },
+    {
+      "file": "screening/confounding-inferior_rct.csv",
+      "sha256": "de7ece26842b29608c832a475df0c05610b0ac8de04355c2c220c640c3d80a45",
+      "bytes": 21347
+    },
+    {
+      "file": "screening/confounding-inferior_rct_compatibility.csv",
+      "sha256": "53cdbe62ea4bb4b1ce548f160ac119c84f4598c47fcc73137ad87a9030c117bd",
+      "bytes": 20499
+    },
+    {
+      "file": "screening/confounding-inferior_reviews.csv",
+      "sha256": "75c95f48644cd32ae4972b279e77110a776c6a0fe391891a9506bc1457d198d0",
+      "bytes": 2358
+    },
+    {
+      "file": "screening/confounding-intergroup_observational.csv",
+      "sha256": "81ca82cb9023d130f80d797f9a21a9a10cbe6eaf5fb017d8756121058904bb5c",
+      "bytes": 27376
+    },
+    {
+      "file": "screening/confounding-intergroup_observational_compatibility.csv",
+      "sha256": "8b924b5ae095c2aa151f2de97d89f69538a1c3cc369cf4d08023c5e29573d0a9",
+      "bytes": 26054
+    },
+    {
+      "file": "screening/confounding-intergroup_rct.csv",
+      "sha256": "b6d1deb90814e5a24b86f297b1ebfec4c1eecb42f7a2ae99bec10b1663cb07d4",
+      "bytes": 30730
+    },
+    {
+      "file": "screening/confounding-intergroup_rct_compatibility.csv",
+      "sha256": "8ae3753a5718647582c02f79fe5fdbce91ee1eb5a904d88046dea98a7ac0dad9",
+      "bytes": 28940
+    },
+    {
+      "file": "screening/confounding-intergroup_reviews.csv",
+      "sha256": "8b62f7873d229e2a7322cf2319dd97dd3820cf67e30d331bce1c69cd57218012",
+      "bytes": 2237
+    },
+    {
+      "file": "screening/cosmos-epic_observational.csv",
+      "sha256": "0d375bba9249bbfe396c74c4013a7b8c609609f29d2631016c8e38313d6d8165",
+      "bytes": 45416
+    },
+    {
+      "file": "screening/cosmos-epic_observational_compatibility.csv",
+      "sha256": "0fc9464215896f45fcd29f8bd62bde20840d8b4e364a04e44e4c0583a78f95a3",
+      "bytes": 43021
+    },
+    {
+      "file": "screening/cosmos-epic_rct.csv",
+      "sha256": "c866c0006569ea2fccef66a5797013536afcb98e08b4754339cc5b2a315d6e77",
+      "bytes": 7533
+    },
+    {
+      "file": "screening/cosmos-epic_rct_compatibility.csv",
+      "sha256": "e0c6a4854acbad632a6aab02aa1aebf2563a385dedd187c88b74458f39b9ce1b",
+      "bytes": 7340
+    },
+    {
+      "file": "screening/cosmos-epic_reviews.csv",
+      "sha256": "21fcc6fe637c433e940e121113ce7630097befecf1b38d4f664dd1087548ac5e",
+      "bytes": 339
+    },
+    {
+      "file": "screening/criterion-related-validity_observational.csv",
+      "sha256": "e9d5844fe3a07bbe64de513cf329f3e55fda11836a3ff78aec67bb7369aefc03",
+      "bytes": 41651
+    },
+    {
+      "file": "screening/criterion-related-validity_observational_compatibility.csv",
+      "sha256": "6fd0228fe1f83422ffa0f1fc87130f3afc46bac79d93bfa443922c3f44d3da8f",
+      "bytes": 39180
+    },
+    {
+      "file": "screening/criterion-related-validity_rct.csv",
+      "sha256": "d83c99ca7377e622c401422968f11d4550e2ef6cb79ecec77d9c3f914dd7fdf4",
+      "bytes": 33677
+    },
+    {
+      "file": "screening/criterion-related-validity_rct_compatibility.csv",
+      "sha256": "072843d11ef3799aece4367066b543a9f174164abafb31e181ee6cc4dc99138c",
+      "bytes": 31659
+    },
+    {
+      "file": "screening/criterion-related-validity_reviews.csv",
+      "sha256": "bd8b701a4b855fb4d8e361cc0083c6628269ade00e694d9e4792312c39616249",
+      "bytes": 2306
+    },
+    {
+      "file": "screening/dependence-nicotine_observational.csv",
+      "sha256": "ff327539e516a8d735ea8403d9fe1d1527d0f5cb43617fb5d25b2a9b430fa7be",
+      "bytes": 35228
+    },
+    {
+      "file": "screening/dependence-nicotine_observational_compatibility.csv",
+      "sha256": "28b051e16060bc4d5410b9c0dc33aaf09c964a9908528352d32c517765847414",
+      "bytes": 33501
+    },
+    {
+      "file": "screening/dependence-nicotine_rct.csv",
+      "sha256": "495dc7ba564149f5bcf1b448f1e62cc17383143e6ab4f1e01eba6da1d3d526f9",
+      "bytes": 18878
+    },
+    {
+      "file": "screening/dependence-nicotine_rct_compatibility.csv",
+      "sha256": "4a168364058f8475ce31c23f781729745409dd9e6d6ed23b18f1c0272349bb78",
+      "bytes": 18073
+    },
+    {
+      "file": "screening/dependence-nicotine_reviews.csv",
+      "sha256": "6606d119cc8df6b21ff9a7a195e93cfc1aeab2c2f27bc1807300ed1f78376155",
+      "bytes": 2208
+    },
+    {
+      "file": "screening/duodenal-epithelial_observational.csv",
+      "sha256": "d935b134c2868e1039403ffe2b1f09d7d73b03b807f16999cff2908c6a5cb99c",
+      "bytes": 23400
+    },
+    {
+      "file": "screening/duodenal-epithelial_observational_compatibility.csv",
+      "sha256": "d7ec965e4cb84057206fe32f5498f32e4393a0d6b30cc99176833f0c36f07c8e",
+      "bytes": 22203
+    },
+    {
+      "file": "screening/duodenal-epithelial_rct.csv",
+      "sha256": "bd414f015539cb73f446d749d04cdfe07ef9958027baa9e0e1880029aeea518b",
+      "bytes": 35327
+    },
+    {
+      "file": "screening/duodenal-epithelial_rct_compatibility.csv",
+      "sha256": "efae2e2c684e902305bc898fdd1fa22d5da9707910724111e7e77011d5119c6e",
+      "bytes": 33413
+    },
+    {
+      "file": "screening/duodenal-epithelial_reviews.csv",
+      "sha256": "3fdfc8b8fa40c4fe400279ced4eab36d3591c860e60225067738082a0041d335",
+      "bytes": 2448
+    },
+    {
+      "file": "screening/duodenal-non-ampullary_observational.csv",
+      "sha256": "31fbae937f0b919ccfcc1a6d156165bf7c394b72b7d020ed79af67c558e729df",
+      "bytes": 6965
+    },
+    {
+      "file": "screening/duodenal-non-ampullary_observational_compatibility.csv",
+      "sha256": "de53cc6872b30eb580c88bd5037d649921e417cf8df16602ee6f5eb2438d51d8",
+      "bytes": 6651
+    },
+    {
+      "file": "screening/duodenal-non-ampullary_rct.csv",
+      "sha256": "ec0aa1d82b25a0d50fba2d032401e5d462ca28e16ee10fecb196b2cced113488",
+      "bytes": 1960
+    },
+    {
+      "file": "screening/duodenal-non-ampullary_rct_compatibility.csv",
+      "sha256": "ad7b94204ba92836cdf9509cac37d8fddeddbc8b6d9b2bd78a471ee2ce730d84",
+      "bytes": 2057
+    },
+    {
+      "file": "screening/duodenal-non-ampullary_reviews.csv",
+      "sha256": "5bfaa44eba91b1d6ecc8055b6d67a605fd323410708594a94ad182dd1ff42160",
+      "bytes": 2255
+    },
+    {
+      "file": "screening/extensor-pollicis_observational.csv",
+      "sha256": "0977165f83b7925040dc40bd0d753dfa178224c92e908d0649789cd9d6abeea9",
+      "bytes": 12473
+    },
+    {
+      "file": "screening/extensor-pollicis_observational_compatibility.csv",
+      "sha256": "1785b8083abd46c8929c519d0fe9ada51a48c261d3c0984ab26ecb12bfe34c6b",
+      "bytes": 11750
+    },
+    {
+      "file": "screening/extensor-pollicis_rct.csv",
+      "sha256": "10f62df010a0c9deb1e6e2faa9bb6a7dd1562298382e048ee9a89bbece39c55d",
+      "bytes": 35128
+    },
+    {
+      "file": "screening/extensor-pollicis_rct_compatibility.csv",
+      "sha256": "1dfd641d87ece52bc35a15f95ec917ae3eb70373e9fdf4c1cedf9e8965804a82",
+      "bytes": 35638
+    },
+    {
+      "file": "screening/extensor-pollicis_reviews.csv",
+      "sha256": "da1f6b7b3f5d67c36412860ddda1c41ddb2279ace42f8d4e10db6f61a3e26627",
+      "bytes": 2353
+    },
+    {
+      "file": "screening/glucagon-like-peptide-1_observational.csv",
+      "sha256": "09a6d607a23b61ba7526f67f349fd22ece4f7b7931f9c7087a34126cba0ec505",
+      "bytes": 49890
+    },
+    {
+      "file": "screening/glucagon-like-peptide-1_observational_compatibility.csv",
+      "sha256": "bf1d8f7d2c1fab81f79f5ead1ddd45a099f8e7e362f468d4a77c6939def3efa4",
+      "bytes": 47496
+    },
+    {
+      "file": "screening/glucagon-like-peptide-1_rct.csv",
+      "sha256": "71b3c8ca1d41bf7e7d2554c39bce68ea7cc545e956fcc46d8d5613be508c7e4b",
+      "bytes": 56117
+    },
+    {
+      "file": "screening/glucagon-like-peptide-1_rct_compatibility.csv",
+      "sha256": "f38d1f1e3039d9ed11d2d1c3ecbe5980c9a655fae51d4dd41681acae7d1aaa7f",
+      "bytes": 53828
+    },
+    {
+      "file": "screening/glucagon-like-peptide-1_reviews.csv",
+      "sha256": "61b9d6b81d2ecca964e4e44623875e36aaf4f73e0884611d98e0fce029fa5b8d",
+      "bytes": 2703
+    },
+    {
+      "file": "screening/hidradenitis-suppurativa_observational.csv",
+      "sha256": "8d3ca69340923916cdcb88e51c7af7e030d6cba665216a6431e120846902a8e5",
+      "bytes": 19485
+    },
+    {
+      "file": "screening/hidradenitis-suppurativa_observational_compatibility.csv",
+      "sha256": "132ca1aeeb5f197df51e5cf75843bff2424217aba0380efdc12ad2f3642890fe",
+      "bytes": 18405
+    },
+    {
+      "file": "screening/hidradenitis-suppurativa_rct.csv",
+      "sha256": "b6dff72d2d0b8788f997ee679938eb4c0466b1e428bbb238c07cf20523a023c9",
+      "bytes": 26987
+    },
+    {
+      "file": "screening/hidradenitis-suppurativa_rct_compatibility.csv",
+      "sha256": "d80e89a2cc95e4a51f857151263e5b34d3b023c4124ab219daa8f335d8f5bc9f",
+      "bytes": 25938
+    },
+    {
+      "file": "screening/hidradenitis-suppurativa_reviews.csv",
+      "sha256": "c670149eb95a8aaf9652424f4c4c71631f1decf8ec111ca5268383facdbdc0f7",
+      "bytes": 2309
+    },
+    {
+      "file": "screening/inferior-mesenteric_observational.csv",
+      "sha256": "1a88c59625f9ee2b1e99198b626f2e9ce922f25b9f9ace1c94b4e2e309e7ebc4",
+      "bytes": 6230
+    },
+    {
+      "file": "screening/inferior-mesenteric_observational_compatibility.csv",
+      "sha256": "acaf8caca8f6764b34148e5cbad255b7a0796f03860014b87fc88866245a82d1",
+      "bytes": 6080
+    },
+    {
+      "file": "screening/inferior-mesenteric_rct.csv",
+      "sha256": "b25cd578d1f2036be218a853f8974fdb9263f6f13f66048f737ad3a95ae8f727",
+      "bytes": 24688
+    },
+    {
+      "file": "screening/inferior-mesenteric_rct_compatibility.csv",
+      "sha256": "6c38ea47473fdfdf60a16786a2223c2f221916f55f008962c05903e0a73ccc45",
+      "bytes": 23520
+    },
+    {
+      "file": "screening/inferior-mesenteric_reviews.csv",
+      "sha256": "f0175c77497006b0771ee9299bf3e82cfe80e774a1bb9864002077d59197b55d",
+      "bytes": 2548
+    },
+    {
+      "file": "screening/ligation-mesenteric_observational.csv",
+      "sha256": "2a214ef823477babd5c42c4987ae203f4ceee7e1ab628c78b27ad0d1375439cd",
+      "bytes": 3830
+    },
+    {
+      "file": "screening/ligation-mesenteric_observational_compatibility.csv",
+      "sha256": "54b777b48fa42e6e2b976a7d716cf770886d993623946acbbb4ca38aa378fafb",
+      "bytes": 3782
+    },
+    {
+      "file": "screening/ligation-mesenteric_rct.csv",
+      "sha256": "ea0ecf8ccba59bf194c2847fd58f218c06fc62ab79679e742b26950a79d411b1",
+      "bytes": 9920
+    },
+    {
+      "file": "screening/ligation-mesenteric_rct_compatibility.csv",
+      "sha256": "66bb2d937cd71e49698e02a46bbc5c0b6fc965bb0dce838adb5174c199dad65a",
+      "bytes": 9458
+    },
+    {
+      "file": "screening/ligation-mesenteric_reviews.csv",
+      "sha256": "0cfd73aeeec0d6cab50e4ca6ec6483613ba99686cd036aa056881577202ca033",
+      "bytes": 2617
+    },
+    {
+      "file": "screening/ligation-rectal_observational.csv",
+      "sha256": "3309fc47084afb9c2850a444efeb174dcd1808708b815d16fc1da0318bc80a6c",
+      "bytes": 4125
+    },
+    {
+      "file": "screening/ligation-rectal_observational_compatibility.csv",
+      "sha256": "67ae8467babc7dc2655b4d1f7485af289c06dd24a3a5c450ac9da3c4e895c197",
+      "bytes": 4092
+    },
+    {
+      "file": "screening/ligation-rectal_rct.csv",
+      "sha256": "c963161dc6957011ca100c9fb27c56048813ec41e6f34bf3e2c0160d37c65b83",
+      "bytes": 14751
+    },
+    {
+      "file": "screening/ligation-rectal_rct_compatibility.csv",
+      "sha256": "7c90e35df812d7974497966337aafaf513bb62b4db6c525d0d23d845776bbeb1",
+      "bytes": 14350
+    },
+    {
+      "file": "screening/ligation-rectal_reviews.csv",
+      "sha256": "f5f38ae68c9638b4afcc4d58ff61856f9d5ece4adcd9a0d9a94697718a7e9e05",
+      "bytes": 2454
+    }
+  ],
+  "archive_schema_version": 1,
+  "note": "PubMed retrieval and heuristic triage are not full-text eligibility decisions."
+}
